@@ -80,3 +80,6 @@ https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1772001162&u=78be6644-0a65-48ec-
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports HD
 http://tvn1.chowdhury-shaheb.com/tsport/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.jpg" group-title="Bangla",Gazi TV
+http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
