@@ -93,7 +93,7 @@ https://edge2.roarzone.info:8445/roarzone/edge3/sony-max-hd/index.m3u8?token=565
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",RTV
 http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
 
-#EXTINF:-1 group-title="Bangla" tvg-id="NAGORIK HD" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/8/87/Nagorik_TV_logo.png",NAGORIK HD
+#EXTINF:-1 group-title="Bangla" tvg-id="NAGORIK HD" tvg-logo="http://103.144.89.251/assets/images/NAGORIK1745042776.png",NAGORIK HD
 http://198.195.239.50:8095/nagorik/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports HD
