@@ -43,7 +43,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png",ATN Bangla
-https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMS8yMDI2IDQ6NTg6MjIgQU0maGFzaF92YWx1ZT1ZS1dZT2JtVDJyL0NrZUZDclBjQSt3PT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+http://10.99.99.99:8082/ATN.BANGLA.HD/index.m3u8?token=055c470733b93fc88021dd652309127628e83544-ee7cc306b6b891ef29c3d2450707e49a-1774081609-1774070809&remote=no_check_ip
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
