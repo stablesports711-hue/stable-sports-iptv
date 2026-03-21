@@ -109,7 +109,7 @@ http://198.195.239.50:8095/nagorik/index.m3u8
 http://tvn1.chowdhury-shaheb.com/tsport/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports ISP
-http://103.144.89.251:8082/T-SPORTS-HD/index.m3u8?token=7e3a402f52b1123f333ae386fbc054785523361f-69118a1fd1a21c2186912b02c28c3e1d-1774014731-1774003931&remote=no_check_ip
+http://103.175.242.10:8080/tsports1/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png",Gazi TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
