@@ -90,6 +90,9 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 group-title="NEWS INTERNATIONAL" tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png",Aljazeera HD
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Yay.jpeg" group-title="KIDS",Sony YAY!
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-yay/tracks-v1a1/mono.m3u8?token=45e1440102a5cec4112d5e5c7fdfdd95de5d60e9-8ade849376007970c47f5fa34d6fc629-1774083560-1774079960
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.jpeg" group-title="KOLKATA BANGLA",Sony Aath HD
 https://edge2.roarzone.info:8447/roarzone/edge3/sony-aath/tracks-v1a1/mono.m3u8?token=3209fa341485b24e9587317140f30cc7fe40b803-ba846c8fd6d3955d29b66a9a075e343c-1774083031-1774079431
 
