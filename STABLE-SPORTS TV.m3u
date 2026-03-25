@@ -136,8 +136,10 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 group-title="NEWS INTERNATIONAL" tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png",Aljazeera HD
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvassets.roarzone.info/images/sonyyay.png" group-title="KIDS",Sony YAY!
-https://edge2.roarzone.info:444/roarzone/edge3/sony-yay/tracks-v1a1/mono.m3u8?token=1c57dcba96b0bab77a5513b36e53fcb43e45c763-2a0e60c72ab42a2cb7bb07cb1f7cbf1c-1774349028-1774345428
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774587002:KeyName=prod_linear:Signature=vbC-7PzndFRo8vN9j5jV8gap_ceIlMsvZmGr7XZR30wSGlZxkxgLx7lo7WJuIywdxUehjg1UM8TIKHlONgGpAQ"}
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp",[BD] Sony YAY
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774586948:KeyName=prod_linear:Signature=RjXMkjsQhuIxKyGAywwHKnc_ZN06_MMw3jCXeJE9jdxznIs2eSg0p197RYr7nv8BZoCNyG-fLsQx112fTqJkAg"}
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",[BD] Sony Aath
