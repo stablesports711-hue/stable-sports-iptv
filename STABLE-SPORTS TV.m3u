@@ -179,3 +179,43 @@ https://stream.spicefmbd.com/stream.m3u8
 
 #EXTINF:-1 tvg-id="Sony_Yay" tvg-logo="https://raw.githubusercontent.com/stablesportstv/logo/main/sony_yay.png" group-title="Kids", Sony Yay
 http://stablesportstv.infinityfreeapp.com/Sony_yay.php
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png" group-title="BANGLA",Asian TV
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774586835:KeyName=prod_linear:Signature=euk9hf7_Wup0mOEOSPiIZpP1ZHFBLpr2ZCwIkbNkRD9Jr0fqbudWnm0NXJgYEMdRuHuleOb2DHlBoRhYj3-mDw"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/asian_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="NEWS",Somoy TV
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774586837:KeyName=prod_linear:Signature=ziQ2AZzahyC7m8d-512phiHM0ZbmSHrkYzzzoQZe9oDJicYemCu82xj9ZfeQyPdkNMp2uhyfg1mW_BtjeheDDQ"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png" group-title="NEWS",Jamuna TV
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774586843:KeyName=prod_linear:Signature=DRqAt8IRnyHdKTuPBZtmcqsVrtEUyC6NnayyH76YB7jgpdtLemiUSKFuLMCq8HXCXMz8XHe00_fTclNn4b26Cg"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="BANGLA",Channel i
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774586845:KeyName=prod_linear:Signature=L4_wY4XEF9-pfACxyxG9z0j097EGhYhqmwwBtUkk05566b3RgtZJ5xVIdbSj7z_nETyoTXxiSyprIGH5_rNNCw"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png" group-title="NEWS",Ekattor TV
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774586847:KeyName=prod_linear:Signature=l18KZ3FBJbtweZPU8CaDSwzjMSscCyQ7DqbdAL5Z-2dm6f5VE7_CM84--5xea7IuVtw7DyX5oON_kVVUsUKfAw"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png" group-title="NEWS",Ekhon TV
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774586852:KeyName=prod_linear:Signature=7oOmAdrmVWeCiiJfokmUY4i6QfQRy20jIMroj5Itsfw2oRPuWpr6xLWEAatwXaqo__9hth1qHxiQo6iplni9Ag"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="BANGLA",Ananda TV
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774586860:KeyName=prod_linear:Signature=VxRuDAUZq0BzAHA5f_gWEx_bIwv6JUKMAKuxRMMJOgRPX0mI1Sv6zB5ikLbotoSgppXSuqgyE1XXn5-ZwHxkAA"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/anandatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="BANGLA",Desh TV
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774586866:KeyName=prod_linear:Signature=vZ5_puNOVl0lmGLEJyvzbACVo5fkAWIevsZsUM63BqIejqurkE0qbKYTn18pK1ojrazyiW6jhZeQ3ItQA_YsCQ"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/desh_tv/playlist.m3u8
