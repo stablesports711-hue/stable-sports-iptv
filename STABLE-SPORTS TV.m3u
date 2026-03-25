@@ -198,3 +198,5 @@ https://audio.streamcast.xyz/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPAWpc2wbXTll1LR3mgHz3jiFUCl6ixkGunZTAQ3_NasS7HzM88RCM8E&s=10" group-title="FM Radio 📻", 96.4 Spice FM
 https://stream.spicefmbd.com/stream.m3u8 
 
+#EXTINF:-1 tvg-id="DeshTV" tvg-logo="https://i.ibb.co/3p8Y8z3/desh-tv.png" group-title="Bangla TV", Desh TV
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
