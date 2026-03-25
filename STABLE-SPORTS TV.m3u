@@ -168,14 +168,8 @@ http://103.175.242.10:8080/tsports1/index.m3u8
 https://kamrul.anik-islam14.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 #https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1774425949&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5dc3ba116c04f9a9cd834680c3f3f464
-
-#EXTVLCOPT:http-origin=https://profamouslife.com
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
-https://n5.sanwalyaarpya.com:1686/hls/asportshd.m3u8?md5=z-l-AkMgqCBTn0j8R9lORQ&expires=1774425622
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
+http://103.229.254.25:7001/play/a087/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png",Gazi TV
 http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
