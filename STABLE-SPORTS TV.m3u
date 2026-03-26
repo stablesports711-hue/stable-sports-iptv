@@ -151,6 +151,9 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://tvassets.roarzone.info/images/sonymaxhd.png",Sony Max HD
 http://116.90.120.151:8000/play/a0jf/index.m3u8
 
+#EXTINF:-1 tvg-chno="215" tvg-id="502" tvg-name="SONY MAX 2" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_147_1737270122_thumb.png" group-title="Movies", SONY MAX 2
+http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",RTV
 http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
 
