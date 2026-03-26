@@ -4,7 +4,7 @@
 http://tvn1.chowdhury-shaheb.com/tsport/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSports1" tvg-logo="https://i.postimg.cc/MpV5GD1v/1774518840579.png" group-title="LIVE SPORTS", Bangladesh 🇧🇩 VS 🇲🇦 Vietnam HD
-https://edge2.roarzone.info:8447/roarzone/edge2/star-sports-1/index.m3u8?token=634178e4ab1ab20cea227d1dbfef02a88c4198c0-221330120cadcb3fe7c2ae80dca65f06-1774530118-1774526518
+https://edge2.roarzone.info:444/roarzone/edge2/tsports/index.m3u8?token=aca891e9b90fcfe70c100a7a733acbfb195048c1-134fc3b71a5e754ffc86db5cfbf14cbf-1774534355-1774530755
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193184888_2.png&w=1080&q=75",SANGSAD BANGLADESH
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
