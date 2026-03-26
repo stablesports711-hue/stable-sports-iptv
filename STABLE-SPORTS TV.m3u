@@ -1,7 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/rpsjMkyZ/1774517845105.png",Bangladesh🇧🇩 VS 🇲🇦Vietnam 
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/rpsjMkyZ/1774517845105.png",Bangladesh🇧🇩 VS 🇲🇦Vietnam 
 http://tvn1.chowdhury-shaheb.com/tsport/index.m3u8
+
+#EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://i.postimg.cc/MpV5GD1v/1774518840579.png" group-title="LIVE SPORTS",Bangladesh🇧🇩 VS 🇲🇦Vietnam HD
+#https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
+https://kamrul.anik-islam14.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
+#https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193184888_2.png&w=1080&q=75",SANGSAD BANGLADESH
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
