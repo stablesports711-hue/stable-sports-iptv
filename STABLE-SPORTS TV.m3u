@@ -201,3 +201,6 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-id="DeshTV" tvg-logo="https://i.postimg.cc/wvBbd56q/Desh-TV.jpg" group-title="Bangla TV", Desh TV
 https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 
+#EXTINF:-1 tvg-id="BijoyTV" tvg-logo="https://i.imgur.com/Faetm0C.png" group-title="Bangla TV", Bijoy TV
+https://bozztv.com/rongo/rongo-BijoyTV/index.m3u8
+
