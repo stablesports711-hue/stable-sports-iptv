@@ -204,3 +204,6 @@ https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 #EXTINF:-1 tvg-id="BijoyTV" tvg-logo="https://i.imgur.com/Faetm0C.png" group-title="Bangla TV", Bijoy TV
 https://bozztv.com/rongo/rongo-BijoyTV/index.m3u8
 
+#EXTINF:-1 tvg-id="BijoyTV" tvg-logo="https://i.imgur.com/Faetm0C.png" group-title="Bangla TV", Bijoy TV
+https://bozztv.com/rongo/rongo-Bijoy-TV/index.m3u8
+
