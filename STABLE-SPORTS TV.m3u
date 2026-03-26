@@ -122,6 +122,10 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DLGjTfI.png",Bangla TV
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+https://bozztv.com/rongo/rongo-BanglaTV/index.m3u8
+
 #EXTINF:-1 tvg-id="DurontoTV" tvg-logo="https://tvassets.roarzone.info/images/10.png" group-title="Bangla", Duronto TV
 https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1774425914&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=28b5bf274f4f4cab53fbeda7681e2596
 
