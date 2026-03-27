@@ -217,12 +217,6 @@ https://audio.streamcast.xyz/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPAWpc2wbXTll1LR3mgHz3jiFUCl6ixkGunZTAQ3_NasS7HzM88RCM8E&s=10" group-title="FM Radio 📻", 96.4 Spice FM
 https://stream.spicefmbd.com/stream.m3u8 
 
-#EXTINF:-1 tvg-id="DeshTV" tvg-logo="https://i.postimg.cc/wvBbd56q/Desh-TV.jpg" group-title="Bangla TV", Desh TV
-https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
-
-#EXTINF:-1 tvg-id="BijoyTV" tvg-logo="https://i.imgur.com/Faetm0C.png" group-title="Bangla TV", Bijoy TV
-https://bozztv.com/rongo/rongo-BijoyTV/index.m3u8
-
-#EXTINF:-1 tvg-id="BijoyTV" tvg-logo="https://i.imgur.com/Faetm0C.png" group-title="Bangla TV", Bijoy TV
-https://bozztv.com/rongo/rongo-Bijoy-TV/index.m3u8
+#EXTINF:-1 tvg-logo="https://example.com/duronto.png" group-title="Kids", Duronto TV
+https://ts-live.ymcdn.net/duronto/index.m3u8
 
