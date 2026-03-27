@@ -217,6 +217,5 @@ https://audio.streamcast.xyz/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPAWpc2wbXTll1LR3mgHz3jiFUCl6ixkGunZTAQ3_NasS7HzM88RCM8E&s=10" group-title="FM Radio 📻", 96.4 Spice FM
 https://stream.spicefmbd.com/stream.m3u8 
 
-#EXTINF:-1 tvg-logo="https://example.com/duronto.png" group-title="Kids", Duronto TV
-https://ts-live.ymcdn.net/duronto/index.m3u8
-
+#EXTINF:-1 tvg-id="duronto.bd" tvg-logo="https://raw.githubusercontent.com/Anisur-Rahman-Limon/IPTV-Playlist/main/Logos/duronto.png" group-title="KIDS", Duronto TV
+https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1774614304&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=72dc1f6bc48b1bbb8c8d5af52092937e
