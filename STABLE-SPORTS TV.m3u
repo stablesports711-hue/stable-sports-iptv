@@ -124,7 +124,7 @@ https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 #http://103.229.254.25:7001/play/a05t/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774586854:KeyName=prod_linear:Signature=NhTJNyViERnVKVhPiGDV12k1SIZCfT5s_rVLR0oVOxmntrFzJpOaZrCdK1yRVFHPRsYeJbN1fWZuZ4t5hgtfCQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774787621:KeyName=prod_linear:Signature=Vd5oz1jbW86gZrQ4WVSyWFkiBNd3e8fKVdwOuwrL5f466GTVq_XrYaC1oLSjhlZiCblKCLOwIsDsv0MQmxbfBg"}
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png",[BD] Bangla TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
