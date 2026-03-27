@@ -87,11 +87,11 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14
 
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774586852:KeyName=prod_linear:Signature=7oOmAdrmVWeCiiJfokmUY4i6QfQRy20jIMroj5Itsfw2oRPuWpr6xLWEAatwXaqo__9hth1qHxiQo6iplni9Ag"}
-#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png",Global TV
+
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774767218:KeyName=prod_linear:Signature=ijJyI_buiMkK_O4ow4pjntOGNHmxOYRUFL10h8T-Mofd4Tou3gH8DdfKsDBXwGi9MmC8P2vviQzeVehD-YMvBg"}
+#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png",[BD] Global TV
 https://bldcmprod-cdn.toffeelive.com/cdn/live/global_tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774586854:KeyName=prod_linear:Signature=NhTJNyViERnVKVhPiGDV12k1SIZCfT5s_rVLR0oVOxmntrFzJpOaZrCdK1yRVFHPRsYeJbN1fWZuZ4t5hgtfCQ"}
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oe0pq1R.png",Global TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
