@@ -134,7 +134,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8
 https://bozztv.com/rongo/rongo-BanglaTV/index.m3u8
 
 #EXTINF:-1 tvg-id="DurontoTV" tvg-logo="https://tvassets.roarzone.info/images/10.png" group-title="Bangla", Duronto TV
-http://103.144.89.251:8082/DURANTA.TV.HD/index.m3u8?token=28f5d223d34946bd618451d28228c556e8d10d4f-ac6ec3d4ec95fd45198942a6d6ccbca4-1774596574-1774585774&remote=no_check_ip
+https://tvsen6.aynascope.net/durontotv-live/index.m3u8?e=1774614304&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=72dc1f6bc48b1bbb8c8d5af52092937e
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
