@@ -142,7 +142,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
 https://bozztv.com/rongo/rongo-BanglaTV/index.m3u8
 
-#EXTINF:-1 tvg-id="duronto.bd" tvg-logo="https://tvassets.roarzone.info/images/10.png" group-title="KIDS", Duronto TV
+#EXTINF:-1 tvg-id="duronto.bd" tvg-logo="https://tvassets.roarzone.info/images/10.pg" group-title="KIDS", Duronto TV
 https://cdn.xvix.eu/videos/6/2/c/2/a/62c2ad2edfc985.49878900.mp4#t=4
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV
