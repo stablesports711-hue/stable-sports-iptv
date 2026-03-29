@@ -178,8 +178,10 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774819493:KeyName=prod_linear:Signature=Vs8ApUa06QSPRoNViEZlj6NPVVDtXWUX1KOYLXxKJTICyUOJleDZlIV_BenmlTSgPfu496tZoxrxqsDigDksCA"}
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",[BD] Sony Aath
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
+#https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
+http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+
 
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774787680:KeyName=prod_linear:Signature=c780RxVaNcw8ayYd6Mw4xAgpSW1tHGXWy4sqVR7Ss0mSTWic9LfYlHgQ-12nBcnZMVVd6yuDkziGc6DsOG2wBg"}
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp",[BD] Sony MAX HD
