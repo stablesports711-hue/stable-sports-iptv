@@ -219,6 +219,9 @@ http://103.175.242.10:8080/tsports1/index.m3u8
 https://kamrul.anik-islam14.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 #https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u
 
+#EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="Sports",T Sports HD
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 http://103.229.254.25:7001/play/a087/index.m3u8
 
