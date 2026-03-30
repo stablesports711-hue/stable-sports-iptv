@@ -187,14 +187,8 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 
-
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1774787680:KeyName=prod_linear:Signature=c780RxVaNcw8ayYd6Mw4xAgpSW1tHGXWy4sqVR7Ss0mSTWic9LfYlHgQ-12nBcnZMVVd6yuDkziGc6DsOG2wBg"}
-#EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp",[BD] Sony MAX HD
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://tvassets.roarzone.info/images/sonymaxhd.png",Sony Max HD
-http://116.90.120.151:8000/play/a0jf/index.m3u8
+http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="215" tvg-id="502" tvg-name="SONY MAX 2" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_147_1737270122_thumb.png" group-title="Movies", SONY MAX 2
 http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
