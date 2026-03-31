@@ -3,15 +3,6 @@
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
 http://tvn1.chowdhury-shaheb.com/tsport/index.m3u8
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/43QTFHxW/Gemini-Generated-Image-5ni85n5ni85n5ni8.png",Bangladesh Vs Singapore 
-http://10.10.10.2/live/fnf004/index.m3u8
-
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/43QTFHxW/Gemini-Generated-Image-5ni85n5ni85n5ni8.png",Bangladesh Vs Singapore 
-https://edge2.roarzone.info:8447/roarzone/edge2/tsports/index.m3u8?token=7fc384de0a2a28d2bf52f32453f85c806ac9fec8-0268c4feb870fcf9bf060acd8722dd4a-1774966904-1774963304
-
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/43QTFHxW/Gemini-Generated-Image-5ni85n5ni85n5ni8.png",Bangladesh Vs Singapore 
-
-
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/XYGFZQCk/images-(1).jpg",PSL [2026]
 http://103.175.242.10:8080/tsports1/index.m3u8
 
@@ -215,12 +206,13 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 http://198.195.239.50:8095/nagorik/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports ISP
-http://103.175.242.10:8080/tsports1/index.m3u8
+#http://103.175.242.10:8080/tsports1/index.m3u8
+http://10.10.10.2/live/fnf004/index.m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="Sports",T Sports
 #https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
-https://kamrul.anik-islam14.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
-#https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u
+#https://kamrul.anik-islam14.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
+https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="Sports",T Sports HD
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
