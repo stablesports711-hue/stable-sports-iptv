@@ -3,8 +3,8 @@
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
 http://tvn1.chowdhury-shaheb.com/tsport/index.m3u8
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/XYGFZQCk/images-(1).jpg",PSL [2026] URDU🔊
-https://psl.bigbaat.app/out/v1/0ef369b90c7b4025b76621e46ee5fb70/index.m3u8
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/XYGFZQCk/images-(1).jpg",PSL [2026]
+https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index_1.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/XYGFZQCk/images-(1).jpg",PSL [2026]
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
