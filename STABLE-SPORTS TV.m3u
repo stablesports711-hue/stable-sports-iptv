@@ -190,7 +190,8 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",[BD] Sony Aath
 #https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
-http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/sonyaath/tracks-v1a1/mono.m3u8
+#http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://tvassets.roarzone.info/images/sonymaxhd.png",Sony Max HD
