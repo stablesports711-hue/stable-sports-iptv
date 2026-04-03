@@ -141,7 +141,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 http://103.229.254.25:7001/play/a060/index.m3u8
 
 #EXTINF:-1 tvg-id="DeshTV" tvg-logo="https://i.postimg.cc/wvBbd56q/Desh-TV.jpg" group-title="Bangla TV", Desh TV
-https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+#https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="mohonatv" tvg-name="Mohona TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg" group-title="Bangladesh",Mohona TV
 #http://103.229.254.25:7001/play/a05t/index.m3u8
