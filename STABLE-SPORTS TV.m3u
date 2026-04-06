@@ -252,5 +252,5 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://audio.streamcast.xyz/radio/8000/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPAWpc2wbXTll1LR3mgHz3jiFUCl6ixkGunZTAQ3_NasS7HzM88RCM8E&s=10" group-title="FM Radio 📻", 96.4 Spice FM
-https://stream.spicefmbd.com/stream.m3u8 
-
+#https://stream.spicefmbd.com/stream.m3u8 
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/2494.ts
