@@ -158,7 +158,7 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
 https://bozztv.com/rongo/rongo-BanglaTV/index.m3u8
 
-#EXTINF:-1 tvg-id="duronto.bd" tvg-logo="https://tvassets.roarzone.info/images/10.pg" group-title="KIDS", Duronto 
+#EXTINF:-1 tvg-id="duronto.bd" tvg-logo="https://tvassets.roarzone.info/images/10.png" group-title="KIDS", Duronto 
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="duronto.bd" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png" group-title="KIDS",NICK BANGLA
