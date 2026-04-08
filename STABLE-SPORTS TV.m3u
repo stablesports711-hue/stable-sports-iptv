@@ -6,7 +6,10 @@ http://tvn1.chowdhury-shaheb.com/tsport/index.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/XYGFZQCk/images-(1).jpg",PSL [2026]
 https://psl.bigbaat.app/out/v1/f342445c31dd475bbf30c7304dbad14f/index_2.m3u8
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/XYGFZQCk/images-(1).jpg",PSL [2026] HD
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/XYGFZQCk/images-(1).jpg",PSL [2026]
+https://tgs1.myturn1.top:8088/mobile/stream2_320p/playlist.m3u8?vidictid=205518253875&id=7&pk=7a79091725eb01c25e1f5aa76462d8954040968d9cc97505b0de20749be002eceb2153f649cc48c173b12be2f37f12d899a41273c88a1cda639baeb4da8930e8
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/XYGFZQCk/images-(1).jpg",PSL [2026]
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/XYGFZQCk/images-(1).jpg",PSL [2026]
