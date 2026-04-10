@@ -255,3 +255,6 @@ https://audio.streamcast.xyz/radio/8000/radio.mp3
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPAWpc2wbXTll1LR3mgHz3jiFUCl6ixkGunZTAQ3_NasS7HzM88RCM8E&s=10" group-title="FM Radio 📻", 96.4 Spice FM
 https://stream.spicefmbd.com/stream.m3u8 
+
+#EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/DzBr7HcM/1773936983038.png",STABLE-SPORTS TV
+http://tvn1.chowdhury-shaheb.com/tsport/index.m3u8
