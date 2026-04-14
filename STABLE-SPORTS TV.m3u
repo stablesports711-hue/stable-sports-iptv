@@ -241,6 +241,9 @@ http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 http://103.229.254.25:7001/play/a087/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png" group-title="Sports",PTV Sports
+
+
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png",Gazi TV
 http://198.195.239.50:8095/bdixbd.net_gazitvhd/video.m3u8
 
