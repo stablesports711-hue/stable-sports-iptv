@@ -275,5 +275,6 @@ http://103.180.212.191:3500/live/3428.m3u8
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/DzBr7HcM/1773936983038.png",STABLE-SPORTS TV
 http://tvn1.chowdhury-shaheb.com/tsport/index.m3u8
 
-#EXTINF:-1 tvg-name="Jalsha Movies HD" group-title="Indian-Bangla",Jalsha Movies HD
+#EXTINF:-1 tvg-id="JalsaMoviesHD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Movies", Jalsa Movies HD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
+
