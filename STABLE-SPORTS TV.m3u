@@ -29,8 +29,8 @@ http://103.147.87.50:8001/play/a02w/index.m3u8
 http://10.10.10.2/live/fnf006/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/cLMhZxwD/ipl-fi4-1773559910.jpg",IPL [2026]
-https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://game.denver69.fun/Series/willow_eng.m3u8
-
+#https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://game.denver69.fun/Series/willow_eng.m3u8
+http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/cLMhZxwD/ipl-fi4-1773559910.jpg",IPL [2026]
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/2494.ts
 
