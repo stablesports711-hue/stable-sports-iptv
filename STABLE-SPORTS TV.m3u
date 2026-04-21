@@ -22,7 +22,8 @@ http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 http://103.229.254.25:7001/play/a087/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/qgfbtf6r/21105840c6f5167.webp",PSL [2026]
-http://103.147.87.50:8001/play/a02w/index.m3u8
+https://tvsen3.aynascope.net/YRudVm6C/tracks-v1a1/mono.ts.m3u8
+#http://103.147.87.50:8001/play/a02w/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fLh0bmsF/images-(2).jpg",IPL [2026]
 #http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
