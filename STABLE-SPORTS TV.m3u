@@ -3,19 +3,19 @@
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
 http://tvn1.chowdhury-shaheb.com/tsport/index.m3u8
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V04pB3mj/1776384168515.png",Bangladesh VS New Zealand 
+EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V04pB3mj/1776384168515.png",Bangladesh VS New Zealand 
 http://172.20.21.22/live/skyfeed1005/index.m3u8
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ljE2lZ0BNnOkwJLW9lrg/posters/d3ef4280-5013-446a-b685-a74b63b6f3af.png", BD vs NZ [Toffee]
+EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ljE2lZ0BNnOkwJLW9lrg/posters/d3ef4280-5013-446a-b685-a74b63b6f3af.png", BD vs NZ [Toffee]
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1776989919:KeyName=prod_live_events:Signature=KClqSIeD8Zqd-sJSP-Ya6sNPTGMwFvyFRWRYNDw7l_L2suGUoEffQpxc9a2bTajwPXsekeUJ7m5W4o2iI4i-AQ"}
 https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8
 
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V04pB3mj/1776384168515.png",Bangladesh VS New Zealand [NO ADS]
+EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V04pB3mj/1776384168515.png",Bangladesh VS New Zealand [NO ADS]
 https://bd-mc-fblive.fancode.com/mumbai/142068_english_hls_29d319152e29161_1ta-di_h264/1080p.m3u8
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/kg6LdPgp/1776384168515.png",Bangladesh VS New Zealand 
+EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/kg6LdPgp/1776384168515.png",Bangladesh VS New Zealand 
 http://198.195.239.50:8095/nagorik/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/XYGFZQCk/images-(1).jpg",PSL [2026]
@@ -217,8 +217,8 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 
 #EXTINF:-1 group-title="[LIVE] BDIX ♛" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",[BD] Sony Aath
 #https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
-#http://stvlive.net:8080/sonyaath/index.m3u8
-http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+http://stvlive.net:8080/sonyaath/index.m3u8
+#http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",Sony Max HD
