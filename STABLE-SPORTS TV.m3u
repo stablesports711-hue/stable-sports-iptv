@@ -292,3 +292,9 @@ https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1776944694:KeyName=prod_live_events:Signature=GV061sYVNcL6zVgrlQAXNGJkYv24g9gnulpwnTvlS5rzNNQBZd2lUkL4WPDlbhYL_v7FsYTF7YQ6NB7m5s0xAA"}
 https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8
+
+
+#EXTINF:-1 group-title="Featured" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ljE2lZ0BNnOkwJLW9lrg/posters/d3ef4280-5013-446a-b685-a74b63b6f3af.png", BD vs NZ
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1776944694:KeyName=prod_live_events:Signature=GV061sYVNcL6zVgrlQAXNGJkYv24g9gnulpwnTvlS5rzNNQBZd2lUkL4WPDlbhYL_v7FsYTF7YQ6NB7m5s0xAA"}
+https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8|User-Agent=Toffee (Linux;Android 14)&Cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1776944694:KeyName=prod_live_events:Signature=GV061sYVNcL6zVgrlQAXNGJkYv24g9gnulpwnTvlS5rzNNQBZd2lUkL4WPDlbhYL_v7FsYTF7YQ6NB7m5s0xAA
