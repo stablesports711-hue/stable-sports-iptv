@@ -242,7 +242,7 @@ http://198.195.239.50:8095/nagorik/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports ISP
 #http://103.175.242.10:8080/tsports1/index.m3u8
-http://10.10.10.2/live/fnf004/index.m3u8
+http://10.10.10.2/live/fnf003/index.m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="Sports",T Sports
 #https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
