@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
-#http://tvn1.chowdhury-shaheb.com/tsport/index.m3u8
-https://i.ibb.co.com/kV1Ct6Y5/Screenshot-20260424-092755.jpg
+http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
 EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V04pB3mj/1776384168515.png",Bangladesh VS New Zealand 
 #http://172.20.21.22/live/skyfeed1005/index.m3u8
@@ -287,7 +286,7 @@ https://stream.spicefmbd.com/stream.m3u8
 http://103.180.212.191:3500/live/3428.m3u8
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/DzBr7HcM/1773936983038.png",STABLE-SPORTS TV
-http://tvn1.chowdhury-shaheb.com/tsport/index.m3u8
+http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="JalsaMoviesHD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Movies", Jalsa Movies HD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
