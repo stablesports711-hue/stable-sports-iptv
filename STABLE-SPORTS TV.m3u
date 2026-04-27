@@ -14,8 +14,8 @@ EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlb
 https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8
 
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V04pB3mj/1776384168515.png",Bangladesh VS New Zealand [NO ADS]
-https://bd-mc-fblive.fancode.com/mumbai/142068_english_hls_29d319152e29161_1ta-di_h264/1080p.m3u8
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/BAn-vs-NZ_ODIs_fc-web_1777018794830.jpg",Bangladesh VS New Zealand [NO ADS]
+https://bd-mc-fblive.fancode.com/mumbai/142069_english_hls_6969e83ef889269_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/kg6LdPgp/1776384168515.png",Bangladesh VS New Zealand 
 http://198.195.239.50:8095/nagorik/index.m3u8
