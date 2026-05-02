@@ -15,7 +15,8 @@ https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8
 https://bd-mc-fblive.fancode.com/mumbai/142071_english_hls_66f3de04538249_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/kg6LdPgp/1776384168515.png",Bangladesh VS New Zealand[Tapmad] 
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1777709722~acl=/hls/*~hmac=ab54c6f2e7c985cf014d4f2895750a7cefec2cb65e4f897f34b5b608b07e0f3f
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?
+hdnts=exp=1777711506~acl=/hls/*~hmac=6457602537221a768db154174914afc27a2038b5cee3e990b3d0bd27e8c51021
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/XYGFZQCk/images-(1).jpg",PSL [2026]
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98.ts
