@@ -1,9 +1,11 @@
 import requests
+import os
 
-# সোর্স লিঙ্ক (যেখান থেকে অটো-আপডেট চ্যানেল আসবে)
+# সোর্স লিঙ্ক (ফ্যানকোড চ্যানেল)
 source_url = "https://raw.githubusercontent.com/munim-sah75/Cofs_TV/refs/heads/main/fancode.m3u"
-output_file = "STABLE-SPORTS TV.mmy_own_channels = """
+output_file = "STABLE-SPORTS TV.m3u"
 
+# আপনার নিজের চ্যানেলগুলো নিচে এই """
 #EXTM3U
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
@@ -297,27 +299,26 @@ http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="JalsaMoviesHD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Movies", Jalsa Movies HD
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
-
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca4b.png",English Premier League 
-https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
-
 """
 
 def update_m3u():
     try:
+        print("Fetching source data...")
         response = requests.get(source_url)
         if response.status_code == 200:
             source_content = response.text.strip()
             
-            # অটো-আপডেট চ্যানেল আগে, নিজের চ্যানেল পরে
+            # অটো-আপডেট চ্যানেল আগে থাকবে, নিজের চ্যানেল পরে
+            # সোর্স ফাইলে যদি #EXTM3U না থাকে তবে সেটি যোগ করা হবে
+            full_content = source_content + "\n\n" + my_own_channels.strip()
+            
             with open(output_file, "w", encoding="utf-8") as f:
-                f.write(source_content + "\n\n" + my_own_channels.strip())
+                f.write(full_content)
             print("Successfully Updated! Auto-channels are on top.")
         else:
-            print(f"Failed to fetch source. Status: {response.status_code}")
+            print(f"Failed to fetch source. Status code: {response.status_code}")
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"An error occurred: {e}")
 
 if __name__ == "__main__":
     update_m3u()
-
