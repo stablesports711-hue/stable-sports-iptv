@@ -3,6 +3,7 @@ import requests
 # সোর্স লিঙ্ক (যেখান থেকে অটো-আপডেট চ্যানেল আসবে)
 source_url = "https://raw.githubusercontent.com/munim-sah75/Cofs_TV/refs/heads/main/fancode.m3u"
 output_file = "STABLE-SPORTS TV.mmy_own_channels = """
+
 #EXTM3U
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
@@ -299,6 +300,7 @@ http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca4b.png",English Premier League 
 https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
 """
 
 def update_m3u():
