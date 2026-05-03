@@ -1,3 +1,20 @@
+import requests
+
+import os
+
+# সোর ্ স লিঙ্ ক (ফ্যানকোড চ্যানেল)
+
+source_url = "https://raw.githubusercontent.com
+
+/munim-sah75/Cofs_TV/refs/heads/main/fancode
+
+.m3u"
+
+output_file = "STABLE-SPORTS TV.m3u"
+
+# আপনার নিজের চ্যানেলগুল ো (নিচ ে থাকবে)
+
+my_own_channels = """
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
 http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
