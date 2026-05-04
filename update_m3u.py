@@ -260,23 +260,30 @@ http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
 """
 
-def update_m3u():
-    try:
-        print("Fetching data from source...")
-        response = requests.get(source_url)
-        if response.status_code == 200:
-            source_content = response.text.strip()
-            
-            # অটো-আপডেট আগে এবং আপনার লিস্ট পরে সাজানো হচ্ছে
-            full_content = source_content + "\n\n" + my_own_channels.strip()
-            
-            with open(output_file, "w", encoding="utf-8") as f:
-                f.write(full_content)
-            print("Successfully Updated!")
-        else:
-            print(f"Error fetching source: {response.status_code}")
-    except Exception as e:
-        print(f"Error: {e}")
+def update_m3u(): try:
 
-if __name__ == "__main__":
-    update_m3u()
+print("Fetching source data...") response = requests.get(source_url) full_content = "#EXTM3U\n" # শুরুতে
+
+একবার
+
+হেডার থাকবে
+
+if response.status_code == 200: # সোর ্ স থেক ে ডাটা নিয় ে ক্লিন করা (ডুপ্লিকেট
+
+হেডার বাদ দেওয়া)
+
+lines = response.text.splitlines() source_channels =
+
+"\n".join([line for line in lines if not line.strip().startswith("#EXTM3U")])
+
+full_content +=
+
+source_channels.strip() + "\n\n"
+
+# আপনার নিজের চ্যানেলগুল ো যোগ করা full_content += my_own_channels.strip()
+
+with open(output_file, "w", encoding="utf-8") as f: f.write(full_content) print("Successfully Updated!")
+
+except Exception as e: print(f"Error: {e}")
+
+if name == " main ": update_m3u()
