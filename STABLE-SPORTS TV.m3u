@@ -1,8 +1,14 @@
 #EXTM3U
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB.jpg" group-title="Fancode", North Kanto Lions vs West Kanto Hurricanes (Japan Premier League T20 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142399_english_hls_738b0e34d943809_1ta-di_h264/index.m3u8
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Japan-Premier-League-T20-2026_FC-WEB_2.jpg" group-title="Fancode", South Kanto Super Kings vs East Kanto Sunrisers (Japan Premier League T20 2026)
+https://bd-mc-fblive.fancode.com/mumbai/142398_english_hls_3f201fa2b336746_1ta-di_h264/index.m3u8
+
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:50 AM 04-05-2026
+# Last Update: 07:20 AM 04-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -12,7 +18,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:45:17 AM 04-05-2026
+# last_update: 07:15:15 AM 04-05-2026
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
 http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
