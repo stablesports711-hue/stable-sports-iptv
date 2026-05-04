@@ -305,7 +305,6 @@ http://103.180.212.191:3500/live/3428.m3u8
 http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="JalsaMoviesHD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Movies", Jalsa Movies HD
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
 """
 
 def update_m3u():
@@ -315,8 +314,8 @@ def update_m3u():
         if response.status_code == 200:
             source_content = response.text.strip()
             
-            # অটো-আপডেট চ্যানেল আগে থাকবে, নিজের চ্যানেল পরে
-            # সোর্স ফাইলে যদি #EXTM3U না থাকে তবে সেটি যোগ করা হবে
+            # সোর্স কন্টেন্ট এবং আপনার চ্যানেল একত্রিত করা
+            # এখানে সোর্স কন্টেন্টের ভিতরের #EXTM3U ডুপ্লিকেট হওয়া এড়াতে স্ট্যাটিক হেডার ব্যবহার করা ভালো
             full_content = source_content + "\n\n" + my_own_channels.strip()
             
             with open(output_file, "w", encoding="utf-8") as f:
@@ -329,3 +328,4 @@ def update_m3u():
 
 if __name__ == "__main__":
     update_m3u()
+
