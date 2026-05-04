@@ -1,6 +1,9 @@
-import requests import os
+import requests
+import os
 
-# ১. ফ্যানকুরের সোর ্ স লিঙ্ক source_url = "https://raw.githubusercontent.com /munim-sah75/Cofs_TV/refs/heads/main/fancode .m3u"
+# সোর্স লিঙ্ক
+source_url = "https://raw.githubusercontent.com/munim-sah75/Cofs_TV/refs/heads/main/fancode.m3u"
+
 
 output_file = "STABLE-SPORTS TV.m3u"
 
