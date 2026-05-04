@@ -1,20 +1,8 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ICC-Nepal_web.jpg" group-title="Fancode", United Arab Emirates vs Oman (ICC CWC League 2, Nepal 2026)
-https://bd-mc-fblive.fancode.com/mumbai/141980_english_hls_11e94660f549049_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austria-vs-Germany_fc-web.jpg" group-title="Fancode", Germany vs Austria (Austria tour of Germany, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142345_english_hls_e539ab7bdb8370_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(8)_1777562086648.png" group-title="Fancode", Speen Ghar Region vs Band-e-Amir Region (Super Cola National T20 Cup, 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142406_english_hls_0f467c1ed542404_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/MCB-Ladies-Classic_2026_Web_1080_x_810.jpg" group-title="Fancode", Day 3 vs Constance Belle Mare Plage, Mauritius (MCB Ladies Classic 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142287_english_hls_b4936f9f8d67699_1ta-di_h264/index.m3u8
-
 
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 04:10 PM 03-05-2026
+# Last Update: 05:50 AM 04-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
@@ -24,10 +12,15 @@ https://bd-mc-fblive.fancode.com/mumbai/142287_english_hls_b4936f9f8d67699_1ta-d
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:00:19 PM 03-05-2026
+# last_update: 05:45:17 AM 04-05-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529603" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016951/1775437559586818_DP_World_Tour_Turkish_Airlines_Open_Day4_landscape.jpg" group-title="Fancode", DP World Tour |  Turkish Airlines Open - Day 4 - 3 May 2026
-https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8
+#EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
+http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529613" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017601/1777487512267406_ABB_FIA_FormulaE_WC26_RD8_Berlin_EPrix_Qualifying_Race_Live_landscape_thumb.jpg" group-title="Fancode", ABB FIA Formula E World Championship |  Round 8 - Berlin E - Prix - Qualifying Race - 3 May 2026
-https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V04pB3mj/1776384168515.png",Bangladesh VS New Zealand 
+http://172.20.21.22/live/skyfeed1005/index.m3u8
+
+# (আপনার বাকি সব চ্যানেল এখানে বসান...)
+
+#EXTINF:-1 tvg-id="JalsaMoviesHD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Movies", Jalsa Movies HD
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
