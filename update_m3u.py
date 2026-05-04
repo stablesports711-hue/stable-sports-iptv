@@ -1,11 +1,11 @@
-import requests
-import os
+import requests import os
 
-# সোর্স লিঙ্ক
-source_url = "https://raw.githubusercontent.com/munim-sah75/Cofs_TV/refs/heads/main/fancode.m3u"
+# ১. ফ্যানকুরের সোর ্ স লিঙ্ক source_url = "https://raw.githubusercontent.com /munim-sah75/Cofs_TV/refs/heads/main/fancode .m3u"
+
 output_file = "STABLE-SPORTS TV.m3u"
 
-# আপনার নিজের চ্যানেলগুলো (নিচে থাকবে)
+# ২. আপনার নিজের চ্যানেলগুলো এখান অ্যাড করার জায়গা 
+# """ এবং """ এর মাঝখান ে আপনার সব চ্যানেল পেস ্ ট করুন। 
 my_own_channels = """
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
 http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
