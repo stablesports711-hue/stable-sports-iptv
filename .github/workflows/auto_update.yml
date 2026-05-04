@@ -1,18 +1,20 @@
-name: 5-Min Auto Update
+name: 10-Min Auto Update
 
 on:
   schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
+    - cron: '*/10 * * * *' # প্রতি ১০ মিনিট পর পর
+  workflow_dispatch: # দরকার হলে হাত দিয়েও রান করতে পারবেন
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # ফাইল সেভ করার পারমিশন
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout Code
+        uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
@@ -20,13 +22,13 @@ jobs:
       - name: Install requests
         run: pip install requests
 
-      - name: Run script
+      - name: Run Script
         run: python update_m3u.py
 
-      - name: Push updates
+      - name: Save Changes
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add "STABLE-SPORTS TV.m3u"
-          git commit -m "Updated at $(date)" || exit 0
+          git commit -m "Auto Update Channel List" || echo "No changes"
           git push
