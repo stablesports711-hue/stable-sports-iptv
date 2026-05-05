@@ -1,7 +1,7 @@
 import requests
-import time
 
-sources = [
+# আপনার দেওয়া সোর্স লিস্ট (সিরিয়াল অনুযায়ী)
+urls = [
     "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u",
     "https://raw.githubusercontent.com/IPTVFlixBD/Fancode-BD/refs/heads/main/playlist.m3u",
     "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u",
@@ -9,34 +9,22 @@ sources = [
     "https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u"
 ]
 
-output_file = "Test.m3u"
-
-def fetch_playlist(url):
-    try:
-        res = requests.get(url, timeout=10)
-        if res.status_code == 200:
-            return res.text
-    except:
-        return ""
-    return ""
-
-def merge_playlists():
-    final_content = "#EXTM3U\n"
+def create_playlist():
+    master_content = "#EXTM3U\n"
     
-    for src in sources:
-        content = fetch_playlist(src)
-        lines = content.splitlines()
-        
-        for line in lines:
-            if line.strip() != "#EXTM3U":
-                final_content += line + "\n"
-    
-    with open(output_file, "w", encoding="utf-8") as f:
-        f.write(final_content)
+    for url in urls:
+        try:
+            response = requests.get(url)
+            if response.status_code == 200:
+                lines = response.text.splitlines()
+                # প্রথম লাইন (#EXTM3U) বাদ দিয়ে বাকিটুকু নেওয়া
+                content = "\n".join(lines[1:]) if lines[0].startswith("#EXTM3U") else "\n".join(lines)
+                master_content += content + "\n"
+        except Exception as e:
+            print(f"Error loading {url}: {e}")
 
-    print("Updated playlist!")
+    with open("Test.m3u", "w", encoding="utf-8") as f:
+        f.write(master_content)
 
-# loop every 15 minutes
-while True:
-    merge_playlists()
-    time.sleep(900)
+if __name__ == "__main__":
+    create_playlist()
