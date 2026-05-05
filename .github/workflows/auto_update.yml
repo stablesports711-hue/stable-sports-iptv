@@ -2,33 +2,31 @@ name: Update M3U Playlist
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # প্রতি ১৫ মিনিটে
-  workflow_dispatch:         # manual run option
+    - cron: '*/15 * * * *' # প্রতি ১৫ মিনিট পর পর চলবে
+  workflow_dispatch: # ম্যানুয়ালি চালানোর জন্য
 
 jobs:
-  update-playlist:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-      - name: Fetch & Merge Playlists
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run update script
+        run: python update_m3u.py
+
+      - name: Commit and push changes
         run: |
-          echo "#EXTM3U" > Test.m3u
-
-          curl -s https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u | grep -v "#EXTM3U" >> Test.m3u
-          curl -s https://raw.githubusercontent.com/IPTVFlixBD/Fancode-BD/refs/heads/main/playlist.m3u | grep -v "#EXTM3U" >> Test.m3u
-          curl -s https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u | grep -v "#EXTM3U" >> Test.m3u
-          curl -s https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/ott_navigator.m3u | grep -v "#EXTM3U" >> Test.m3u
-          curl -s https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u | grep -v "#EXTM3U" >> Test.m3u
-
-      - name: Commit & Push if changed
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
-
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add Test.m3u
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update playlist"
-
+          git commit -m "Auto-update playlist" || exit 0
           git push
