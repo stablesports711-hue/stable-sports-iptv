@@ -1,5 +1,5 @@
 import requests
-import time
+import os
 
 sources = [
     "https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u",
@@ -11,32 +11,27 @@ sources = [
 
 output_file = "Test.m3u"
 
-def fetch_playlist(url):
+def fetch(url):
     try:
-        res = requests.get(url, timeout=10)
-        if res.status_code == 200:
-            return res.text
+        r = requests.get(url, timeout=10)
+        return r.text if r.status_code == 200 else ""
     except:
         return ""
-    return ""
 
-def merge_playlists():
-    final_content = "#EXTM3U\n"
-    
-    for src in sources:
-        content = fetch_playlist(src)
-        lines = content.splitlines()
-        
-        for line in lines:
-            if line.strip() != "#EXTM3U":
-                final_content += line + "\n"
-    
-    with open(output_file, "w", encoding="utf-8") as f:
-        f.write(final_content)
+final = "#EXTM3U\n"
 
-    print("Updated playlist!")
+for url in sources:
+    content = fetch(url)
+    for line in content.splitlines():
+        if line.strip() != "#EXTM3U":
+            final += line + "\n"
 
-# loop every 15 minutes
-while True:
-    merge_playlists()
-    time.sleep(900)
+with open(output_file, "w", encoding="utf-8") as f:
+    f.write(final)
+
+# Git push
+os.system("git config --global user.email 'you@example.com'")
+os.system("git config --global user.name 'auto-bot'")
+os.system("git add Test.m3u")
+os.system("git commit -m 'auto update' || echo no changes")
+os.system("git push")
