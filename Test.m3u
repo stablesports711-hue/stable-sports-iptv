@@ -1,26 +1,16 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 11:50 PM 05-05-2026
+# Last Update: 01:10 AM 06-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1 tvg-id="tapmad-13073" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17778963241020x576.jpg" group-title="Football", Japan vs Qatar Live | AFC U17 Asian Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13078" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17778970461020x576.jpg" group-title="Football", Indonesia vs China Live | AFC U17 Asian Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-13083" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17778981311020x576.jpg" group-title="Football", Saudi Arabia vs Myanmar Live | AFC U17 Asian Cup 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-13088" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17778984831020x576.jpg" group-title="Football", Tajikistan vs Thailand Live | AFC U17 Asian Cup 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-12767" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/1777363450540x302.jpg" group-title="Football", Arsenal vs Atletico Madrid | UEFA Champions League 2025/26
+https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Khaleej-FC-vs-Al-Hilal-SFC_FC-web.jpg" group-title="Fancode-Football", Al Khaleej FC vs Al Hilal SFC (Roshn Saudi League 2025-2026)
 https://bd-mc-fblive.fancode.com/mumbai/142147_english_hls_e84f5f8c425359_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1777999652487/142540_CASACARDS_APP.png" group-title="Fancode-Football", Japan vs Qatar (AFC U17 Asian Cup Saudi Arabia 2026)
-https://bd-mc-fdlive.fancode.com/s3/ef1b0003-591c-49eb-868b-7753dea39ee5/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1777996806124/142541_CASACARDS_APP.png" group-title="Fancode-Football", Indonesia vs China PR (AFC U17 Asian Cup Saudi Arabia 2026)
-https://bd-mc-fdlive.fancode.com/s3/15f95be3-731d-4122-a962-41017c770ac3/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1777999652490/142538_CASACARDS_APP.png" group-title="Fancode-Football", Saudi Arabia vs Myanmar (AFC U17 Asian Cup Saudi Arabia 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/142538_english_hls_4ba7ec88ab63182_1ta-di_h264/index.m3u8
@@ -30,7 +20,7 @@ https://bd-mc-fdlive.fancode.com/mumbai/142539_english_hls_52f2d6fc8568926_1ta-d
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:45:20 PM 05-05-2026
+# last_update: 01:00:25 AM 06-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529642" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090529642/thumbnail/1777897526627962_UCL26_SF_leg2_arsenal_vs_atletico_4may_eng_clean_landscape_thumb.jpg" group-title="Football", UEFA Champions League 2025-26 | Arsenal vs Atletico - Semi-Final - Leg 2 - 5 May 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
