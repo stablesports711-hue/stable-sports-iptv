@@ -1,1 +1,32 @@
+name: Update M3U Playlist
 
+on:
+  schedule:
+    - cron: "0,15,30,45 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repo checkout
+        uses: actions/checkout@v4
+
+      - name: Create playlist
+        run: |
+          echo "#EXTM3U" > Test.m3u
+
+          curl -s https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u | grep -v "#EXTM3U" >> Test.m3u
+          curl -s https://raw.githubusercontent.com/IPTVFlixBD/Fancode-BD/refs/heads/main/playlist.m3u | grep -v "#EXTM3U" >> Test.m3u
+          curl -s https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u | grep -v "#EXTM3U" >> Test.m3u
+          curl -s https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/ott_navigator.m3u | grep -v "#EXTM3U" >> Test.m3u
+          curl -s https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u | grep -v "#EXTM3U" >> Test.m3u
+
+      - name: Push file
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@github.com"
+          git add Test.m3u
+          git commit -m "auto update" || echo "no change"
+          git push
