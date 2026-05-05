@@ -1,34 +1,34 @@
-name: 10-Min Auto Update
+name: Update M3U Playlist
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # প্রতি ১০ মিনিট পর পর
-  workflow_dispatch: # দরকার হলে হাত দিয়েও রান করতে পারবেন
+    - cron: "*/15 * * * *"   # প্রতি ১৫ মিনিটে
+  workflow_dispatch:         # manual run option
 
 jobs:
-  update:
+  update-playlist:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # ফাইল সেভ করার পারমিশন
+
     steps:
-      - name: Checkout Code
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: Install requests
-        run: pip install requests
-
-      - name: Run Script
-        run: python update_m3u.py
-
-      - name: Save Changes
+      - name: Fetch & Merge Playlists
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add "STABLE-SPORTS TV.m3u"
-          git commit -m "Auto Update Channel List" || echo "No changes"
+          echo "#EXTM3U" > Test.m3u
+
+          curl -s https://raw.githubusercontent.com/srhady/tapmad-bd/refs/heads/main/tapmad_bd.m3u | grep -v "#EXTM3U" >> Test.m3u
+          curl -s https://raw.githubusercontent.com/IPTVFlixBD/Fancode-BD/refs/heads/main/playlist.m3u | grep -v "#EXTM3U" >> Test.m3u
+          curl -s https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u | grep -v "#EXTM3U" >> Test.m3u
+          curl -s https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/ott_navigator.m3u | grep -v "#EXTM3U" >> Test.m3u
+          curl -s https://raw.githubusercontent.com/srhady/crichd-speical-live-event/refs/heads/main/playlist.m3u | grep -v "#EXTM3U" >> Test.m3u
+
+      - name: Commit & Push if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add Test.m3u
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto update playlist"
+
           git push
