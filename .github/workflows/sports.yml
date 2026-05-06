@@ -1,0 +1,33 @@
+name: Update Sports Playlist
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # প্রতি ১ ঘণ্টা
+  workflow_dispatch:
+
+jobs:
+  update-sports:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run sports script
+        run: python sports.py
+
+      - name: Push file
+        run: |
+          git config user.name "bot"
+          git config user.email "bot@github.com"
+          git add STABLE-SPORTS-TV.m3u
+          git commit -m "update sports playlist" || echo "no change"
+          git push
