@@ -4,7 +4,7 @@ source = "https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/head
 
 output = "#EXTM3U\n"
 
-# Fetch main playlist
+# Fetch Toffee playlist
 try:
     r = requests.get(source, timeout=10)
     if r.status_code == 200:
@@ -14,8 +14,8 @@ try:
 except:
     pass
 
-# Add your custom channels
-custom_channels = """
+# Custom channels
+custom = """
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
 http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
@@ -29,10 +29,10 @@ https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 """
 
-output += custom_channels
+output += custom
 
 # Save file
-with open("STABLE-SPORTS-TV.m3u", "w", encoding="utf-8") as f:
+with open("stable-sports-tv-auto.m3u", "w", encoding="utf-8") as f:
     f.write(output)
 
 print("Sports playlist updated!")
