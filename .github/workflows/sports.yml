@@ -1,4 +1,4 @@
-name: Update Sports Playlist
+name: Stable Sports TV Auto Update
 
 on:
   schedule:
@@ -6,11 +6,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-sports:
+  update:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Python
@@ -21,13 +21,14 @@ jobs:
       - name: Install requests
         run: pip install requests
 
-      - name: Run sports script
-        run: python stablesportstv.py
+      - name: Run script
+        run: python stable_sports_tv.py
 
       - name: Push file
         run: |
           git config user.name "bot"
           git config user.email "bot@github.com"
-          git add STABLE-SPORTS-TV.m3u
-          git commit -m "update sports playlist" || echo "no change"
+          git add "STABLE-SPORTS TV.m3u"
+          git commit -m "update sports tv" || echo "no change"
           git push
+  
