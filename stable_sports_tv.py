@@ -32,7 +32,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 output += custom
 
 # Save file
-with open("stable-sports-tv-auto.m3u", "w", encoding="utf-8") as f:
+with open("STABLE-SPORTS TV.m3u", "w", encoding="utf-8") as f:
     f.write(output)
 
 print("Sports playlist updated!")
