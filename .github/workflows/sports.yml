@@ -2,7 +2,7 @@ name: Update Sports Playlist
 
 on:
   schedule:
-    - cron: "0 * * * *"   # প্রতি ১ ঘণ্টা
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,7 +22,7 @@ jobs:
         run: pip install requests
 
       - name: Run sports script
-        run: python sports.py
+        run: python stablesportstv.py
 
       - name: Push file
         run: |
