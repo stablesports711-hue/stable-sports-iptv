@@ -3,7 +3,7 @@ name: STABLE-SPORTS TV Auto Update
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # প্রতি ৫ মিনিট
+    - cron: "*/10 * * * *"   # প্রতি ৫ মিনিট
   workflow_dispatch:
 
 jobs:
