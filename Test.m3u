@@ -1,25 +1,9 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 02:30 AM 08-05-2026
+# Last Update: 03:30 AM 08-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
-
-#EXTINF:-1 tvg-id="tapmad-12804" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17779738811020x576.jpg" group-title="Football", Aston Villa vs Nottm Forest | UEFA Europa League 2025/26
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-12805" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17779740211020x576.jpg" group-title="Football", SC Freiburg vs Braga | UEFA Europa League 2025/26
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Shabab-FC-vs-Al-Nassr-FC_FC-web.jpg" group-title="Fancode-Football", Al-Shabab FC vs Al-Nassr FC (Roshn Saudi League 2025-2026)
-https://bd-mc-fblive.fancode.com/mumbai/142148_english_hls_e619be866478969_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode-Tennis", Day 2 - Main Feed vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142220_english_hls_499034c49b99092_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode-Tennis", Day 2 - Supertennis Arena vs Rome- Italy (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142588_english_hls_ea7d84375f99566_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode-Tennis", Day 2 - BNP Paribas Arena vs Rome- Italy (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142589_english_hls_c72755176f70506_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode-Golf", Main Feed - Day 1 vs Quail Hollow Club - Charlotte- North Carolina (Truist Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142092_english_hls_0e93307f1072109_1ta-di_h264/index.m3u8
@@ -30,27 +14,12 @@ https://bd-mc-fblive.fancode.com/mumbai/142094_english_hls_ba942a271847033_1ta-d
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode-Golf", Marquee Group - Day 1 vs Quail Hollow Club - Charlotte- North Carolina (Truist Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142093_english_hls_39a3137b2d79864_1ta-di_h264/index.m3u8
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode-Tennis", Day 2 - Campo Centrale vs Rome- Italy (ATP Masters Internazionali BNL d'Italia 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142590_english_hls_b4339452859097_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode-Golf", World Feed - Day 1 vs Quail Hollow Club - Charlotte- North Carolina (Truist Championship 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142091_english_hls_65b118d6a394724_1ta-di_h264/index.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:30:26 AM 08-05-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090529730" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017792/1778074424767108_UEL26_SF_leg2_Aston_Villa_vs_Nottm_Forest_6may_landscape_thumb.jpg" group-title="Football", UEFA Europa League 2025-26 | Aston Villa vs Nott'm Forest  - Semi-Final - Leg 2 - 8 May 2026
-https://dai.google.com/ssai/event/9A4DX-S5TZ620VNPpLJbng/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529860" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017796/1778078996079601_UECL_Semi_Final_Leg2_Crystal_Palace_vs_Shakhtar_live_landscape_thumb.jpg" group-title="Football", UEFA Conference League 2025-26 | Crystal Palace vs Shakhtar - Semi-Final - Leg 2 -  8 May 2026
-https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529718" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017792/1778074990902108_UEL26_SF_leg2_Freiburg_vs_Braga_6may_landscape_thumb.jpg" group-title="Football", UEFA Europa League 2025-26 | Freiburg vs Braga - Semi-Final - Leg 2 - 8 May 2026
-https://dai.google.com/ssai/event/alWqozasSNeEIxePgYc3Og/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529861" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017796/1778079488809601_UECL_Semi_Final_Leg2_Strasbourg_vs_Rayo_Vallecano_live_landscape_thumb.jpg" group-title="Football", UEFA Conference League 2025-26 | Strasbourg vs Rayo Vallecano - Semi-Final - Leg 2 - 8 May 2026
-https://dai.google.com/ssai/event/ga95v7YpR9uILztaMnCF5w/master.m3u8
+# last_update: 03:15:22 AM 08-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529717" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017789/1778069816154388_LIV_Golf_Virginia26_Day1_6may_rev_landscape_thumb.jpg" group-title="Golf", LIV Golf | Virginia - Day 1 - 7 May 2026
 https://dai.google.com/ssai/event/kLLXpEquS0Wj3_WTm-URPw/master.m3u8
@@ -331,18 +300,12 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:33:42 AM 08-05-2026
+#last update time: 03:33:58 AM 08-05-2026
 
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 02:30:23 AM 08-05-2026
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 2   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_2___main_feed_142220_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 2   Bnp Paribas Arena | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_2___bnp_paribas_arena_142589_english.m3u8
+#last update time: 03:30:26 AM 08-05-2026
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Main Feed   Day 1 | Truist Championship 2026 (ENGLISH)
 https://fancode-bd-srhady.vercel.app/main_feed___day_1_142092_english.m3u8
