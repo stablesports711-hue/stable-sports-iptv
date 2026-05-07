@@ -1,1 +1,37 @@
 
+name: STABLE-SPORTS TV Auto Update
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # প্রতি ৫ মিনিট
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Requests
+        run: pip install requests
+
+      - name: Run Playlist Script
+        run: python stablesportstv.py
+
+      - name: Commit Changes
+        run: |
+          git config --global user.name "stable-sports-bot"
+          git config --global user.email "bot@users.noreply.github.com"
+
+          git add "STABLE-SPORTS TV.m3u"
+
+          git commit -m "🔄 Auto Update STABLE-SPORTS TV" || echo "No Changes"
+
+          git push
