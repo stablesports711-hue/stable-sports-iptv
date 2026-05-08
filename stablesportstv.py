@@ -25,7 +25,7 @@ https://fancode-bd-srhady.vercel.app/bangladesh_vs_pakistan_142160_english.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1778261542:KeyName=prod_live_events:Signature=V2TQ5JKPFMPB7C-uAV1CENVazRVMjCEVkAGhfIV9isJcvmAT8ujaFGiVFFXfOIucdZbLWO2VkTAEJlsW-LMrAg"}
 https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V04pB3mj/1776384168515.png",Bangladesh VS New Zealand 
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ljE2lZ0BNnOkwJLW9lrg/posters/b4bee75a-b8a3-4594-b562-6e3910d71625.png",Bangladesh Vs Pakistan 
 http://172.20.21.22/live/skyfeed1005/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fLh0bmsF/images-(2).jpg",IPL [2026]|HD
