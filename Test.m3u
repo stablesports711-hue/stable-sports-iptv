@@ -1,21 +1,12 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 03:40 AM 09-05-2026
+# Last Update: 04:30 AM 09-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131174_5427_LE_OSN_FC-Web.png" group-title="Fancode-Football", Levante vs CA Osasuna (LALIGA 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/131174_english_hls_2485bad521387_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://images.fancode.com/aig/match/v1778266475991/142376_CASACARDS_APP.png" group-title="Fancode-Football", Cádiz vs Deportivo La Coruna (LALIGA Hypermotion 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/142376_english_hls_d75e04a0e273141_1ta-di_h264/index.m3u8
-
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode-Tennis", Day 3 - Main Feed vs Rome (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142223_english_hls_fdb18a56d648927_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode-Golf", Main Feed - Day 2 vs Quail Hollow Club - Charlotte- North Carolina (Truist Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142096_english_hls_f2ff888cf730083_1ta-di_h264/index.m3u8
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode-Tennis", Y. Hanfmann vs L. Darderi  vs Rome- Italy (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142615_english_hls_f602d9690b52995_1ta-di_h264/index.m3u8
@@ -31,294 +22,288 @@ https://bd-mc-fblive.fancode.com/mumbai/142097_english_hls_c5badbae3f54285_1ta-d
 
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Fancode-Tennis", Musetti vs Perricard vs Rome- Italy (ATP Masters Internazionali BNL d'Italia 2026)
 https://bd-mc-fblive.fancode.com/mumbai/142616_english_hls_3553ee5eea43286_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Saudi-Kings-Cup_fc-web.jpg" group-title="Fancode-Football", Al-Kholood Club vs Al Hilal SFC (Saudi Kings Cup 2025-2026)
-https://bd-mc-fblive.fancode.com/mumbai/142162_english_hls_aef11ab1e339941_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Hull-City-vs-Millwall_fc-web.jpg" group-title="Fancode-Football", Hull City vs Millwall F.C. (EFL Championship 2025-26)
-https://bd-mc-fblive.fancode.com/mumbai/142497_english_hls_c8e531a70e80554_1ta-di_h264/index.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:30:20 AM 09-05-2026
+# last_update: 04:30:19 AM 09-05-2026
 #EXTINF:-1 tvg-name="Welcome to PlayZ TV" group-title="Welcome to PlayZ TV | New App" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png",Welcome to PlayZ TV {Sponsored}
 https://playztv.pages.dev/promo/intro-2.mp4
 
 #EXTINF:-1 group-title="Featured" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0C63X5UBv9knK3AHxaOs/posters/6dce1143-1045-4fec-ac4f-86d2bfb32447.png", HUM
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440079:KeyName=prod_linear:Signature=xTZluPAk4OD_myNSDCMZBcI8B0bTZzhRDC5eBqueBaUhTd4g1vnUmhc0SFOvI987xJHwBY2KHVrLovKWYULUAA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450026:KeyName=prod_linear:Signature=-jdXemStq711rknRA8JTtohQy_Aww_PSYcuITUmWsu-s3yLYASDBr21fYE6clz46tbsCIhyIiN1D8LkAqxp6AA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_tv/playlist.m3u8
 #EXTINF:-1 group-title="Featured" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5cwRnZUBtpl-Sbt7wWrN/posters/5779ade3-e9ba-4107-b3da-bae6f891500a.png", &TV HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440079:KeyName=prod_linear:Signature=xTZluPAk4OD_myNSDCMZBcI8B0bTZzhRDC5eBqueBaUhTd4g1vnUmhc0SFOvI987xJHwBY2KHVrLovKWYULUAA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450026:KeyName=prod_linear:Signature=-jdXemStq711rknRA8JTtohQy_Aww_PSYcuITUmWsu-s3yLYASDBr21fYE6clz46tbsCIhyIiN1D8LkAqxp6AA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8
 #EXTINF:-1 group-title="Featured" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ltPQX5UBm1RY_In7b3F1/posters/d039d9df-9877-4969-a0b6-56888ebe2385.png", Zee TV HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440079:KeyName=prod_linear:Signature=xTZluPAk4OD_myNSDCMZBcI8B0bTZzhRDC5eBqueBaUhTd4g1vnUmhc0SFOvI987xJHwBY2KHVrLovKWYULUAA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450026:KeyName=prod_linear:Signature=-jdXemStq711rknRA8JTtohQy_Aww_PSYcuITUmWsu-s3yLYASDBr21fYE6clz46tbsCIhyIiN1D8LkAqxp6AA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_tv_hd/playlist.m3u8
 #EXTINF:-1 group-title="Featured" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PS_La5oBNnOkwJLWLRN_/posters/e8c444fd-ee3b-4bf3-bb0a-f969bc295f82.png", Ekattor TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440083:KeyName=prod_linear:Signature=b1Atgxx4KZHvhd2ZHpiyi7csvogGePKY0ChkhY_-MXuCnzgjeL-yNAO_YLbskwmRC3CFbdak192wT6zmfijGBA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450029:KeyName=prod_linear:Signature=wXonTaBL6ESx0D_OBRm1odCbjCIWv_9pNOEM9PrOWzAwH3KAXibmbU_3_UUeLY8HqClsT1BY_CmXuySCjkhrBw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8
 #EXTINF:-1 group-title="Featured" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png", Somoy TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440085:KeyName=prod_linear:Signature=kO2Dl35i1PWw79cgD6H_56eYPQBw0CAr3DtCVLmEDA5JAxQLdC6LNPYfYa8M8a_lmuFQvVTTeu19rzo-m0QKCA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450031:KeyName=prod_linear:Signature=TaLNM9lqVJdl8Y7jne7U00owrhv06oc_7-yJt78qWtlT4uDMzmUP4Lrl2bU_lis0iA41zSfERMA66hFNhkPECQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ljE2lZ0BNnOkwJLW9lrg/posters/b4bee75a-b8a3-4594-b562-6e3910d71625.png", Bangladesh VS Pakistan
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1778317696:KeyName=prod_live_events:Signature=CVmUR2IHupcXU2X_1fdWw_NvTvG8AuuZJmjipUTgtAVBxpzdJIHdbWvwhvj4u4ZejVpZVC5LElzC-cojo8t3AQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1778327641:KeyName=prod_live_events:Signature=aUfxWbiJGrwaNl9gJg44TunoaKI6-v1vnDKxOe1BZlLCkiEKY4afO9OW2HwLKtbq8r-oI1V-42XMaaKPBM61Dg"}
 https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/HHnAgJkBcqxnFHJBabwO/posters/dfe6008d-8984-4058-a9ef-d8ebfbd37ea6.png", BFL | Live 1
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1778317696:KeyName=prod_live_events:Signature=CVmUR2IHupcXU2X_1fdWw_NvTvG8AuuZJmjipUTgtAVBxpzdJIHdbWvwhvj4u4ZejVpZVC5LElzC-cojo8t3AQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1778327641:KeyName=prod_live_events:Signature=aUfxWbiJGrwaNl9gJg44TunoaKI6-v1vnDKxOe1BZlLCkiEKY4afO9OW2HwLKtbq8r-oI1V-42XMaaKPBM61Dg"}
 https://mprod-cdn.toffeelive.com/live/match-11/index.m3u8
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MXnGgJkBcqxnFHJBILyR/posters/863e7e6a-4650-41e3-8644-86ddb2860997.png", BFL | Live 2
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1778317699:KeyName=prod_live_events:Signature=vMZiVtT8YkIZZ01pGHbREqW63IAARGL6-J38E1srOhT4FZoCZW_jhu-gOpWuLwMCcABQSN0lpjxziOHZPsGyCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1778327643:KeyName=prod_live_events:Signature=NDYcRlOQXwkqIVSl_QrShYt1vV0SdmMk1qgH0l-SdlOtbJ6_wyyNnzLzBrqwzpSs3CvPi8kKge3YUcbBhDGICg"}
 https://mprod-cdn.toffeelive.com/live/match-12/index.m3u8
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp", Sony Ten Sports 1 HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440101:KeyName=prod_linear:Signature=P2qF6q1FDLFarU6nO3BTYd3PCNcji2uEEt16Zl0OLUSoL9-G2xb3h-dPNuz4R5FGEsovU6pIhvrXA0eRibD7Dg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450044:KeyName=prod_linear:Signature=4YGx4N3RF6T_Il3OOAr7JQJ85jJLWDgs32pNIxlrnZqBB-E28xtVJR4tmEpHARwk5eGCgPNJv-zU8LiJe2RQDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png", Sony Ten Sports 2 HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440103:KeyName=prod_linear:Signature=FYKzs12XB3NZwtlYU5EhYq74I7V1QdkKyctdpDuYkrxGm6DJDQZtyd90rubf_b5JOX7TiJiwY_hWCuGkvtXTCQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450046:KeyName=prod_linear:Signature=mOrpa66Pnaz3faQd9yc0NjQQJGZp7BuLkhx9TpLMvrkV63vYSDedzhEqqcQTWpAKE23eCOpQtzl6-RUrQUXBBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png", Sony Ten Sports 5 HD 
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440105:KeyName=prod_linear:Signature=0qNqOa70jZvqIOHanOb5upx6_cCFRt3W3z3R7y0u88fGeJuJkp0ybaSXtXXN9EzvQW7NxHGYTQ3yZhwM-WIuAA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450048:KeyName=prod_linear:Signature=CweNH7r9CoVj1ZEPc-6ON-Gc7MGL_O2uK1Wrxrlw1EHqhK9AdgV5jEd4OuCJbRlO2Uh5nRjAa4lYwCO0daSbCA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp", Eurosport HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440105:KeyName=prod_linear:Signature=0qNqOa70jZvqIOHanOb5upx6_cCFRt3W3z3R7y0u88fGeJuJkp0ybaSXtXXN9EzvQW7NxHGYTQ3yZhwM-WIuAA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450048:KeyName=prod_linear:Signature=CweNH7r9CoVj1ZEPc-6ON-Gc7MGL_O2uK1Wrxrlw1EHqhK9AdgV5jEd4OuCJbRlO2Uh5nRjAa4lYwCO0daSbCA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp", Sony Ten Cricket
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440109:KeyName=prod_linear:Signature=S59WGu-4eIJM75GHuKM2yE8Y9cxw5YOzzX2z9iaRkYkEaFovF6CtmYK-0Tov-Gs4Xs4h4VpmWRPFlxRsdhpdBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450052:KeyName=prod_linear:Signature=Z1aAUQLhMd1AZC1CzjIBX8iU6kyqrv-hWx-qqwT81KJf7gjS8r-EyIXPSDWicJw_OkV1-99phcr6e6vXwSQsDg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca4b.png", EPL channel 1
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1778317699:KeyName=prod_live_events:Signature=vMZiVtT8YkIZZ01pGHbREqW63IAARGL6-J38E1srOhT4FZoCZW_jhu-gOpWuLwMCcABQSN0lpjxziOHZPsGyCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1778327643:KeyName=prod_live_events:Signature=NDYcRlOQXwkqIVSl_QrShYt1vV0SdmMk1qgH0l-SdlOtbJ6_wyyNnzLzBrqwzpSs3CvPi8kKge3YUcbBhDGICg"}
 https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PiL635oBEef-9-uV2uCe/posters/36f380e0-6c71-4b27-a73b-2afb3ce7e982.png", Jamuna TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440117:KeyName=prod_linear:Signature=znuSvydTQR_5PdELmPzqdwy1ZA5CflwLNrq9jh94gX4ume7Gww7F2BN0sAqr53wlPjrbl55UxH_npv_h68RsDw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450059:KeyName=prod_linear:Signature=5a6ZN8Vy5-IKTQk-ZWfgHGqENQQLAVMa5i5xnNHBWuv1JmI_mfsHhPdCsy31zzNVN7if5MHtWFvmMRIS82DhBQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/jehEA54BIxFjn23xAmdw/posters/f20b1b2e-3662-4da5-a71b-3f769d2a9a4e.png", Islamic TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440119:KeyName=prod_linear:Signature=5g1JE0uom4Gct5a-7m9gmb7OVV3Cnqm8OCJ6JPknAuFtvi0OmkcHZGTaN8rw1qkH7V05FaSuPl7E_sIu4tDyDA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450061:KeyName=prod_linear:Signature=8EQPoIXzjPV7uELoBdTx1KgE5rQ7wIXHdWvQ0JVIDrW9MvHZ3W5vVqth8H7Fghn_Xrvbv0j5jq4TOQiHzXB7DA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/islamic_tv/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KECGB54BuUSiBsg_dHyj/posters/d032f456-c7e8-4fd4-928b-ea5359960ed7.png", Rajdhani TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440121:KeyName=prod_linear:Signature=_q1JPp39B1bCl-6YqLNVdQUNTodgHVrlcmERn-25i_t9SmwVsgl4PJJcCd3leQ7F0zPyIBE79zOfyVILKQgTCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450063:KeyName=prod_linear:Signature=w33uKluYKYi7UP-LNHroi5WAL8sP1xMUGL2rKj3WYlH34kuy1b36RvxKqTqcUIz8kkYt5qX4tb94SsXeqgSfDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png", Channel i
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440123:KeyName=prod_linear:Signature=81k4fdcvH7JN2Ra5ZDKvffAYBZHs-99I5K5ej4Esdpq5ovnyJHDgwXKv9D7cyw4VdkGu4VjeQ6m5mBEb0Vw0Dw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450065:KeyName=prod_linear:Signature=J9buxPBY5G11ZWr9_a7ewxjn7E57OH1mrR7EDvebAprsRSZzdwrYhBB8WIH12dXOvQbbgWz12pLxze7uXdTpDw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png", Independent TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440125:KeyName=prod_linear:Signature=z6WGrrjBplT7PcrlN_rsH-E15zOhAmnT7i8sJYpL5794cJh8A_I9kfw-XO-LSOxKJZR8aUNzCfedI-TUyqASCg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450067:KeyName=prod_linear:Signature=WokFIEc40t5wcoPhAV52Yh7-n3Hl37vtbmkt1SVXnnesRM84ckj52qzDE7-pqxPqFfIn_AI1kTmPD1-SUf8qBQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png", Ekhon TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440127:KeyName=prod_linear:Signature=UhwnsR6fWH-OlLYmEorhIQFG6RzJ64hR4iBuxzOLJIujlTtGywRHohLjHAtq_lkipbzUsNmaTAg0sbI8wZPBCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450068:KeyName=prod_linear:Signature=4bFF2QuFW7dphUIppIM9o5-xAFw62bcI6GE7Td3ZT5FUYjNQXeresYWS-i1vdrAdq5nime4Lj_lwzs9SOlgJCw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/0y_tDJsBNnOkwJLWNrdE/posters/2ff058e1-630f-4657-8dc6-b677e65642c5.png", Global TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440130:KeyName=prod_linear:Signature=q7GGJMTO_eYZmwse8L5HBr_-bXM0nnAoRkgml8CXUjpLxKVjLpqBNX8eNgTVqLpTc6LVZFhee7nflDv7-9SiBQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450070:KeyName=prod_linear:Signature=76EJXzlFGkYKcdlzLhGsEuLKqMwPF8LT_ixKfpcrSxYqQ3vQaSaxMDrnb6TC1yx2qbuBAcoGjxUdW0Du2FKCBQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/global_tv/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png", Bangla TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440132:KeyName=prod_linear:Signature=2G0GBzRPn4sU-XgQy8ELAy2ni-8IzaADbsvLUQ2mdJ0cGrcfeY7wuPTYHj4mhbLxKG3-V4mGEGq6-QXtwizqBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450072:KeyName=prod_linear:Signature=hDfCh3bikbtaGi-mJZrxgf2_2ZWkl3HdanMcucHlfp72_ejsU3_Hv_kJ-wh5BGL1oPB2z_-DMRhbn7oCS6i7AA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png", Channel S
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440136:KeyName=prod_linear:Signature=Q_OdUpoOax5XXQfYKeObjOjeeQLrcBe24OAwlk3eLQdPphlJmAdHWypBvtO9zdzlUOhnXyK-swAb6jLJ91KsAg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450076:KeyName=prod_linear:Signature=NNV9K0RGhhzeWwmDN8dMyIK8c0PDG3Gi9TpeOVbqWlaaCZOlgBYwm1rvSYEt0xKqfJ5MbpSXPBmBQMhC7dc5Aw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png", Ananda TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440138:KeyName=prod_linear:Signature=yGEeMlQEbuluVILrn19UF-cG0svaqDLFPtm5IxsDMCISW9nIgFwOr2o4BYA8wDKcQ8mjjtuGnTMSGhN6GGltAg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450078:KeyName=prod_linear:Signature=Z2o3Tpu8HPOrviuUibvmufo0lJDVerx6-9y13k6X4w5oswne_z2B00z6lYL-KJTyfm0SelFiS4NaEPPf9YIzDQ"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/anandatv/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png", Bijoy TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440140:KeyName=prod_linear:Signature=IRE4-6L7pNduvtBoVRg1r4RoQh-r2IfhS-5qw6aXiR0oX3VMcm9BhZvqP_mgLLsu4gz2_JRKfpJTbAZueR5QAg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450080:KeyName=prod_linear:Signature=sLs34Xevrkiii86fqf6-iHjlDU-JS_e9dtzRRHxGdXvFBJZJ3tOP_ZWduNCy7Zy6cM7LpnFEKD5-x-A4T1pQAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/bijoytv/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MyK__poBEef-9-uVmf5l/posters/1eadef5b-28e7-4dc2-b42f-c67a3357c9a0.png", Asian TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440142:KeyName=prod_linear:Signature=7XG2Eu9MhZaaInMehjeRwowun5YmtxualpxNb1OPEiMOe7FKwBuNM44sCXK4lgBMTXDbDvlA7ZioiE_qHZp9BQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450082:KeyName=prod_linear:Signature=KlvW02et4VDw00cxWbquIl1X3TohDLlOHTzREzUlepp7maJtUeVo3hBgZ3dIiNARa0-57iyBAujiB3h51OSvAg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/asian_tv/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png", Desh TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440144:KeyName=prod_linear:Signature=odeo0643JN4RkH31YCCA3woYz2qTWSOWp53az_CWlLp9GyIt8W972t-izVDWKmMKcS8tRLq-ig1OWyN-1SfpCA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450083:KeyName=prod_linear:Signature=hEoQ2Kej7B3pzUVOkOVNsmDO-ITKwGPGcbu6bUrirNb1EHfvMA3K_yYMSXG_NsWwuY7L6AlJue9_p2Fl2_lgBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/desh_tv/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/FHz5PJwBcqxnFHJBdAqW/posters/419869ac-8ddf-4909-86c1-b69f0a3adf13.png", Nexus TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440146:KeyName=prod_linear:Signature=Gs4qF6j6kPoN1YXXHYrB4adrLNwoJrNRmuUstga2cBNoppxewRBKvwuxjIojIwrIQ56SHuOy8D2I50Bfo8oFBA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450085:KeyName=prod_linear:Signature=P01gYG-gqEJ5vBPxTwxFaj1osmK-_f1JUIHu5TZhtO4Jm6wCnHlXjML9_4RhlobBTrgTF-9hIioI2zjEPhSwAA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/nexus_tv/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-Xz3PJwBcqxnFHJBDAlE/posters/fecea361-8b60-4aeb-a530-6e27eee8178a.png", Mohona TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440148:KeyName=prod_linear:Signature=nDppVEWJRf7KIa79nWBL0lyTugJPWX86R631TDOUkOxxlwHG47k6teCSvSuEEomzDcROOyDQT4vKX6V-cOwnCQ"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450087:KeyName=prod_linear:Signature=_7DZfTojQPhRxt4huywZX5GQ0eQC0_N9F4-nxXN5UtrbOOtgnkPPBUGW6T-SFfKbtk0uFCm7CAdfbqkXv-6EAA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/mohona_tv/playlist.m3u8
 #EXTINF:-1 group-title="বাংলাদেশি চ্যানেল" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/CXz4PJwBcqxnFHJBPwrG/posters/2f913e34-3a6c-45e6-9f1f-97bf129a2ff5.png", Movie Bangla
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440150:KeyName=prod_linear:Signature=s0uRDHsM2sIm64FEgfNK6JXg_xhMN3a5C-vBRpvECwViWIxlOtCnVXiVeT_aCluqB0WMOrZ5RriV8h8Gwn1YBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450089:KeyName=prod_linear:Signature=LvNcTeSpqCqTeikbuygHubHM0vCcijQEg_zRY0IAorwByYg91W0Z5jbUetWgFZyoy8YdsmTKO4zcV43D9GviDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/movie_bangla/playlist.m3u8
 #EXTINF:-1 group-title="News Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp", CNN
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440150:KeyName=prod_linear:Signature=s0uRDHsM2sIm64FEgfNK6JXg_xhMN3a5C-vBRpvECwViWIxlOtCnVXiVeT_aCluqB0WMOrZ5RriV8h8Gwn1YBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450089:KeyName=prod_linear:Signature=LvNcTeSpqCqTeikbuygHubHM0vCcijQEg_zRY0IAorwByYg91W0Z5jbUetWgFZyoy8YdsmTKO4zcV43D9GviDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cnn/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ai51-JQBv9knK3AH_jWs/posters/663e52a6-1a9f-4458-b4aa-7c03d84972f1.webp", Sony MAX HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440150:KeyName=prod_linear:Signature=s0uRDHsM2sIm64FEgfNK6JXg_xhMN3a5C-vBRpvECwViWIxlOtCnVXiVeT_aCluqB0WMOrZ5RriV8h8Gwn1YBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450089:KeyName=prod_linear:Signature=LvNcTeSpqCqTeikbuygHubHM0vCcijQEg_zRY0IAorwByYg91W0Z5jbUetWgFZyoy8YdsmTKO4zcV43D9GviDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max_hd/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp", Sony MAX
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440150:KeyName=prod_linear:Signature=s0uRDHsM2sIm64FEgfNK6JXg_xhMN3a5C-vBRpvECwViWIxlOtCnVXiVeT_aCluqB0WMOrZ5RriV8h8Gwn1YBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450089:KeyName=prod_linear:Signature=LvNcTeSpqCqTeikbuygHubHM0vCcijQEg_zRY0IAorwByYg91W0Z5jbUetWgFZyoy8YdsmTKO4zcV43D9GviDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_max/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ly6C-JQBv9knK3AHOjXt/posters/252e64ca-8d99-46e7-a951-e10c1703c11d.webp", Sony PIX HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440150:KeyName=prod_linear:Signature=s0uRDHsM2sIm64FEgfNK6JXg_xhMN3a5C-vBRpvECwViWIxlOtCnVXiVeT_aCluqB0WMOrZ5RriV8h8Gwn1YBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450089:KeyName=prod_linear:Signature=LvNcTeSpqCqTeikbuygHubHM0vCcijQEg_zRY0IAorwByYg91W0Z5jbUetWgFZyoy8YdsmTKO4zcV43D9GviDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonypix_hd/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/U3QEd5YBcqxnFHJBpYzc/posters/8bc7ae1b-1a46-4b76-bdb1-13c7dbd3a95c.png", Zee Cafe
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440150:KeyName=prod_linear:Signature=s0uRDHsM2sIm64FEgfNK6JXg_xhMN3a5C-vBRpvECwViWIxlOtCnVXiVeT_aCluqB0WMOrZ5RriV8h8Gwn1YBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450089:KeyName=prod_linear:Signature=LvNcTeSpqCqTeikbuygHubHM0vCcijQEg_zRY0IAorwByYg91W0Z5jbUetWgFZyoy8YdsmTKO4zcV43D9GviDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cafe_hd/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PC6F-JQBv9knK3AHlTUO/posters/fb0243ba-39a0-4101-a78c-c197be550c6c.webp", B4U Movies APAC
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440150:KeyName=prod_linear:Signature=s0uRDHsM2sIm64FEgfNK6JXg_xhMN3a5C-vBRpvECwViWIxlOtCnVXiVeT_aCluqB0WMOrZ5RriV8h8Gwn1YBg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450089:KeyName=prod_linear:Signature=LvNcTeSpqCqTeikbuygHubHM0vCcijQEg_zRY0IAorwByYg91W0Z5jbUetWgFZyoy8YdsmTKO4zcV43D9GviDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ii5_-JQBv9knK3AHLDV3/posters/d961cc87-81b6-4b30-8414-8c0af2774818.webp", Sony MAX 2
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440173:KeyName=prod_linear:Signature=5ZU-MKyHwjR-0ctwmCtlQYKmBnFlkGUFyiy8jGyu7sdJYezdtP3KXuBOyI77BEZTSnQdX0D5OYxRSxnyx177CA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450110:KeyName=prod_linear:Signature=XKkSI8Xi3OYjcxmEljWF46jU-fV7mS0825lC7Wtnw8va1l-liyopgpucFc68qaJo1kIMlIs-Ezv46WPM89mwDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonymax_2/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-C7MX5UBv9knK3AHdKOi/posters/90d82846-70b9-44ee-9f7e-e440f00b3be8.png", Zee Bangla Cinema
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440173:KeyName=prod_linear:Signature=5ZU-MKyHwjR-0ctwmCtlQYKmBnFlkGUFyiy8jGyu7sdJYezdtP3KXuBOyI77BEZTSnQdX0D5OYxRSxnyx177CA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450110:KeyName=prod_linear:Signature=XKkSI8Xi3OYjcxmEljWF46jU-fV7mS0825lC7Wtnw8va1l-liyopgpucFc68qaJo1kIMlIs-Ezv46WPM89mwDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla_cinema/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/5y7HX5UBv9knK3AHs6Nk/posters/7582fb79-c15f-4247-ba5b-1d2dd27f3d71.png", Zee Cinema HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440173:KeyName=prod_linear:Signature=5ZU-MKyHwjR-0ctwmCtlQYKmBnFlkGUFyiy8jGyu7sdJYezdtP3KXuBOyI77BEZTSnQdX0D5OYxRSxnyx177CA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450110:KeyName=prod_linear:Signature=XKkSI8Xi3OYjcxmEljWF46jU-fV7mS0825lC7Wtnw8va1l-liyopgpucFc68qaJo1kIMlIs-Ezv46WPM89mwDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_cinema_hd/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/QMwWnZUBtpl-Sbt7S2sx/posters/8cad9a82-842a-47bf-a060-f17011f11c07.png", & Pictures HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440173:KeyName=prod_linear:Signature=5ZU-MKyHwjR-0ctwmCtlQYKmBnFlkGUFyiy8jGyu7sdJYezdtP3KXuBOyI77BEZTSnQdX0D5OYxRSxnyx177CA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450110:KeyName=prod_linear:Signature=XKkSI8Xi3OYjcxmEljWF46jU-fV7mS0825lC7Wtnw8va1l-liyopgpucFc68qaJo1kIMlIs-Ezv46WPM89mwDA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/b60Ss5UBrjBfS2_RJPb8/posters/2e5b8ff3-9deb-4040-947e-4ce6a4674ef0.png", Toffee Movies
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440183:KeyName=prod_linear:Signature=cQDkWtHcFLCObN8qaK4GVAwP-3ogJkZvYGHAJCC-tiUfRjJsM3m8PstCi1x_tflOCqK71EMcON4dqO3HvzXECg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450120:KeyName=prod_linear:Signature=qqUbVdHt-AIOpfOISP09rhk23NiqQdtk_XFiqsSqJwiDZ-_xCZ3aDA9O2cwMZ3FbbeadirFslhan0F3s5RFlBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OnSlPJYBcqxnFHJB6lFX/posters/d9ccb2a6-227f-4a41-8714-efaddab5cf5e.png", Zee Bollywood
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440183:KeyName=prod_linear:Signature=cQDkWtHcFLCObN8qaK4GVAwP-3ogJkZvYGHAJCC-tiUfRjJsM3m8PstCi1x_tflOCqK71EMcON4dqO3HvzXECg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450120:KeyName=prod_linear:Signature=qqUbVdHt-AIOpfOISP09rhk23NiqQdtk_XFiqsSqJwiDZ-_xCZ3aDA9O2cwMZ3FbbeadirFslhan0F3s5RFlBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bollywood/playlist.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Pc3RD5YBtpl-Sbt7doxr/posters/33d667ae-bcc3-4f6b-b376-76c552136923.png", Zee Action
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440183:KeyName=prod_linear:Signature=cQDkWtHcFLCObN8qaK4GVAwP-3ogJkZvYGHAJCC-tiUfRjJsM3m8PstCi1x_tflOCqK71EMcON4dqO3HvzXECg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450120:KeyName=prod_linear:Signature=qqUbVdHt-AIOpfOISP09rhk23NiqQdtk_XFiqsSqJwiDZ-_xCZ3aDA9O2cwMZ3FbbeadirFslhan0F3s5RFlBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_action/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png", Zee Bangla
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440183:KeyName=prod_linear:Signature=cQDkWtHcFLCObN8qaK4GVAwP-3ogJkZvYGHAJCC-tiUfRjJsM3m8PstCi1x_tflOCqK71EMcON4dqO3HvzXECg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450120:KeyName=prod_linear:Signature=qqUbVdHt-AIOpfOISP09rhk23NiqQdtk_XFiqsSqJwiDZ-_xCZ3aDA9O2cwMZ3FbbeadirFslhan0F3s5RFlBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/T9O9X5UBm1RY_In7UXFv/posters/30e0f372-eb3e-4cf9-be1e-b196a40c2fc7.png", HUM Masala
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440183:KeyName=prod_linear:Signature=cQDkWtHcFLCObN8qaK4GVAwP-3ogJkZvYGHAJCC-tiUfRjJsM3m8PstCi1x_tflOCqK71EMcON4dqO3HvzXECg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450120:KeyName=prod_linear:Signature=qqUbVdHt-AIOpfOISP09rhk23NiqQdtk_XFiqsSqJwiDZ-_xCZ3aDA9O2cwMZ3FbbeadirFslhan0F3s5RFlBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_masala/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/WtPBX5UBm1RY_In7mXEU/posters/188d51f6-aeef-41ed-835b-e25ff911e209.png", HUM Sitaray
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440183:KeyName=prod_linear:Signature=cQDkWtHcFLCObN8qaK4GVAwP-3ogJkZvYGHAJCC-tiUfRjJsM3m8PstCi1x_tflOCqK71EMcON4dqO3HvzXECg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450120:KeyName=prod_linear:Signature=qqUbVdHt-AIOpfOISP09rhk23NiqQdtk_XFiqsSqJwiDZ-_xCZ3aDA9O2cwMZ3FbbeadirFslhan0F3s5RFlBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/hum_sitaray/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png", Sony Aath
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440200:KeyName=prod_linear:Signature=k3NX0PAz-V_qrKc56ab3v-TREiwJrsXmGbQx37jedG89nqDpyplnLEF-zO6O884uFGAoK1vcnxsYeR1tmIdDAw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450136:KeyName=prod_linear:Signature=0zhcy-EruMHVIUd3bGjAN5l2Y4f2UNa4Vo8AoX3iO7ZAcTHFEl_IaSWsjYGa-lykpgAYza-o8n38x6qdbVLgBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png", Zee Anmol
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440200:KeyName=prod_linear:Signature=k3NX0PAz-V_qrKc56ab3v-TREiwJrsXmGbQx37jedG89nqDpyplnLEF-zO6O884uFGAoK1vcnxsYeR1tmIdDAw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450136:KeyName=prod_linear:Signature=0zhcy-EruMHVIUd3bGjAN5l2Y4f2UNa4Vo8AoX3iO7ZAcTHFEl_IaSWsjYGa-lykpgAYza-o8n38x6qdbVLgBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zee_anmol/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/PS6F-JQBv9knK3AHqjVz/posters/0f83ee72-be0f-4861-94df-30b158d3df8d.webp", B4U Music
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440200:KeyName=prod_linear:Signature=k3NX0PAz-V_qrKc56ab3v-TREiwJrsXmGbQx37jedG89nqDpyplnLEF-zO6O884uFGAoK1vcnxsYeR1tmIdDAw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450136:KeyName=prod_linear:Signature=0zhcy-EruMHVIUd3bGjAN5l2Y4f2UNa4Vo8AoX3iO7ZAcTHFEl_IaSWsjYGa-lykpgAYza-o8n38x6qdbVLgBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_music/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/DK8dd5YBrjBfS2_Ru22e/posters/a4e57fd0-1853-4540-a9bc-0265ee43b5cb.png", Zing
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440200:KeyName=prod_linear:Signature=k3NX0PAz-V_qrKc56ab3v-TREiwJrsXmGbQx37jedG89nqDpyplnLEF-zO6O884uFGAoK1vcnxsYeR1tmIdDAw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450136:KeyName=prod_linear:Signature=0zhcy-EruMHVIUd3bGjAN5l2Y4f2UNa4Vo8AoX3iO7ZAcTHFEl_IaSWsjYGa-lykpgAYza-o8n38x6qdbVLgBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/zing_sd/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/-y50-JQBv9knK3AHLzSn/posters/0ab48ac0-ec84-4ca2-9601-746ff3cb809e.webp", Sony Entertainment Television HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440200:KeyName=prod_linear:Signature=k3NX0PAz-V_qrKc56ab3v-TREiwJrsXmGbQx37jedG89nqDpyplnLEF-zO6O884uFGAoK1vcnxsYeR1tmIdDAw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450136:KeyName=prod_linear:Signature=0zhcy-EruMHVIUd3bGjAN5l2Y4f2UNa4Vo8AoX3iO7ZAcTHFEl_IaSWsjYGa-lykpgAYza-o8n38x6qdbVLgBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyentertainmnt_hd/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ES55-JQBv9knK3AHNDWC/posters/13411be9-62b9-4a99-a062-b6e91dfb1099.webp", Sony SAB HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440200:KeyName=prod_linear:Signature=k3NX0PAz-V_qrKc56ab3v-TREiwJrsXmGbQx37jedG89nqDpyplnLEF-zO6O884uFGAoK1vcnxsYeR1tmIdDAw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450136:KeyName=prod_linear:Signature=0zhcy-EruMHVIUd3bGjAN5l2Y4f2UNa4Vo8AoX3iO7ZAcTHFEl_IaSWsjYGa-lykpgAYza-o8n38x6qdbVLgBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonysab_hd/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/2S5t-JQBv9knK3AHJTTW/posters/ae74f943-77c9-4395-a16c-8ed84b439080.webp", Sony Entertainment Television
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440214:KeyName=prod_linear:Signature=4_Ec8y8jxLk8iKJ_4nQ5gxclELR4YX9mCyu8o_4chQLNi0A-pwRsaWrMsp8SlJse_Y6RBQNKnKx0D6e8EEsxCA"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450149:KeyName=prod_linear:Signature=u9XxRntgqSeACuu9TiAE38NEchVMXdrKvQCv33R4JO5QRV_iysBzRQD6DkfpIRwBhtQ61OLur60GOPCRmOMVDg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_entertainment/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png", Toffee Dramas
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440216:KeyName=prod_linear:Signature=fQh74ZkGXifEjr8c_j0Y_dOWGZezchvwLlun3wCa1iRX_vISdyzMXPbJs518xxtshwDNSRlC1jXrQPXL8lmkBw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450150:KeyName=prod_linear:Signature=yk6xc9rGwVnVZoTmkp6ZVd93QXV4NHaYFQcs8HslgqvgjcO2y2g6LhoDIpFTuPdWdk0eZBfJ0miqsEQxQ2rrAA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/7S6j-JQBv9knK3AHbzXC/posters/0973097c-bc5c-4b28-aaca-f04d6f6cb5e2.webp", TLC HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440216:KeyName=prod_linear:Signature=fQh74ZkGXifEjr8c_j0Y_dOWGZezchvwLlun3wCa1iRX_vISdyzMXPbJs518xxtshwDNSRlC1jXrQPXL8lmkBw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450150:KeyName=prod_linear:Signature=yk6xc9rGwVnVZoTmkp6ZVd93QXV4NHaYFQcs8HslgqvgjcO2y2g6LhoDIpFTuPdWdk0eZBfJ0miqsEQxQ2rrAA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_hd/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/7C6j-JQBv9knK3AHVzUA/posters/e8f84105-5efe-4e91-a0d4-18a0849cf2f2.webp", TLC
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440216:KeyName=prod_linear:Signature=fQh74ZkGXifEjr8c_j0Y_dOWGZezchvwLlun3wCa1iRX_vISdyzMXPbJs518xxtshwDNSRlC1jXrQPXL8lmkBw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450150:KeyName=prod_linear:Signature=yk6xc9rGwVnVZoTmkp6ZVd93QXV4NHaYFQcs8HslgqvgjcO2y2g6LhoDIpFTuPdWdk0eZBfJ0miqsEQxQ2rrAA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/tlc_sd/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ny61-JQBv9knK3AHgzZ7/posters/0909b36a-afd5-426a-93b3-4512800977db.webp", Animal Planet
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440216:KeyName=prod_linear:Signature=fQh74ZkGXifEjr8c_j0Y_dOWGZezchvwLlun3wCa1iRX_vISdyzMXPbJs518xxtshwDNSRlC1jXrQPXL8lmkBw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450150:KeyName=prod_linear:Signature=yk6xc9rGwVnVZoTmkp6ZVd93QXV4NHaYFQcs8HslgqvgjcO2y2g6LhoDIpFTuPdWdk0eZBfJ0miqsEQxQ2rrAA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_sd/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ni61-JQBv9knK3AHcDYc/posters/c16e8633-6b2a-401a-9cd6-ac26a4fcdedb.webp", Animal Planet HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440216:KeyName=prod_linear:Signature=fQh74ZkGXifEjr8c_j0Y_dOWGZezchvwLlun3wCa1iRX_vISdyzMXPbJs518xxtshwDNSRlC1jXrQPXL8lmkBw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450150:KeyName=prod_linear:Signature=yk6xc9rGwVnVZoTmkp6ZVd93QXV4NHaYFQcs8HslgqvgjcO2y2g6LhoDIpFTuPdWdk0eZBfJ0miqsEQxQ2rrAA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/MC6C-JQBv9knK3AHUzUT/posters/a8c32fd3-2ba7-437c-85ac-de2f1b2fa6ca.webp", Sony BBC Earth HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440231:KeyName=prod_linear:Signature=SYLMZKDzk1uhow8eOV2lznL5Avt534ECDD0bO-da_-oJ1UoKBfVp62kdsfj6n4OE_qwN7WwF4Vk30ZJgYy8_Aw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450164:KeyName=prod_linear:Signature=wrbQn6iQoXaFgE-RgTVe4AQbQbwgnKqxRKFRfXJmkL9plMmT4y8ms3geogDow6NmjSfY10v5OCoM76szdvnwAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonybbc_earth_hd/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440231:KeyName=prod_linear:Signature=SYLMZKDzk1uhow8eOV2lznL5Avt534ECDD0bO-da_-oJ1UoKBfVp62kdsfj6n4OE_qwN7WwF4Vk30ZJgYy8_Aw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450164:KeyName=prod_linear:Signature=wrbQn6iQoXaFgE-RgTVe4AQbQbwgnKqxRKFRfXJmkL9plMmT4y8ms3geogDow6NmjSfY10v5OCoM76szdvnwAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_sd/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp", Discovery HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440231:KeyName=prod_linear:Signature=SYLMZKDzk1uhow8eOV2lznL5Avt534ECDD0bO-da_-oJ1UoKBfVp62kdsfj6n4OE_qwN7WwF4Vk30ZJgYy8_Aw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450164:KeyName=prod_linear:Signature=wrbQn6iQoXaFgE-RgTVe4AQbQbwgnKqxRKFRfXJmkL9plMmT4y8ms3geogDow6NmjSfY10v5OCoM76szdvnwAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_hd/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp", Discovery Science
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440231:KeyName=prod_linear:Signature=SYLMZKDzk1uhow8eOV2lznL5Avt534ECDD0bO-da_-oJ1UoKBfVp62kdsfj6n4OE_qwN7WwF4Vk30ZJgYy8_Aw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450164:KeyName=prod_linear:Signature=wrbQn6iQoXaFgE-RgTVe4AQbQbwgnKqxRKFRfXJmkL9plMmT4y8ms3geogDow6NmjSfY10v5OCoM76szdvnwAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_science/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp", Discovery Turbo
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440231:KeyName=prod_linear:Signature=SYLMZKDzk1uhow8eOV2lznL5Avt534ECDD0bO-da_-oJ1UoKBfVp62kdsfj6n4OE_qwN7WwF4Vk30ZJgYy8_Aw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450164:KeyName=prod_linear:Signature=wrbQn6iQoXaFgE-RgTVe4AQbQbwgnKqxRKFRfXJmkL9plMmT4y8ms3geogDow6NmjSfY10v5OCoM76szdvnwAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_turbo/playlist.m3u8
 #EXTINF:-1 group-title="Infotainment" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ay7uX5UBv9knK3AHs6TI/posters/deb3c186-b2e1-4a91-aafb-d86f9128b851.png", Investigation Discovery HD
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440231:KeyName=prod_linear:Signature=SYLMZKDzk1uhow8eOV2lznL5Avt534ECDD0bO-da_-oJ1UoKBfVp62kdsfj6n4OE_qwN7WwF4Vk30ZJgYy8_Aw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450164:KeyName=prod_linear:Signature=wrbQn6iQoXaFgE-RgTVe4AQbQbwgnKqxRKFRfXJmkL9plMmT4y8ms3geogDow6NmjSfY10v5OCoM76szdvnwAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovary_investigation_hd/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ny6W-JQBv9knK3AHujXC/posters/7e7c2afe-a663-4c09-983a-2d0fa0f1ca9a.webp", POGO
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440231:KeyName=prod_linear:Signature=SYLMZKDzk1uhow8eOV2lznL5Avt534ECDD0bO-da_-oJ1UoKBfVp62kdsfj6n4OE_qwN7WwF4Vk30ZJgYy8_Aw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450164:KeyName=prod_linear:Signature=wrbQn6iQoXaFgE-RgTVe4AQbQbwgnKqxRKFRfXJmkL9plMmT4y8ms3geogDow6NmjSfY10v5OCoM76szdvnwAw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/pogo_sd/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp", Sony YAY
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440254:KeyName=prod_linear:Signature=ms9hdBPJlsiuOlijCJovOI9Hz_rLOZpEZVwzNyHM8F8_A15J0UQQGdm5q0meqngzC-QEV9Qb1feCSEyEh1XxCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450182:KeyName=prod_linear:Signature=zvIjw9OHV8NFSi1JWBtd9PtAmZyub4MYfhXp6Dw15M4xE6uibtcnCwvpS_bmY9iDPr0WMNw9FYRESwPDpaO5Dw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyyay/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1i6e-JQBv9knK3AHHTXR/posters/325887a7-84ea-4cf9-a6fd-6111ddc25671.webp", Discovery Kids
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440254:KeyName=prod_linear:Signature=ms9hdBPJlsiuOlijCJovOI9Hz_rLOZpEZVwzNyHM8F8_A15J0UQQGdm5q0meqngzC-QEV9Qb1feCSEyEh1XxCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450182:KeyName=prod_linear:Signature=zvIjw9OHV8NFSi1JWBtd9PtAmZyub4MYfhXp6Dw15M4xE6uibtcnCwvpS_bmY9iDPr0WMNw9FYRESwPDpaO5Dw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/discovery_kids/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/mC6W-JQBv9knK3AHfDWA/posters/d2a02d82-fde4-4769-a6d9-95c0560e2120.webp", Cartoon Network
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440254:KeyName=prod_linear:Signature=ms9hdBPJlsiuOlijCJovOI9Hz_rLOZpEZVwzNyHM8F8_A15J0UQQGdm5q0meqngzC-QEV9Qb1feCSEyEh1XxCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450182:KeyName=prod_linear:Signature=zvIjw9OHV8NFSi1JWBtd9PtAmZyub4MYfhXp6Dw15M4xE6uibtcnCwvpS_bmY9iDPr0WMNw9FYRESwPDpaO5Dw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_sd/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/1y6e-JQBv9knK3AHNDWb/posters/ee9ba01b-1bcf-436b-b273-7b857f0810fb.webp", Cartoon Network HD +
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778440254:KeyName=prod_linear:Signature=ms9hdBPJlsiuOlijCJovOI9Hz_rLOZpEZVwzNyHM8F8_A15J0UQQGdm5q0meqngzC-QEV9Qb1feCSEyEh1XxCw"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1778450182:KeyName=prod_linear:Signature=zvIjw9OHV8NFSi1JWBtd9PtAmZyub4MYfhXp6Dw15M4xE6uibtcnCwvpS_bmY9iDPr0WMNw9FYRESwPDpaO5Dw"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 
 #name: Crichd 24/7 live channels
@@ -326,202 +311,181 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 #online channels: 54
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:34:50 AM 09-05-2026
+#last update time: 04:34:52 AM 09-05-2026
 
 # --- Cricket Live Events ---
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PREMIERUK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn10.zohanayaan.com:1686/hls/premieruk.m3u8?md5=MYt499DMD0u8vzHQ4QZ-BA&expires=1778280631
+https://cdn7.zohanayaan.com:1686/hls/premieruk.m3u8?md5=Ds8UkNbS19FvE7J9_R5GVQ&expires=1778284232
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/Pakistan%20vs%20Bangladesh.png" group-title="Live Cricket", Pakistan vs Bangladesh (PTVPK)
 #EXTVLCOPT:http-referrer=https://teachtrendhub.com/
-https://cdn2.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=BpjUMTZeNxrd55uKnvfqBw&expires=1778280631
+https://cdn8.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=WijM2N_qs5Nz-RixYFcpUQ&expires=1778284232
 
 # --- 24/7 Channels ---
-#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/6.jpg" group-title="CricHD 24/7", Sky Sports Premier League
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/skysprem.m3u8?md5=0i-2nhy9kfuSXNuPmyTehA&expires=1778280827
-#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/9.png" group-title="CricHD 24/7", Sky Sports News
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/skyspnews.m3u8?md5=WGVeuSIR_o1N0qiWEw1lZg&expires=1778280827
-#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/5.png" group-title="CricHD 24/7", Sky Sports Golf
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/skysgol.m3u8?md5=zs_mILAkmJa1B6hSqWnJAQ&expires=1778280827
-#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/4.png" group-title="CricHD 24/7", Sky Sports Action
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skysact.m3u8?md5=tEgQKjPrz1QmU5XgpPOkgQ&expires=1778280827
-#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/3.png" group-title="CricHD 24/7", Sky Sports Cricket
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/skyscric.m3u8?md5=JbWVUHpMcPwxAeaECEfrSA&expires=1778280827
 #EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/47.png" group-title="CricHD 24/7", Sky Sports Football
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skysfott.m3u8?md5=5l0kqhYN9TIY5ZEnRz0Qvg&expires=1778280827
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Sky_Sports_Tennis.svg/revision/latest/scale-to-width-down/340?cb=20230830104212" group-title="CricHD 24/7", Sky Sports Tennis
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/skystennis.m3u8?md5=j6G4I8W2mZUrApwmfQu1aA&expires=1778280827
-#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/8.png" group-title="CricHD 24/7", Sky Sports Mix
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=UpUmIoCBa2JpQmA9Em0E2A&expires=1778280827
-#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/1.jpg" group-title="CricHD 24/7", Sky Sports Main Event
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/skysme.m3u8?md5=VgXxCFzKsPhwjFDQ7QiRKQ&expires=1778280827
+https://cdn4.zohanayaan.com:1686/hls/skysfott.m3u8?md5=TnmVYs_Rc_mg6M6VlhDW1A&expires=1778284428
 #EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/7.png" group-title="CricHD 24/7", Sky Sports F1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=BUgNU5itfyeooYPAtc0IqQ&expires=1778280827
+https://cdn5.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=G3atl7RP7bxRPGsfW76eyQ&expires=1778284428
+#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/8.png" group-title="CricHD 24/7", Sky Sports Mix
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/skysmixx.m3u8?md5=FRklarCXz3oJDKeQlw3oSA&expires=1778284428
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2d/Sky_Sports_Tennis.svg/revision/latest/scale-to-width-down/340?cb=20230830104212" group-title="CricHD 24/7", Sky Sports Tennis
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/skystennis.m3u8?md5=7lyUD-k8Pk3fFmGOUsi0_w&expires=1778284428
+#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/4.png" group-title="CricHD 24/7", Sky Sports Action
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/skysact.m3u8?md5=n1CVnEDvJLjQmSrdOQx7Sw&expires=1778284428
+#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/9.png" group-title="CricHD 24/7", Sky Sports News
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/skyspnews.m3u8?md5=vnXz-1qxyxoudKHAMOOSNg&expires=1778284428
+#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/5.png" group-title="CricHD 24/7", Sky Sports Golf
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn8.zohanayaan.com:1686/hls/skysgol.m3u8?md5=brOmHlTe5ya6VzBvcQAFMQ&expires=1778284428
+#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/1.jpg" group-title="CricHD 24/7", Sky Sports Main Event
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/skysme.m3u8?md5=SMC5t7K7p0ZgGwmjQ_m8ew&expires=1778284428
+#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/3.png" group-title="CricHD 24/7", Sky Sports Cricket
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/skyscric.m3u8?md5=lyjbBsHHxlpYyV5Cd3X8aQ&expires=1778284428
+#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/6.jpg" group-title="CricHD 24/7", Sky Sports Premier League
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/skysprem.m3u8?md5=OBY6lxXihDVVZ5iRWqeTxg&expires=1778284428
 #EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/13.gif" group-title="CricHD 24/7", TNT Sports 4
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=PuxQsyEYCD0YpnbcTF2n0Q&expires=1778280827
+https://cdn3.zohanayaan.com:1686/hls/bbtespn.m3u8?md5=SOqJyTNQSxoweG_sK2GOPw&expires=1778284429
 #EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/10.gif" group-title="CricHD 24/7", TNT Sports 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=0LzLuZa_dUwdgVyvz9inOQ&expires=1778280827
-#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/28.gif" group-title="CricHD 24/7", Viaplay Sports 2 UK
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=v21fx-pa_DI-4oRLm5E-Ig&expires=1778280827
+https://cdn4.zohanayaan.com:1686/hls/bbtsp1.m3u8?md5=pFElwRcTZWIHrJ7Z6iCBgw&expires=1778284429
 #EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/54.png" group-title="CricHD 24/7", LaLiga TV UK
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/laligauk.m3u8?md5=pYNHtY7ehWHCc_eyikTg4A&expires=1778280827
+https://cdn4.zohanayaan.com:1686/hls/laligauk.m3u8?md5=qCTuLUvh78Apeuupic5kQQ&expires=1778284429
+#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/28.gif" group-title="CricHD 24/7", Viaplay Sports 2 UK
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn9.zohanayaan.com:1686/hls/hdchnl2.m3u8?md5=bfU52w31V6RuQz1a2VJCTQ&expires=1778284429
 #EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/11.gif" group-title="CricHD 24/7", TNT Sports 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=eD7rLvwakK2aer8weNF4sQ&expires=1778280827
-#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/12.gif" group-title="CricHD 24/7", TNT Sports 3
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=deWGfcEsfbf3VrTrBtsMNg&expires=1778280827
-#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/19.png" group-title="CricHD 24/7", Star Sports 1
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/star1in.m3u8?md5=csQfdu2G2xQOGSzRt6ftPg&expires=1778280828
+https://cdn7.zohanayaan.com:1686/hls/bbtsp2.m3u8?md5=2Y2Q442bzYHrp2MSCl012Q&expires=1778284429
 #EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/17.gif" group-title="CricHD 24/7", Viaplay Sports 1 UK
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/premieruk.m3u8?md5=JEaqIu3dRIYeXnOXHjI_tQ&expires=1778280827
+https://cdn4.zohanayaan.com:1686/hls/premieruk.m3u8?md5=WPU9Oq20o3eWEABlblfj7w&expires=1778284429
+#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/12.gif" group-title="CricHD 24/7", TNT Sports 3
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/bbtsp3.m3u8?md5=r5A9_ERv26gNNLzx4VG6sQ&expires=1778284429
+#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/19.png" group-title="CricHD 24/7", Star Sports 1
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/star1in.m3u8?md5=NwzKBHnXugLkRWuIu7Yalg&expires=1778284429
 #EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/18.png" group-title="CricHD 24/7", PTV Sports
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=634iGrFXDwBWUvPDdL-PrQ&expires=1778280828
-#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/20.png" group-title="CricHD 24/7", Willow Cricket
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/willowusa.m3u8?md5=-rqAarczdeBdsMIEtukhsg&expires=1778280847
+https://cdn10.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=Z8VsoLDYzsl-FolnSyLbVA&expires=1778284429
 #EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/50.gif" group-title="CricHD 24/7", Ten Sports
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/tenspk.m3u8?md5=TFI_NbuZymwW5nqeb_ix1w&expires=1778280848
-#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/148.png" group-title="CricHD 24/7", ESPN 2 US
+https://cdn3.zohanayaan.com:1686/hls/tenspk.m3u8?md5=IAsS9o93gbTRwTNN-5dRyw&expires=1778284449
+#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/20.png" group-title="CricHD 24/7", Willow Cricket
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/espn2.m3u8?md5=lhQt7f5cOuNIFhXBBxF3kQ&expires=1778280848
-#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/56.png" group-title="CricHD 24/7", A Sports HD
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/asportshd.m3u8?md5=KPxGxPeTbMt1CQASW4_RzQ&expires=1778280848
+https://cdn2.zohanayaan.com:1686/hls/willowusa.m3u8?md5=DvSzmsqkaQ20Uz_84biwDA&expires=1778284449
 #EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/51.gif" group-title="CricHD 24/7", Star Sports 1 Hindi
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/starhindi.m3u8?md5=I95P4epPRDrVRRsSd-J4iQ&expires=1778280848
-#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/55.png" group-title="CricHD 24/7", Willow Cricket Extra
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/willowextra.m3u8?md5=asXeIfJCBD1nSrNtQC1TTA&expires=1778280848
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 1 NZ
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=QGgF7z9aF_FDi_ylcXu5Kw&expires=1778280848
+https://cdn1.zohanayaan.com:1686/hls/starhindi.m3u8?md5=NNTCfueODrsqh1rJPMjFEg&expires=1778284449
 #EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/147.png" group-title="CricHD 24/7", ESPN US
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/espnusa.m3u8?md5=YMq4KFc7zhnxPM1-Pa_wPw&expires=1778280848
+https://cdn2.zohanayaan.com:1686/hls/espnusa.m3u8?md5=I3CGL7LrC_dCeZYUyXNzYA&expires=1778284449
+#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/56.png" group-title="CricHD 24/7", A Sports HD
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/asportshd.m3u8?md5=3uKOGX_UOAQThTOcdAxr3A&expires=1778284449
+#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/55.png" group-title="CricHD 24/7", Willow Cricket Extra
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/willowextra.m3u8?md5=kwh6cPkEMB6CXCEJFk_aJA&expires=1778284449
+#EXTINF:-1 tvg-logo="https://app.crichd.tv/assets/uploads/channels/148.png" group-title="CricHD 24/7", ESPN 2 US
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/espn2.m3u8?md5=MWGNLBBXrQRrngherjBTKA&expires=1778284449
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 1 NZ
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/sky1nz.m3u8?md5=feAdtVbRHWAV-95rJ09c3w&expires=1778284450
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 2 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=O3nylVMtdCA7WDPy8SyEsQ&expires=1778280848
+https://cdn7.zohanayaan.com:1686/hls/sky2nz.m3u8?md5=NFQaBaZBb1eRy9G5Ki6m7A&expires=1778284450
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 3 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=_DbDuZyo_OVte5IKvKZC9Q&expires=1778280848
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 4 NZ
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=15-u2O9OAPxoWTiDg99TUw&expires=1778280848
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 6 NZ
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=eZtb1d5YMcgle_42f2cmMg&expires=1778280848
+https://cdn5.zohanayaan.com:1686/hls/sky3nz.m3u8?md5=jDO36IDKCw1020HFtaVv9w&expires=1778284450
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 5 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=7oGwaWEzdgVMaADveVK57A&expires=1778280848
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 8 NZ
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=-x1f_fPViilYfLU_E04Grg&expires=1778280848
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 7 NZ
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=MeSOTFZDN4hp6cx7RO9xQw&expires=1778280848
+https://cdn3.zohanayaan.com:1686/hls/sky5nz.m3u8?md5=tsyCapmWsHPSA6zN07BT_Q&expires=1778284450
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 9 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=ZeOfmlny04_BAa9S-ZWgxQ&expires=1778280849
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Deportes
+https://cdn8.zohanayaan.com:1686/hls/sky9nz.m3u8?md5=T4sTsIZupnmeVfkm-ZmnVQ&expires=1778284450
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 4 NZ
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn1.zohanayaan.com:1686/hls/foxdeportesas1.m3u8?md5=H4-kmPLgLi2kPWE0XfKGlg&expires=1778280868
+https://cdn3.zohanayaan.com:1686/hls/sky4nz.m3u8?md5=1VbwaTrI1MRfh0QvP3xeqg&expires=1778284450
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 7 NZ
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/sky7nz.m3u8?md5=UuTHXYegoOhyU4vvKCKz_w&expires=1778284450
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 8 NZ
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn5.zohanayaan.com:1686/hls/sky8nz.m3u8?md5=BEk1r0ZYsubfT3UrdLudbg&expires=1778284450
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Sky_Sport_NZ_2019.svg/revision/latest/scale-to-width-down/300?cb=20200809114740" group-title="CricHD 24/7", Sky Sport 6 NZ
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn1.zohanayaan.com:1686/hls/sky6nz.m3u8?md5=m7xpgUR3YQgLHLzos_uLBw&expires=1778284450
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/BeIN_Sports_2017_flat.svg/revision/latest/scale-to-width-down/300?cb=20230910182143" group-title="CricHD 24/7", BeIn Sports USA
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/beinusas.m3u8?md5=fR_hdr2fXC4Dj27lolR7mg&expires=1778280868
+https://cdn6.zohanayaan.com:1686/hls/beinusas.m3u8?md5=5_n0pO1L2t-G_sYbXMqqDA&expires=1778284470
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Deportes
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn6.zohanayaan.com:1686/hls/foxdeportesas1.m3u8?md5=aCwTTfPzPHSyBBBmOA081g&expires=1778284470
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Vamos_por_Movistar_Plus+_2023.svg/revision/latest/scale-to-width-down/315?cb=20230728170813" group-title="CricHD 24/7", Movistar Deportes
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/mdeportess.m3u8?md5=RTL1u4ByYI7P2ktOI-wKSw&expires=1778280869
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Sports 1 US
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/foxsp1usa.m3u8?md5=VfVZJQ0R1yCDX0FlEfB5kw&expires=1778280869
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest/scale-to-width-down/250?cb=20230127192854" group-title="CricHD 24/7", TUDN USA
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/tudnusas.m3u8?md5=RITwakkzS72G-5W-C5BA2Q&expires=1778280869
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD 24/7", DAZN 1 Spain
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/dazn1sp1.m3u8?md5=T5IXRKt0odL4ZP0WZ71Gbg&expires=1778280869
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Sports 2 US
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/foxsp2usa.m3u8?md5=kXkHTtmo-hDnFSpbWopyEw&expires=1778280869
+https://cdn6.zohanayaan.com:1686/hls/mdeportess.m3u8?md5=lxiWNJAdBrTHyUBDgbI9vA&expires=1778284470
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD 24/7", NBC
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/nbccs.m3u8?md5=Fg3UKud98R6d0Q3ch6B4eA&expires=1778280869
+https://cdn4.zohanayaan.com:1686/hls/nbccs.m3u8?md5=GQ2R3cVSc2ELDt4e-OXwRw&expires=1778284470
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Sports 2 US
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn4.zohanayaan.com:1686/hls/foxsp2usa.m3u8?md5=JmD0OeqXBmpZIQ93U4Ov_Q&expires=1778284470
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f6/TUDN.svg/revision/latest/scale-to-width-down/250?cb=20230127192854" group-title="CricHD 24/7", TUDN USA
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn7.zohanayaan.com:1686/hls/tudnusas.m3u8?md5=yzvE5NDz5kmx1_PEKqqacQ&expires=1778284470
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Vamos_por_Movistar_Plus+_2023.svg/revision/latest/scale-to-width-down/315?cb=20230728170813" group-title="CricHD 24/7", Movistar #Vamos
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn4.zohanayaan.com:1686/hls/mvamoss.m3u8?md5=T1fD1ed6PFzOOTsUsVqDWA&expires=1778280869
+https://cdn1.zohanayaan.com:1686/hls/mvamoss.m3u8?md5=McBeTHZtaNY_alQzR1j2Iw&expires=1778284470
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Sports 1 US
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/foxsp1usa.m3u8?md5=uCQQZYSjiwxXGFviVg8ZYA&expires=1778284470
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD 24/7", DAZN 2 Spain
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/dazn2sp2.m3u8?md5=QPqIYDf3F8Mab-miw1Fmbw&expires=1778280869
+https://cdn1.zohanayaan.com:1686/hls/dazn2sp2.m3u8?md5=s7tERwPxNAF9zAd5RI05wA&expires=1778284471
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD 24/7", DAZN 1 Spain
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn3.zohanayaan.com:1686/hls/dazn1sp1.m3u8?md5=VAHLg6GiBkmKBoyNzAwudg&expires=1778284471
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD 24/7", DAZN 3 Spain
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/dazn3sp3.m3u8?md5=w5BwBNFq2Sf7MX3caBa4iw&expires=1778280869
+https://cdn1.zohanayaan.com:1686/hls/dazn3sp3.m3u8?md5=TdvFuyRpJeVUrogXFtisew&expires=1778284471
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/DAZN_2019_logo.svg/revision/latest/scale-to-width-down/200?cb=20210824002335" group-title="CricHD 24/7", DAZN 4 Spain
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn9.zohanayaan.com:1686/hls/dazn4sp4.m3u8?md5=j2iTt1EmnvHJyaz72a7vTg&expires=1778280869
+https://cdn2.zohanayaan.com:1686/hls/dazn4sp4.m3u8?md5=qup9HXHrXTNNp2ACuV3EKg&expires=1778284471
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/LaLiga_TV_Hypermotion.svg/revision/latest/scale-to-width-down/250?cb=20230704141115" group-title="CricHD 24/7", LaLiga TV Hypermotion
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn8.zohanayaan.com:1686/hls/laligatvhyper1.m3u8?md5=nzQIEdRCiPPMHGapAENycQ&expires=1778280869
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Itv2024.svg/revision/latest/scale-to-width-down/250?cb=20250608152944" group-title="CricHD 24/7", ITV4
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn2.zohanayaan.com:1686/hls/itv4.m3u8?md5=kQyVc15Z6uSOdAtnDx3xKQ&expires=1778280869
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Soccer Plus
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn5.zohanayaan.com:1686/hls/foxsoccer.m3u8?md5=p9j1Wi01CUoLaP4nKEQ8Dg&expires=1778280869
-#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD 24/7", BBC Two
-#EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn6.zohanayaan.com:1686/hls/hdchnl5.m3u8?md5=30S2Xd52ScwlGIR5T2Td3w&expires=1778280889
+https://cdn3.zohanayaan.com:1686/hls/laligatvhyper1.m3u8?md5=fXoHWFqzX8-b6y4okahv0w&expires=1778284471
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Itv2024.svg/revision/latest/scale-to-width-down/250?cb=20250608152944" group-title="CricHD 24/7", ITV 1
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn3.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=5qNnxlYQaLomRUr5Gf1Lyw&expires=1778280889
+https://cdn7.zohanayaan.com:1686/hls/hdchnl4.m3u8?md5=c00kn9jWRIyUHo0Uzv7I9Q&expires=1778284471
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/La_Liga_Hypermotion_2.svg/revision/latest/scale-to-width-down/250?cb=20240921151926" group-title="CricHD 24/7", LaLiga TV Hypermotion 2
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn7.zohanayaan.com:1686/hls/laligatvhyper2.m3u8?md5=AU9y88GdIkD5d0nM0lMZ0A&expires=1778280889
+https://cdn6.zohanayaan.com:1686/hls/laligatvhyper2.m3u8?md5=AD0TlBkgCDz_T2fLRsXEsg&expires=1778284471
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Itv2024.svg/revision/latest/scale-to-width-down/250?cb=20250608152944" group-title="CricHD 24/7", ITV4
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/itv4.m3u8?md5=s64qmBoGpjuwTP4YmVklbQ&expires=1778284471
+#EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD 24/7", BBC Two
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/hdchnl5.m3u8?md5=-M_1sWuQgWFAmBEsDu82-Q&expires=1778284491
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Fox_Sports_2012.svg/revision/latest/scale-to-width-down/250?cb=20260204234819" group-title="CricHD 24/7", Fox Soccer Plus
+#EXTVLCOPT:http-referrer=https://executeandship.com/
+https://cdn2.zohanayaan.com:1686/hls/foxsoccer.m3u8?md5=fyK-7ZQlEKMIY720q4WV3A&expires=1778284491
 #EXTINF:-1 tvg-logo="https://thumbnailer.mixcloud.com/unsafe/1200x628/profile/0/b/8/4/638c-6c4d-4572-b452-cc4468b2f1e2" group-title="CricHD 24/7", ESPN Deportes
 #EXTVLCOPT:http-referrer=https://executeandship.com/
-https://cdn10.zohanayaan.com:1686/hls/espndeportess.m3u8?md5=-bTB5d4SjycR6EqhIymeQg&expires=1778280890
+https://cdn3.zohanayaan.com:1686/hls/espndeportess.m3u8?md5=ZYBJ967b-0lRrwu4ABSXqw&expires=1778284492
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 03:30:20 AM 09-05-2026
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Day 3   Main Feed | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/day_3___main_feed_142223_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Main Feed   Day 2 | Truist Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/main_feed___day_2_142096_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Y. Hanfmann Vs L. Darderi  | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/y__hanfmann_vs_l__darderi__142615_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", World Feed   Day 2 | Truist Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/world_feed___day_2_142095_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Featured Groups   Day 2 | Truist Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/featured_groups___day_2_142098_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Marquee Group   Day 2 | Truist Championship 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/marquee_group___day_2_142097_english.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", Musetti Vs Perricard | ATP Masters Internazionali BNL d'Italia 2026 (ENGLISH)
-https://fancode-bd-srhady.vercel.app/musetti_vs_perricard_142616_english.m3u8
+#last update time: 04:30:20 AM 09-05-2026
 
