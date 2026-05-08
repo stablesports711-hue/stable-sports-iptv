@@ -1,25 +1,14 @@
 #EXTM3U
 # Playlist Name: Tapmad bd
-# Last Update: 05:30 AM 08-05-2026
+# Last Update: 07:20 AM 08-05-2026
 # Telegram: https://t.me/livesportsplay
 # Owner: Md Sohanur Rahman Hady
 # Special thanks to Shuvo vai for contributing his premium Tapmad account.
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode-Golf", Main Feed - Day 1 vs Quail Hollow Club - Charlotte- North Carolina (Truist Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142092_english_hls_0e93307f1072109_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode-Golf", Featured Groups - Day 1 vs Quail Hollow Club - Charlotte- North Carolina (Truist Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142094_english_hls_ba942a271847033_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode-Golf", Marquee Group - Day 1 vs Quail Hollow Club - Charlotte- North Carolina (Truist Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142093_english_hls_39a3137b2d79864_1ta-di_h264/index.m3u8
-
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Fancode-Golf", World Feed - Day 1 vs Quail Hollow Club - Charlotte- North Carolina (Truist Championship 2026)
-https://bd-mc-fblive.fancode.com/mumbai/142091_english_hls_65b118d6a394724_1ta-di_h264/index.m3u8
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:30:25 AM 08-05-2026
+# last_update: 07:15:18 AM 08-05-2026
 #EXTINF:-1 tvg-name="Welcome to PlayZ TV" group-title="Welcome to PlayZ TV | New App" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyniKyW9pUz1OKx5bgzLASwGVSuP0e7hX9FxVMTJMHxhu8X0tpucgSplBZgM8pCYrJJH0P2_dTC1-wzp4mMUU4sKnOzghGPCwWdbYOOa4jTyhpr7ydNj-UK-bc56IMsk2H3WZJ-SzSZIk0dTpyABCFR2_zjC2_c86W1pv7odFBT_Y-hyJs62g-3zCJkPGd/s1024/1000398131.png",Welcome to PlayZ TV {Sponsored}
 https://playztv.pages.dev/promo/intro-2.mp4
 
@@ -297,10 +286,19 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/cartoon_network_hd/playlist.m3u8
 #online channels: 0
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:03:39 AM 08-05-2026
+#last update time: 07:03:44 AM 08-05-2026
 
 #name: Fancode Auto Update Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update time: 05:30:27 AM 08-05-2026
+#last update time: 07:15:21 AM 08-05-2026
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket", Fiji Vs Vanuatu | ICC Men's T20 WC EAP Sub-regional Qualifier A + B  (ENGLISH)
+https://fancode-bd-srhady.vercel.app/fiji_vs_vanuatu_142304_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png" group-title="Cricket", Indonesia Vs Philippines | ICC Men's T20 WC EAP Sub-regional Qualifier A + B  (ENGLISH)
+https://fancode-bd-srhady.vercel.app/indonesia_vs_philippines_142303_english.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CHK-Womens-T20_fc-web.jpg" group-title="Cricket", China Women Vs Malaysia Women | CHK Women's T20I Series 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/china_women_vs_malaysia_women_142297_english.m3u8
 
