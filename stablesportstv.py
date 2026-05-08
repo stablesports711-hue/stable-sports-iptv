@@ -17,6 +17,10 @@ custom_channels = """
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
 http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="LIVE SPORTS", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
+https://fancode-bd-srhady.vercel.app/bangladesh_vs_pakistan_142160_english.m3u8
+
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.ibb.co.com/V04pB3mj/1776384168515.png",Bangladesh VS New Zealand 
 http://172.20.21.22/live/skyfeed1005/index.m3u8
 
