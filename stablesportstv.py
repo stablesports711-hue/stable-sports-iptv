@@ -26,7 +26,7 @@ https://fancode-bd-srhady.vercel.app/bangladesh_vs_pakistan_142160_english.m3u8
 https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ljE2lZ0BNnOkwJLW9lrg/posters/b4bee75a-b8a3-4594-b562-6e3910d71625.png",Bangladesh Vs Pakistan 
-http://172.20.21.22/live/skyfeed1005/index.m3u8
+http://10.10.10.2/live/fnf004/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fLh0bmsF/images-(2).jpg",IPL [2026]|HD
 http://premimum.online/live/jen12345/jen54321/705142.ts
