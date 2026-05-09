@@ -22,7 +22,7 @@ https://fancode-bd-srhady.vercel.app/bangladesh_vs_pakistan_142160_english.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ljE2lZ0BNnOkwJLW9lrg/posters/b4bee75a-b8a3-4594-b562-6e3910d71625.png", Bangladesh VS Pakistan
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1778261542:KeyName=prod_live_events:Signature=V2TQ5JKPFMPB7C-uAV1CENVazRVMjCEVkAGhfIV9isJcvmAT8ujaFGiVFFXfOIucdZbLWO2VkTAEJlsW-LMrAg"}
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1778343120:KeyName=prod_live_events:Signature=Gbb9OIFtEMf6UjN07IFxPcmaCV0Wi7U8GYDNYrwcE0wBlDQqpr37GNOi8rsPPImgj3NSMTXGsaVkrMSOgvN1BA"}
 https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-13219" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780696481020x576.jpg" group-title="Cricket", Bangladesh vs Pakistan Live | Pakistan Tour of Bangladesh 2026
