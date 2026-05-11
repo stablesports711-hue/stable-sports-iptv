@@ -299,6 +299,9 @@ https://stream.spicefmbd.com/stream.m3u8
 #EXTINF:-1 tvg-id="3428" tvg-name="Discovery HD Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDBen.png" tvg-language="Bengali" tvg-type="Infotainment" group-title="Infotainment", Discovery HD Bengali
 http://103.180.212.191:3500/live/3428.m3u8
 
+"#EXTINF:-1 tvg-id="573" tvg-name="Discovery Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" tvg-language="Bengali" group-title="Infotainment", Discovery Bengali
+http://103.159.180.34:5001/live/573.m3u8"
+
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/DzBr7HcM/1773936983038.png",STABLE-SPORTS TV
 http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
