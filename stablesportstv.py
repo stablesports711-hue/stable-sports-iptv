@@ -334,7 +334,7 @@ for source in sources:
 
             print(f"Loaded: {source}")
 
-        else:premium 
+        else:
             print(f"Failed: {source}")
 
     except Exception as e:
