@@ -296,8 +296,8 @@ https://audio.streamcast.xyz/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPAWpc2wbXTll1LR3mgHz3jiFUCl6ixkGunZTAQ3_NasS7HzM88RCM8E&s=10" group-title="FM Radio 📻", 96.4 Spice FM
 https://stream.spicefmbd.com/stream.m3u8 
 
-#EXTINF:-1 tvg-id="3428" tvg-name="Discovery HD Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDBen.png" tvg-language="Bengali" tvg-type="Infotainment" group-title="Infotainment", Discovery HD Bengali
-http://103.180.212.191:3500/live/3428.m3u8
+#EXTINF:-1 tvg-id="3428" tvg-name="Discovery HD Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDBen.png" tvg-language="Bengali" group-title="Infotainment", Discovery HD Bengali
+http://103.159.180.34:5001/live/3428.m3u8
 
 "#EXTINF:-1 tvg-id="573" tvg-name="Discovery Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" tvg-language="Bengali" group-title="Infotainment", Discovery Bengali
 http://103.159.180.34:5001/live/573.m3u8"
