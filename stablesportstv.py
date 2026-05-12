@@ -15,7 +15,7 @@ sources = [
 custom_channels = """
 #EXTM3U
 
-#EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/c18hMmZL/F5MBOPJ3X5A35EJX2HXMUUFQNU.jpg",FIFA World Cup 2026 [coming]
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/c18hMmZL/F5MBOPJ3X5A35EJX2HXMUUFQNU.jpg",FIFA World Cup 2026 [coming]
 http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
