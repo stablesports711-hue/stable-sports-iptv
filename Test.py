@@ -1,98 +1,63 @@
 import requests
+import json
 
 OUTPUT_FILE = "Test.m3u"
 
-JSON_URL = "https://raw.githubusercontent.com/srhady/vipsports/refs/heads/main/alpha_live.json"
+# তোমার Main m3u
+MAIN_M3U = "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-iptv/refs/heads/main/Test.m3u"
 
-M3U_SOURCES = [
-    "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
-    "https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/ott_navigator.m3u"
-]
+# JSON source
+JSON_SOURCE = "https://raw.githubusercontent.com/srhady/vipsports/refs/heads/main/alpha_live.json"
 
-# =========================
-# YOUR CUSTOM CHANNELS
-# =========================
-custom_channels = """
-#EXTM3U
 
-#EXTINF:-1 group-title="PROMO",STABLE-SPORTS TV
-http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
+def fetch_text(url):
+    r = requests.get(url, timeout=20)
+    r.raise_for_status()
+    return r.text
 
-#EXTINF:-1 group-title="SPORTS",T Sports
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BANGLA",BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
-"""
+def convert_json_to_m3u(data):
+    m3u = ""
 
-# =========================
-# FETCH JSON
-# =========================
-def fetch_json_channels():
-    try:
-        r = requests.get(JSON_URL, timeout=20)
-        data = r.json()
+    for item in data:
+        name = item.get("name", "Unknown")
+        logo = item.get("logo", "")
+        group = item.get("group", "VIP SPORTS")
+        url = item.get("url", "")
 
-        output = ""
+        if url:
+            m3u += f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n'
+            m3u += f"{url}\n"
 
-        for ch in data:
-            name = ch.get("name", "Unknown")
-            logo = ch.get("logo", "")
-            url = ch.get("url", "")
+    return m3u
 
-            output += f'#EXTINF:-1 tvg-logo="{logo}",{name}\n'
-            output += f'{url}\n'
 
-        print("Loaded JSON")
-        return output
-
-    except Exception as e:
-        print("JSON Error:", e)
-        return ""
-
-# =========================
-# FETCH M3U
-# =========================
-def fetch_m3u(url):
-    try:
-        r = requests.get(url, timeout=20)
-
-        if r.status_code == 200:
-            lines = r.text.splitlines()
-
-            return "\n".join(
-                line for line in lines
-                if line.strip() != "#EXTM3U"
-            )
-
-        return ""
-
-    except Exception as e:
-        print("M3U Error:", e)
-        return ""
-
-# =========================
-# BUILD PLAYLIST
-# =========================
 output = "#EXTM3U\n\n"
 
-# 1. Your channels
-output += custom_channels + "\n"
+# ১. তোমার existing Test.m3u
+try:
+    main = fetch_text(MAIN_M3U)
+    for line in main.splitlines():
+        if line.strip() != "#EXTM3U":
+            output += line + "\n"
+    print("✅ Main M3U Loaded")
+except Exception as e:
+    print("Main M3U Error:", e)
 
-# 2. JSON channels
-output += fetch_json_channels() + "\n"
+# ২. JSON convert করে add
+try:
+    json_text = fetch_text(JSON_SOURCE)
+    data = json.loads(json_text)
 
-# 3. Auto-update M3U links
-for source in M3U_SOURCES:
-    output += fetch_m3u(source) + "\n"
+    output += "\n# ===== AUTO JSON CHANNELS =====\n"
+    output += convert_json_to_m3u(data)
 
-# 4. Your channels again
-output += custom_channels + "\n"
+    print("✅ JSON Added")
+except Exception as e:
+    print("JSON Error:", e)
 
-# =========================
-# SAVE
-# =========================
+# Save
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     f.write(output)
 
-print("✅ STABLE-SPORTS TV.m3u Updated Successfully")
+print("✅ Test.m3u Updated Successfully")
