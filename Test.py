@@ -1,6 +1,6 @@
 import requests
 
-OUTPUT_FILE = "STABLE-SPORTS TV.m3u"
+OUTPUT_FILE = "Test.m3u"
 
 JSON_URL = "https://raw.githubusercontent.com/srhady/vipsports/refs/heads/main/alpha_live.json"
 
