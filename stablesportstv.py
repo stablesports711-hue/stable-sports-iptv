@@ -22,7 +22,7 @@ https://content-aaps1.uplynk.com/bc59384cb3d64f5ab6a551ecbf8835fa/f.m3u8?pbs=f32
 http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="LIVE SPORTS", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_pakistan_142160_english.m3u8
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_pakistan_142161_english.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-13219" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780696481020x576.jpg" group-title="Cricket", Bangladesh vs Pakistan Live | Pakistan Tour of Bangladesh 2026
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8
