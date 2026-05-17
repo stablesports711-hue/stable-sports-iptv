@@ -145,7 +145,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png" group-title="Bangla",Bijoy TV
-https://bozztv.com/rongo/rongo-BijoyTV/tracks-v1a1/mono.m3u8
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/581.ts
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/pran-RFL.png" group-title="Bangladesh",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
