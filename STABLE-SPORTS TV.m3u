@@ -206,7 +206,7 @@ http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",RTV
 #http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
-https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1775696923&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=426170d04d50bb678c629cbf620a9607
+http://116.204.149.16/rtvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="nexustv" tvg-name="Nexus TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png" group-title="Bangladesh",Nexus TV
 https://bozztv.com/rongo/rongo-NEXUSTVENC1/index.m3u8
@@ -255,7 +255,7 @@ http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
 http://premimum.online/live/jen12345/jen54321/215.ts
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png",Gazi TV
-http://198.195.239.50:8095/bdixbd.net_gazitvhd/video.m3u8
+https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYLijjughYF51FVjWeUtGKFckDYqm8B1elAgERP4HIDMf8KpDYC7LpZ4&s=10" group-title="MUSIC", Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
