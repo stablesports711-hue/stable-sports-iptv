@@ -220,7 +220,7 @@ http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",RTV
 #http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
-https://tvsen5.aynascope.net/RtvHD/index.m3u8?e=1775696923&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=426170d04d50bb678c629cbf620a9607
+http://116.204.149.16/rtvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="nexustv" tvg-name="Nexus TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png" group-title="Bangladesh",Nexus TV
 https://bozztv.com/rongo/rongo-NEXUSTVENC1/index.m3u8
