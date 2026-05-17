@@ -3,7 +3,7 @@ import requests
 OUTPUT_FILE = "STABLE-SPORTS TV.m3u"
 
 sources = [
-    "https://raw.githubusercontent.com/abusaeeidx/Toffee-playlist/refs/heads/main/ott_navigator.m3u",
+    "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-toffee/refs/heads/main/toffee.m3u",
     "https:.//cdn-data-margify-tv-for-user.pages.dev/playlist.m3u",
     "https:.//raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/roar-zone-playlist.m3u"
 ]
