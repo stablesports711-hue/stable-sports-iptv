@@ -37,10 +37,10 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
 http://premimum.online/live/jen12345/jen54321/705142.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/cLMhZxwD/ipl-fi4-1773559910.jpg",IPL [2026]
-#https://tcfbrravdlgqrymqfcgu.supabase.co/functions/v1/stream-proxy?url=https://game.denver69.fun/Series/willow_eng.m3u8
-http://maxotts.maxdigitaltv.com/x-media/C250/master.m3u8
+http://premimum.online/live/jen12345/jen54321/705160.ts
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/cLMhZxwD/ipl-fi4-1773559910.jpg",IPL [2026]
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/2494.ts
+http://premimum.online/live/jen12345/jen54321/215.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fLh0bmsF/images-(2).jpg",IPL [2026]
 http://premimum.online/live/jen12345/jen54321/114479.ts
