@@ -18,6 +18,12 @@ custom_channels = """
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/c18hMmZL/F5MBOPJ3X5A35EJX2HXMUUFQNU.jpg",FIFA World Cup 2026 [coming]
 https://content-aaps1.uplynk.com/bc59384cb3d64f5ab6a551ecbf8835fa/f.m3u8?pbs=f32f9cb9f5e04187b4ff805be4645781
 
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 [coming]
+http://premimum.online/live/jen12345/jen54321/129703.ts
+
+#EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 [coming]
+http://premimum.online/live/jen12345/jen54321/1565.ts
+
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
 http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
