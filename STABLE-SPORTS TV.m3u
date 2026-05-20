@@ -7,18 +7,6 @@ https://content-aaps1.uplynk.com/bc59384cb3d64f5ab6a551ecbf8835fa/f.m3u8?pbs=f32
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
 http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png" group-title="LIVE SPORTS", Bangladesh Vs Pakistan | Pakistan tour of Bangladesh 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/bangladesh_vs_pakistan_142161_english.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-13219" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780696481020x576.jpg" group-title="Cricket", Bangladesh vs Pakistan Live | Pakistan Tour of Bangladesh 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8
-
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/ljE2lZ0BNnOkwJLW9lrg/posters/b4bee75a-b8a3-4594-b562-6e3910d71625.png",Bangladesh Vs Pakistan 
-http://10.10.10.2/live/fnf004/index.m3u8
-
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17780696481020x576.jpg",Bangladesh Vs Pakistan
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
-
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fLh0bmsF/images-(2).jpg",IPL [2026]| HD
 http://premimum.online/live/jen12345/jen54321/705142.ts
 
@@ -41,7 +29,7 @@ https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1735648543857_Poster.jpg&w=1080&q=75",BTV News
-https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
+http://premimum.online/live/jen12345/jen54321/998.ts
 
 #EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/static/media/btv-logo.d937bde9.svg" group-title="BANGLA",BTV CTG
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
