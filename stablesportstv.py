@@ -21,6 +21,11 @@ http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 [coming]
 http://premimum.online/live/jen12345/jen54321/129703.ts
 
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/c18hMmZL/F5MBOPJ3X5A35EJX2HXMUUFQNU.jpg",FIFA World Cup 2026 [coming]
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 [coming]
 http://premimum.online/live/jen12345/jen54321/1565.ts
 
