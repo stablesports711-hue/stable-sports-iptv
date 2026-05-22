@@ -33,19 +33,7 @@ http://premimum.online/live/jen12345/jen54321/1565.ts
 http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fLh0bmsF/images-(2).jpg",IPL [2026]| HD
-http://premimum.online/live/jen12345/jen54321/705142.ts
-
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/cLMhZxwD/ipl-fi4-1773559910.jpg",IPL [2026] BANGLA
-http://premimum.online/live/jen12345/jen54321/705160.ts
-
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/cLMhZxwD/ipl-fi4-1773559910.jpg",IPL [2026]
-http://premimum.online/live/jen12345/jen54321/215.ts
-
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fLh0bmsF/images-(2).jpg",IPL [2026]
-http://premimum.online/live/jen12345/jen54321/114479.ts
-
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fLh0bmsF/images-(2).jpg",IPL [2026]|4k
-http://premimum.online/live/jen12345/jen54321/703299.ts
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193184888_2.png&w=1080&q=75",SANGSAD BANGLADESH
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
