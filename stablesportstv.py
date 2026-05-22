@@ -16,7 +16,7 @@ custom_channels = """
 #EXTM3U
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/c18hMmZL/F5MBOPJ3X5A35EJX2HXMUUFQNU.jpg",FIFA World Cup 2026 [coming]
-http://74.91.26.218:82/live/cctv1hd.m3u8
+http://74.208.30.121/a176/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 [coming]
 http://premimum.online/live/jen12345/jen54321/129703.ts
@@ -27,7 +27,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 [coming]
-http://premimum.online/live/jen12345/jen54321/1565.ts
+http://74.91.26.218:82/live/cctv1hd.m3u8
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
 http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
