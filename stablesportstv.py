@@ -179,12 +179,11 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="KIDS",RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56F0fDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Saudi Quran
-#https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
-http://172.20.21.22/live/skyfeed1022/index.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56F0fDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Makka🔴Live
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",Madina Live
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",Madina 🔴Live
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="http://103.144.89.251/assets/images/MADANI TV HD1745044303.png",Madani TV Bangla
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
