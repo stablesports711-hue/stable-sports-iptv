@@ -142,10 +142,6 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://s3.aynaott.com/storage/1b5cb8c7901739cd7d201a38d2ab4737",MAASRANGA HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",Deshi TV
-#https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-http://208.86.19.13:81/514.stream/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/WyPuDJsBEef-9-uVUA_z/posters/ea20055c-a824-443c-8083-ce8e2da8b922.png" group-title="Bangladesh",CHANNEL S
 #https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
 http://103.229.254.25:7001/play/a060/index.m3u8
