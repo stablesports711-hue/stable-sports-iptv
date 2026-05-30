@@ -284,7 +284,7 @@ http://103.159.180.34:5001/live/573.m3u8
 http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/141tq9B1/dc092590a65fc2ac5bd58ccf59cecb51-fgraphic.png",Toffee {premium}
-http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/522.ts
 """
 
 output = custom_channels + "\n"
