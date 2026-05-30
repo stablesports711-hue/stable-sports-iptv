@@ -251,8 +251,11 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports",SONY SPORTS 1HD
 http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports",SONY SPORTS 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports",SONY SPORTS 2 HD 🅰️
 http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276739.ts
+
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports",SONY SPORTS 2 HD 🅱️
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sports",SONY SPORTS 5 HD
 http://premimum.online/live/jen12345/jen54321/176.ts
