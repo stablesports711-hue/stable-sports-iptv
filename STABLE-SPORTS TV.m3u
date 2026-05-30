@@ -25,7 +25,7 @@ http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fLh0bmsF/images-(2).jpg",IPL [2026]| HD
-http://main.light-ott.net:80/3K7U42/XMSJKL/809389.ts
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/500.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fLh0bmsF/images-(2).jpg",IPL [2026]| HD
 http://4kgood.org:80/live/4o48up5evz/r4fiast66u/1163988.ts
@@ -80,14 +80,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate-150x150.jpg" group-title="BANGLA",Ananda TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="BANGLA",Ananda TV
 #EXTVLCOPT:http-referrer=https://www.jagobd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jkbo7Qe.png",Ananda TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
@@ -212,6 +209,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 group-title="Bangla" tvg-id="NAGORIK HD" tvg-logo="http://103.144.89.251/assets/images/NAGORIK1745042776.png",NAGORIK HD
 http://198.195.239.50:8095/nagorik/index.m3u8
 
+#EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png",Gazi TV
+https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports ISP
 http://10.10.10.2/live/fnf004/index.m3u8
 
@@ -231,13 +231,16 @@ http://198.195.239.50:8095/Eurosport/index.m3u8
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png" group-title="Sports",PTV Sports
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
 
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-1-hd-in.png" group-title="Sports",SONY SPORTS 1HD
+#EXTINF:-1 tvg-id="ext" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Willow%20TV.jpeg" group-title="Sports",Willow 
+https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports",SONY SPORTS 1HD
 http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-2-hd-in.png" group-title="Sports",SONY SPORTS 2 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="Sports",SONY SPORTS 2 HD
 http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276739.ts
 
-#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-5-hd-in.png" group-title="Sports",SONY SPORTS 5 HD
+#EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sports",SONY SPORTS 5 HD
 http://premimum.online/live/jen12345/jen54321/176.ts
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-1-hd-in.png" group-title="Sports",STAR SPORTS SELECT 1 HD
@@ -245,12 +248,6 @@ http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276734.ts
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-2-hd-in.png" group-title="Sports",STAR SPORTS SELECT 2 HD
 http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276735.ts
-
-#EXTINF:-1 tvg-id="ext" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Willow%20TV.jpeg" group-title="Sports",Willow 
-http://premimum.online/live/jen12345/jen54321/215.ts
-
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png",Gazi TV
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYLijjughYF51FVjWeUtGKFckDYqm8B1elAgERP4HIDMf8KpDYC7LpZ4&s=10" group-title="MUSIC", Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
@@ -263,13 +260,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/9qc3x8F/images-1.jpg" group-title="Music",Music India
 #https://cdn-2.pishow.tv/live/226/master.m3u8
-http://103.180.212.191:3500/live/250.m3u8
-
-#EXTINF:-1 group-title="FM Radio 📻" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfR3ZBviA9qW2MDR_qoc3AESyPPaMRxsT8nQ&s",Radio Goongoon
-https://audio.streamcast.xyz/radio/8000/radio.mp3
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPAWpc2wbXTll1LR3mgHz3jiFUCl6ixkGunZTAQ3_NasS7HzM88RCM8E&s=10" group-title="FM Radio 📻", 96.4 Spice FM
-https://stream.spicefmbd.com/stream.m3u8 
+http://103.180.212.191:3500/live/250.m3u8 
 
 #EXTINF:-1 tvg-id="3428" tvg-name="Discovery HD Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDBen.png" tvg-language="Bengali" group-title="Infotainment", Discovery HD Bengali
 http://103.159.180.34:5001/live/3428.m3u8
