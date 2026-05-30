@@ -15,6 +15,9 @@ sources = [
 custom_channels = """
 #EXTM3U
 
+#EXTINF:-1 tvg-id="sonyliv-1090532721" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018781/1780100174697448_UCL26_final_Champions_Ki_Charcha_30may_landscape_thumb.jpg" group-title="Football", UEFA Champions League 2025-26 | PSG vs Arsenal - Final - 30 May 2026
+https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8
+
 a#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/c18hMmZL/F5MBOPJ3X5A35EJX2HXMUUFQNU.jpg",FIFA World Cup 2026 [coming]
 ahttp://74.208.30.121/a176/mono.m3u8
 
