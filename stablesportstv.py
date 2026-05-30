@@ -44,6 +44,7 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fLh0bmsF/images-(2).jpg",IPL [2026]| HD
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fLh0bmsF/images-(2).jpg",IPL [2026]| HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/516.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/fLh0bmsF/images-(2).jpg",IPL [2026]| HD
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/500.ts
