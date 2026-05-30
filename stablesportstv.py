@@ -94,14 +94,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate-150x150.jpg" group-title="BANGLA",Ananda TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="BANGLA",Ananda TV
 #EXTVLCOPT:http-referrer=https://www.jagobd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jkbo7Qe.png",Ananda TV
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
-https://bozztv.com/rongo/rongo-AnandaTV/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
