@@ -240,7 +240,8 @@ http://198.195.239.50:8095/Eurosport/index.m3u8
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Willow%20TV.jpeg" group-title="SPORTS",Willow 
-https://tvsen5.aynaott.com/willowhd/index.m3u8
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
+#https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS",SONY SPORTS 1HD
 http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
