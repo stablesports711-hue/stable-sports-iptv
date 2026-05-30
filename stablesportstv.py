@@ -261,7 +261,7 @@ http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276734.ts
 http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276735.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Willow%20TV.jpeg" group-title="Sports",Willow 
-http://premimum.online/live/jen12345/jen54321/215.ts
+https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png",Gazi TV
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
