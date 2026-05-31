@@ -285,6 +285,9 @@ http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/141tq9B1/dc092590a65fc2ac5bd58ccf59cecb51-fgraphic.png",Toffee {premium}
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/522.ts
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://i.ibb.co.com/9m9SqPMy/images-2.jpg",Prince 2026
+https://yellow-flower-41fc.cinepixserver00.workers.dev/1:/22-5-26/ottboxbd.COM%20-%20Prince%20Once%20Upon%20a%20Time%20in%20Dhaka%202026%20Bengali%20ORG%201080p%20WEB-DL%20x264.mkv
 """
 
 output = custom_channels + "\n"
