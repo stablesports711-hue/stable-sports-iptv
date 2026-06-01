@@ -226,10 +226,10 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
 #https://tvsen5.aynaott.com/willowhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/stablesports711-hue/stable-sports-iptv/blob/main/logo/fox.stablesportstv.png" group-title="SPORTS",FOX SPORTS 501 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0DFfY1L/Fox501-stablesportstv.png" group-title="SPORTS",FOX SPORTS 501 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
 
-‎#EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/stablesports711-hue/stable-sports-iptv/blob/main/logo/skysportsC_stablesportstv.png",SKY SPORTS CRICKET
+‎#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/6Q9sKNFm/skysports-C-stablesportstv.jpg",SKY SPORTS CRICKET
 ‎http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS",SONY SPORTS 1HD
