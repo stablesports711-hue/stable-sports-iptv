@@ -229,6 +229,9 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
 #EXTINF:-1 tvg-logo="https://github.com/stablesports711-hue/stable-sports-iptv/blob/main/logo/fox.stablesportstv.png" group-title="SPORTS",FOX SPORTS 501 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
 
+‎#EXTINF:-1 group-title="SPORTS" tvg-logo="https://github.com/stablesports711-hue/stable-sports-iptv/blob/main/logo/skysportsC_stablesportstv.png",SKY SPORTS CRICKET
+‎http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS",SONY SPORTS 1HD
 http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
 
