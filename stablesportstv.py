@@ -226,7 +226,7 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
 #https://tvsen5.aynaott.com/willowhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/D0DFfY1L/Fox501-stablesportstv.png" group-title="SPORTS",FOX SPORTS 501 HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6nscV99/20260601-214906.png" group-title="SPORTS",FOX SPORTS 501 HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
 
 ‎#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/6Q9sKNFm/skysports-C-stablesportstv.jpg",SKY SPORTS CRICKET
