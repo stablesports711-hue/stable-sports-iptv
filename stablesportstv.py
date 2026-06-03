@@ -247,7 +247,7 @@ http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276739.ts
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SPORTS",SONY SPORTS 5 HD
-http://premimum.online/live/jen12345/jen54321/176.ts
+http://66.102.126.10:8000/play/a010/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-1-hd-in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276734.ts
