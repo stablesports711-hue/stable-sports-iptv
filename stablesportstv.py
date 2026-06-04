@@ -248,7 +248,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU
 http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SPORTS",SONY SPORTS 2 HD 🅰️
-http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276739.ts
+http://103.204.43.87:8080/live/1/1/304.m3u8
+#http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276739.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SPORTS",SONY SPORTS 2 HD 🅱️
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts
