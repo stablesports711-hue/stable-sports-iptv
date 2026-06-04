@@ -30,7 +30,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/c18hMmZL/F5MBOPJ3X5A35EJX2HXMUUFQNU.jpg",FIFA World Cup 2026 🇮🇳[coming]
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/QNYVBCNw/20260604-154446.jpg",FIFA World Cup 2026 🇮🇳[coming]
 http://66.102.126.10:8000/play/a076/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://carboncredits.com/wp-content/uploads/2025/09/shutterstock_2306088965-e1757112807302.jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 [coming]
