@@ -264,7 +264,8 @@ http://103.204.43.87:8080/live/1/1/258.m3u8
 http://103.204.43.87:8080/live/1/1/255.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-1-hd-in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
-http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276734.ts
+http://103.204.43.87:8080/live/1/1/244.m3u8
+#http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276734.ts
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-2-hd-in.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276735.ts
