@@ -177,7 +177,7 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="http://103.144.89.251/assets/images/MADANI TV HD1745044303.png",Madani TV Bangla
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+http://103.204.43.87:8080/live/1/1/304.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -212,11 +212,13 @@ http://172.20.21.22/live/skyfeed1005/index.m3u8
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="SPORTS",A Sports HD
+http://103.204.43.87:8080/live/1/1/309.m3u8
 #http://103.229.254.25:7001/play/a087/index.m3u8
-http://198.195.239.50:8095/Eurosport/index.m3u8
+#http://198.195.239.50:8095/Eurosport/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png" group-title="SPORTS",PTV Sports
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
+http://103.204.43.87:8080/live/1/1/313.m3u8
+#http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Willow%20TV.jpeg" group-title="SPORTS",Willow 
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
@@ -232,7 +234,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU
 http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SPORTS",SONY SPORTS 2 HD 🅰️
-http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276739.ts
+http://103.204.43.87:8080/live/1/1/304.m3u8
+#http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276739.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SPORTS",SONY SPORTS 2 HD 🅱️
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts
@@ -240,11 +243,19 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SPORTS",SONY SPORTS 5 HD
 http://66.102.126.10:8000/play/a010/index.m3u8
 
+#EXTINF: -1 tvg-id="78" tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Sports", Star Sports 1 HD
+http://103.204.43.87:8080/live/1/1/258.m3u8
+
+#EXTINF: -1 tvg-id="235" tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports", Star Sports 2 HD
+http://103.204.43.87:8080/live/1/1/255.m3u8
+
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-1-hd-in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
-http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276734.ts
+http://103.204.43.87:8080/live/1/1/244.m3u8
+#http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276734.ts
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-2-hd-in.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
-http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276735.ts
+http://103.204.43.87:8080/live/1/1/243.m3u8
+#http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276735.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYYLijjughYF51FVjWeUtGKFckDYqm8B1elAgERP4HIDMf8KpDYC7LpZ4&s=10" group-title="MUSIC", Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
