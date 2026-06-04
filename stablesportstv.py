@@ -38,6 +38,9 @@ http://103.204.43.87:8080/live/1/1/266.m3u8
 #http://66.102.126.10:8000/play/a022/index.m3u8
 http://103.204.43.87:8080/live/1/1/264.m3u8
 
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/cLzP2BbN/20260604-213137.jpg",FIFA World Cup 2026 🇵🇰[coming]
+http://103.204.43.87:8080/live/1/1/313.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZRGLxFh/images-(1).jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 [coming]
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
