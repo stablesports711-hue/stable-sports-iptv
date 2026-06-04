@@ -226,8 +226,9 @@ http://172.20.21.22/live/skyfeed1005/index.m3u8
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="SPORTS",A Sports HD
+http://103.204.43.87:8080/live/1/1/309.m3u8
 #http://103.229.254.25:7001/play/a087/index.m3u8
-http://198.195.239.50:8095/Eurosport/index.m3u8
+#http://198.195.239.50:8095/Eurosport/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png" group-title="SPORTS",PTV Sports
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/498.ts
