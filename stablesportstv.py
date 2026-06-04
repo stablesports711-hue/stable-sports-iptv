@@ -18,8 +18,8 @@ custom_channels = """
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/Kjf01KRG/20260604-090015.jpg",FIFA World Cup 2026
 http://10.10.10.2/live/fnf004/index.m3u8
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/kM2Z4sc4/20260604-093936.jpg",FIFA World Cup 2026
-http://10.10.10.2/live/fnf004/index.m3u8
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/prg8sRhM/20260604-101842.jpg",FIFA World Cup 2026
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/c18hMmZL/F5MBOPJ3X5A35EJX2HXMUUFQNU.jpg",FIFA World Cup 2026 🇦🇷[coming]
