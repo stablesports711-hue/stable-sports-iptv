@@ -14,6 +14,14 @@ sources = [
 
 custom_channels = """
 #EXTM3U
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/CxHgpZXW/images.jpg",BANGLADESH VS SAN MARINO HD
+http://10.10.10.2/live/fnf004/index.m3u8
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/CxHgpZXW/images.jpg",BANGLADESH VS SAN MARINO
+http://103.158.133.62:8080/live/index.m3u8
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/CxHgpZXW/images.jpg",BANGLADESH VS SAN MARINO HD
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/Kjf01KRG/20260604-090015.jpg",FIFA World Cup 2026🅰️
 http://10.10.10.2/live/fnf004/index.m3u8
