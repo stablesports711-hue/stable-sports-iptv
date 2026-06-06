@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/Kjf01KRG/20260604-090015.jpg",FIFA World Cup 2026🅰️
+http://10.10.10.2/live/fnf004/index.m3u8
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/Kjf01KRG/20260604-090015.jpg",FIFA World Cup 2026🅱️
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/prg8sRhM/20260604-101842.jpg",FIFA World Cup 2026
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/wBqS8gCh/20260605-180409.jpg",FIFA World Cup 2026
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/zDhztvXN/20260604-143226.jpg",FIFA World Cup 2026 🇦🇷[coming]
+http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/FsYZ5bSM/20260604-140714.jpg",FIFA World Cup 2026 🇧🇷[coming]
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/QNYVBCNw/20260604-154446.jpg",FIFA World Cup 2026 🇮🇳[coming]
+http://66.102.126.10:8000/play/a076/index.m3u8
+
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/MTvHtJdm/20260604-155212.jpg",FIFA World Cup 2026 🇮🇳[coming]
+http://66.102.126.10:8000/play/a022/index.m3u8
+
+
