@@ -12,8 +12,7 @@ sources = [
 # CUSTOM CHANNELS (TOP)
 # =========================
 
-custom_channels = """
-#EXTM3U
+custom_channels = """#EXTM3U
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/Kjf01KRG/20260604-090015.jpg",FIFA World Cup 2026🅰️
 http://10.10.10.2/live/fnf004/index.m3u8
