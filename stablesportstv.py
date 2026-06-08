@@ -1,6 +1,5 @@
 import requests
 
-
 OUTPUT_FILES = [
     "STABLE-SPORTS TV.m3u",
     "Siam.m3u"
@@ -354,10 +353,11 @@ for source in sources:
         print("Error:", e)
 
 # =========================
-# SAVE FILE
+# SAVE FILES (LOOP)
 # =========================
 
-with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-    f.write(output)
-
-print("✅ STABLE-SPORTS TV.m3u Updated Successfully")
+# This loop automatically creates every file inside OUTPUT_FILES list
+for filename in OUTPUT_FILES:
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(output)
+    print(f"✅ {filename} Updated Successfully")
