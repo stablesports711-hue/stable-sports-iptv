@@ -3,7 +3,7 @@ import requests
 
 OUTPUT_FILES = [
     "STABLE-SPORTS TV.m3u",
-    "Sian.m3u"
+    "Siam.m3u"
 ]
 
 sources = [
