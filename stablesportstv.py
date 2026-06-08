@@ -1,6 +1,10 @@
 import requests
 
-OUTPUT_FILE = "STABLE-SPORTS TV.m3u"
+
+OUTPUT_FILES = [
+    "STABLE-SPORTS TV.m3u",
+    "Sian.m3u"
+]
 
 sources = [
     "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-toffee/refs/heads/main/toffee.m3u",
