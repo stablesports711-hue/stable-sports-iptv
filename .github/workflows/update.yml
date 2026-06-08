@@ -3,7 +3,8 @@ name: STABLE-SPORTS TV Auto Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *' # প্রতি ৬ ঘণ্টা পর পর অটো রান হবে
+    # এই ক্রন জবটি প্রতি ১ ঘণ্টা পর পর (ঘণ্টার শুরুতে) অটো-রান করাবে
+    - cron: '0 * * * *'
 
 jobs:
   update:
@@ -26,9 +27,6 @@ jobs:
     - name: Run Python Script
       run: python stablesportstv.py
 
-    # ==========================================
-    # এই অংশটি আপনার ফাইলগুলোকে অটো কমিট ও পুশ করবে
-    # ==========================================
     - name: Commit and Push Changes
       run: |
         git config --local user.email "action@github.com"
