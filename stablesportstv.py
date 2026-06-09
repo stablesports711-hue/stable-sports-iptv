@@ -16,15 +16,22 @@ sources = [
 # =========================
 
 custom_channels = """#EXTM3U
-‎#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5hmKPZS/images-(4).jpg" group-title="LIVE SPORTS",Bangladesh vs Australia 
+‎#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/P5hmKPZS/images-(4).jpg",Bangladesh vs Australia 
+http://27.124.71.27/TNT_Sports_1/index.m3u8
+
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/P5hmKPZS/images-(4).jpg",Bangladesh vs Australia 
+http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5hmKPZS/images-(4).jpg" group-title="LIVE SPORTS",Bangladesh vs Australia (Local ISP)
 http://10.10.10.2/live/fnf004/index.m3u8
 
-‎#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5hmKPZS/images-(4).jpg" group-title="LIVE SPORTS",Bangladesh vs Australia 
-‎#KODIPROP:inputstream=inputstream.adaptive
-‎#KODIPROP:inputstream.adaptive.manifest_type=mpd
-‎#KODIPROP:inputstream.adaptive.license_type=clearkey
-‎#KODIPROP:inputstream.adaptive.license_key=f1f97a734b1752ae9c3639310b105278:57e0135e10a8ed3246b8306ada268954
-‎https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/38970a6e3f6f42b5a0ef07ad51a68d0c/index.mpd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5hmKPZS/images-(4).jpg" group-title="LIVE SPORTS",Bangladesh vs Australia (DRM)
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1f97a734b1752ae9c3639310b105278:57e0135e10a8ed3246b8306ada268954
+https://dck1-fs-live.dtcdn.dazn.com/out/v1/814bffb9b389f652/38970a6e3f6f42b5a0ef07ad51a68d0c/index.mpd
+
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026🅰️
 http://10.10.10.2/live/fnf004/index.m3u8
