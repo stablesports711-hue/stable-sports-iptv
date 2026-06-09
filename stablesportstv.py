@@ -16,8 +16,12 @@ sources = [
 # =========================
 
 custom_channels = """#EXTM3U
-‎#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/P5hmKPZS/images-(4).jpg",Bangladesh vs Australia 
-http://27.124.71.27/TNT_Sports_1/index.m3u8
+#EXTINF:-1 tvg-chno="402" tvg-logo="https://i.postimg.cc/P5hmKPZS/images-(4).jpg",Bangladesh vs Australia 
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/P5hmKPZS/images-(4).jpg",Bangladesh vs Australia 
 http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
