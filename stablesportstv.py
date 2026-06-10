@@ -305,10 +305,10 @@ http://66.102.126.10:8000/play/a010/index.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 
 #EXTINF: -1 tvg-id="78" tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Sports", Star Sports 1 HD
-http://103.204.43.87:8080/live/1/1/258.m3u8
+http://stalker.hakunamata.workers.dev/play/1088/index.m3u8
 
 #EXTINF: -1 tvg-id="235" tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports", Star Sports 2 HD
-http://103.204.43.87:8080/live/1/1/255.m3u8
+http://stalker.hakunamata.workers.dev/play/1446/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-1-hd-in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 http://103.204.43.87:8080/live/1/1/244.m3u8
