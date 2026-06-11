@@ -28,21 +28,11 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/ma
 #KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="B0GR6F4XJB" tvg-name="Australia tour of Bangladesh 2026 - 1st ODI - Bangladesh vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3251866f-d2dc-493b-a7bd-c4ad65c93f09/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="LIVE SPORTS",Australia tour of Bangladesh 2026 - 1st ODI - Bangladesh vs Australia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8b16f37636a12cb83d7082e4df2dd39e:36bff5eb3a4f040223460e1aa2f41c3f
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tsw4vdwngu/out/v1/e1a3a734256c498dbd7b01cdaa7c7c8c/cenc.mpd
-
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png",Bangladesh vs Australia 
 http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="LIVE SPORTS",Bangladesh vs Australia (Local ISP)
 http://10.10.10.2/live/fnf004/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/P5hmKPZS/images-(4).jpg" group-title="LIVE SPORTS",Bangladesh vs Australia
-http://27.124.71.27/TNT_Sports_1/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026🅰️
