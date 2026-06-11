@@ -42,10 +42,10 @@ http://10.10.10.2/live/fnf004/index.m3u8
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/prg8sRhM/20260604-101842.jpg",FIFA World Cup 2026
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+https://feed.hasanhabibmottakin.workers.dev/edge1/3/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/wBqS8gCh/20260605-180409.jpg",FIFA World Cup 2026
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=2202800.m3u8
+https://feed.hasanhabibmottakin.workers.dev/edge1/2/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/pdpNmLGj/20260607-191102.jpg",FIFA World Cup 2026 🇦🇷
 http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81252.ts
