@@ -58,7 +58,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg",FIFA World Cup 2026 🇮🇳
-http://66.102.126.10:8000/play/a076/index.m3u8
+https://zati5.hasanhabibmottakin.workers.dev/0-9-zeecafehd/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/YqZY5nck/20260607-191024.jpg",FIFA World Cup 2026 🇮🇳
