@@ -17,6 +17,9 @@ http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
 http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFYx7cfR/20260612-205410.jpg"group-title="LIVE SPORTS" group-title="",Football World Cup 2026 (4K)
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026🅰️
 http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 
@@ -57,6 +60,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mp
 https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
 #http://66.102.126.10:8000/play/a022/index.m3u8
 
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/rFPRDbK0/20260612-205544.jpg",FIFA World Cup 2026 🇮🇳
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbbfd9ce4bbe4d818b16df7dfe89f05b:1e96d0f88ef740e982d6f6105721c8bc
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/cLzP2BbN/20260604-213137.jpg",FIFA World Cup 2026 🇵🇰
 http://103.204.43.87:8080/live/1/1/313.m3u8
