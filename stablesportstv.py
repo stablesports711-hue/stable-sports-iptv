@@ -35,6 +35,9 @@ http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
 http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RFYx7cfR/20260612-205410.jpg"group-title="LIVE SPORTS" group-title="",Football World Cup 2026 (4K)
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026🅰️
 http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 
