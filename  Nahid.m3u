@@ -14,11 +14,11 @@ https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4
 http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="LIVE SPORTS",Bangladesh vs Australia (Local ISP)
-http://103.151.61.12/T-Sports.kutta/video.m3u8
+http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026🅰️
-http://103.151.61.12/T-Sports.kutta/video.m3u8
+http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026🅱️
 https://amitomar.bdixbd.net/hoichoi.pro1/tracks-v1a1/index.m3u8
@@ -238,7 +238,7 @@ https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 http://198.195.239.50:8095/nagorik/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports ISP
-http://10.10.10.2/live/fnf004/index.m3u8
+http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",T Sports
 #https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
