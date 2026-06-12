@@ -32,11 +32,11 @@ https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4
 http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png" group-title="LIVE SPORTS",Bangladesh vs Australia (Local ISP)
-http://10.10.10.2/live/fnf004/index.m3u8
+http://103.151.61.12/T-Sports.kutta/video.m3u8
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026🅰️
-http://10.10.10.2/live/fnf004/index.m3u8
+http://103.151.61.12/T-Sports.kutta/video.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026🅱️
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
