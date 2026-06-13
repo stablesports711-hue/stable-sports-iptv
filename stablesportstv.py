@@ -40,7 +40,7 @@ https://d1voy022wjnlk0.bioscopelive.com/out/v1/0bbe405e711143b8af5ee21b80b5b0cc/
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFYx7cfR/20260612-205410.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (4K)
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NYVSnkr/Gemini-Generated-Image-ykkw2cykkw2cykkw.png" group-title="LIVE SPORTS",FIFA World Cup 2026 (HD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hjQwQXST/20260613-104845.jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 (HD)
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
