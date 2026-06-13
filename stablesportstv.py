@@ -56,6 +56,9 @@ https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/KvpgH5gb/20260612-095057.jpg",FIFA World Cup 2026 HD
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/zfjBKhMd/20260612-205515.jpg",FIFA World Cup 2026 🇦🇷
+
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/pdpNmLGj/20260607-191102.jpg",FIFA World Cup 2026 🇦🇷
 #http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81252.ts
 http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
