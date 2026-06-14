@@ -21,6 +21,13 @@ custom_channels = """#EXTM3U
 https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8 
 
 
+#EXTINF:-1 tvg-id="B0H3NP2F8H" tvg-name="Australia tour of Bangladesh 2026 - 3rd ODI - Bangladesh vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.504efeed-3282-4bd2-999a-8b6cdc294a18/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="LIVE SPORTS",Australia tour of Bangladesh 2026 - 3rd ODI - Bangladesh vs Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c2072eebd0c39d2c984486dce6db1c6:4d559001220025d97bad51b564f5a25b
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/chuh09adm3/out/v1/4a3cef726289450fbc48e7dc0147fa0e/cenc.mpd
+
 #EXTINF:-1 tvg-chno="402" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png",Bangladesh vs Australia 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
