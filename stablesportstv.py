@@ -18,7 +18,7 @@ sources = [
 
 custom_channels = """#EXTM3U
 #EXTINF:-1 tvg-id="tapmad-14131" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17809370631020x576.jpg" group-title="LIVE SPORTS", Bangladesh vs Australia | Australia Tour of Bangladesh 2026
-https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8 
+https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8 
 
 
 #EXTINF:-1 tvg-chno="402" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Aus-vs-Ban_Web-match-card_1780908762762.png",Bangladesh vs Australia 
