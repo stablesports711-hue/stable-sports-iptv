@@ -48,6 +48,9 @@ https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/ma
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg",FIFA World Cup 2026 HD
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg",FIFA World Cup 2026 HD
+https://stream.kurdtv.live/bein-max/index.m3u8
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/KvpgH5gb/20260612-095057.jpg",FIFA World Cup 2026 HD
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
