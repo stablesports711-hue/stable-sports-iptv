@@ -69,8 +69,7 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/pdpNmLGj/20260607-191102.jpg",FIFA World Cup 2026 🇦🇷
-#http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81252.ts
-http://cdn.tv-rds.workers.dev/TYCSPT.m3u8
+http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81252.ts
 #https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/NjnJP7D0/20260607-191116.jpg",FIFA World Cup 2026 🇧🇷
