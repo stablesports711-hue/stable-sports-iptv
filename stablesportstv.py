@@ -33,17 +33,17 @@ http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
  http://fastshare1.com:80/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/prg8sRhM/20260604-101842.jpg",FIFA World Cup 2026
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+http://172.17.50.112:84/ant1003/tracks-vla1/mono.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/wBqS8gCh/20260605-180409.jpg",FIFA World Cup 2026
-http://114.130.57.224:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8
+http://172.17.50.112:84/ant1002/tracks-vla1/mono.m3u8
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026🅰️
 http://198.195.239.50:8095/tsports/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026🅱️
-http://198.195.239.50:8095/tsports/index.m3u8
+http://172.17.50.112:84/ant1001/tracks-vla1/mono.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/7LW7Jnw0/20260612-094836.jpg",FIFA World Cup 2026(Tapmad)
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
@@ -273,7 +273,7 @@ http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
 https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-id="NAGORIK HD" tvg-logo="http://103.144.89.251/assets/images/NAGORIK1745042776.png",NAGORIK HD
-http://198.195.239.50:8095/nagorik/index.m3u8
+http://172.17.50.112:84/ant1004/tracks-vla1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports ISP
 http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
