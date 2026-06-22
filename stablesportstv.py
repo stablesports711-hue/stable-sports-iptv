@@ -20,6 +20,7 @@ custom_channels = """#EXTM3U
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Fast HD)
+https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
 https://sm-monirul.top/ultra_restream/bioscope/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyBtGF3t/20260622-205419.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Fast HD)
