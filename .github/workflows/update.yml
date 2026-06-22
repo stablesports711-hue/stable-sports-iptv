@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # এই ক্রন জবটি প্রতি ১ ঘণ্টা পর পর (ঘণ্টার শুরুতে) অটো-রান করাবে
-    - cron: '0 * * * *'
+    - cron: '*/30 * * * *'
 
 jobs:
   update:
