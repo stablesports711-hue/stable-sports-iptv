@@ -26,8 +26,11 @@ https://sm-monirul.top/ultra_restream/bioscope/index.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFYx7cfR/20260612-205410.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (4K)
-http://fastshare1.com:80/live/1Aoen7elp5/IgMJ60tmAa/745270.ts
-#http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
+https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3PxS0Vm/20260613-165514.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (4K)
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
