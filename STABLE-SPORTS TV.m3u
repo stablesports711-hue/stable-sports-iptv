@@ -361,13 +361,6 @@ http://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/RAKKHOSH%20Bangla%20Movie%20
 #EXTINF:-1 group-title="MOVIE 2026" tvg-logo="http://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/MV5BZmY0M2I1NjYtODU4Zi00MmIyLTk0OWUtMDlhN2JmNzFmOWI1XkEyXkFqcGc@._V1_SX300.jpg",Bonolota Express [2026]
 http://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/Bonolota%20Express%20(2026)%20Bengali%20Amazon%20WEB-DL%20H264%20AAC%20720p.mkv
 
-#=================================
-# Developed by: Monirul Islam
-# Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 04:43:56 PM 26-06-2026 (BD Time)
-# All channel : 76
-#=================================
-
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/w_480,q_75,f_webp/RzT1pp4Bb1O6C9k7RvnM/posters/27a3ad72-3a34-4ac9-b278-a6254ec67fbb.png",CAB VS SA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A515F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://sm-monirul.top/tof/live/toffee4/index.m3u8
@@ -742,3 +735,9 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1782643436:KeyName=prod_linear:Signature=x2Wik8oRPujgrotGqostnmJTgxZH23IrwyTNKWdaLscMcos9a25Qpt59Z0L6ve3B1ttEq-kkFJFoCZrJLisIDg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/andpicture_hd/playlist.m3u8
 
+#EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
+http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNELS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bangla HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
+#EXTINF:-1 group-title="ENTERTAINMENT CHANNELS" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZeeBangla.png",ZEE Bangla HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
