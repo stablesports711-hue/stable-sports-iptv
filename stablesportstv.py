@@ -19,7 +19,7 @@ sources = [
 custom_channels = """#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQVwpJJ/20260622-224220.jpg"group-title="LIVE SPORTS" group-title="", 💠FIFA World Cup 2026 HD
-https://cdn.fifalive.click/play.m3u8
+http://sm-monirul.top/ott/iscreen/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="",🅰FIFA World Cup 2026 (Fast HD)
 http://sm-monirul.top/ott/bioscope/index.m3u8
