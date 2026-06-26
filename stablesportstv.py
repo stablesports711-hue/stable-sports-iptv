@@ -44,10 +44,10 @@ http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
  http://fastshare1.com:80/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/prg8sRhM/20260604-101842.jpg",FIFA World Cup 2026
-http://172.17.50.112:84/ant1003/index.m3u8
+http://198.195.239.50:8095/btv/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/wBqS8gCh/20260605-180409.jpg",FIFA World Cup 2026
-http://172.17.50.112:84/ant1002/index.m3u8
+http://198.195.239.50:8095/somoyTv/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026🅰️
@@ -98,7 +98,7 @@ http://212.102.34.8:9080/AndFlixHD/video.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/cLzP2BbN/20260604-213137.jpg",FIFA World Cup 2026 🇵🇰
-http://stalker.hakunamata.workers.dev/play/1099/index.m3u8
+http://198.195.239.50:8095/ptv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/7ZRGLxFh/images-(1).jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
