@@ -27,7 +27,7 @@ http://sm-monirul.top/fifa/bioscope/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="", 🅱FIFA World Cup 2026 (Fast HD)
 http://sm-monirul.top/fifa/bioscope1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DyBtGF3t/20260622-205419.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Fast HD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDC4yhw4/20260627-200357.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Fast HD)
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/751354.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyBtGF3t/20260622-205419.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Fast HD)
