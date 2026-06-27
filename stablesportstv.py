@@ -19,7 +19,7 @@ sources = [
 custom_channels = """#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQVwpJJ/20260622-224220.jpg"group-title="LIVE SPORTS" group-title="", 💠FIFA World Cup 2026 HD
-http://sm-monirul.top/ott/iscreen/index.m3u8
+http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="",🅰FIFA World Cup 2026 (Fast HD)
 http://sm-monirul.top/ott/bioscope/index.m3u8
@@ -102,7 +102,7 @@ http://198.195.239.50:8095/ptv/index.m3u8
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
-https://feed.hasanhabibmottakin.workers.dev/edge1/1/index.m3u8
+http://sm-monirul.top/ott/iscreen/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193184888_2.png&w=1080&q=75",SANGSAD BANGLADESH
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
