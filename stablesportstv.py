@@ -47,7 +47,7 @@ http://198.195.239.50:8095/somoyTv/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026 HD
-http://198.195.239.50:8095/tsports/index.m3u8
+http://mysave23.com/live/PeH5kPWFfG /infamous7funny/18452.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026
 http://premiumtvs.space/live/jen12345/Jen54321/113069.ts
