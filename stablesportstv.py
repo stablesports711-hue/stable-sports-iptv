@@ -17,6 +17,8 @@ sources = [
 # =========================
 
 custom_channels = """#EXTM3U
+#EXTINF:-1 tvg-id="tapmad-14773" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17825938621020x576.jpg" group-title="LIVE SPORTS", Zimbabwe vs Bangladesh | Bangladesh Tour of Zimbabwe 2026
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQVwpJJ/20260622-224220.jpg"group-title="LIVE SPORTS" group-title="", 💠FIFA World Cup 2026 HD
 http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
