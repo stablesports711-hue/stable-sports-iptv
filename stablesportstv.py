@@ -28,7 +28,7 @@ https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/in
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="", 🅱FIFA World Cup 2026 (Fast HD)
 http://sm-monirul.top/fifa/bioscope1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zDC4yhw4/20260627-200357.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Fast HD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXnk77QG/20260627-200357.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Fast HD)
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
 
