@@ -323,11 +323,13 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS",SONY SPORTS 1HD
-http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
+https://tv.emnetbd.com/flussonic/SONY1/tracks-v1a1/mono.m3u8
+#http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SPORTS",SONY SPORTS 2 HD 🅰️
-https://b4uplay.com/sliv/stream.m3u8?id=1000009277|referer=https://b4uplay.com/
-#http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276739.ts
+https://tv.emnetbd.com/flussonic/SONY2/tracks-v1a1/mono.m3u8
+#https://b4uplay.com/sliv/stream.m3u8?id=1000009277|referer=https://b4uplay.com/
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SPORTS",SONY SPORTS 2 HD 🅱️
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts
