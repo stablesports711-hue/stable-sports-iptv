@@ -61,11 +61,12 @@ http://198.195.239.50:8095/btv/index.m3u8
 http://198.195.239.50:8095/somoyTv/index.m3u8
 
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026 HD
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026 FHD
 http://mysave23.com/live/PeH5kPWFfG /infamous7funny/18452.ts
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026
-http://premiumtvs.space/live/jen12345/Jen54321/113069.ts
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026 HD
+https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
+#http://premiumtvs.space/live/jen12345/Jen54321/113069.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/7LW7Jnw0/20260612-094836.jpg",🅰️FIFA World Cup 2026(Tapmad)PK only
 https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8
