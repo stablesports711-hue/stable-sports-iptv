@@ -62,7 +62,8 @@ http://198.195.239.50:8095/somoyTv/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026 FHD
-http://mysave23.com/live/PeH5kPWFfG /infamous7funny/18452.ts
+http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
+#http://mysave23.com/live/PeH5kPWFfG /infamous7funny/18452.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026 HD
 https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
