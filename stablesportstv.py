@@ -129,7 +129,7 @@ https://feed.hasanhabibmottakin.workers.dev/edge1/3/index.m3u8
 
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1735648543857_Poster.jpg&w=1080&q=75",BTV News
-http://premimum.online/live/jen12345/jen54321/998.ts
+http://fastshare1.com:8080//live/25711345/late8airline/998.ts
 
 #EXTINF:-1 tvg-logo="https://www.btvlive.gov.bd/_next/static/media/btv-logo.d937bde9.svg" group-title="BANGLA",BTV CTG
 http://fastshare1.com:8080//live/25711345/late8airline/3818.ts
