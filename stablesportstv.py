@@ -313,7 +313,7 @@ http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 http://fastshare1.com:8080//live/25711345/late8airline/43447.ts
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png" group-title="SPORTS",PTV Sports
-
+http://fastshare1.com:8080//live/25711345/late8airline/61674.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Willow%20TV.jpeg" group-title="SPORTS",Willow 
 http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
