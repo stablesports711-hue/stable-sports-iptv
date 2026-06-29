@@ -302,10 +302,10 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
 #https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6nscV99/20260601-214906.png" group-title="SPORTS",FOX SPORTS 501 HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
+http://fastshare1.com:8080//live/25711345/late8airline/4748.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/6Q9sKNFm/skysports-C-stablesportstv.jpg",SKY SPORTS CRICKET
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/9258/index.m3u8
+http://fastshare1.com:8080//live/25711345/late8airline/124269.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS",SONY SPORTS 1HD
 https://tv.emnetbd.com/flussonic/SONY1/tracks-v1a1/mono.m3u8
@@ -360,6 +360,7 @@ EXTINF:-1 tvg-id="3428" tvg-name="Discovery HD Bengali" tvg-logo="https://jiotvi
 #http://103.159.180.34:5001/live/3428.m3u8
 
 #EXTINF:-1 tvg-id="573" tvg-name="Discovery Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" tvg-language="Bengali" group-title="Infotainment", Discovery Bangla
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=573&e=.m3u8
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/DzBr7HcM/1773936983038.png",STABLE-SPORTS TV
