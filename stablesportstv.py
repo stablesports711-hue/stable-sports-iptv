@@ -323,7 +323,7 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
 http://fastshare1.com:8080//live/25711345/late8airline/4748.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/6Q9sKNFm/skysports-C-stablesportstv.jpg",SKY SPORTS CRICKET
-http://fastshare1.com:8080//live/25711345/late8airline/4748.ts
+http://fastshare1.com:8080//live/25711345/late8airline/124269.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS",SONY SPORTS 1HD
 https://tv.emnetbd.com/flussonic/SONY1/tracks-v1a1/mono.m3u8
