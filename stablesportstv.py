@@ -240,10 +240,10 @@ http://116.204.149.16/banglatv/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",RTV
 #http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
-http://116.204.149.16/rtvhd/index.m3u8
+http://fastshare1.com:8080//live/25711345/late8airline/401.ts
 
 #EXTINF:-1 tvg-id="nexustv" tvg-name="Nexus TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png" group-title="BANGLA",Nexus TV
-http://103.158.133.62:8080/nexustv/index.m3u8
+http://fastshare1.com:8080//live/25711345/late8airline/411.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="BANGLA",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
