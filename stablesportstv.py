@@ -125,8 +125,7 @@ http://sm-monirul.top/ott/iscreen/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png",BTV
-https://feed.hasanhabibmottakin.workers.dev/edge1/3/index.m3u8
-
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1735648543857_Poster.jpg&w=1080&q=75",BTV News
 http://fastshare1.com:8080//live/25711345/late8airline/998.ts
@@ -291,10 +290,10 @@ http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
 http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png",Gazi TV
-https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
+http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-id="NAGORIK HD" tvg-logo="http://103.144.89.251/assets/images/NAGORIK1745042776.png",NAGORIK HD
-http://172.17.50.112:84/ant1004/tracks-vla1/mono.m3u8
+http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports ISP
 http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
