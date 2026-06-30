@@ -264,7 +264,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",Sony Aath
 #https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8
 #http://stvlive.net:8080/sonyaath/index.m3u8
-http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+http://live.balajibroadband.com:3500/live/697.m3u8
 
 #EXTINF:-1 group-title="Indian Hindi" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",Sony Max HD
 http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
