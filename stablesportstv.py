@@ -21,13 +21,13 @@ custom_channels = """#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQVwpJJ/20260622-224220.jpg"group-title="LIVE SPORTS" group-title="", 💠FIFA World Cup 2026 HD
 http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQVwpJJ/20260622-224220.jpg"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 1)
+#EXTINF:-1 tvg-logo="https://postimg.cc/8sVWKCWV"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 1)
 https://cdn-tt.pages.dev/ch1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQVwpJJ/20260622-224220.jpg"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 2)
+#EXTINF:-1 tvg-logo="https://postimg.cc/8sVWKCWV"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 2)
 https://cdn-tt.pages.dev/ch2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQVwpJJ/20260622-224220.jpg"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 3)
+#EXTINF:-1 tvg-logo="https://postimg.cc/8sVWKCWV"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 3)
 https://cdn-tt.pages.dev/ch3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="",🅰FIFA World Cup 2026 (Fast HD)
