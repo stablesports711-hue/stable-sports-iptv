@@ -21,6 +21,15 @@ custom_channels = """#EXTM3U
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQVwpJJ/20260622-224220.jpg"group-title="LIVE SPORTS" group-title="", 💠FIFA World Cup 2026 HD
 http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQVwpJJ/20260622-224220.jpg"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 1)
+https://cdn-tt.pages.dev/ch1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQVwpJJ/20260622-224220.jpg"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 2)
+https://cdn-tt.pages.dev/ch2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQVwpJJ/20260622-224220.jpg"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 3)
+https://cdn-tt.pages.dev/ch3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="",🅰FIFA World Cup 2026 (Fast HD)
 https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
 #http://sm-monirul.top/fifa/bioscope/index.m3u8
