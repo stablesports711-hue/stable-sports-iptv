@@ -30,13 +30,6 @@ https://cdn-tt.pages.dev/ch2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXFvT7dD/20260702-204721.jpg"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 3)
 https://cdn-tt.pages.dev/ch3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="",🅰FIFA World Cup 2026 (Fast HD)
-https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
-#http://sm-monirul.top/fifa/bioscope/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="", 🅱FIFA World Cup 2026 (Fast HD)
-http://sm-monirul.top/fifa/bioscope1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXnk77QG/20260627-200357.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Fast HD)
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
@@ -44,6 +37,15 @@ https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315f
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2K4FVpz/20260627-200442.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Binge+)
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 https://m3u-tvb.pages.dev/ics.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="",🅰FIFA World Cup 2026 (Fast HD)
+https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
+#https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
+#http://sm-monirul.top/fifa/bioscope/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="", 🅱FIFA World Cup 2026 (Fast HD)
+http://sm-monirul.top/fifa/bioscope1/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyBtGF3t/20260622-205419.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/751354.ts
