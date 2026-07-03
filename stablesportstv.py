@@ -301,7 +301,7 @@ http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports ISP
-http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
+http://103.151.60.204:881/DADA-TSports/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh2
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",T Sports
 #https://aumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
@@ -310,7 +310,7 @@ http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 http://172.20.21.22/live/skyfeed1005/index.m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",T Sports HD
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+http://103.151.60.204:881/T-Sports/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh2
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="SPORTS",A Sports HD
 http://fastshare1.com:8080//live/25711345/late8airline/43447.ts
@@ -356,7 +356,8 @@ http://66.102.126.10:8000/play/a010/index.m3u8
 http://114.130.57.233:8080/StarSports1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF: -1 tvg-id="235" tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports", Star Sports 2 HD
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+http://103.151.60.204:881/StarSports2/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh2
+#https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-1-hd-in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 http://103.204.43.87:8080/live/1/1/244.m3u8
