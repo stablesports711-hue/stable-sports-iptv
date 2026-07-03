@@ -304,7 +304,7 @@ http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
 http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",T Sports
-#https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
+#https://aumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 #https://kamrul.anik-islam14.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 #https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u
 http://172.20.21.22/live/skyfeed1005/index.m3u8
@@ -324,10 +324,10 @@ bbhttp://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
 
 #EXTM3U x-tvg-url="http://fastshare1.com:8080/xmltv.php?username=25711345&password=late8airline"
 
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW SPORTS" tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS",CRIC || WILLOW SPORTS
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW SPORTS" tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS",WILLOW SPORTS
 http://fastshare1.com:8080/live/25711345/late8airline/215.ts
 
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW 2" tvg-logo="http://greenpa1.com/willowxtra.png" group-title="SPORTS",CRIC || WILLOW 2
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW 2" tvg-logo="http://greenpa1.com/willowxtra.png" group-title="SPORTS",WILLOW 2
 http://fastshare1.com:8080/live/25711345/late8airline/5040.ts
 
 #EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: Fox Sports 501" tvg-logo="https://i.postimg.cc/q72PSbWm/20260601-214906.png" group-title="SPORTS",Fox Sports 501
@@ -356,7 +356,7 @@ http://66.102.126.10:8000/play/a010/index.m3u8
 http://114.130.57.233:8080/StarSports1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF: -1 tvg-id="235" tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports", Star Sports 2 HD
-http://stalker.hakunamata.workers.dev/play/1446/index.m3u8
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-1-hd-in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 http://103.204.43.87:8080/live/1/1/244.m3u8
