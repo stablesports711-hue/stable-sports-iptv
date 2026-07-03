@@ -283,16 +283,16 @@ http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
 http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports ISP
-http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
+http://103.151.60.204:881/DADA-TSports/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh2
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",T Sports
-#https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
+#https://aumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 #https://kamrul.anik-islam14.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
 #https://futbollive.online/T-Sports/tracks-v1a1/mono.m3u
 http://172.20.21.22/live/skyfeed1005/index.m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",T Sports HD
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+http://103.151.60.204:881/T-Sports/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh2
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="SPORTS",A Sports HD
 http://fastshare1.com:8080//live/25711345/late8airline/43447.ts
@@ -300,14 +300,22 @@ http://fastshare1.com:8080//live/25711345/late8airline/43447.ts
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png" group-title="SPORTS",PTV Sports
 http://fastshare1.com:8080//live/25711345/late8airline/61674.ts
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Willow%20TV.jpeg" group-title="SPORTS",Willow 
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
+gg#EXTINF:-1 tvg-id="ext" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Willow%20TV.jpeg" group-title="SPORTS",Willow 
+bbhttp://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
 #https://tvsen5.aynaott.com/willowhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q72PSbWm/20260601-214906.png" group-title="SPORTS",FOX SPORTS 501 HD
+#EXTM3U x-tvg-url="http://fastshare1.com:8080/xmltv.php?username=25711345&password=late8airline"
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW SPORTS" tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS",WILLOW SPORTS
+http://fastshare1.com:8080/live/25711345/late8airline/215.ts
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW 2" tvg-logo="http://greenpa1.com/willowxtra.png" group-title="SPORTS",WILLOW 2
+http://fastshare1.com:8080/live/25711345/late8airline/5040.ts
+
+#EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: Fox Sports 501" tvg-logo="https://i.postimg.cc/q72PSbWm/20260601-214906.png" group-title="SPORTS",Fox Sports 501
 http://fastshare1.com:8080//live/25711345/late8airline/4748.ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/3Rz4bwGz/images-(1).jpg",SKY SPORTS CRICKET
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://i.postimg.cc/3Rz4bwGz/images-(1).jpg" group-title="SPORTS",SKY SPORTS CRICKET
 http://fastshare1.com:8080//live/25711345/late8airline/186605.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS",SONY SPORTS 1HD
@@ -325,18 +333,13 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SPORTS",SONY SPORTS 5 HD
 http://66.102.126.10:8000/play/a010/index.m3u8
 
-#EXTINF:-1 tvg-chno="402" tvg-logo="https://iili.io/KWn2Z0u.png",FANCODE
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
 
 #EXTINF: -1 tvg-id="78" tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Sports", Star Sports 1 HD
-http://stalker.hakunamata.workers.dev/play/1088/index.m3u8
+http://114.130.57.233:8080/StarSports1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF: -1 tvg-id="235" tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports", Star Sports 2 HD
-http://stalker.hakunamata.workers.dev/play/1446/index.m3u8
+http://103.151.60.204:881/StarSports2/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh2
+#https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-1-hd-in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 http://103.204.43.87:8080/live/1/1/244.m3u8
