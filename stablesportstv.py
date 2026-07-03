@@ -318,13 +318,17 @@ http://fastshare1.com:8080//live/25711345/late8airline/43447.ts
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png" group-title="SPORTS",PTV Sports
 http://fastshare1.com:8080//live/25711345/late8airline/61674.ts
 
-#EXTINF:-1 tvg-id="ext" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Willow%20TV.jpeg" group-title="SPORTS",Willow 
-http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
+gg#EXTINF:-1 tvg-id="ext" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Willow%20TV.jpeg" group-title="SPORTS",Willow 
+bbhttp://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
 #https://tvsen5.aynaott.com/willowhd/index.m3u8
 
-
-
 #EXTM3U x-tvg-url="http://fastshare1.com:8080/xmltv.php?username=25711345&password=late8airline"
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW SPORTS" tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS",CRIC || WILLOW SPORTS
+http://fastshare1.com:8080/live/25711345/late8airline/215.ts
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW 2" tvg-logo="http://greenpa1.com/willowxtra.png" group-title="SPORTS",CRIC || WILLOW 2
+http://fastshare1.com:8080/live/25711345/late8airline/5040.ts
 
 #EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: Fox Sports 501" tvg-logo="https://i.postimg.cc/q72PSbWm/20260601-214906.png" group-title="SPORTS",Fox Sports 501
 http://fastshare1.com:8080//live/25711345/late8airline/4748.ts
