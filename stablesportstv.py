@@ -329,7 +329,7 @@ http://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
 #EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: Fox Sports 501" tvg-logo="https://i.postimg.cc/q72PSbWm/20260601-214906.png" group-title="SPORTS",Fox Sports 501
 http://fastshare1.com:8080//live/25711345/late8airline/4748.ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/3Rz4bwGz/images-(1).jpg",SKY SPORTS CRICKET
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://i.postimg.cc/3Rz4bwGz/images-(1).jpg" group-title="SPORTS",SKY SPORTS CRICKET
 http://fastshare1.com:8080//live/25711345/late8airline/186605.ts
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS",SONY SPORTS 1HD
