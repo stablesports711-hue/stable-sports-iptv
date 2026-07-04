@@ -128,7 +128,7 @@ http://lefanten.com:8080/live/xuxDj2EU/jtxWZHR4nzquT/1434609.m3u8
 http://lefanten.com:8080/live/xuxDj2EU/jtxWZHR4nzquT/1434639.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/1zPBwRBH/20260704-160037.jpg",FIFA World Cup 2026 UC
-http://198.195.239.50:8095/ptv/index.m3u8
+http://lefanten.com:8080/live/xuxDj2EU/jtxWZHR4nzquT/1434610.m3u8
 
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
