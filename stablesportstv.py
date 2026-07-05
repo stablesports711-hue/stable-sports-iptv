@@ -94,7 +94,7 @@ https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 http://www.1play.cool:25461/live/2147807636/33de96f6e3/62550.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/pdpNmLGj/20260607-191102.jpg",FIFA World Cup 2026 🇦🇷
-http://daleplaytv.vip:80//live/4nd9wbtu/c5hrn9eFhfsa/81252.ts
+http://www.1play.cool:25461/live/2147807636/33de96f6e3/77098.ts
 #https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/NjnJP7D0/20260607-191116.jpg",FIFA World Cup 2026 🇧🇷
@@ -122,7 +122,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 http://198.195.239.50:8095/ptv/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/1zPBwRBH/20260704-160037.jpg",FIFA World Cup 2026 UC
-http://lefanten.com:8080/live/xuxDj2EU/jtxWZHR4nzquT/1434609.m3u8
+http://lefanten.com:8080/live/xuxDj2EU/jtxWZHR4nzquT/1434609.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/1zPBwRBH/20260704-160037.jpg",FIFA World Cup 2026 UC
 http://lefanten.com:8080//live/xuxDj2EU/jtxWZHR4nzquT/1434639.ts
