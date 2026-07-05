@@ -19,7 +19,8 @@ sources = [
 custom_channels = """#EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQVwpJJ/20260622-224220.jpg"group-title="LIVE SPORTS" group-title="", 💠FIFA World Cup 2026 HD
-http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
+#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
+https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXFvT7dD/20260702-204721.jpg"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 1)
 https://cdn-tt.pages.dev/ch1.m3u8
@@ -31,20 +32,20 @@ https://cdn-tt.pages.dev/ch2.m3u8
 https://cdn-tt.pages.dev/ch3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXnk77QG/20260627-200357.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Fast HD)
-#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
-https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2K4FVpz/20260627-200442.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Binge+)
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 https://m3u-tvb.pages.dev/ics.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="",🅰FIFA World Cup 2026 (Fast HD)
-https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
+https://bioscope-ultra.sm-monirulislam-exp.workers.dev/bioscope.m3u8
+#https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
 #https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
 #http://sm-monirul.top/fifa/bioscope/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="", 🅱FIFA World Cup 2026 (Fast HD)
-http://sm-monirul.top/fifa/bioscope1/index.m3u8
+EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="", 🅱FIFA World Cup 2026 (Fast HD)
+#http://sm-monirul.top/fifa/bioscope1/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyBtGF3t/20260622-205419.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 
@@ -68,11 +69,11 @@ http://198.195.239.50:8095/somoyTv/index.m3u8
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026 FHD
-http://fastshare1.com:8080//live/25711345/late8airline/52500.ts
+http://103.151.60.204:881/DADA-TSports/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh2
 #http://mysave23.com/live/PeH5kPWFfG /infamous7funny/18452.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026 HD
-http://103.209.196.22:84/feed1001/video.m3u8
+http://103.151.60.204:881/DADA-TSports/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh2
 #http://premiumtvs.space/live/jen12345/Jen54321/113069.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/7LW7Jnw0/20260612-094836.jpg",🅰️FIFA World Cup 2026(Tapmad)PK only
