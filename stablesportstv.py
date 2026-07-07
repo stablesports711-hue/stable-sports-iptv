@@ -129,13 +129,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/NMcc0qRS/20260607-191003.jpg",FIFA World Cup 2026 🇵🇰
 http://fastshare1.com:8080//live/25711345/late8airline/61674.ts
 
-EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/1zPBwRBH/20260704-160037.jpg",FIFA World Cup 2026 UC
+urzruskgxrEXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/1zPBwRBH/20260704-160037.jpg",FIFA World Cup 2026 UC
 #http://lefanten.com:8080/live/xuxDj2EU/jtxWZHR4nzquT/1434609.ts
 
-EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/1zPBwRBH/20260704-160037.jpg",FIFA World Cup 2026 UC
+ohccoyy,d,duEXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/1zPBwRBH/20260704-160037.jpg",FIFA World Cup 2026 UC
 #http://lefanten.com:8080//live/xuxDj2EU/jtxWZHR4nzquT/1434639.ts
 
-EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/1zPBwRBH/20260704-160037.jpg",FIFA World Cup 2026 UC
+ixgxufufEXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/1zPBwRBH/20260704-160037.jpg",FIFA World Cup 2026 UC
 #http://lefanten.com:8080//live/xuxDj2EU/jtxWZHR4nzquT/1434611.ts
 
 
