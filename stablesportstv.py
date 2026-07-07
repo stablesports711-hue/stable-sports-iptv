@@ -108,9 +108,8 @@ http://www.1play.cool:25461/live/2147807636/33de96f6e3/77098.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/NjnJP7D0/20260607-191116.jpg",FIFA World Cup 2026 🇧🇷
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=1223d5105392cabf1bb9c2c1fdf6539a:340b409f4b8f78a343e0363a7938df38
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg",FIFA World Cup 2026 🇮🇳
 https://xfireflix.my.id/mac.php?id=373312.m3u8
