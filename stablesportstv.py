@@ -60,7 +60,7 @@ http://mysave23.com/live/PeH5kPWFfG/infamous7funny/751355.ts
  http://fastshare1.com:80/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/kMRQm0TV/20260607-191132.jpg",FIFA World Cup 2026
-http://198.195.239.50:8095/btv/index.m3u8
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/gJFY66bK/20260607-190906.jpg",FIFA World Cup 2026
 http://198.195.239.50:8095/somoyTv/index.m3u8
