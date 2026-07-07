@@ -54,7 +54,9 @@ http://mysave23.com/live/PeH5kPWFfG/infamous7funny/751354.ts
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/745270.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3PxS0Vm/20260613-165514.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (4K)
-http://mysave23.com/live/PeH5kPWFfG/infamous7funny/751355.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjQwQXST/20260613-104845.jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 (HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
