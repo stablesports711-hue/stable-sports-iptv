@@ -36,7 +36,7 @@ https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315f
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 https://m3u-tvb.pages.dev/ics.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="",🅰FIFA World Cup 2026 (Fast HD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Fast HD)
 https://bioscope-ultra.sm-monirulislam-exp.workers.dev/bioscope.m3u8
 #https://bioscope.sm-monirulislam-exp.workers.dev/bioscope.m3u8
 #https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index.m3u8
@@ -57,13 +57,15 @@ http://mysave23.com/live/PeH5kPWFfG/infamous7funny/745270.ts
 http://mysave23.com/live/PeH5kPWFfG/infamous7funny/751355.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjQwQXST/20260613-104845.jpg" group-title="LIVE SPORTS",FIFA World Cup 2026 (HD)
- http://fastshare1.com:80/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c338a117d434ce4bbe3569231af90f1:a9633d901ee8a3f4f58ac314b5c5f4fb
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/kMRQm0TV/20260607-191132.jpg",FIFA World Cup 2026
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/kMRQm0TV/20260607-191132.jpg",FIFA World Cup 2026(BTV)
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/gJFY66bK/20260607-190906.jpg",FIFA World Cup 2026
-http://198.195.239.50:8095/somoyTv/index.m3u8
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/gJFY66bK/20260607-190906.jpg",FIFA World Cup 2026(SOMOY TV)
+http://fastshare1.com:8080//live/25711345/late8airline/422.ts
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026 FHD
