@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tapmad-14774" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17830813161020x576.jpg" group-title="LIVE SPORTS", Zimbabwe vs Bangladesh | Bangladesh Tour of Zimbabwe 2026
-https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png" group-title="Cricket", Zimbabwe Vs Bangladesh | Bangladesh tour of Zimbabwe 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143400_english.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQVwpJJ/20260622-224220.jpg"group-title="LIVE SPORTS" group-title="", 💠FIFA World Cup 2026 HD
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
@@ -15,11 +10,9 @@ https://cdn-tt.pages.dev/ch1.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXFvT7dD/20260702-204721.jpg"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 2)
 https://cdn-tt.pages.dev/ch2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXFvT7dD/20260702-204721.jpg"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 3)
-https://cdn-tt.pages.dev/ch3.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXnk77QG/20260627-200357.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Fast HD)
-
+#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
+https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/s2K4FVpz/20260627-200442.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Binge+)
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
@@ -49,7 +42,7 @@ http://mysave23.com/live/PeH5kPWFfG/infamous7funny/751355.ts
  http://fastshare1.com:80/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/kMRQm0TV/20260607-191132.jpg",FIFA World Cup 2026
-http://198.195.239.50:8095/btv/index.m3u8
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/gJFY66bK/20260607-190906.jpg",FIFA World Cup 2026
 http://198.195.239.50:8095/somoyTv/index.m3u8
@@ -86,8 +79,9 @@ http://www.1play.cool:25461/live/2147807636/33de96f6e3/77098.ts
 #https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/NjnJP7D0/20260607-191116.jpg",FIFA World Cup 2026 🇧🇷
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/K83r4XPs/20260607-191047.jpg",FIFA World Cup 2026 🇮🇳
