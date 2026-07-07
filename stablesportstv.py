@@ -92,7 +92,11 @@ https://stream.kurdtv.live/bein-max/index.m3u8
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/zfjBKhMd/20260612-205515.jpg",FIFA World Cup 2026 🇦🇷
-http://www.1play.cool:25461/live/2147807636/33de96f6e3/62550.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f836853d8eac19446ed9535f5fc568b1:b3bc5ef00602b29abac7e482d3d9fbf3
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
+
+#http://www.1play.cool:25461/live/2147807636/33de96f6e3/62550.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/pdpNmLGj/20260607-191102.jpg",FIFA World Cup 2026 🇦🇷
 http://www.1play.cool:25461/live/2147807636/33de96f6e3/77098.ts
