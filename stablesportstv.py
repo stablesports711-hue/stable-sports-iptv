@@ -80,7 +80,7 @@ http://103.151.60.204:881/DADA-TSports/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh
 #http://mysave23.com/live/PeH5kPWFfG /infamous7funny/18452.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026 HD
-http://103.151.60.204:881/DADA-TSports/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh2
+http://114.130.57.233:8080/TsportHD/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
 #http://premiumtvs.space/live/jen12345/Jen54321/113069.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/7LW7Jnw0/20260612-094836.jpg",🅰️FIFA World Cup 2026(Tapmad)PK only
