@@ -18,6 +18,9 @@ sources = [
 
 custom_channels = """#EXTM3U
 
+#EXTINF:-1 tvg-id="tapmad-14775" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833330701020x576.jpg" group-title="LIVE SPORTS", Zimbabwe vs Bangladesh | Bangladesh Tour of Zimbabwe 2026
+https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/PqQVwpJJ/20260622-224220.jpg"group-title="LIVE SPORTS" group-title="", 💠FIFA World Cup 2026 HD
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
 https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
