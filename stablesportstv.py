@@ -69,10 +69,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b788
 https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/kMRQm0TV/20260607-191132.jpg",FIFA World Cup 2026(BTV)
-http://180.94.28.28:8097//BTV/index.fmp4.m3u8
+http://114.130.57.233:8080/btvfifa2026/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/gJFY66bK/20260607-190906.jpg",FIFA World Cup 2026(SOMOY TV)
-http://fastshare1.com:8080//live/25711345/late8airline/422.ts
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026 FHD
