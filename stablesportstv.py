@@ -18,6 +18,9 @@ sources = [
 
 custom_channels = """#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Zimbabwe--vs-Bangladesh-old-.png" group-title="LIVE SPORTS", Zimbabwe Vs Bangladesh | Bangladesh tour of Zimbabwe 2026 (ENGLISH)
+https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143401_english.m3u8
+
 #EXTINF:-1 tvg-id="tapmad-14775" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17833330701020x576.jpg" group-title="LIVE SPORTS", Zimbabwe vs Bangladesh | Bangladesh Tour of Zimbabwe 2026
 https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8
 
@@ -27,9 +30,6 @@ https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315f
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXFvT7dD/20260702-204721.jpg"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 1)
 https://cdn-tt.pages.dev/ch1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXFvT7dD/20260702-204721.jpg"group-title="LIVE SPORTS" group-title="", FIFA World Cup 2026 HD(Toffee 2)
-https://cdn-tt.pages.dev/ch2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/sXnk77QG/20260627-200357.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Fast HD)
 #EXTVLCOPT:http-referrer=https://iscreen.com.bd/
