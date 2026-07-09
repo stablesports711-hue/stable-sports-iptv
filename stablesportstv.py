@@ -131,7 +131,8 @@ http://212.102.34.8:9080/AndFlixHD/video.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/NMcc0qRS/20260607-191003.jpg",FIFA World Cup 2026 🇵🇰
-http://fastshare1.com:8080//live/25711345/late8airline/61674.ts
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/809398.m3u8
+#http://fastshare1.com:8080//live/25711345/late8airline/61674.ts
 
 urzruskgxrEXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/1zPBwRBH/20260704-160037.jpg",FIFA World Cup 2026 UC
 #http://lefanten.com:8080/live/xuxDj2EU/jtxWZHR4nzquT/1434609.ts
@@ -332,10 +333,12 @@ http://172.20.21.22/live/skyfeed1005/index.m3u8
 http://103.151.60.204:881/T-Sports/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh2
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="SPORTS",A Sports HD
-http://fastshare1.com:8080//live/25711345/late8airline/43447.ts
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/809397.m3u8
+#http://fastshare1.com:8080//live/25711345/late8airline/43447.ts
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png" group-title="SPORTS",PTV Sports
-http://fastshare1.com:8080//live/25711345/late8airline/61674.ts
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/809398.m3u8
+#http://fastshare1.com:8080//live/25711345/late8airline/61674.ts
 
 gg#EXTINF:-1 tvg-id="ext" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Willow%20TV.jpeg" group-title="SPORTS",Willow 
 bbhttp://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
