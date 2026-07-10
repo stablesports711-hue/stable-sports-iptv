@@ -343,16 +343,12 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/809398.
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/3N8gLCsG/images-(2).jpg",GEO SUPER HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/373118.m3u8
 
-gg#EXTINF:-1 tvg-id="ext" tvg-name="Willow" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/refs/heads/main/Willow%20TV.jpeg" group-title="SPORTS",Willow 
-bbhttp://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
-#https://tvsen5.aynaott.com/willowhd/index.m3u8
-
 #EXTM3U x-tvg-url="http://fastshare1.com:8080/xmltv.php?username=25711345&password=late8airline"
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png",WILLOW CRICKET HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/T14Y66P2/20260710-111541.png",WILLOW CRICKET HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/809386.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png",WILLOW CRICKET 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/dV8vWdGq/20260710-112953.png",WILLOW CRICKET 2 HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/809387.m3u8
 
 #EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: Fox Sports 501" tvg-logo="https://i.postimg.cc/q72PSbWm/20260601-214906.png" group-title="SPORTS",Fox Sports 501
