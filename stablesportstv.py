@@ -349,11 +349,11 @@ bbhttp://main.epgmaker.com/live/y49sz6KMQs/6115263489/517.ts
 
 #EXTM3U x-tvg-url="http://fastshare1.com:8080/xmltv.php?username=25711345&password=late8airline"
 
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW SPORTS" tvg-logo="http://greenpa1.com/willow.png" group-title="SPORTS",WILLOW SPORTS
-http://fastshare1.com:8080/live/25711345/late8airline/215.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png",WILLOW CRICKET HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/809386.m3u8
 
-#EXTINF:-1 tvg-id="92news.uk" tvg-name="CRIC || WILLOW 2" tvg-logo="http://greenpa1.com/willowxtra.png" group-title="SPORTS",WILLOW 2
-http://fastshare1.com:8080/live/25711345/late8airline/5040.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="http://picon.tivi-ott.net:25461/picon/MIX/Live%20Cricket%20TV.png",WILLOW CRICKET 2 HD
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/809387.m3u8
 
 #EXTINF:-1 tvg-id="foxsports501hd.au" tvg-name="AU: Fox Sports 501" tvg-logo="https://i.postimg.cc/q72PSbWm/20260601-214906.png" group-title="SPORTS",Fox Sports 501
 http://fastshare1.com:8080//live/25711345/late8airline/4748.ts
