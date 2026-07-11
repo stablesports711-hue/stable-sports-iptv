@@ -125,7 +125,7 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/NMcc0qRS/20260607-191003.jpg",FIFA World Cup 2026 🇵🇰
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/809398.m3u8
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-PTVSports.m3u8
 #http://fastshare1.com:8080//live/25711345/late8airline/61674.ts
 
 urzruskgxrEXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/1zPBwRBH/20260704-160037.jpg",FIFA World Cup 2026 UC
@@ -327,11 +327,11 @@ ocyoyogyEXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv
 iffxi:http://103.151.60.204:881/T-Sports/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh2
 
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="SPORTS",A Sports HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/809397.m3u8
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
 #http://fastshare1.com:8080//live/25711345/late8airline/43447.ts
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png" group-title="SPORTS",PTV Sports
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/809398.m3u8
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-PTVSports.m3u8
 #http://fastshare1.com:8080//live/25711345/late8airline/61674.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/3N8gLCsG/images-(2).jpg",GEO SUPER HD
