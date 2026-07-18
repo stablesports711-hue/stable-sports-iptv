@@ -31,6 +31,9 @@ http://103.102.27.173:84/tvfeed1002/index.m3u8
 https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvcmG0vj/20260718-174820.png" group-title="LIVE SPORTS",Vitality Blast Men 2026
+http://live.balajibroadband.com:3500/live/155.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zvcmG0vj/20260718-174820.png" group-title="LIVE SPORTS",Vitality Blast Men 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zvcmG0vj/20260718-174820.png" group-title="LIVE SPORTS",Vitality Blast Men 2026
@@ -317,13 +320,13 @@ http://103.102.27.173:84/Madani-TV/index.m3u8
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",Sony Aath
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/BANGLA/Sonyaath.m3u8
+http://live.balajibroadband.com:3500/live/697.m3u8
 
 #EXTINF:-1 group-title="Indian Hindi" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",Sony Max HD
-http://103.102.27.173:84/SONY-MAX-HD/index.m3u8
+http://live.balajibroadband.com:3500/live/476.m3u8
 
 #EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_147_1737270122_thumb.png" group-title="Indian Hindi", SONY MAX 2
-http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
+http://live.balajibroadband.com:3500/live/483.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Gtvhd.png",Gazi TV
 http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
