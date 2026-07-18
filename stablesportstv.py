@@ -75,7 +75,8 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026 FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
+http://103.102.27.173:84/tvfeed1002/index.m3u8
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 #http://mysave23.com/live/PeH5kPWFfG /infamous7funny/18452.ts
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/4NWsyqfM/20260607-190818.jpg",FIFA World Cup 2026 FHD
@@ -314,12 +315,14 @@ http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
 http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-id="NAGORIK HD" tvg-logo="http://103.144.89.251/assets/images/NAGORIK1745042776.png",NAGORIK HD
-http://180.94.28.28:8097//Nagorik-TV/index.fmp4.m3u8
+http://103.102.27.173:84/NAGORIK-TV/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports ISP
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports2.m3u8
+http://103.102.27.173:84/tvfeed1002/index.m3u8
+
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",T Sports
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports2.m3u8
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",T Sports HD
@@ -364,11 +367,13 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 
 
 #EXTINF: -1 tvg-id="78" tvg-logo="https://tatalogo.pages.dev/78.png" group-title="Sports", Star Sports 1 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSports1.m3u8
+http://103.102.27.173:84/STAR-SPORTS-1-HD/index.m3u8
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSports1.m3u8
 #http://114.130.57.233:8080/StarSports1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF: -1 tvg-id="235" tvg-logo="https://tatalogo.pages.dev/235.png" group-title="Sports", Star Sports 2 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSports2.m3u8
+http://103.102.27.173:84/STAR-SPORTS-2-HD/index.m3u8
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSports2.m3u8
 #http://103.151.60.204:881/StarSports2/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh2
 
 
