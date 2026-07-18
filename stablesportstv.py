@@ -263,8 +263,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://116.204.149.16/banglatv/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",RTV
-#http://tvn3.chowdhury-shaheb.com/rtv/index.m3u8
-http://fastshare1.com:8080//live/25711345/late8airline/401.ts
+http://103.102.27.173:84/RTV/index.m3u8
 
 #EXTINF:-1 tvg-id="nexustv" tvg-name="Nexus TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png" group-title="BANGLA",Nexus TV
 http://103.102.27.173:84/Nexus-TV/index.m3u8
