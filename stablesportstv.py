@@ -75,7 +75,8 @@ EXTINF:-1 tvg-logo="https://i.postimg.cc/d3SwnmmH/20260613-055610.jpg"group-titl
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyBtGF3t/20260622-205419.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 
-http://mysave23.com/live/PeH5kPWFfG/infamous7funny/751354.ts
+http://stream.mcquack.net/72/index.m3u8
+#http://mysave23.com/live/PeH5kPWFfG/infamous7funny/751354.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RFYx7cfR/20260612-205410.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (4K)
