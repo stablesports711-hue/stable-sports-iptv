@@ -17,22 +17,17 @@ sources = [
 # =========================
 
 custom_channels = """#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ZIM-vs-BAN_Web-match-card_1783952837295.png" group-title="LIVE SPORTS", Zimbabwe Vs Bangladesh | Bangladesh tour of Zimbabwe 2026 (ENGLISH)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143405_english.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-14779" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17841057101020x576.jpg" group-title="LIVE SPORTS", Zimbabwe vs Bangladesh | Bangladesh Tour of Zimbabwe 2026
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (ENGLISH)
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (ENGLISH)
-http://103.102.27.173:84/tvfeed1002/index.m3u8
+http://103.114.11.37:8081/T-Sports-HD/tracks-v1a1/mono.m3u8?token=sdfgsdiufsildugfisdgfsdiuygf
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (ENGLISH)
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (ENGLISH)
+TINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (ENGLISH)
 
 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/zvcmG0vj/20260718-174820.png" group-title="LIVE SPORTS",Vitality Blast Men 2026
