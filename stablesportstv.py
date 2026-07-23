@@ -32,8 +32,8 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5689304538fa9f3bb3da99c939a2ad4f:6907c88ed8ebdd35a2fa80b9684715e1
-https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
 EXTINF:-1 tvg-logo="https://i.postimg.cc/zvcmG0vj/20260718-174820.png" group-title="LIVE SPORTS",Vitality Blast Men 2026
 ghttps://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
