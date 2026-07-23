@@ -35,28 +35,6 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-EXTINF:-1 tvg-logo="https://i.postimg.cc/zvcmG0vj/20260718-174820.png" group-title="LIVE SPORTS",Vitality Blast Men 2026
-ghttps://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
-TINF:-1 tvg-logo="https://i.postimg.cc/zvcmG0vj/20260718-174820.png" group-title="LIVE SPORTS",Vitality Blast Men 2026
-hhttp://live.balajibroadband.com:3500/live/155.m3u8
-
-XTINF:-1 tvg-logo="https://i.postimg.cc/zvcmG0vj/20260718-174820.png" group-title="LIVE SPORTS",Vitality Blast Men 2026
-hhttps://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
-
-XTINF:-1 tvg-logo="https://i.postimg.cc/zvcmG0vj/20260718-174820.png" group-title="LIVE SPORTS",Vitality Blast Men 2026
-nhttps://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow1.m3u8
-
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839250151020x576.jpg" group-title="LIVE SPORTS", England vs India | India Tour of England 2026
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839250151020x576.jpg" group-title="LIVE SPORTS", England vs India | India Tour of England 2026
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow1.m3u8
-
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17839250151020x576.jpg" group-title="LIVE SPORTS", England vs India | India Tour of England 2026
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
-
-
-
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
 http://sm-monirul.top/ott/iscreen/index.m3u8
