@@ -17,8 +17,11 @@ sources = [
 # =========================
 
 custom_channels = """#EXTM3U
+
+https://i.postimg.cc/q7Jfk310/20260723-214501.png
 #EXTINF:-1 tvg-id="tapmad-15407" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847038331020x576.jpg" group-title="Volleyball", Uzbekistan vs Bangladesh | CAVA Men's Volleyball Championship 2026
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (ENGLISH)
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
 
