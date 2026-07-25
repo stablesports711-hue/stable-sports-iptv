@@ -231,6 +231,7 @@ http://103.102.27.173:84/tvfeed1002/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",T Sports
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/18452.ts
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",T Sports HD
@@ -241,8 +242,9 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #http://fastshare1.com:8080//live/25711345/late8airline/43447.ts
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png" group-title="SPORTS",PTV Sports
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/89.ts
 http://103.102.27.173:84/PTV-SPORTS-HD/index.m3u8
-#http://fastshare1.com:8080//live/25711345/late8airline/61674.ts
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/3N8gLCsG/images-(2).jpg",GEO SUPER HD
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sps1/373118.m3u8
