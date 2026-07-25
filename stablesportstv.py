@@ -21,7 +21,7 @@ custom_channels = """#EXTM3U
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7Jfk310/20260723-214501.png" group-title="LIVE SPORTS",Global Super League 2026 (ENGLISH)
-http://live.balajibroadband.com:3500/live/155.m3u8
+http://monirul.bro.bd/sm/stream.php?id=sony_sports_5_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/q7Jfk310/20260723-214501.png" group-title="LIVE SPORTS",Global Super League 2026 (ENGLISH)
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow1.m3u8
@@ -265,16 +265,19 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Unite8S2.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS",SONY SPORTS 1 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_1.m3u8
+http://monirul.bro.bd/sm/stream.php?id=sony_sports_1_hd&e=.m3u8
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_1.m3u8
 #http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SPORTS",SONY SPORTS 2 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_2.m3u8
+http://monirul.bro.bd/sm/stream.php?id=sony_sports_2_hd&e=.m3u8
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_2.m3u8
 #https://b4uplay.com/sliv/stream.m3u8?id=1000009277|referer=https://b4uplay.com/
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SPORTS",SONY SPORTS 5 HD
-http://live.balajibroadband.com:3500/live/155.m3u8
+http://monirul.bro.bd/sm/stream.php?id=sony_sports_5_hd&e=.m3u8
+#http://live.balajibroadband.com:3500/live/155.m3u8
 
 
 #EXTINF: -1 tvg-id="78" tvg-logo="https://tatalogo.pages.dev/78.png" group-title="SPORTS", Star Sports 1 HD
