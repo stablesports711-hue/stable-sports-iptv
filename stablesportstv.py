@@ -249,7 +249,7 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #http://fastshare1.com:8080//live/25711345/late8airline/43447.ts
 
 #EXTINF:-1 tvg-logo="https://ev-img-cdn-lb.shoq.com.pk/prd-peg-data/default/images/logos/live/PTV-Sports.png" group-title="SPORTS",PTV Sports
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/89.ts
+#http://premiumtvs.space/live/YqXTywueEV/damp2purchase/89.ts
 http://103.102.27.173:84/PTV-SPORTS-HD/index.m3u8
 
 
