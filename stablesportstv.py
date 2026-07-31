@@ -229,13 +229,16 @@ http://180.94.28.28:8097//GAZI-TV/index.fmp4.m3u8
 http://103.102.27.173:84/NAGORIK-TV/index.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",T Sports ISP
-http://103.102.27.173:84/tvfeed1002/index.m3u8
-#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports2.m3u8
+http://172.17.50.112:84/ant1009/video.m3u8
+#http://103.102.27.173:84/tvfeed1002/index.m3u8
 
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",T Sports
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/18452.ts
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
+http://172.17.50.112:84/ant1004/video.m3u8
+
+
+#EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",T Sports HD
+http://172.17.50.112:84/ant1007/video.m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",T Sports HD
 http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
