@@ -1,9 +1,7 @@
 import requests
 
 OUTPUT_FILES = [
-    "STABLE-SPORTS TV.m3u",
-    " Nahid.m3u",
-    "Siam.m3u"
+    "STABLE-SPORTS TV.m3u"
 ]
 
 sources = [
