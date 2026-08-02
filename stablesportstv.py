@@ -46,7 +46,7 @@ http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (ENGLISH)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/LPL.m3u8
+http://skylikem.com/live/2VZWJC3W/B7D7XK4T/2301.ts
 
 
 
