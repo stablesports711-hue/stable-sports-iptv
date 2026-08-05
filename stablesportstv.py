@@ -15,21 +15,16 @@ sources = [
 # =========================
 
 custom_channels = """#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7Jfk310/20260723-214501.png" group-title="LIVE SPORTS",Global Super League 2026 (ENGLISH)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7Jfk310/20260723-214501.png" group-title="LIVE SPORTS",Global Super League 2026 (ENGLISH)
+#:-1 tvg-logo="https://i.postimg.cc/q7Jfk310/20260723-214501.png" group-title="LIVE SPORTS",Global Super League 2026 (ENGLISH)
+http/raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
+1 tvg-logo="https://i.postimg.cc/q7Jfk310/20260723-214501.png" group-title="LIVE SPORTS",Global Super League 2026 (ENGLISH)
 http://monirul.bro.bd/sm/stream.php?id=sony_sports_5_hd&e=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7Jfk310/20260723-214501.png" group-title="LIVE SPORTS",Global Super League 2026 (ENGLISH)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow1.m3u8
+#EE-1 tvg-logo="https://i.postimg.cc/q7Jfk310/20260723-214501.png" group-title="LIVE SPORTS",Global Super League 2026 (ENGLISH)githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow1.m3u8
+g-logo="https://i.postimg.cc/q7Jfk310/20260723-214501.png" group-title="LIVE SPORTS",Global Super League 2026 (ENGLISH)
+http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G3w.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7Jfk310/20260723-214501.png" group-title="LIVE SPORTS",Global Super League 2026 (ENGLISH)
-http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
-#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports2.m3u8
-
-#EXTINF:-1 tvg-id="tapmad-15407" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847038331020x576.jpg" group-title="Volleyball", Uzbekistan vs Bangladesh | CAVA Men's Volleyball Championship 2026
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-15407" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17847038331020x576.jpg" group-title="Volleyball", 
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (ENGLISH)
@@ -39,7 +34,11 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (ENGLISH)
-http://103.13.193.194:8082/T-SPORTS-HD/video.m3u8?token=RusriRM-L73G33
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=595932d92efbd8423ac32fbffcc78dca:adea3202c6154d11faad1d54b363763c
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/h1kfxvwp9c/out/v1/2899320e61bb4d218ccb5bf704c27cc2/cenc.mpd
 #https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (ENGLISH)
