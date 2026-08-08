@@ -6,7 +6,7 @@ OUTPUT_FILES = [
 
 sources = [
     "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-toffee/refs/heads/main/toffee.m3u",
-    "https://raw.githubusercontent.com/srhady/Hady/refs/heads/main/akash_live.m3u",
+    "https://raw.githubgdhshgshgehhshusercontent.com/srhady/Hady/refs/heads/main/akash_live.m3u",
     "https:.//raw.githubusercontent.com/abusaeeidx/BDxTV/refs/heads/main/roar-zone-playlist.m3u"
 ]
 
