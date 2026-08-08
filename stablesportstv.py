@@ -318,12 +318,12 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009275|referer=https://pl
 
 
 #EXTINF: -1 tvg-logo="https://tatalogo.pages.dev/78.png" group-title="SPORTS", Star Sports 1 HD
-http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778413.ts
+#http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778413.ts
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSports1.m3u8
 #http://114.130.57.233:8080/StarSports1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF: -1 tvg-id="235" tvg-logo="https://tatalogo.pages.dev/235.png" group-title="SPORTS", Star Sports 2 HD
-http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778412.ts
+#http://skylikem.com/live/2VZWJC3W/B7D7XK4T/778412.ts
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSports2.m3u8
 #http://103.151.60.204:881/StarSports2/tracks-v1a1/mono.m3u8?token=Cv90Fr-lyiZYh2
 
