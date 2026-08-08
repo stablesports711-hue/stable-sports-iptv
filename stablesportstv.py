@@ -369,6 +369,10 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=573&e=.m3u8
 
+
+#EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://images.tuneyou.com/images/logos/500_500/95/12695/RadioBhumi92.8FM.png" group-title="FM",রেডিও ভূমি (92.8FM)
+https://stream.zeno.fm/ybf1umk1k18uv
+
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/DzBr7HcM/1773936983038.png",STABLE-SPORTS TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
