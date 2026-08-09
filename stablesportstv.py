@@ -382,6 +382,9 @@ http://139.59.86.99:12496/stream
 #EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://images.tuneyou.com/images/logos/500_500/95/12695/RadioBhumi92.8FM.png" group-title="FM",রেডিও ভূমি (92.8FM)
 https://stream.zeno.fm/ybf1umk1k18uv
 
+#EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxKIJIBemuTzMX7CKzHbgYu6utZZoXxI2FoGZw70QKw&s=10.png" group-title="FM",ঢাকা এফএম (90.4FM)
+https://stream.zeno.fm/u9mphfk604zuv
+
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/DzBr7HcM/1773936983038.png",STABLE-SPORTS TV
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
