@@ -388,6 +388,9 @@ https://stream.zeno.fm/u9mphfk604zuv
 #EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mc73yB-cZbCwe2ZpE8YCdzyEwq0AjExQc0ZhhlwrRJaLg=s900-c-k-c0x00ffffff-no-rj.png" group-title="FM",রেডিও ফুর্তি (88.0FM)
 https://radiofoorti.fm/api/stream
 
+#EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://www.codagecorp.com/wp-content/uploads/radio-today.png" group-title="FM",রেডিও টুডে (89.6FM)
+https://stream.zeno.fm/8wv4d8g4344tv
+
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/DzBr7HcM/1773936983038.png",STABLE-SPORTS TV
 #KODIPROP:inputstream=inputstream.adaptive
