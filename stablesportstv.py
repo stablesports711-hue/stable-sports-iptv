@@ -370,6 +370,8 @@ https://radiofoorti.fm/api/stream
 #EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://www.codagecorp.com/wp-content/uploads/radio-today.png" group-title="FM",রেডিও টুডে (89.6FM)
 https://stream.zeno.fm/8wv4d8g4344tv
 
+#EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzlD0ZKI2jNSOkQqPA-mswY1AXvEuUEsTmrmMjv98rZ0TVEU2D-CFHaIz2&s=10.png" group-title="FM",পিপলস রেডিও (91.6FM)
+https://s3.myradiostream.com:14498/;
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/DzBr7HcM/1773936983038.png",STABLE-SPORTS TV
 #KODIPROP:inputstream=inputstream.adaptive
