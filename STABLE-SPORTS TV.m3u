@@ -1,25 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (FINAL)
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68ed4e1c2ffeb7f9133a7624d126c0b1:9772b4fed3a42a93ffb622a8e4367e1b
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xnkbbanemt/out/v1/939193c7b2464f42b913f3b09f8bf604/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (FINAL)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/LPL1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (FINAL)
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (FINAL)
-http://103.185.24.134:3001/TSportsHD/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/0NLNmXLJ/Lanka-Premier-League-T20-2026.png" group-title="LIVE SPORTS",Lanka Premier League 2026 (FINAL
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-ASports.m3u8
-
-
-
 
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",STABLE-SPORTS TV
@@ -369,12 +348,17 @@ https://stream.zeno.fm/ybf1umk1k18uv
 #EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxKIJIBemuTzMX7CKzHbgYu6utZZoXxI2FoGZw70QKw&s=10.png" group-title="FM",ঢাকা এফএম (90.4FM)
 https://stream.zeno.fm/u9mphfk604zuv
 
-#EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mc73yB-cZbCwe2ZpE8YCdzyEwq0AjExQc0ZhhlwrRJaLg=s900-c-k-c0x00ffffff-no-rj.png" group-title="FM",রেডিও ফুর্তি (88.0FM)
+#EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://cdn-profiles.tunein.com/s122537/images/logog.png" group-title="FM",রেডিও ফুর্তি (88.0FM)
 https://radiofoorti.fm/api/stream
 
 #EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://www.codagecorp.com/wp-content/uploads/radio-today.png" group-title="FM",রেডিও টুডে (89.6FM)
 https://stream.zeno.fm/8wv4d8g4344tv
 
+#EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzlD0ZKI2jNSOkQqPA-mswY1AXvEuUEsTmrmMjv98rZ0TVEU2D-CFHaIz2&s=10.png" group-title="FM",পিপলস রেডিও (91.6FM)
+https://s3.myradiostream.com:14498/;
+
+#EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://spicefmbd.com/logospice.png" group-title="FM",স্পাইসি এফএম (96.4FM)
+https://stream.spicefmbd.com/stream.m3u8
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/DzBr7HcM/1773936983038.png",STABLE-SPORTS TV
 #KODIPROP:inputstream=inputstream.adaptive
