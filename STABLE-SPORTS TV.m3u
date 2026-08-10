@@ -376,10 +376,6 @@ ttp://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/RAKKHOSH%20Bangla%20Movie%20S
 EXTINF:-1 group-title="MOVIE 2026" tvg-logo="http://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/MV5BZmY0M2I1NjYtODU4Zi00MmIyLTk0OWUtMDlhN2JmNzFmOWI1XkEyXkFqcGc@._V1_SX300.jpg",Bonolota Express [2026]
 ttp://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/Bonolota%20Express%20(2026)%20Bengali%20Amazon%20WEB-DL%20H264%20AAC%20720p.mkv
 
-#EXTINF:-1 tvg-id="Radio_With_Video" tvg-logo="https://example.com/logo.png" group-title="FM", Radio Channel
-#EXTVLCOPT:input-slave=http://stream.zeno.fm/uKmphfkG3tzu
-#EXTVLCOPT:loop
-https://res.cloudinary.com/qletk3ss/video/upload/v1785235285/VN20260728_161756_ev6pow.mp4
 
 #EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/5638c4e8-36ba-4e8e-848e-233183b3ec17.png",Toffee Dramas
 #EXTVLCOPT:http-user-agent=okhttp/5.1.0
