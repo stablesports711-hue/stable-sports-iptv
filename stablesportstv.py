@@ -80,7 +80,7 @@ https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png",Channel 9 HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png",ATN News
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://yt3.googleusercontent.com/ZBW3QTVsP4woeK2-sVqWPZTiUECW5BCkY-fO4q0IJ70-jrPhgn-LG0BGVckENkCS0aQK_193GA=s900-c-k-c0x00ffffff-no-rj",ATN News
 http://103.165.93.31:8095/atnNews/video.m3u8
 #https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnws-sg.stream/tracks-v1a1/mono.m3u8
 
@@ -98,12 +98,12 @@ https://tvsen5.aynaott.com/P3y2URgG7LDe/tracks-v1a1/mono.ts.m3u8
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.ntvbd.com/sites/default/files/aggregator/2020/02/17/ntv-channel_0.jpg",NTV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPR38fHKwxReRab3F-GAneyjy8zFYySIhHCfhPqL3al-wiIvnniFdq_IQ&s=10.png",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
 #https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/BANGLA/NTV.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png",BanglaVision
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lznWhV194D6rfuuCsBIe8SS11AMjZ3H-AbQxhpuxfys8M=s900-c-k-c0x00ffffff-no-rj",BanglaVision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/tracks-v1a1/mono.ts.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
@@ -114,7 +114,7 @@ https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
 #https://tvsen6.aynaott.com/mytv/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://s4.gifyu.com/images/image534fa27d7683f33d.png",Ekushey TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://yt3.googleusercontent.com/4G-Aw-9Y2BiYRKQWIkTYWMp68o1XFiPn67SiKacsElkUnizh-75w9jLV7DKZWa6D4C5W8aicYA=s900-c-k-c0x00ffffff-no-rj",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/o3v235oBcqxnFHJBkAdC/posters/159af631-796d-4342-a2a7-c272f32bcd32.png",Ekhon TV
@@ -167,7 +167,8 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-id="nexustv" tvg-name="Nexus TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/07/nexustv.png" group-title="BANGLA",Nexus TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://ftp.assadikb.workers.dev/stream.m3u8?id=nexus_tv
+https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
+#https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHLLTe_2ddfxYSoXDSD7D54Gbn57FJBuJ-6YV-PydK7_IjOZ-Pdj08iRdY&s=10.png" group-title="BANGLA",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
@@ -176,9 +177,10 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="duronto.bd" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg" group-title="KIDS", Duronto Tv
 http://103.165.93.31:8095/duranta/index.m3u8
 
-#EXTINF:-1 tvg-id="duronto.bd" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="KIDS",NICK BANGLA
+#EXTINF:-1 tvg-id="Stable-Sports" tvg-logo="https://yt3.googleusercontent.com/M32uDDSlMkH2-XRmZMvcM64uMzotjxbpzngMS-pnmoDoD-ei--PAHiA0EC9tyiW-5lcXfa6Aqg=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS",Nick Bangla
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 http://live.balajibroadband.com:3500/live/1341.m3u8
+logohttps://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png
 
 #EXTINF:-1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Bangla.png" tvg-language="Bengali" tvg-type="Kids" group-title="KIDS", Sonic Bangla
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
