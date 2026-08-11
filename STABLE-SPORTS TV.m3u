@@ -180,6 +180,13 @@ http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png",Madina 🔴Live
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://saudiradio.faulio.com/storage/mediagallery/eb/42/fullhd_ef572438fffe8669b91c090d495bee55e7a4808c.png",Holy Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/SsJHZNLp/20260811-125845.png",Al- Quran Live
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+
+
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://yt3.googleusercontent.com/Z6LKipH0hOTZM50gV-_zi2H3GSshWUEU20Lag3fIT3i0cZsJD_coQaNOEqsxVLVJ3Pc6w3Of=s900-c-k-c0x00ffffff-no-rj.png",Madani TV Bangla
 http://monirul.bro.bd/sm/stream.php?id=madani_tv_hd&e=.m3u8
 #https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
