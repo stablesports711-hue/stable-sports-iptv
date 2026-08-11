@@ -92,7 +92,7 @@ https://tvsen5.aynaott.com/P3y2URgG7LDe/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jkbo7Qe.png" group-title="BANGLA",Ananda TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcL5B2kjt9gVkv6UW_xtSxlWADze_mnkt8nqgrlN3oQoWSRFOF3M4NAko&s=10.png" group-title="BANGLA",Ananda TV
 #EXTVLCOPT:http-referrer=https://www.jagobd.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=|Referer=https://www.jagobd.com/
@@ -150,7 +150,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://ftp.assadikb.workers.dev/stream.m3u8?id=/channel_s
 
 
-#EXTINF:-1 tvg-id="DeshTV" tvg-logo="https://i.postimg.cc/wvBbd56q/Desh-TV.jpg" group-title="BANGLA", Desh TV
+#EXTINF:-1 tvg-id="DeshTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfHjo6UH5GgOVP49haq7DAGn4vWx7Q6tRDEwarZqJWvDRzWwQl1R5EEI98&s=10.png" group-title="BANGLA", Desh TV
 #https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
 https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
 
@@ -158,7 +158,7 @@ https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
 #http://103.229.254.25:7001/play/a05t/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="banglatv" tvg-name="Bangla TV" tvg-logo="https://i.imgur.com/DLGjTfI.png" group-title="BANGLA",Bangla TV
+#EXTINF:-1 tvg-id="banglatv" tvg-name="Bangla TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPD3Qo1CSwd9ZcA0b6xTS1I66pctDsOhGt3Uhhf_cQ00L_zf7T1M0MVVY&s=10.png" group-title="BANGLA",Bangla TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://cdn.ghuddi.live/Bangla_TV/Bangla_TV_BD/playlist.m3u8
 
@@ -169,7 +169,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://ftp.assadikb.workers.dev/stream.m3u8?id=nexus_tv
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png" group-title="BANGLA",Green TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHLLTe_2ddfxYSoXDSD7D54Gbn57FJBuJ-6YV-PydK7_IjOZ-Pdj08iRdY&s=10.png" group-title="BANGLA",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
 
@@ -190,7 +190,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="KIDS",RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56F0fDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj",Makka🔴Live
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/8553wC1r/20260811-172504.png",Saudi Quran TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/rwkP3jVm/20260811-171415.png",Saudi Sunnah TV
@@ -203,7 +203,7 @@ https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
 
 
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://yt3.googleusercontent.com/Z6LKipH0hOTZM50gV-_zi2H3GSshWUEU20Lag3fIT3i0cZsJD_coQaNOEqsxVLVJ3Pc6w3Of=s900-c-k-c0x00ffffff-no-rj.png",Madani TV Bangla
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUe2QR6r4xB5LE3fSbB6jSPb9O0bhN9YzzM29ROOBhMP8-wwfBLK-3NE8&s=10.png",Madani TV Bangla
 http://monirul.bro.bd/sm/stream.php?id=madani_tv_hd&e=.m3u8
 #https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
@@ -357,7 +357,7 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://madanitv.assadikb.workers.dev/live.php?id=573&e=.m3u8
 
-#EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/2/2d/বাংলাদেশ_বেতারের_লোগো.jpg" group-title="FM",বাংলাদেশ বেতার (100.0FM)
+#EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_OahSFGXf5G7iN2KaGuhe3j_8GerDS1MqEjCwiMi8bA&s=10.png" group-title="FM",বাংলাদেশ বেতার (100.0FM)
 https://as1.digitalsynapsebd.com/proxy/bbdkka/stream
 
 #EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMPNmDKEUnR3BgOJobIx436QI_Uw-N_YvBXrqL-QsCL26g1py-pQhFi1rG&s=10.png" group-title="FM",জাগো এফএম (94.4FM)
@@ -366,7 +366,7 @@ http://139.59.86.99:12496/stream
 #EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://images.tuneyou.com/images/logos/500_500/95/12695/RadioBhumi92.8FM.png" group-title="FM",রেডিও ভূমি (92.8FM)
 https://stream.zeno.fm/ybf1umk1k18uv
 
-#EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLxKIJIBemuTzMX7CKzHbgYu6utZZoXxI2FoGZw70QKw&s=10.png" group-title="FM",ঢাকা এফএম (90.4FM)
+#EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://yt3.googleusercontent.com/7N6iIzlaBnxxtZ7lRyKHSUPLlp8QPmNjBdeyuDG4PaL-KsbIQOxxPuA-RrSVZvV7fyYJ_DgF=s900-c-k-c0x00ffffff-no-rj" group-title="FM",ঢাকা এফএম (90.4FM)
 https://stream.zeno.fm/u9mphfk604zuv
 
 #EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://cdn-profiles.tunein.com/s122537/images/logog.png" group-title="FM",রেডিও ফুর্তি (88.0FM)
