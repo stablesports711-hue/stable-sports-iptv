@@ -218,7 +218,7 @@ http://live.balajibroadband.com:3500/live/697.m3u8
 #EXTINF:-1 group-title="Indian Hindi" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",Sony Max HD
 http://live.balajibroadband.com:3500/live/476.m3u8
 
-#EXTINF:-1 tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_147_1737270122_thumb.png" group-title="Indian Hindi", SONY MAX 2
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3wxxS1ss/20260812-102214.png" group-title="Indian Hindi", SONY MAX 2
 http://live.balajibroadband.com:3500/live/483.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.moumachi.com.bd//images/listings/45416/business/202412-gtv-logo.jpg",Gazi TV
