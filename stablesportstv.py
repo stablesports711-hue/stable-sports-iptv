@@ -16,7 +16,7 @@ sources = [
 
 custom_channels = """#EXTM3U
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026
-https://saseries.akamaized.net/hls/live/2110097/D2PAKvsWI-TesT-tapmad/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/ZIMvsIND-3827e1/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026
 #KODIPROP:inputstream=inputstream.adaptive
