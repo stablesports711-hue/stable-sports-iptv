@@ -19,26 +19,26 @@ custom_channels = """#EXTM3U
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026 [S-3]
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026 [S-2]
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026 [S-4]
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026 [S-3]
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/281153.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026 [S-6]
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026 [S-4]
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
 
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026 [S-7]
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026 [S-5]
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSports1.m3u8
 
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026 [S-8]
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026 [S-6]
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-PTVSports.m3u8
 
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026 [S-9]
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026 [S-7]
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/1109344.m3u8
 
-#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026 [S-10]
+#EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17864294671020x576.jpg" group-title="LIVE SPORTS", Australia vs Bangladesh | Bangladesh Tour of Australia 2026 [S-8]
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1424314.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-15925" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg" group-title="LIVE SPORTS",Sri Lanka vs India | India Tour of Sri Lanka 2026
