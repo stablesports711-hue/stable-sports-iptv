@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7200000
+http://line.tvdsz.cc/play/live.php?mac=00:1A:79:A3:C0:BF&stream=809389&extension=m3u8
+#https://res.cloudinary.com/qleik3si/video/upload/v1785235285/VN20260728_161756_ev6pow.mp4
