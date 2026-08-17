@@ -41,14 +41,10 @@ htps://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/bn-ch-1/11093
 htps://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/nwp/809395.m3u8
 
 #EXTINF:-1 tvg-id="tapmad-15925" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg" group-title="LIVE SPORTS",Sri Lanka vs India | India Tour of Sri Lanka 2026
-https://saseries.akamaized.net/hls/live/2110097/301@295Tapmad/master.m3u8
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg" group-title="LIVE SPORTS",Sri Lanka vs India | India Tour of Sri Lanka 2026
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_1.m3u8
 
 
 #EXTINF:-1 tvg-id="tapmad-15925" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17865223441020x576.jpg" group-title="LIVE SPORTS",Sri Lanka vs India | India Tour of Sri Lanka 2026
