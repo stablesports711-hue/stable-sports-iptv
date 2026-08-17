@@ -277,7 +277,7 @@ http://live.balajibroadband.com:3500/live/483.m3u8
 
 
 #EXTINF:-1 group-title="BANGLA" tvg-id="NAGORIK HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/nago.png",199.NAGORIK HD
-http://103.151.61.12/Nagorik_TV/video.m3u8?token=i7bZaZWaFrSIE0
+https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",200.T Sports ISP
 http://172.17.50.112:84/ant1009/video.m3u8
