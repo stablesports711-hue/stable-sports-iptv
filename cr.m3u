@@ -4,11 +4,11 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
 https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787048244-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-71ef65e243cb81ee1ac073265dcfada2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dnPYjcy/20260818-170053.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 1
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://mz02.playerr03.com:7060/hls/ten1co.m3u8?md5=lKeRMfZ0Vjs-qlqNK18dgQ&expires=1786962036&ch=ten1co&s=MjQwMTpmNDA6MTMwNTo2YzozODljOjYxZTc6YTNhOTozYWY
-#EXTINF:-1 tvg-logo="https://ritsatv.ru/files/poster/original/901126.webp" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 3
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MKHQTx/20260818-170000.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 3
 #EXTVLCOPT:http-referrer=https://bhalocast.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://mz01.playerr03.com:7060/hls/ten3sd.m3u8?md5=X0q7Zp59hARoum6hq0C7Mw&expires=1786962040&ch=ten3sd&s=MTAzLjEwLjU0LjEzOA
