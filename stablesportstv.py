@@ -15,6 +15,9 @@ sources = [
 # =========================
 
 custom_channels = """#EXTM3U
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS"English Premier League(Fast)
+https://live05.meung.app/live/33982309.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS"English Premier League 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
