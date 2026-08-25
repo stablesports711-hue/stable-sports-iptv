@@ -55,7 +55,7 @@ https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
 #http://fastshare1.com:8080//live/25711345/late8airline/3818.ts
 
 #EXTINF:-1 group-title="News" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png",115.Somoy TV
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+http://172.17.50.112:84/ant1008/video.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 
 
