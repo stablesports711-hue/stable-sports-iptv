@@ -32,9 +32,14 @@ https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_1.m3u8
+https://a9#KODIPROP:inputstream.adaptive.license_type=clearkey6aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-
-
+#EXTINF:-1 tvg-logo="https://brandingstyleguides.com/wp-content/guidelines/2024/12/motogp-online.jpg" group-title="LIVE SPORTS",MOTO GP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+https://a40live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqpPkEBhpqkTKEA2Zha2FtYWkCeClzc2lkOjIzZGYwMDAwLTUxNzAtNDRkNy04NjFlLTI5MTI4OTc4MmJmMhkBOKEFoQJ4My9zMDVnaGwyYnplL291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMhkBPIFiVVNYILJ6NpO79L3nK059TfPcRGnrS77k7itq2Nq8ElzsLlFR/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/s05ghl2bze/out/v1/30f3ad9ba2c340739ea2943f29d44b32/fc4b2d48-7e13-4cc3-bdde-9a83d219cfb5-cenc.mpd?aws.sessionId=d5920555-de6c-4bf5-9e6e-ad630bc17a30
 
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[COMMING SOON]
