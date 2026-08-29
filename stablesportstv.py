@@ -343,10 +343,10 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cricbuzz-logo-png_seeklogo-429413.png",CRICBUZZ HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cricbuzz-logo-png_seeklogo-429413.png",CRICBUZZ 1 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/NF489yZJ/STABLE-SPORTS1.png",CRICBUZZ 1 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz1.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cricbuzz-logo-png_seeklogo-429413.png",CRICBUZZ 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/tRhBGJvV/STABLE-SPORTS2.png",CRICBUZZ 2 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz2.m3u8
 
 #EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="SPORTS", Unite8 Sports 1 FHD
