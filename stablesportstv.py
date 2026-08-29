@@ -79,6 +79,8 @@ https://a40live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYz
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[COMMING SOON]
 https://res.cloudinary.com/qleik3si/video/upload/v1785235285/VN20260728_161756_ev6pow.mp4
 
+#EXTINF:-1 group-title="Sports Video" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRug1sv4kDm3YHt7RDjQUfhJPUoFsFvFl23Vfv0vTgm82Q9H0iZOmjqZSs&s=10.png",FIFA Final Match
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-toffee/refs/heads/main/final.m3u8
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://i.postimg.cc/13XVVyg3/1773936967533.png",110.STABLE-SPORTS TV™
 #KODIPROP:inputstream=inputstream.adaptive
