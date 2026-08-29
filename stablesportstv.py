@@ -51,13 +51,19 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueeph
 https://live05.meung.app/live/33982309.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League (Fast)
-https://pull.niur.live/live/stream-9912041_lhd.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League (Fast)
 https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1424311.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
+
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_1.m3u8
