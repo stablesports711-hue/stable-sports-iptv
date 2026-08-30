@@ -47,6 +47,9 @@ https://live05.meung.app/live/33982309.m3u8
 https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League (Fast)
+https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League (Fast)
 https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
