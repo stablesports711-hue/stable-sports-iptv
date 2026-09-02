@@ -385,22 +385,26 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS",SONY SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_1.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_1.m3u8
 #http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SPORTS",SONY SPORTS 2 HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_2.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009277|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009277
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_2.m3u8
 #https://b4uplay.com/sliv/stream.m3u8?id=1000009277|referer=https://b4uplay.com/
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 3 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SPORTS",SONY SPORTS 3 HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_3.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009278|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009278
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_3.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 5 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SPORTS",SONY SPORTS 5 HD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_5.m3u8
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009275|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009275
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_5.m3u8
 #http://live.balajibroadband.com:3500/live/155.m3u8
 
 
