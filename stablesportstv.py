@@ -24,14 +24,18 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 http://103.185.24.134:3001/TSportsHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_1.m3u8
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 HINDI
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_3.m3u8
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009278|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009278
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="LIVE SPORTS", European T20 Premier League
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="LIVE SPORTS", European T20 Premier League
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="LIVE SPORTS", European T20 Premier League
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVxUsJZGBtq8vbAF56bV0YbEaic9ES6RwRi8EwvQfbgu1eQJG82SPZ7SL&s=10.png" group-title="LIVE SPORTS",DP WORLD TOUR Live
 #KODIPROP:inputstream=inputstream.adaptive
