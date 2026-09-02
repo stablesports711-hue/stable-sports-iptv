@@ -1,71 +1,407 @@
 #EXTM3U
+#EXTINF:-1 group-title="-",&Xplor HD
+http://66.102.126.10:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="-",&pictures HD
+http://66.102.126.10:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="-",&tv HD - Rs 19.00
+http://66.102.126.10:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="-",24 News HD
+http://66.102.126.10:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="-",24B HD
+http://66.102.126.10:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="-",92 Entertainment
+http://66.102.126.10:8000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="-",92 News HD
+http://66.102.126.10:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="-",A SportsHD
+http://66.102.126.10:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="-",A1 TV
+http://66.102.126.10:8000/play/a04q/index.m3u8
+#EXTINF:-1 group-title="-",AAJ ENTERTANMENT
+http://66.102.126.10:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="-",AAJ NEWS
+http://66.102.126.10:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="-",AAN TV - HD
+http://66.102.126.10:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="-",APlus Pakistan
+http://66.102.126.10:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="-",ARYDigitalAsia HD
+http://66.102.126.10:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="-",ARYMusik
+http://66.102.126.10:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="-",ARYNewsAsia
+http://66.102.126.10:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="-",ARYQTV
+http://66.102.126.10:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="-",ARYZindagi
+http://66.102.126.10:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="-",Animal Planet HD
+http://66.102.126.10:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="-",B4U MUSIC
+http://66.102.126.10:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="-",B4U Movies - Free
+http://66.102.126.10:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="-",BBC News
+http://66.102.126.10:8000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="-",BOL News Urdu
+http://66.102.126.10:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="-",CITY-21
+http://66.102.126.10:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="-",CITY-42 HD
+http://66.102.126.10:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="-",CNN International
+http://66.102.126.10:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="-",COLORS CINIPLEX HD
+http://66.102.126.10:8000/play/a06z/index.m3u8
+#EXTINF:-1 group-title="-",Capital TV
+http://66.102.126.10:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="-",Cartoon Network
+http://66.102.126.10:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="-",Colors Cineplex Bollywood
+http://66.102.126.10:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="-",Colors HD - Rs 19.00
+http://66.102.126.10:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="-",Colors Infinity HD
+http://66.102.126.10:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="-",Discover Pakistan
+http://66.102.126.10:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="-",Discovery HD
+http://66.102.126.10:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Science
+http://66.102.126.10:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Turbo
+http://66.102.126.10:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="-",DiscoveryKids TV
+http://66.102.126.10:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="-",Disney Channel HD
+http://66.102.126.10:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="-",Disney International HD
+http://66.102.126.10:8000/play/a078/index.m3u8
+#EXTINF:-1 group-title="-",Dunya News HD
+http://66.102.126.10:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="-",EXP ENTERTAINMENT
+http://66.102.126.10:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="-",EXPRESS NEWS
+http://66.102.126.10:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="-",Eurosport HD - Rs 6.00
+http://66.102.126.10:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="-",FASHIONTV
+http://66.102.126.10:8000/play/a02i/index.m3u8
+#EXTINF:-1 group-title="-",FASHIONTV HD B/FTV.COM
+http://66.102.126.10:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="-",FAST SPORTS HD
+http://66.102.126.10:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="-",FILMAX
+http://66.102.126.10:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="-",FILMAZIA
+http://66.102.126.10:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="-",FILMAZIA PUNJABI
+http://66.102.126.10:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="-",GEM COMEDY
+http://66.102.126.10:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="-",GEM TV HD
+http://66.102.126.10:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="-",GEO HD
+http://66.102.126.10:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="-",GEO KAHANI HD
+http://66.102.126.10:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="-",GEO NEWS
+http://66.102.126.10:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="-",GEO SUPER HD
+http://66.102.126.10:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="-",GNNHD
+http://66.102.126.10:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="-",GTV NEWS HD
+http://66.102.126.10:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="-",Geo Tez
+http://66.102.126.10:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="-",GreenEnt - HD
+http://66.102.126.10:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="-",HUM HD
+http://66.102.126.10:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="-",HUM NEWS HD
+http://66.102.126.10:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="-",HUM Pashto 1
+http://66.102.126.10:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="-",HUM SITARAY
+http://66.102.126.10:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="-",Hidayat TV
+http://66.102.126.10:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="-",History TV18 HD
+http://66.102.126.10:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="-",Hoora TV
+http://66.102.126.10:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="-",Hungama - Rs 2.00
+http://66.102.126.10:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="-",INPLUS Pakistan
+http://66.102.126.10:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="-",Investigation Discovery
+http://66.102.126.10:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="-",Isaac TV
+http://66.102.126.10:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="-",KSA SPORT1 HD
+http://66.102.126.10:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="-",KSA SPORT2 HD
+http://66.102.126.10:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="-",Khyber News HD
+http://66.102.126.10:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="-",Kidzone Pakistan
+http://66.102.126.10:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="-",LTN FAMILY
+http://66.102.126.10:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="-",Lahore News HD
+http://66.102.126.10:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="-",Lahore Rang HD
+http://66.102.126.10:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="-",LotusTV
+http://66.102.126.10:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="-",MASALA TV
+http://66.102.126.10:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="-",MIFA + HD
+http://66.102.126.10:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="-",MIFA + HD
+http://66.102.126.10:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="-",MIFA MUSIC HD
+http://66.102.126.10:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="-",MINIMAX 2
+http://66.102.126.10:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="-",MN+ HD - Rs 12.00
+http://66.102.126.10:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="-",MTCL 1HD
+http://66.102.126.10:8000/play/a07m/index.m3u8
+#EXTINF:-1 group-title="-",MTCL 2HD
+http://66.102.126.10:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="-",MTCL 3HD
+http://66.102.126.10:8000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="-",MTCL 4HD
+http://66.102.126.10:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="-",MTCL 5HD
+http://66.102.126.10:8000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="-",MTCL 6HD
+http://66.102.126.10:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="-",MTCL 8HD
+http://66.102.126.10:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="-",MTCL7HD
+http://66.102.126.10:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="-",MUN TV
+http://66.102.126.10:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="-",Metro 1
+#EXTINF:-1 group-title="-",FILMAX
+http://66.102.126.10:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="-",FILMAZIA
+http://66.102.126.10:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="-",FILMAZIA PUNJABI
+http://66.102.126.10:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="-",GEM COMEDY
+http://66.102.126.10:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="-",GEM TV HD
+http://66.102.126.10:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="-",GEO HD
+http://66.102.126.10:8000/play/a062/index.m3u8
+#EXTINF:-1 group-title="-",GEO KAHANI HD
+http://66.102.126.10:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="-",GEO NEWS
+http://66.102.126.10:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="-",GEO SUPER HD
+http://66.102.126.10:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="-",GNNHD
+http://66.102.126.10:8000/play/a06p/index.m3u8
+#EXTINF:-1 group-title="-",GTV NEWS HD
+http://66.102.126.10:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="-",Geo Tez
+http://66.102.126.10:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="-",GreenEnt - HD
+http://66.102.126.10:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="-",HUM HD
+http://66.102.126.10:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="-",HUM NEWS HD
+http://66.102.126.10:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="-",HUM Pashto 1
+http://66.102.126.10:8000/play/a02b/index.m3u8
+#EXTINF:-1 group-title="-",HUM SITARAY
+http://66.102.126.10:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="-",Hidayat TV
+http://66.102.126.10:8000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="-",History TV18 HD
+http://66.102.126.10:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="-",Hoora TV
+http://66.102.126.10:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="-",Hungama - Rs 2.00
+http://66.102.126.10:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="-",INPLUS Pakistan
+http://66.102.126.10:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="-",Investigation Discovery
+http://66.102.126.10:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="-",Isaac TV
+http://66.102.126.10:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="-",KSA SPORT1 HD
+http://66.102.126.10:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="-",KSA SPORT2 HD
+http://66.102.126.10:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="-",Khyber News HD
+http://66.102.126.10:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="-",Kidzone Pakistan
+http://66.102.126.10:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="-",LTN FAMILY
+http://66.102.126.10:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="-",Lahore News HD
+http://66.102.126.10:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="-",Lahore Rang HD
+http://66.102.126.10:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="-",LotusTV
+http://66.102.126.10:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="-",MASALA TV
+http://66.102.126.10:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="-",MIFA + HD
+http://66.102.126.10:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="-",MIFA + HD
+http://66.102.126.10:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="-",MIFA MUSIC HD
+http://66.102.126.10:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="-",MINIMAX 2
+http://66.102.126.10:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="-",MN+ HD - Rs 12.00
+http://66.102.126.10:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="-",MTCL 1HD
+http://66.102.126.10:8000/play/a07m/index.m3u8
+#EXTINF:-1 group-title="-",MTCL 2HD
+http://66.102.126.10:8000/play/a07j/index.m3u8
+#EXTINF:-1 group-title="-",MTCL 3HD
+http://66.102.126.10:8000/play/a07k/index.m3u8
+#EXTINF:-1 group-title="-",MTCL 4HD
+http://66.102.126.10:8000/play/a07l/index.m3u8
+#EXTINF:-1 group-title="-",MTCL 5HD
+http://66.102.126.10:8000/play/a07i/index.m3u8
+#EXTINF:-1 group-title="-",MTCL 6HD
+http://66.102.126.10:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="-",MTCL 8HD
+http://66.102.126.10:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="-",MTCL7HD
+http://66.102.126.10:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="-",MUN TV
+http://66.102.126.10:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="-",Metro 1
 
-#EXTINF:-1 tvg-logo="https://cdn.motorsport.com/images/mgl/YMd9ENV2/s1000/motogp-logo.jpg" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Willow Cricket
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787048244-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-71ef65e243cb81ee1ac073265dcfada2
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dnPYjcy/20260818-170053.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 1
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/ten1co.m3u8?md5=lKeRMfZ0Vjs-qlqNK18dgQ&expires=1786962036&ch=ten1co&s=MjQwMTpmNDA6MTMwNTo2YzozODljOjYxZTc6YTNhOTozYWY
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x8MKHQTx/20260818-170000.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 3
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz01.playerr03.com:7060/hls/ten3sd.m3u8?md5=X0q7Zp59hARoum6hq0C7Mw&expires=1786962040&ch=ten3sd&s=MTAzLjEwLjU0LjEzOA
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Willow HD
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/hdwillos5.m3u8?md5=SR__WNYRp4S35hc1e4NqSg&expires=1786962042&ch=hdwillos5&s=MjIwLjI0Ny4xMzEuNTg
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - CricLife 1
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/criclife1.m3u8?md5=vZow_UrQTPu9uJ4HWzRfOQ&expires=1786962044&ch=criclife1&s=MTE2LjIwNi4yNTUuNw
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - Sony Sports Ten 4
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/sonyespnind.m3u8?md5=IRFMIgaHd7ci3D7UThI2vg&expires=1786962048&ch=sonyespnind&s=MTAzLjEzMy4yMDUuMTgw
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/srhady/CricketLive/main/posters/India%20vs%20Sri%20Lanka.png" group-title="India tour of Sri Lanka 2026", India vs Sri Lanka - TNT Cricket
-#EXTVLCOPT:http-referrer=https://bhalocast.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://mz02.playerr03.com:7060/hls/bbtsip1.m3u8?md5=GiN4-AKEP5M9doY9_8PDRg&expires=1786962050&ch=bbtsip1&s=MjQwMTpmNDA6MTMwNTo2YzozODljOjYxZTc6YTNhOTozYWY
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Live Stream" group-title="Live", Live Stream
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.rumsport8.live/
-https://livecdn-tc-iptv.rumsport10.live/live_abr/490/720p/chunks.m3u8?is_vip=false&token=1787048244-Kv4cPTAAP5YTi-edcb381b402a9d3b83c369dc063ab6747063ec51-71ef65e243cb81ee1ac073265dcfada2
-# --- 24/7 Channels ---
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/Dw8YJJ39/stablesportstv-tnt1.png",TNT SPORTS 1
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/26pJfzMN/stablesportstv-tnt2.png",TNT SPORTS 2
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRug1sv4kDm3YHt7RDjQUfhJPUoFsFvFl23Vfv0vTgm82Q9H0iZOmjqZSs&s=10",TNT SPORTS 3
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
-
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRug1sv4kDm3YHt7RDjQUfhJPUoFsFvFl23Vfv0vTgm82Q9H0iZOmjqZSs&s=10.png",TNT 4
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
-
-#EXTINF:-1 tvg-id="B0HCLRXVG1" tvg-name="Grand Prix of Aragon, Practice" /" group-title="Prime Video Sports",Grand Prix of Aragon, Practice
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 5 Hindi HD
+http://66.102.126.10:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="-",STAR GOLD HD - Rs 19.00
+http://66.102.126.10:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="-",STAR Movies HD 
+http://66.102.126.10:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="-",STAR Movies Select HD
+http://66.102.126.10:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="-",STAR Plus HD 
+http://66.102.126.10:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="-",STAR SPORTS S1 HD
+http://66.102.126.10:8000/play/a06x/index.m3u8
+#EXTINF:-1 group-title="-",STAR SPORTS S2 HD
+http://66.102.126.10:8000/play/a06y/index.m3u8
+#EXTINF:-1 group-title="-",SUNO NEWS HD
+http://66.102.126.10:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="-",See TV
+http://66.102.126.10:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="-",Showbox
+http://66.102.126.10:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="-",Sindh News
+http://66.102.126.10:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="-",Sindh TV
+http://66.102.126.10:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="-",Sonic - Rs 1.00
+http://66.102.126.10:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold 2 - Rs 3.00
+http://66.102.126.10:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold 2 HD
+http://66.102.126.10:8000/play/a077/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold Romance
+http://66.102.126.10:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold Select HD
+http://66.102.126.10:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="-",Star Gold Thrills
+http://66.102.126.10:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports 1 HD
+http://66.102.126.10:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports 1 Hindi 
+http://66.102.126.10:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="-",Star Sports3 SD
+http://66.102.126.10:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="-",TLC HD
+http://66.102.126.10:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="-",TV ONE
+http://66.102.126.10:8000/play/a055/index.m3u8
+#EXTINF:-1 group-title="-",TenSports
+http://66.102.126.10:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="-",Travelxp HD
+http://66.102.126.10:8000/play/a075/index.m3u8
+#EXTINF:-1 group-title="-",Unite8 Sports 2 HD
+http://66.102.126.10:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="-",WASEB TV
+http://66.102.126.10:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="-",Zee Cafe HD
+http://66.102.126.10:8000/play/a076/index.m3u8
+#EXTINF:-1 group-title="-",Zee Cinema HD
+http://66.102.126.10:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="-",Zee TV HD
+http://66.102.126.10:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="-",iFilm English
+http://66.102.126.10:8000/play/a06n/index.m3u8
+http://66.102.126.10:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="-",NATIONAL GEOGRAPHIC HD
+http://66.102.126.10:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="-",NEO NEWS HD
+http://66.102.126.10:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="-",NEWS ONE
+http://66.102.126.10:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="-",NOOR TV PK
+http://66.102.126.10:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="-",Nat Geo Wild HD
+http://66.102.126.10:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="-",Nick - Rs 19.00
+http://66.102.126.10:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="-",Nick HD+
+http://66.102.126.10:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="-",Nick Jr.
+http://66.102.126.10:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="-",ONYX HD
+http://66.102.126.10:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="-",PTV HOME HD
+http://66.102.126.10:8000/play/a04r/index.m3u8
+#EXTINF:-1 group-title="-",PTV NEWS HD
+http://66.102.126.10:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="-",PTV WORLD HD
+http://66.102.126.10:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="-",PTV-SPORTS-HD
+http://66.102.126.10:8000/play/a04w/index.m3u8
+#EXTINF:-1 group-title="-",Paigham Pashto
+http://66.102.126.10:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="-",Paigham Urdu
+http://66.102.126.10:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="-",Planet Fun HD
+http://66.102.126.10:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="-",Pogo - Rs 4.75
+http://66.102.126.10:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="-",RIVER HD
+http://66.102.126.10:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="-",ROHI TV
+http://66.102.126.10:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="-",RUBIX HD
+http://66.102.126.10:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="-",Romedy Now - Rs 5.00
+http://66.102.126.10:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="-",SAB TV
+http://66.102.126.10:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="-",SAMAA
+http://66.102.126.10:8000/play/a06o/index.m3u8
+#EXTINF:-1 group-title="-",SAUDI CH For Quran HD
+http://66.102.126.10:8000/play/a03m/index.m3u8
+#EXTINF:-1 group-title="-",SAUDI CH For Sunnah HD
+http://66.102.126.10:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="-",SET HD - Rs 19.00
+http://66.102.126.10:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="-",SONY BBC EARTH HD
+http://66.102.126.10:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="-",SONY PIX HD - Rs 19.00
+http://66.102.126.10:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="-",SONY SP ORTS TEN 1 HD-
+http://66.102.126.10:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="-",SONY SPORTS TEN 2 HD
+http://66.102.126.10:8000/play/a01y/index.m3u8
