@@ -291,15 +291,16 @@ https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/xi6xX5UBv9knK3AH9aMk/posters/f4db1c12-b10f-46e8-a09b-e0efb8820970.png",181.Sony Aath
-https://playyonogames.in/sliv/stream.m3u8?id=1000009255|Referer=https://playyonogames.in/
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009255|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009255
 
 #EXTINF:-1 group-title="Indian Hindi" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Ay52-JQBv9knK3AHFDWt/posters/00afb30b-3c19-4c4c-abd8-891db94e4767.webp",182.Sony Max HD
-https://playyonogames.in/sliv/stream.m3u8?id=1000009247|Referer=https://playyonogames.in/
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009247
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3wxxS1ss/20260812-102214.png" group-title="Indian Hindi",183.SONY MAX 2
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=100044878
-
 
 #EXTINF:-1 group-title="BANGLA" tvg-id="NAGORIK HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/nago.png",199.NAGORIK HD
 https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
