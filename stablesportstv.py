@@ -15,27 +15,31 @@ sources = [
 # =========================
 
 custom_channels = """#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 HD
 http://103.185.24.134:3001/TSportsHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-PTVSports.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 HD
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 FHD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 HINDI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 HINDI FHD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009278|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009278
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="LIVE SPORTS", European T20 Premier League
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow1.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="LIVE SPORTS", European T20 Premier League
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
@@ -47,45 +51,12 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
 https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League (Fast)
-https://live05.meung.app/live/33982309.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League (Fast)
-https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League (Fast)
-https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League (Fast)
-https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
-http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1424311.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
-
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_1.m3u8
-https://a9#KODIPROP:inputstream.adaptive.license_type=clearkey6aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://brandingstyleguides.com/wp-content/guidelines/2024/12/motogp-online.jpg" group-title="LIVE SPORTS",MOTO GP
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
-https://a40live-emt-pv-ta-amazon.akamaized.net/$T$2D3RhEOhAQWhBFgkYWY3NDZlZjAtYzM0OC00MGM1LWFjN2UtYTVhZWIzNjhiNjA0WJCnAWpwcmltZXZpZGVvBBpqpPkEBhpqkTKEA2Zha2FtYWkCeClzc2lkOjIzZGYwMDAwLTUxNzAtNDRkNy04NjFlLTI5MTI4OTc4MmJmMhkBOKEFoQJ4My9zMDVnaGwyYnplL291dC92MS8zMGYzYWQ5YmEyYzM0MDczOWVhMjk0M2YyOWQ0NGIzMhkBPIFiVVNYILJ6NpO79L3nK059TfPcRGnrS77k7itq2Nq8ElzsLlFR/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/s05ghl2bze/out/v1/30f3ad9ba2c340739ea2943f29d44b32/fc4b2d48-7e13-4cc3-bdde-9a83d219cfb5-cenc.mpd?aws.sessionId=d5920555-de6c-4bf5-9e6e-ad630bc17a30
 
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[COMMING SOON]
@@ -480,6 +451,33 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #EXTINF:-1 tvg-id="573" tvg-name="Discovery Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" tvg-language="Bengali" group-title="Infotainment", Discovery Bangla
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/BANGLA/DiscoveryBD.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League (Fast)
+https://live05.meung.app/live/33982309.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League (Fast)
+https://playback.livetl001.com/live/69be75e0a0a45974afb67776_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League (Fast)
+https://playback.livetl001.com/live/69cf6331585c5992182f4160_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League (Fast)
+https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
+https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
+http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/asia/1424311.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
+
+
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_1.m3u8
 
 #EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_OahSFGXf5G7iN2KaGuhe3j_8GerDS1MqEjCwiMi8bA&s=10.png" group-title="FM",বাংলাদেশ বেতার (100.0FM)
 https://as1.digitalsynapsebd.com/proxy/bbdkka/stream
