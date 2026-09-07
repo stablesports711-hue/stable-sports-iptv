@@ -293,7 +293,7 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",203.T Sports FHD
-http://103.185.24.134:3001/TSportsHD/index.m3u8
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-iptv/refs/heads/main/BCBALLMATCH.m3u8
 #https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C2gLZX9/SS-Fancode.png" group-title="SPORTS",Fancode 1
