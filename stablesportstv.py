@@ -15,11 +15,11 @@ sources = [
 # =========================
 
 custom_channels = """#EXTM3U
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD[A-1]
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD
-
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD[B-1]
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009277|referer=https://playyonogames.in/sliv/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD
 
