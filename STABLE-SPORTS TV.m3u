@@ -5,14 +5,6 @@ https://cdn06khi-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-SVOD-abr/playlist.
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434935059794_eng_vs_pak_3test_D2_live_landscape_thumb.jpg" group-title="LIVE SPORTS",Pakistan VS England 2026
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD[A-1]
-https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009277|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009277
-
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD[B-1]
-https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXN4uh0P6xoZlqnJSnlYJrDXC47mG2sjzHpNdAAUY9Q&s=10" group-title="LIVE SPORTS",LALIGA 2026 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-iptv/refs/heads/main/BCBALLMATCH.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -20,14 +12,10 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-iptv/refs/he
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 HD
-https://001.cdnplayer.eu/live/csstream6/chunklist.m3u8?vidictid=207069979842&id=1006&pk=251a8fb171c574d66e46c7a3f5712d998ac75ae8e9594bf6bbfba8f2cf9ace7c7ca4579e39ff89e8066742fc7b80547d9558ef15e181e0fffa92e7611b46e1df
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/LPL.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-PTVSports.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cricket/809396.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 FHD
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
@@ -43,23 +31,17 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQujBtPOgUpOHILwHzxdBP5T8Q4sgCfxOGrHdlJCHp2Rfd4Ep2UFJLSLbRP&s=10" group-title="LIVE SPORTS", European T20 Premier League
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEVxUsJZGBtq8vbAF56bV0YbEaic9ES6RwRi8EwvQfbgu1eQJG82SPZ7SL&s=10.png" group-title="LIVE SPORTS",DP WORLD TOUR Live
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9590ea43d0f770c24205e23440d8af8c:b127454380d8fffc3acd12575b2b4adb
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mnxueephr4/out/v1/b0eeb77d4e1f4b02b4e3325fd712267e/cenc.mpd
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD[A-1]
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009277|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009277
 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD[B-1]
+https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 
-#EXTINF:-1 tvg-logo="https://brandingstyleguides.com/wp-content/guidelines/2024/12/motogp-online.jpg" group-title="LIVE SPORTS",MOTO GP
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXN4uh0P6xoZlqnJSnlYJrDXC47mG2sjzHpNdAAUY9Q&s=10" group-title="LIVE SPORTS",LALIGA 2026 HD
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-iptv/refs/heads/main/BCBALLMATCH.m3u8
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[COMMING SOON]
-https://res.cloudinary.com/qleik3si/video/upload/v1785235285/VN20260728_161756_ev6pow.mp4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
 #EXTINF:-1 group-title="Sports Video" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRug1sv4kDm3YHt7RDjQUfhJPUoFsFvFl23Vfv0vTgm82Q9H0iZOmjqZSs&s=10.png",FIFA Final Match
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-toffee/refs/heads/main/final.m3u8
