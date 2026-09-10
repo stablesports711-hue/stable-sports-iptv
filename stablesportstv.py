@@ -36,7 +36,7 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-iptv/refs/he
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 HD
-http://103.185.24.134:3001/TSportsHD/index.m3u8
+https://001.cdnplayer.eu/live/csstream6/chunklist.m3u8?vidictid=207069979842&id=1006&pk=251a8fb171c574d66e46c7a3f5712d998ac75ae8e9594bf6bbfba8f2cf9ace7c7ca4579e39ff89e8066742fc7b80547d9558ef15e181e0fffa92e7611b46e1df
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-PTVSports.m3u8
