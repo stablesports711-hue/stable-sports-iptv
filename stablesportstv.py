@@ -56,6 +56,12 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276|referer=https://pl
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXN4uh0P6xoZlqnJSnlYJrDXC47mG2sjzHpNdAAUY9Q&s=10" group-title="LIVE SPORTS",LALIGA 2026 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-iptv/refs/heads/main/BCBALLMATCH.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/271/non_2x/serie-a-symbol-logo-with-name-design-italy-football-european-countries-football-teams-illustration-with-white-background-free-vector.jpg" group-title="LIVE SPORTS",SERIE A 2026 HD
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Unite8S1.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGO8o7Ljfq7qs6sU7yDKl3jzd_vU3Lh9fQqNapOjiaeA&s=10" group-title="LIVE SPORTS",BUNDESLIGA 2026 HD
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Unite8S2.m3u8
+
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[COMMING SOON]
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd?|drmScheme=clearkey&drmLicense=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 
