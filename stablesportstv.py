@@ -15,11 +15,6 @@ sources = [
 # =========================
 
 custom_channels = """#EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434935059794_eng_vs_pak_3test_D2_live_landscape_thumb.jpg" group-title="LIVE SPORTS",Pakistan VS England 2026
-https://cdn06khi-n.tamashaweb.com:8087/jazzauth/PAKvsEng-Test-SVOD-abr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI2IDk6NDQ6NDcgQU0maGFzaF92YWx1ZT1VVmp4c1lmVFhEQ3hPNklqNDRUalV3PT0mdmFsaWRtaW51dGVzPTYw
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434935059794_eng_vs_pak_3test_D2_live_landscape_thumb.jpg" group-title="LIVE SPORTS",Pakistan VS England 2026
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qq01x2J2/20260829-210915.png" group-title="LIVE SPORTS",Womens Asia Cup 2026 i Screen
 https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
