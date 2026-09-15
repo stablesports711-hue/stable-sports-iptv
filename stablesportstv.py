@@ -221,6 +221,7 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yBYRgLt/20240813-063955.png" group-title="KIDS",164.RONGEEN TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+https://w03eiag4q5yh.rockstreamer.com/rockstv/rongeen_tv/chunks.m3u8|Referer=https://iscreen.com.bd/
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/8553wC1r/20260811-172504.png",170.Saudi Quran TV
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
