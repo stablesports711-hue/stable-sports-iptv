@@ -188,7 +188,7 @@ https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
 
 #EXTINF:-1 tvg-id="banglatv" tvg-name="Bangla TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPD3Qo1CSwd9ZcA0b6xTS1I66pctDsOhGt3Uhhf_cQ00L_zf7T1M0MVVY&s=10.png" group-title="BANGLA",145.Bangla TV
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
+https://cdn.ghuddi.live/tvapp/Bangla_TV_BD_New/playlist.m3u8|Referer=https://ghuddi.tv/
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUSwU91HGAYXxKlJ7u-YlATT8kJp_srlp4X6F5eVh6JQ&s=10.png",146.RTV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
