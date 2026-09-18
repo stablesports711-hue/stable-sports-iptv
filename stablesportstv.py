@@ -272,12 +272,13 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://pl
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/BANGLA/Nagoriktv.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",200.T Sports ISP
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 #http://103.185.24.134:3001/TSportsHD/index.m3u8
 http://172.17.50.112:84/ant1009/video.m3u8
 
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",201.T Sports
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/LPL.m3u8
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 #http://172.17.50.112:84/ant1004/video.m3u8
 
 
@@ -285,8 +286,7 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",203.T Sports FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-iptv/refs/heads/main/BCBALLMATCH.m3u8
-#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports1.m3u8
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C2gLZX9/SS-Fancode.png" group-title="SPORTS",Fancode 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
