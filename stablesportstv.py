@@ -120,7 +120,7 @@ https://stream.ottplus.live/live/channel_24_abr/index.m3u8
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png",125.Channel 9 HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+http://livetv.akr4m.com:8080/bdtv/restrem/16.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://yt3.googleusercontent.com/ZBW3QTVsP4woeK2-sVqWPZTiUECW5BCkY-fO4q0IJ70-jrPhgn-LG0BGVckENkCS0aQK_193GA=s900-c-k-c0x00ffffff-no-rj",126.ATN News
 https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
