@@ -5,8 +5,8 @@ OUTPUT_FILES = [
 ]
 
 sources = [
-    "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-toffee/refs/heads/main/toffee.m3u",
-    "https://raw.githubgdhshgshgehhshusercontent.com/srhady/Hady/refs/heads/main/akash_live.m3u",
+    "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs/heads/main/toffee_playlist.m3u",
+    "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-toffee/refs/heads/main/custom_channels.m3u",
     "https://raw.githubusercontent.com/stablesports711-hds/main/cr.m3u"
 ]
 
