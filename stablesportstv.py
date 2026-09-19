@@ -22,6 +22,7 @@ custom_channels = """#EXTM3U
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893759361020x576.jpg" group-title="LIVE SPORTS", India vs Afghanistan | India Tour of Afghanistan 2026
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009275|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009275
 
 #EXTINF:-1 tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17893917951020x576.jpg" group-title="LIVE SPORTS", Zimbabwe vs Australia | Australia Tour of Zimbabwe 2026
@@ -37,9 +38,11 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/FOX501HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD[A-1]
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009277|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009277
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD[B-1]
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXN4uh0P6xoZlqnJSnlYJrDXC47mG2sjzHpNdAAUY9Q&s=10" group-title="LIVE SPORTS",LALIGA 2026 HD
