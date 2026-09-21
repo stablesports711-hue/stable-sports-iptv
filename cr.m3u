@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="-",&Xplor HD
+#EXTINF:-1https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original group-title="-",&Xplor HD
 http://66.102.126.10:8000/play/a028/index.m3u8
 #EXTINF:-1 group-title="-",&pictures HD
 http://66.102.126.10:8000/play/a01t/index.m3u8
