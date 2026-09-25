@@ -338,13 +338,13 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
 #://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SkySCric.m3u8
 
-EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cricbuzz-logo-png_seeklogo-429413.png",CRICBUZZ HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.seeklogo.com/logo-png/42/1/cricbuzz-logo-png_seeklogo-429413.png",CRICBUZZ HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8
 
-EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/NF489yZJ/STABLE-SPORTS1.png",CRICBUZZ 1 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/NF489yZJ/STABLE-SPORTS1.png",CRICBUZZ 1 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz1.m3u8
 
-EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/tRhBGJvV/STABLE-SPORTS2.png",CRICBUZZ 2 HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/tRhBGJvV/STABLE-SPORTS2.png",CRICBUZZ 2 HD
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz2.m3u8
 
 
@@ -385,17 +385,17 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 
 
 EXTINF: -1 tvg-id="235" tvg-logo="https://tatalogo.pages.dev/235.png" group-title="SPORTS", Star Sports 3 HD
-http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=1104675&extension=m3u8
+#http://line.umetop.pro:80/play/live.php?mac=00:1A:79:8F:BA:8A&stream=1104675&extension=m3u8
 #http://skylikem.com/live/2VZWJC3W/B7D7XK4T/132081.ts
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="STAR SPORTS SELECT 1 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-1-hd-in.png" group-title="SPORTS",STAR SPORTS SELECT 1 HD
-https://flussonic.defineatoz.com/starsportsselect1/index.m3u8
-#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_1.m3u8
+#https://flussonic.defineatoz.com/starsportsselect1/index.m3u8
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_1.m3u8
 #http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276734.ts
 
 #EXTINF:-1 tvg-id="StarSportsSelectHD2.in" tvg-name="STAR SPORTS SELECT 2 HD" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-sports-select-2-hd-in.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
-https://flussonic.defineatoz.com/starsportsselect2sw/index.m3u8
-#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8
+#https://flussonic.defineatoz.com/starsportsselect2sw/index.m3u8
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8
 #http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/276735.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/Dw8YJJ39/stablesportstv-tnt1.png",TNT SPORTS 1
