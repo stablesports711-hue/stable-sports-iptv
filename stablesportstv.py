@@ -513,36 +513,61 @@ ttp://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/B
 def load_source(source_url):
 
     try:
+
         response = requests.get(
             source_url,
             timeout=20
         )
 
         if response.status_code != 200:
-            print(f"Failed: {source_url} ({response.status_code})")
+
+            print(
+                f"Failed: {source_url} "
+                f"(HTTP {response.status_code})"
+            )
+
             return ""
 
         lines = response.text.splitlines()
 
         result = []
+
         i = 0
 
         while i < len(lines):
 
             line = lines[i].strip()
 
+            # Ignore all M3U headers
+            if line == "#EXTM3U":
+                i += 1
+                continue
+
+            # Only take EXTINF entries
             if line.startswith("#EXTINF:"):
 
                 result.append(line)
 
                 i += 1
 
+                # Find the stream URL
                 while i < len(lines):
 
-                    url = lines[i].strip()
+                    next_line = lines[i].strip()
 
-                    if url and not url.startswith("#"):
-                        result.append(url)
+                    # Ignore another EXTM3U header
+                    if next_line == "#EXTM3U":
+                        i += 1
+                        continue
+
+                    # Ignore other # lines
+                    if next_line.startswith("#"):
+                        i += 1
+                        continue
+
+                    # Take the actual stream URL
+                    if next_line:
+                        result.append(next_line)
                         break
 
                     i += 1
@@ -550,8 +575,10 @@ def load_source(source_url):
             i += 1
 
         print(f"Loaded: {source_url}")
+        print(f"Channels found: {len(result) // 2}")
 
         if result:
+
             return "\n".join(result) + "\n"
 
         return ""
