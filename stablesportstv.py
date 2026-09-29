@@ -34,10 +34,6 @@ SOURCES_AFTER_CUSTOM = [
 
 custom_channels = r"""#EXTM3U
 
-# =========================================================
-# ADD YOUR FULL CUSTOM CHANNELS HERE
-# =========================================================
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
 https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
 
@@ -507,11 +503,6 @@ ttp://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/RAKKHOSH%20Bangla%20Movie%20S
 
 EXTINF:-1 group-title="MOVIE 2026" tvg-logo="http://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/MV5BZmY0M2I1NjYtODU4Zi00MmIyLTk0OWUtMDlhN2JmNzFmOWI1XkEyXkFqcGc@._V1_SX300.jpg",Bonolota Express [2026]
 ttp://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/Bonolota%20Express%20(2026)%20Bengali%20Amazon%20WEB-DL%20H264%20AAC%20720p.mkv
-
-# ---------------------------------------------------------
-# ADD THE REST OF YOUR CUSTOM CHANNELS HERE
-# ---------------------------------------------------------
-
 """
 
 
@@ -520,10 +511,6 @@ ttp://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/B
 # =========================================================
 
 def load_source(source_url):
-    """
-    Download an M3U source and return channel data
-    without the #EXTM3U header.
-    """
 
     try:
         response = requests.get(
@@ -531,44 +518,47 @@ def load_source(source_url):
             timeout=20
         )
 
-        if response.status_code == 200:
+        if response.status_code != 200:
+            print(f"Failed: {source_url} ({response.status_code})")
+            return ""
 
-            lines = response.text.splitlines()
+        lines = response.text.splitlines()
 
-            result = []
+        result = []
+        i = 0
 
-            for line in lines:
+        while i < len(lines):
 
-                # Remove main M3U header
-                if line.strip() == "#EXTM3U":
-                    continue
+            line = lines[i].strip()
 
-                # Remove empty lines
-                if not line.strip():
-                    continue
+            if line.startswith("#EXTINF:"):
 
                 result.append(line)
 
-            print(f"Loaded: {source_url}")
+                i += 1
 
+                while i < len(lines):
+
+                    url = lines[i].strip()
+
+                    if url and not url.startswith("#"):
+                        result.append(url)
+                        break
+
+                    i += 1
+
+            i += 1
+
+        print(f"Loaded: {source_url}")
+
+        if result:
             return "\n".join(result) + "\n"
 
-        else:
-
-            print(
-                f"Failed: {source_url} "
-                f"(HTTP {response.status_code})"
-            )
-
-            return ""
+        return ""
 
     except Exception as e:
 
-        print(
-            f"Error loading source: "
-            f"{source_url}"
-        )
-
+        print(f"Error loading source: {source_url}")
         print(e)
 
         return ""
