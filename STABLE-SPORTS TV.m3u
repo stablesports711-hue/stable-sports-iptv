@@ -13,8 +13,6 @@ https://sonydaimenew.akamaized.net/hls/live/2120305/ag_mds4_2809/ENG/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2022317/ag_dx8_22909/ENG/master.m3u8?hdnea=exp=1790707835~acl=/*~id=73319860402531458591803568828618~hmac=fcbd982fb3f6851095d4ad6729b2e10e4f453de17a4d5a912857513f266cc22b
 #EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Football", Football - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022319/ag_mds1_2809/ENG/master.m3u8?hdnea=exp=1790686242~acl=/*~id=95707119853179470880145951936018~hmac=dc3a643cfcce178091588ca2418e66c9dd4a77b3552412e220e5e8d7955214ba
-#EXTM3U
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
 https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
 
