@@ -654,22 +654,13 @@ print("========================================")
 
 for filename in OUTPUT_FILES:
 
-    try:
+        try:
+            with open(filename, "w", encoding="utf-8") as file:
+                file.write(output)
+            print(f"{filename} Updated Successfully")
+        except Exception as e:
+            print(f"Error updating file: {e}")
 
-        with open(filename, "w", encoding="utf-8") as file:
-    file.write(output)
-
-        print(
-            f"{filename} Updated Successfully"
-        )
-
-    except Exception as e:
-
-        print(
-            f"Failed to save {filename}"
-        )
-
-        print(e)
 
 
 # =========================================================
