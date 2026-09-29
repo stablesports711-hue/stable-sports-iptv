@@ -1,20 +1,3 @@
-import requests
-
-OUTPUT_FILES = [
-    "STABLE-SPORTS TV.m3u"
-]
-
-sources = [
-    "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs/heads/main/toffee_playlist.m3u",
-    "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-toffee/refs/heads/main/custom_channels.m3u",
-    "https://raw.githubusercontent.com/stablesports711-hds/main/cr.m3u"
-]
-
-# =========================
-# CUSTOM CHANNELS (TOP)
-# =========================
-
-custom_channels = """#EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
 https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
 
@@ -487,40 +470,3 @@ ttp://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/RAKKHOSH%20Bangla%20Movie%20S
 
 EXTINF:-1 group-title="MOVIE 2026" tvg-logo="http://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/MV5BZmY0M2I1NjYtODU4Zi00MmIyLTk0OWUtMDlhN2JmNzFmOWI1XkEyXkFqcGc@._V1_SX300.jpg",Bonolota Express [2026]
 ttp://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/Bonolota%20Express%20(2026)%20Bengali%20Amazon%20WEB-DL%20H264%20AAC%20720p.mkv
-
-"""
-
-output = custom_channels + "\n"
-
-# =========================
-# FETCH PLAYLISTS
-# =========================
-
-for source in sources:
-    try:
-        r = requests.get(source, timeout=20)
-
-        if r.status_code == 200:
-            lines = r.text.splitlines()
-
-            for line in lines:
-                if line.strip() != "#EXTM3U":
-                    output += line + "\n"
-
-            print(f"Loaded: {source}")
-
-        else:
-            print(f"Failed: {source}")
-
-    except Exception as e:
-        print("Error:", e)
-
-# =========================
-# SAVE FILES (LOOP)
-# =========================
-
-# This loop automatically creates every file inside OUTPUT_FILES list
-for filename in OUTPUT_FILES:
-    with open(filename, "w", encoding="utf-8") as f:
-        f.write(output)
-    print(f"✅ {filename} Updated Successfully")
