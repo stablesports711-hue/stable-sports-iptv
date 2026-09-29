@@ -16,15 +16,15 @@ OUTPUT_FILES = [
 
 # First two sources
 SOURCES_BEFORE_CUSTOM = [
-    "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs/heads/main/toffee_playlist.m3u",
+    "",
 
-    "https://raw.githubusercontent.com/stablesports711-hue/stable-sports-toffee/refs/heads/main/custom_channels.m3u",
+    "",
 ]
 
 
 # Sources after custom channels
 SOURCES_AFTER_CUSTOM = [
-    "https://raw.githubusercontent.com/stablesports711-hds/main/cr.m3u",
+    "https://raw.githubusercontent.com/sm-monirulislam/Toffee-Auto-Update/refs/heads/main/toffee_playlist.m3u",
 ]
 
 
