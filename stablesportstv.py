@@ -16,7 +16,7 @@ OUTPUT_FILES = [
 
 # First two sources
 SOURCES_BEFORE_CUSTOM = [
-    "",
+    "https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u",
 
     "",
 ]
