@@ -2,33 +2,37 @@ name: STABLE-SPORTS TV Auto Update
 
 on:
   workflow_dispatch:
+
   schedule:
-    - cron: "*/30 * * * *"
+    # Bangladesh Time: 5:00 AM - 11:00 PM, every 30 minutes
+    - cron: "0,30 23 * * *"
+    - cron: "0,30 0-16 * * *"
+    - cron: "0 17 * * *"
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.x'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
 
-    - name: Install Dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install requests
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
 
-    - name: Run Python Script
-      run: python stablesportstv.py
+      - name: Run Python Script
+        run: python stablesportstv.py
 
-    - name: Commit and Push Changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add *.m3u
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto Update Playlists $(date)" && git push)
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add *.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto Update Playlists $(date)" && git push)
