@@ -1,29 +1,19 @@
 #EXTM3U
-# name: SonyLiv Matches Full Data
-# telegram: https://t.me/livesportsplay
-# owner: Md Sohanur Rahman Hady
-# last_update: 04:50:32 PM 29-09-2026
 #EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325194261163_athletics_live_india_in_action_landscape_thumb_hindi.jpg" group-title="Athletics", India In Action - Athletics - 29 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2094589/ag_strea2909/HIN/master.m3u8?hdnea=exp=1790689840~acl=/*~id=79499939521764510680888454343727~hmac=503c46c91cf878aca72523f8d957d1bdf5c2304ea25b1f604c5c5ba423975dd3
 #EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg" group-title="Athletics", India In Action - Athletics - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790689833~acl=/*~id=47169153383488941746943330468168~hmac=c6aa7018a441f97b6ed940d6e607c22bb37aa554c8c06b6781ef6535e3d8a427
-#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025263/179067517647638_athletic_track_events_landscape_thumb.jpg" group-title="Athletics", India In Action - Athletics - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/ag_dx6_22909/ENG/master.m3u8?hdnea=exp=1790700633~acl=/*~id=08928951490541779992740832327545~hmac=352e8b2fa73f6462f06200cc8285bc5cad8e6971222fffa0663bc51109711d52
 #EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790624140219850_AG26_Generic_Sport_Badminton_Finals_live_landscape_thumb.jpg" group-title="Badminton", Badminton - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds2_2809/ENG/master.m3u8?hdnea=exp=1790682658~acl=/*~id=66735722010397802780054753906573~hmac=bfbd547b0cd5091355ee66d558c95514320edd713a819f340da6093797e91df2
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds2_2809/ENG/master.m3u8?hdnea=exp=1790724036~acl=/*~id=83945782822468933795897186058962~hmac=a5c45578bbb10456c7ec39487b0a294da1a714a3a1493db2c445a617d063fdce
+#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025279/1790679830904578_athletics_final_landscape_thumb.jpg" group-title="Athletics", Athletics - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120304/ag_mds3_2809/ENG/master.m3u8?hdnea=exp=1790724040~acl=/*~id=01883429468649571038004147519071~hmac=9e7e1dd64493c6fba4475a7a5610ab7e3acf50f54efc6dee3e377c97bbf3dafc
 #EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790623923337850_AG26_Generic_Sport_Weightlifting_Finals_landscape_thumb.jpg" group-title="Weightlifting", Weightlifting - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120305/ag_mds4_2809/ENG/master.m3u8?hdnea=exp=1790686271~acl=/*~id=34706973905371350969647808424158~hmac=c61499ac02890f86dffd2c2ba49a90d54bcf71b127270287e3ab96e3845848d4
 #EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790677215098_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Japan vs Pakistan - Men - Volleyball - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022317/ag_dx8_22909/ENG/master.m3u8?hdnea=exp=1790707835~acl=/*~id=73319860402531458591803568828618~hmac=fcbd982fb3f6851095d4ad6729b2e10e4f453de17a4d5a912857513f266cc22b
-#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Athletics - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120304/ag_mds3_2809/ENG/master.m3u8?hdnea=exp=1790682638~acl=/*~id=74414133964330930732156761841760~hmac=dc8a81fd63a55e8eafa4753c85fcf7938e2185b2237fb02511a9aedfcbe32217
 #EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Football", Football - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022319/ag_mds1_2809/ENG/master.m3u8?hdnea=exp=1790686242~acl=/*~id=95707119853179470880145951936018~hmac=dc3a643cfcce178091588ca2418e66c9dd4a77b3552412e220e5e8d7955214ba
 #EXTM3U
-
-# =========================================================
-# ADD YOUR FULL CUSTOM CHANNELS HERE
-# =========================================================
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
 https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
@@ -494,16 +484,6 @@ ttp://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/RAKKHOSH%20Bangla%20Movie%20S
 
 EXTINF:-1 group-title="MOVIE 2026" tvg-logo="http://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/MV5BZmY0M2I1NjYtODU4Zi00MmIyLTk0OWUtMDlhN2JmNzFmOWI1XkEyXkFqcGc@._V1_SX300.jpg",Bonolota Express [2026]
 ttp://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/Bonolota%20Express%20(2026)%20Bengali%20Amazon%20WEB-DL%20H264%20AAC%20720p.mkv
-
-# ---------------------------------------------------------
-# ADD THE REST OF YOUR CUSTOM CHANNELS HERE
-# ---------------------------------------------------------
-#=================================
-# Developed by: Monirul Islam
-# Telegram: https://t.me/monirul_Islam_SM
-# Last Updated: 11:01:48 AM 29-09-2026 (BD Time)
-# All channel : 76
-#=================================
 #EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png",Toffee TV
 https://prod-linear-media.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8?edge-cache-token=Expires=1790683294~Starts=1790679694~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=RsrTayc1GEounmO17DaEbY3K7vfmIakTp3IAPKOAu8NpGtm95aRUq_0MpZiXGJPnuD12SeET_5DYjLy8yxZFDA
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png",Toffee Movies
@@ -574,7 +554,7 @@ https://prod-linear-media.toffeelive.com/cdn/live/saudi_quran/playlist.m3u8?edge
 https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8?edge-cache-token=Expires=1790683300~Starts=1790679700~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=u2hFNPppQMP7qUkDzEmjO0dO6DwxagOLt_htjdRwPv37eOSE8dDRD9d0273x51T0oGz6JFkNUyioXxn9xZytAw
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png",Sony Ten Sports 2 HD
 https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8?edge-cache-token=Expires=1790683300~Starts=1790679700~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=u2hFNPppQMP7qUkDzEmjO0dO6DwxagOLt_htjdRwPv37eOSE8dDRD9d0273x51T0oGz6JFkNUyioXxn9xZytAw
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png",Sony Ten Sports 5 HD 
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png",Sony Ten Sports 5 HD
 https://prod-linear-media.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8?edge-cache-token=Expires=1790683300~Starts=1790679700~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=u2hFNPppQMP7qUkDzEmjO0dO6DwxagOLt_htjdRwPv37eOSE8dDRD9d0273x51T0oGz6JFkNUyioXxn9xZytAw
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp",Sony Ten Cricket
 https://prod-linear-media.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?edge-cache-token=Expires=1790683301~Starts=1790679701~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=WR6wuzCjqRZPT9sTlrYTBH5SDlj173peNdjbPkBFk0K6jwcBl49lcOBng1N3WUs9XoD2W6-FpJV8bTPdlX7SDA
