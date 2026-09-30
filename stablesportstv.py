@@ -18,7 +18,7 @@ OUTPUT_FILES = [
 SOURCES_BEFORE_CUSTOM = [
     "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u",
 
-    "",
+    "https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u",
 ]
 
 
