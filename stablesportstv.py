@@ -526,84 +526,61 @@ ttp://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Bonolota%20Express%20(2026)/B
 # =========================================================
 
 def load_source(source_url):
+    if not source_url.strip():
+        return ""
 
     try:
-
-        response = requests.get(
-            source_url,
-            timeout=20
-        )
-
+        response = requests.get(source_url, timeout=20)
         if response.status_code != 200:
-
-            print(
-                f"Failed: {source_url} "
-                f"(HTTP {response.status_code})"
-            )
-
+            print(f"Failed: {source_url} (HTTP {response.status_code})")
             return ""
 
         lines = response.text.splitlines()
-
         result = []
-
         i = 0
 
         while i < len(lines):
-
             line = lines[i].strip()
 
-            # Ignore all M3U headers
-            if line == "#EXTM3U":
+            # EXTM3U হেডার বাদ দেবে
+            if line == "#EXTM3U" or not line:
                 i += 1
                 continue
 
-            # Only take EXTINF entries
+            # EXTINF দিয়ে শুরু হলে
             if line.startswith("#EXTINF:"):
-
                 result.append(line)
-
                 i += 1
 
-                # Find the stream URL
+                # পরের লাইনগুলো যাচাই করবে
                 while i < len(lines):
-
                     next_line = lines[i].strip()
 
-                    # Ignore another EXTM3U header
-                    if next_line == "#EXTM3U":
+                    # কমেন্ট বা খালি লাইন ইগনোর করবে
+                    if next_line.startswith("##") or not next_line or next_line == "#EXTM3U":
                         i += 1
                         continue
 
-                    # Ignore other # lines
+                    # KODIPROP / EXTVLCOPT সহ অন্যান্য দরকারি ট্যাগ রাখব (স্কিপ করব না)
                     if next_line.startswith("#"):
+                        result.append(next_line)
                         i += 1
                         continue
 
-                    # Take the actual stream URL
-                    if next_line:
-                        result.append(next_line)
-                        break
-
-                    i += 1
+                    # অবশেষে মূল স্ট্রিম লিংক পেলে সেটাকে যুক্ত করে লুপ থামাবে
+                    result.append(next_line)
+                    break
 
             i += 1
 
         print(f"Loaded: {source_url}")
-        print(f"Channels found: {len(result) // 2}")
-
-        if result:
-
-            return "\n".join(result) + "\n"
-
-        return ""
+        return "\n".join(result) + "\n"
 
     except Exception as e:
-
         print(f"Error loading source: {source_url}")
         print(e)
-
         return ""
+
 
 
 # =========================================================
