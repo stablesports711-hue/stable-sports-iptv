@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18236" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908687062ndMAR.jpg" group-title="Cricket", ICC World Cup 2027 Schedule Launch - Show - ICC Cricket World Cup 2027
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17875" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906337751020x576.jpg" group-title="Football", Azerbaijan vs Leichtenstein - MATCHDAY 3 - UEFA Nations League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
