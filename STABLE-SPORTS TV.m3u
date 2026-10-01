@@ -8,6 +8,12 @@ https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17879" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906345941020x576.jpg" group-title="Football", Ireland vs Austria - MATCHDAY 3 - UEFA Nations League 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17880" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906347921020x576.jpg" group-title="Football", Wales vs Norway - MATCHDAY 3 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17881" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906351171020x576.jpg" group-title="Football", Malta vs Gibraltar - MATCHDAY 3 - UEFA Nations League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17882" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906353671020x576.jpg" group-title="Football", Denmark vs Portugal - MATCHDAY 3 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
 https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
 
