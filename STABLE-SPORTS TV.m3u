@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HL9798SV" tvg-name="Asian Games 2026 - 1st Semi-Final - Pakistan vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2f6f8b61-15b2-48df-b66c-7011d1f87238/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Asian Games 2026 - 1st Semi-Final - Pakistan vs Sri Lanka
+#EXTINF:-1 tvg-id="B0HHSH7518" tvg-name="Asian Games 2026 - 2nd Semi-Final - India vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9cd50013-f81f-4843-b726-7741f0a55bfb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Asian Games 2026 - 2nd Semi-Final - India vs Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36f6eab6d209817bce6e16a660d34f5a:3510bcdf47c67cb43da149e42a6a6e72
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k1nzqwiwwv/out/v1/096da8caa4de419592a713862092c252/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=939e7b556d7bdc330d46cabb8ea9583e:6790dc9d4d1d92b6927df1c9bf56c02f
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aimpvw04dj/out/v1/b18bac44594f477c9df38a2ce3e008bd/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-17976" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906322381020x576.jpg" group-title="Cycling", Tapah to Genting Highlands - Stage 5 - Le Tour de Langkawi 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
