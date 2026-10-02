@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18084" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907727981020x576.jpg" group-title="Cricket", Pakistan U19 vs Bangladesh U19 - Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18013" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906813611020x576.jpg" group-title="Racing", Moto 1 - Grand Prix of Shanghai China Live - Race - UIM
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17647" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900616261020x576.jpg" group-title="Football", Fakirerpool Young Mens Club vs Mohammedan SC Ltd - Round 2 - Bangladesh Football League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17648" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900617131020x576.jpg" group-title="Football", Chattogram City FC vs Bangladesh Police FC - Round 2 - Bangladesh Football League 2026/27
