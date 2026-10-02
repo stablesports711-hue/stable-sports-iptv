@@ -1,11 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18073" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906783991020x576.jpg" group-title="Mma", Mostafa Neda vs Osama Elsaidy - PFL MENA 11 - PFL 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17884" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906724941020x576.jpg" group-title="Football", Cyprus vs Armenia - MATCHDAY 3 - UEFA Nations League 2026/27
+#EXTINF:-1 tvg-id="tapmad-17886" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906731761020x576.jpg" group-title="Football", Poland vs Romania - MATCHDAY 3 - UEFA Nations League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17885" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906728381020x576.jpg" group-title="Football", Latvia vs Montenegro - MATCHDAY 3 - UEFA Nations League 2026/27
+#EXTINF:-1 tvg-id="tapmad-17887" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906734201020x576.jpg" group-title="Football", Faroe Islands vs Slovakia - MATCHDAY 3 - UEFA Nations League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17888" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906736141020x576.jpg" group-title="Football", Belgium vs Turkiye - MATCHDAY 3 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17889" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906738771020x576.jpg" group-title="Football", Hungary vs Georgia - MATCHDAY 3 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17890" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906743041020x576.jpg" group-title="Football", Bosnia and Herzegovina vs Sweden - MATCHDAY 3 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17891" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906745091020x576.jpg" group-title="Football", France vs Italy - MATCHDAY 3 - UEFA Nations League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17892" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906747341020x576.jpg" group-title="Football", Ukraine vs Northern Ireland - MATCHDAY 3 - UEFA Nations League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
 https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
 
