@@ -4,6 +4,12 @@
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18013" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906813611020x576.jpg" group-title="Racing", Moto 1 - Grand Prix of Shanghai China Live - Race - UIM
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17647" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900616261020x576.jpg" group-title="Football", Fakirerpool Young Mens Club vs Mohammedan SC Ltd - Round 2 - Bangladesh Football League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17648" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900617131020x576.jpg" group-title="Football", Chattogram City FC vs Bangladesh Police FC - Round 2 - Bangladesh Football League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17649" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900618991020x576.jpg" group-title="Football", PWD Sports Club vs Brothers Union Ltd - Round 2 - Bangladesh Football League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
 https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
 
