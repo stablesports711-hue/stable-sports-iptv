@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="tapmad-18007" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906808791020x576.jpg" group-title="Racing", Pole Position - Grand Prix of Shanghai China Live - Race - UIM
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17982" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906776001020x576.jpg" group-title="Cycling", Pandan Indah to Rembau - Stage 6 - Le Tour de Langkawi 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
