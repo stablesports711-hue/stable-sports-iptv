@@ -4,21 +4,25 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2f0d4bbcead5d0b26b654d9f2bd0b73:0819905841d515ef09147d3a436d370d
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cmfpvuwoyv/out/v1/94c214cd527c4b5592de7eb9c9a10028/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cmfpvuwoyv/out/v1/94c214cd527c4b5592de7eb9c9a10028/cenc.mpd
 #EXTINF:-1 tvg-id="B0HK89RJ8C" tvg-name="West Indies tour of India 2026 - 3rd ODI - India vs West Indies" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.dc5737df-f452-44b4-958a-d75d2e84e1f7/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",West Indies tour of India 2026 - 3rd ODI - India vs West Indies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18085" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907729391020x576.jpg" group-title="Cricket", Pakistan U19 vs Sri Lanka U19 - Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18098" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907591401020x576.jpg" group-title="Racing", GT World Challenge powered by AWS - Qualifying 1 (Group A & B) Live - Qualifying 1 - GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18104" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907621781020x576.jpg" group-title="Racing", GT3 Revival Series - Qualifying 1 & 2 - Qualifying Round 1 & 2 - GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903364351020x576.jpg" group-title="Cricket", India vs West Indies - 3rd ODI - West Indies Tour of India 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17650" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900619681020x576.jpg" group-title="Football", Dhaka Wanderers Club vs Abahani Ltd. Dhaka - Round 2 - Bangladesh Football League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17651" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900620601020x576.jpg" group-title="Football", Arambagh Krira Shangha vs Rahamatgonj MFS - Round 2 - Bangladesh Football League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17652" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900621371020x576.jpg" group-title="Football", Fortis FC Ltd vs City Club - Round 2 - Bangladesh Football League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
 https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
 
