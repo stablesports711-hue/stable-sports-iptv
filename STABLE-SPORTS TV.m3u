@@ -18,6 +18,9 @@ https://sonydaimenew.akamaized.net/hls/live/2120303/footlive0310/BEN/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.district.in/assets/events/publisher/event_cover_image_vertical/01M3VC2DDB8PB7PG3121BKQTPT.jpg" group-title="LIVE SPORTS",(BDIX)Brazil VS India | Friendly Match 2026
 https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/HIN/master.m3u8?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037
 
+#EXTINF:-1 tvg-logo="https://cdn.district.in/assets/events/publisher/event_cover_image_vertical/01M3VC2DDB8PB7PG3121BKQTPT.jpg" group-title="LIVE SPORTS",(BDIX)Brazil VS India | Friendly Match 2026
+http://live.playmax.live/matribhumi/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
 https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
 
