@@ -11,8 +11,6 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/cmfp
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=465e30cbfd3748843f54933153276ed8:0f9351d5b352b8f7939bd6695e38afe3
 https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/w5ucrsei9m/out/v1/3e217bead6614b57bc2b68cd77fb1bc5/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-18085" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907729391020x576.jpg" group-title="Cricket", Pakistan U19 vs Sri Lanka U19 - Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17713" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17903364351020x576.jpg" group-title="Cricket", India vs West Indies - 3rd ODI - West Indies Tour of India 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17650" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17900619681020x576.jpg" group-title="Football", Dhaka Wanderers Club vs Abahani Ltd. Dhaka - Round 2 - Bangladesh Football League 2026/27
