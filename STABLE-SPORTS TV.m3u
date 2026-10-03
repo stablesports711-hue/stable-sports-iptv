@@ -4,11 +4,11 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d823341ae92c269213a9c39c1df891b0:e4f00dc75b4031b3c5fa2e00b03cd7b2
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vqg0oc1cjd/out/v1/f0c8600b39fe42148de4a926f44759cb/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-18031" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907533621020x576.jpg" group-title="Racing", Qualifying Race - Inje, South Korea Live - Qualifying Race - Kumho FIA TCR World Tour Euro Series 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vqg0oc1cjd/out/v1/f0c8600b39fe42148de4a926f44759cb/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18164" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907692961020x576.jpg" group-title="Racing", SRO GT CUP - Qualifying 1 - Qualifying 1 - GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18019" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17906818731020x576.jpg" group-title="Racing", Moto 2 - Grand Prix of Shanghai China Live - Race - UIM
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
 https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
 
