@@ -16,9 +16,9 @@ OUTPUT_FILES = [
 
 # First two sources
 SOURCES_BEFORE_CUSTOM = [
-    "https://raw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u",
+    "https://rbbaw.githubusercontent.com/srhady/willow-event/refs/heads/main/live_sports.m3u",
 
-    "https://gist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u",
+    "https://vvgist.githubusercontent.com/albatr0ssss/3cff7a26be49b1d352c15f615067e7cd/raw/tapmad_bd.m3u",
 ]
 
 
@@ -41,9 +41,10 @@ custom_channels = r"""
 https://abbfz7naaaaaaaamlleqwa446ufun.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.district.in/assets/events/publisher/event_cover_image_vertical/01M3VC2DDB8PB7PG3121BKQTPT.jpg" group-title="LIVE SPORTS",Brazil VS India | Friendly Match 2026
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-SonyTen_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.district.in/assets/events/publisher/event_cover_image_vertical/01M3VC2DDB8PB7PG3121BKQTPT.jpg" group-title="LIVE SPORTS",Brazil VS India | Friendly Match 2026
-
+http://198.195.239.50:8095/sonyAath/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
 https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
