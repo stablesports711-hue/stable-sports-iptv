@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e2f0d4bbcead5d0b26b654d9f2bd0b73:0819905841d515ef09147d3a436d370d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmfpvuwoyv/out/v1/94c214cd527c4b5592de7eb9c9a10028/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cmfpvuwoyv/out/v1/94c214cd527c4b5592de7eb9c9a10028/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18176" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907748071020x576.jpg" group-title="Racing", SRO GT CUP - Race 1 - Race 1 - GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17988" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907543801020x576.jpg" group-title="Cycling", Malaka to Batu Pahat Live - Stage 7 - Le Tour de Langkawi 2026
