@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="tapmad-15690" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907676571020x576.jpg" group-title="Horse Riding", Final - Round 2 - Barcelona (ESP) Live - Final - Longines League of Nations 2026
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18134" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908402611020x576.jpg" group-title="Racing", GT3 Revival Series - Race 2 - Race 2 - GT World Challenge EU & Asia 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
