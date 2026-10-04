@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-15690" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907676571020x576.jpg" group-title="Horse Riding", Final - Round 2 - Barcelona (ESP) Live - Final - Longines League of Nations 2026
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17902" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907559461020x576.jpg" group-title="Football", Kosovo vs Austria - MATCHDAY 4 - UEFA Nations League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17903" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907561161020x576.jpg" group-title="Football", Malta vs Andorra - MATCHDAY 4 - UEFA Nations League 2026/27
