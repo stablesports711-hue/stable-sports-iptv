@@ -1,13 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18049" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907648311020x576.jpg" group-title="Racing", Round 12 Race - Inje, South Korea Live - Race - Kumho FIA TCR World Tour Euro Series 2026
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17994" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907633371020x576.jpg" group-title="Cycling", Muar to Putrajaya - Stage 8 - Le Tour de Langkawi 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18061" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907700621020x576.jpg" group-title="Racing", Sprint Race - Shanghai, China Live - Race - UIM F1H2O World Championship 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18134" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908402611020x576.jpg" group-title="Racing", GT3 Revival Series - Race 2 - Race 2 - GT World Challenge EU & Asia 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
 https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/01a047abffef1ea557842156e6858c/main.m3u8|Referer=https://iscreen.com.bd/
 
