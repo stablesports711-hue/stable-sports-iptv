@@ -48,13 +48,13 @@ https://r8vx3qkm2ztp7ynj6lpl.rockstreamer.com/v1/019ee554d6cc1567ee93172b12d63f/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD[A-1]
+EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD[A-1]
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
-https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009277|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009277
+ttps://sony.dongobd247.workers.dev/stream.m3u8?id=1000009277|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009277
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD[B-1]
+EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/065/740/342/non_2x/uefa-champions-league-logo-football-club-icon-digital-download-free-vector.jpg" group-title="LIVE SPORTS",UEFA Champions League 2026 FHD[B-1]
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
-https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
+ttps://sony.dongobd247.workers.dev/stream.m3u8?id=1000009276|referer=https://playyonogames.in/sliv/stream.m3u8?id=1000009276
 
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAXN4uh0P6xoZlqnJSnlYJrDXC47mG2sjzHpNdAAUY9Q&s=10" group-title="LIVE SPORTS",LALIGA 2026 HD
 ttps://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
