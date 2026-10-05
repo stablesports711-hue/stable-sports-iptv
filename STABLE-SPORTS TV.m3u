@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="tapmad-18086" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907735651020x576.jpg" group-title="Cricket", Sri Lanka U19 vs Bangladesh U19 - Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10" group-title="LIVE SPORTS", WCL World Championship of Legends 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
