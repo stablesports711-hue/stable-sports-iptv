@@ -1,15 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-17904" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907563391020x576.jpg" group-title="Football", Greece vs Germany - MATCHDAY 4 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17905" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907564871020x576.jpg" group-title="Football", Netherlands vs Serbia - MATCHDAY 4 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17906" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907566781020x576.jpg" group-title="Football", Portugal vs Norway - MATCHDAY 4 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17907" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907568741020x576.jpg" group-title="Football", Wales vs Denmark - MATCHDAY 4 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17908" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17907571131020x576.jpg" group-title="Football", Ireland vs Israel - MATCHDAY 4 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10" group-title="LIVE SPORTS", WCL World Championship of Legends 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
