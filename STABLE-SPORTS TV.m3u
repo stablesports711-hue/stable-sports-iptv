@@ -1,19 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-17910" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908395951020x576.jpg" group-title="Football", Italy vs Turkiye - MATCHDAY 4 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17911" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908399141020x576.jpg" group-title="Football", Romania vs Sweden - MATCHDAY 4 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17912" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908401291020x576.jpg" group-title="Football", Bosnia and Herzegovina vs Poland - MATCHDAY 4 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17913" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908406441020x576.jpg" group-title="Football", France vs Belgium - MATCHDAY 4 - UEFA Nations League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17914" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908408631020x576.jpg" group-title="Football", Montenegro vs Armenia - MATCHDAY 4 - UEFA Nations League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17915" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908410301020x576.jpg" group-title="Football", Ukraine vs Hungary - MATCHDAY 4 - UEFA Nations League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17916" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908411881020x576.jpg" group-title="Football", Northern Ireland vs Georgia - MATCHDAY 4 - UEFA Nations League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10" group-title="LIVE SPORTS", WCL World Championship of Legends 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
