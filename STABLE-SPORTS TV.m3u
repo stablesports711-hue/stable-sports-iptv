@@ -1,11 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-17656" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908579351020x576.jpg" group-title="Football", Dhaka Wanderers Club vs Bashundhara Kings - MATCHDAY 2 - Federation Cup 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17657" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908580211020x576.jpg" group-title="Football", Bangladesh Police FC vs City Club - MATCHDAY 2 - Federation Cup 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17658" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908581041020x576.jpg" group-title="Football", Mohammedan SC Ltd vs Arambagh Krira Shangha - MATCHDAY 2 - Federation Cup 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10" group-title="LIVE SPORTS", WCL World Championship of Legends 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
