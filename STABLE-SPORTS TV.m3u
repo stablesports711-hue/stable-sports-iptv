@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18087" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908469701020x576.jpg" group-title="Cricket", Pakistan U19 vs Bangladesh U19 - Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17656" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908579351020x576.jpg" group-title="Football", Dhaka Wanderers Club vs Bashundhara Kings - MATCHDAY 2 - Federation Cup 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17657" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908580211020x576.jpg" group-title="Football", Bangladesh Police FC vs City Club - MATCHDAY 2 - Federation Cup 2026/27
