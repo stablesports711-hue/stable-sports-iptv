@@ -1,22 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="sonyliv-1090547205" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="Football", India vs Uruguay - India's International Friendlies 2026 [English]
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0
-#EXTINF:-1 tvg-id="sonyliv-1090547205" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="Football", India vs Uruguay - India's International Friendlies 2026 [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0
-#EXTINF:-1 tvg-id="sonyliv-1090547205" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="Football", India vs Uruguay - India's International Friendlies 2026 [Tamil]
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0
-#EXTINF:-1 tvg-id="sonyliv-1090547205" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="Football", India vs Uruguay - India's International Friendlies 2026 [Telugu]
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0
-#EXTINF:-1 tvg-id="sonyliv-1090547205" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg" group-title="Football", India vs Uruguay - India's International Friendlies 2026 [Kannada]
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/master.m3u8?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0
-#EXTINF:-1 tvg-id="sonyliv-1090547202" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025877/1791198095738540_VCL_Haryana-Hurricanes-vs-Tamil-Titans_live_landscape_thumb.jpg" group-title="Volleyball", Haryana Hurricanes vs Tamil Titans - Volleyball Championship League 2026  [English]
-https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/ENG/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32
-#EXTINF:-1 tvg-id="sonyliv-1090547202" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025877/1791198095738540_VCL_Haryana-Hurricanes-vs-Tamil-Titans_live_landscape_thumb.jpg" group-title="Volleyball", Haryana Hurricanes vs Tamil Titans - Volleyball Championship League 2026  [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/HIN/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32
-#EXTINF:-1 tvg-id="sonyliv-1090547296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196784948723_IND_vs_URU_live_landscape_thumb_benagli.jpg" group-title="Football", India vs Uruguay (Bengali) - India's International Friendlies 2026 [Bengali]
-https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/master.m3u8?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10" group-title="LIVE SPORTS", WCL World Championship of Legends 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
