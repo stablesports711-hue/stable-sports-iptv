@@ -34,6 +34,8 @@ https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0610/ENG/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2120300/criclive0610/ENG/master.m3u8?hdnea=exp=1791354061~acl=/*~id=84293138492419147874849506917535~hmac=57c0d0a40ee924d0a172391a797d5e2c4be0bc1827e63b0777603b2a04439bac
 #EXTINF:-1 tvg-id="sonyliv-1090547290" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790887630230804_UNL2627_MD4_Luxembourg_vs_Bulgaria_landscape_thumb.jpg" group-title="Football", Luxembourg vs Bulgaria - UEFA Nations League 2026-27 [English]
 https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0610/ENG/master.m3u8?hdnea=exp=1791354061~acl=/*~id=84293138492419147874849506917535~hmac=57c0d0a40ee924d0a172391a797d5e2c4be0bc1827e63b0777603b2a04439bac
+#EXTINF:-1 tvg-id="sonyliv-1090547288" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790887204398804_UNL2627_MD4_Albania_vs_San_Marino_landscape_thumb.jpg" group-title="Football", Albania vs San Marino - UEFA Nations League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0610/ENG/master.m3u8?hdnea=exp=1791355842~acl=/*~id=80420059042309221530449101927661~hmac=6765b3e94c16d347ab39403cfc4d573cc718b58fd2554e32d8debf00e2c9ff21
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10" group-title="LIVE SPORTS", WCL World Championship of Legends 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
