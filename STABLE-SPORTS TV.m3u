@@ -1,10 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="sonyliv-1090547324" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025957/1791355174953342_VCL_Hoogly-Hitters-vs-Namma-Bengaluru-Smashers_live_landscape_thumb.jpg" group-title="Volleyball", Hooghly Hitters vs Namma Bengaluru Smashers - Volleyball Championship League 2026  [English]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/master.m3u8?hdnea=exp=1791420638~acl=/*~id=62441916876151266317346075795007~hmac=d8af036f8e9de9e20f30bc44b4b8909135fb76cf642a89e351940b152f73999d
-#EXTINF:-1 tvg-id="sonyliv-1090547324" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025957/1791355174953342_VCL_Hoogly-Hitters-vs-Namma-Bengaluru-Smashers_live_landscape_thumb.jpg" group-title="Volleyball", Hooghly Hitters vs Namma Bengaluru Smashers - Volleyball Championship League 2026  [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/HIN/master.m3u8?hdnea=exp=1791420638~acl=/*~id=62441916876151266317346075795007~hmac=d8af036f8e9de9e20f30bc44b4b8909135fb76cf642a89e351940b152f73999d
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10" group-title="LIVE SPORTS", WCL World Championship of Legends 2026
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
