@@ -6,7 +6,8 @@ https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18900" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914675091020x576.jpg" group-title="Cricket", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-
+#EXTINF:-1 tvg-id="sonyliv-1090547530" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649382069310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day2_landscape_thumb.jpg" group-title="Golf", Open de Espana Presented By Madrid - Day 2 - DP World Tour [English]
+https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/master.m3u8?hdnea=exp=1791589835~acl=/*~id=46049840398994324245206794874766~hmac=dc8568a8d56f4996d0a1e27a75def6957d68fe3d634052d178843d385259b82b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
