@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-17094" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909263691020x576.jpg" group-title="Football", Al-Nassr vs Diriyah - MATCHDAY 8 - Saudi Pro League 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18265" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909256501020x576.jpg" group-title="Football", Malaga vs Espanyol - MATCHDAY 8 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18413" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911870941020x576.jpg" group-title="Football", Lens vs OL - MATCHDAY 6 - French Ligue 1 2026/27
