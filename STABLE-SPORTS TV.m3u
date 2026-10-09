@@ -1,11 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="tapmad-17092" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909261001020x576.jpg" group-title="Football", Al Kholood vs Al Qadsiah - MATCHDAY 8 - Saudi Pro League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915260821020x576.jpg" group-title="Cricket", South Africa vs Australia - 1st Test - 1st Test - Australia Tour of South Africa 2026
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17715" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912807661020x576.jpg" group-title="Cricket", India vs West Indies - 2nd T20I - West Indies Tour of India 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18243" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909249901020x576.jpg" group-title="Football", Bashundhara Kings vs Dhaka Wanderers Club - Round 3 - Bangladesh Football League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18302" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915465211020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - 1st T20I - Sri Lanka Tour of Pakistan 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18900" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914675091020x576.jpg" group-title="Cricket", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
@@ -14,6 +14,8 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/ENG/master.m3u8?hdnea=exp=1791593448~acl=/*~id=88661682402553381503747163847761~hmac=07b7b5f14af67c1b4dfd511fc4b0381852724228f44849d1c246aa2776fffaec
 #EXTINF:-1 tvg-id="sonyliv-1090547531" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373064988475_VCL_Punjab-Aerostrikers-vs-Garvi-Gujjus_live_landscape_thumb.jpg" group-title="Volleyball", Punjab Aerostrikers vs Garvi Gujjus - Volleyball Championship League 2026  [Hindi]
 https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/HIN/master.m3u8?hdnea=exp=1791593448~acl=/*~id=88661682402553381503747163847761~hmac=07b7b5f14af67c1b4dfd511fc4b0381852724228f44849d1c246aa2776fffaec
+#EXTINF:-1 tvg-id="sonyliv-1090547533" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026047/1791527609190776_APL26_Kakatiya-Knights-vs-Chola-Chiefs_live_landscape_thumb.jpg" group-title="Archery", Kakatiya Knights vs Chola Chiefs - Archery Premier League 2026 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120307/Archery_0910/ENG/master.m3u8?hdnea=exp=1791597035~acl=/*~id=65162814384091371522518530136566~hmac=099b7e416b5667a824f7f8d64ae52e3fccd50cc779fc0c9ecf29d7f55e662fae
 #EXTINF:-1 tvg-id="sonyliv-1090547530" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649382069310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day2_landscape_thumb.jpg" group-title="Golf", Open de Espana Presented By Madrid - Day 2 - DP World Tour [English]
 https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/master.m3u8?hdnea=exp=1791589835~acl=/*~id=46049840398994324245206794874766~hmac=dc8568a8d56f4996d0a1e27a75def6957d68fe3d634052d178843d385259b82b
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
