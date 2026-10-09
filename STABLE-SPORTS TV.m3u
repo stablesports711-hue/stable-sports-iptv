@@ -1,6 +1,9 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="tapmad-18089" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17908574761020x576.jpg" group-title="Cricket", Pakistan U19 vs Sri Lanka U19 - Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18900" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914675091020x576.jpg" group-title="Cricket", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10" group-title="LIVE SPORTS", WCL World Championship of Legends 2026
 #KODIPROP:inputstream=inputstream.adaptive
