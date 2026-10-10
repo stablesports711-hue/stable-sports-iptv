@@ -1,9 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="tapmad-17095" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909272181020x576.jpg" group-title="Football", Al-Hilal vs Al-Ittihad - MATCHDAY 8 - Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18268" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909262581020x576.jpg" group-title="Football", Barcelona vs Getafe - MATCHDAY 8 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18414" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911916701020x576.jpg" group-title="Football", LOSC vs Le Havre - MATCHDAY 6 - French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
