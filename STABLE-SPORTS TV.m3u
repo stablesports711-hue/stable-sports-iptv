@@ -2,8 +2,14 @@
 
 #EXTINF:-1 tvg-id="tapmad-17700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915260821020x576.jpg" group-title="Cricket", South Africa vs Australia - 1st Test - 1st Test - Australia Tour of South Africa 2026
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17716" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913544721020x576.jpg" group-title="Cricket", India vs West Indies - 3rd T20I - West Indies Tour of India 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18270" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909266491020x576.jpg" group-title="Football", Elche vs Celta - MATCHDAY 8 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18303" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915465331020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - 2nd T20I - Sri Lanka Tour of Pakistan 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18419" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911925921020x576.jpg" group-title="Football", Nice vs Strasbourg - MATCHDAY 6 - French Ligue 1 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18900" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914675091020x576.jpg" group-title="Cricket", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090547694" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Football", Inter Kashi vs Kerala Blasters FC - MG Indian Super League 2026-27 [English]
@@ -12,6 +18,10 @@ https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/ENG/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/HIN/master.m3u8?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945
 #EXTINF:-1 tvg-id="sonyliv-1090547694" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Football", Inter Kashi vs Kerala Blasters FC - MG Indian Super League 2026-27 [Malayalam]
 https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/MAL/master.m3u8?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945
+#EXTINF:-1 tvg-id="sonyliv-1090547695" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Volleyball", Garvi Gujjus vs Emperia Marathas - Volleyball Championship League 2026  [English]
+https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/master.m3u8?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626
+#EXTINF:-1 tvg-id="sonyliv-1090547695" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Volleyball", Garvi Gujjus vs Emperia Marathas - Volleyball Championship League 2026  [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/HIN/master.m3u8?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626
 #EXTINF:-1 tvg-id="sonyliv-1090547693" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg" group-title="Golf", Open de Espana Presented By Madrid - Day 4 - DP World Tour [English]
 https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/master.m3u8?hdnea=exp=1791759049~acl=/*~id=98401504105099429630401042091060~hmac=663c0fe443617843cab5f6b76a7a9d8dbd60b749a616b3de0e311ab35d7ef2cb
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
