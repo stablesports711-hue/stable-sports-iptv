@@ -1,17 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18230" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909394421020x576.jpg" group-title="Mma", Allen vs Duncan - Fight Night - UFC 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [English]
-https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
-#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/HIN/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
-#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [Tamil]
-https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/TAM/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
-#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [Telugu]
-https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/TEL/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
-#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [Kannada]
-https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/KAN/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
+
+
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
