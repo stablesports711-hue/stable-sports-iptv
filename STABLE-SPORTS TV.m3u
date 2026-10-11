@@ -1,18 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18269" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909264641020x576.jpg" group-title="Football", Real Madrid vs Villarreal - MATCHDAY 8 - LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18415" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911919301020x576.jpg" group-title="Football", Lorient vs Paris FC - MATCHDAY 6 - French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18416" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911921421020x576.jpg" group-title="Football", Monaco vs Toulouse - MATCHDAY 6 - French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18417" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911923011020x576.jpg" group-title="Football", Brest vs Angers - MATCHDAY 6 - French Ligue 1 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18418" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911924511020x576.jpg" group-title="Football", PSG vs Le Mans - MATCHDAY 6 - French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18618" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912759031020x576.jpg" group-title="Mma", Abdoulaye Kane vs Badr Medkouri - PFL Africa - PFL 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-
+#EXTINF:-1 tvg-id="tapmad-18230" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909394421020x576.jpg" group-title="Mma", Allen vs Duncan - Fight Night - UFC 2026
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [English]
+https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
+#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/HIN/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
+#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [Tamil]
+https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/TAM/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
+#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [Telugu]
+https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/TEL/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
+#EXTINF:-1 tvg-id="sonyliv-1090547698" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Allen vs Duncan - UFC Fight Night - Allen vs Duncan  [Kannada]
+https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/KAN/master.m3u8?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
