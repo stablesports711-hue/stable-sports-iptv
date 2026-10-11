@@ -4,7 +4,7 @@
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17716" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913544721020x576.jpg" group-title="Cricket", India vs West Indies - 3rd T20I - West Indies Tour of India 2026
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18270" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909266491020x576.jpg" group-title="Football", Elche vs Celta - MATCHDAY 8 - LaLiga 2026/27
+#EXTINF:-1 tvg-id="tapmad-18271" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909268361020x576.jpg" group-title="Football", Real Sociedad vs Deportivo - MATCHDAY 8 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18303" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915465331020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - 2nd T20I - Sri Lanka Tour of Pakistan 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
@@ -12,14 +12,10 @@ https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18898" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913540031020x576.jpg" group-title="Horse Riding", Leg 1 - Oslo (NOR) Live - Race - Longines FEI Jumping World Cup 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18900" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914675091020x576.jpg" group-title="Cricket", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
-https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090547694" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Football", Inter Kashi vs Kerala Blasters FC - MG Indian Super League 2026-27 [English]
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/ENG/master.m3u8?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945
-#EXTINF:-1 tvg-id="sonyliv-1090547694" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Football", Inter Kashi vs Kerala Blasters FC - MG Indian Super League 2026-27 [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/HIN/master.m3u8?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945
-#EXTINF:-1 tvg-id="sonyliv-1090547694" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg" group-title="Football", Inter Kashi vs Kerala Blasters FC - MG Indian Super League 2026-27 [Malayalam]
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/MAL/master.m3u8?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945
+#EXTINF:-1 tvg-id="sonyliv-1090547704" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg" group-title="Football", Churchill Brothers FC vs Mumbai City FC - MG Indian Super League 2026-27 [English]
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/master.m3u8?hdnea=exp=1791769835~acl=/*~id=79195673746224071666027373284931~hmac=6d07e9b9364810590d0c42849f88d35297c55e5048dd417a40995fd97aa9c70f
+#EXTINF:-1 tvg-id="sonyliv-1090547704" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg" group-title="Football", Churchill Brothers FC vs Mumbai City FC - MG Indian Super League 2026-27 [Hindi]
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/HIN/master.m3u8?hdnea=exp=1791769835~acl=/*~id=79195673746224071666027373284931~hmac=6d07e9b9364810590d0c42849f88d35297c55e5048dd417a40995fd97aa9c70f
 #EXTINF:-1 tvg-id="sonyliv-1090547695" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Volleyball", Garvi Gujjus vs Emperia Marathas - Volleyball Championship League 2026  [English]
 https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/master.m3u8?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626
 #EXTINF:-1 tvg-id="sonyliv-1090547695" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Volleyball", Garvi Gujjus vs Emperia Marathas - Volleyball Championship League 2026  [Hindi]
@@ -359,10 +355,20 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/NF489yZJ/STABLE-SPORTS1.png",CRICBUZZ 1 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz1.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88108f87e67cd151f9519101fc80c467:7f2ef277964796a9fb76afe361e2344c
+https://cbuzz1.starzplayarabia.com/out/v1/f017da8419e0495784291700c11700a5/index.mpd
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz1.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/tRhBGJvV/STABLE-SPORTS2.png",CRICBUZZ 2 HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz2.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=037798d4da2472201e564323244afc49:c8888c4644cef0a5f130afa32d919fc4
+https://cbuzz2.starzplayarabia.com/out/v1/c6320ac38c774e66b60dbf4d0e7d16ab/index.mpd
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Cricbuzz2.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS",SONY SPORTS 1 HD
