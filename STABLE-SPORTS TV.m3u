@@ -4,14 +4,7 @@
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18272" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909269851020x576.jpg" group-title="Football", Betis vs Osasuna - MATCHDAY 8 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18303" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915465331020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - 2nd T20I - Sri Lanka Tour of Pakistan 2026
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18420" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17911927211020x576.jpg" group-title="Football", Rennes vs Auxerre - MATCHDAY 6 - French Ligue 1 2026/27
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090547695" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137556416152_VCL_Namma-Bengaluru-Smashers-vs-Haryana-Hurricane_live_landscape_thumb.jpg" group-title="Volleyball", Namma Bengaluru Smashers vs Haryana Hurricanes - Volleyball Championship League 2026  [English]
-https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/master.m3u8?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626
-#EXTINF:-1 tvg-id="sonyliv-1090547695" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137556416152_VCL_Namma-Bengaluru-Smashers-vs-Haryana-Hurricane_live_landscape_thumb.jpg" group-title="Volleyball", Namma Bengaluru Smashers vs Haryana Hurricanes - Volleyball Championship League 2026  [Hindi]
-https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/HIN/master.m3u8?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626
+
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
