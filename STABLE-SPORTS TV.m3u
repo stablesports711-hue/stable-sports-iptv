@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-17716" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913544721020x576.jpg" group-title="Cricket", India vs West Indies - 3rd T20I - West Indies Tour of India 2026
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17096" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909273721020x576.jpg" group-title="Football", Al-Shabab vs Al-Taawoun - MATCHDAY 8 - Saudi Pro League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18272" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909269851020x576.jpg" group-title="Football", Betis vs Osasuna - MATCHDAY 8 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 
