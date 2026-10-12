@@ -4,11 +4,13 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=241f2a47c5d18b2963e965742843dbea:b342a3dc0f9048244ff2883bedbbb730
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-18628" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912767411020x576.jpg" group-title="Football", Tractor FC (IRN) vs Al Shamal SC (QAT) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18633" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912774171020x576.jpg" group-title="Football", Al Wasl FC (UAE) vs Al Ahli Saudi FC (KSA) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-18638" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912777401020x576.jpg" group-title="Football", Air Force SC (IRQ) vs Al Ain FC (UAE) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18643" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912780831020x576.jpg" group-title="Football", Al Gharafa SC (QAT) vs Esteghlal FC (IRN) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18648" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913605241020x576.jpg" group-title="Football", Al Nassr Club (KSA) vs PFC Neftchi (UZB) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
