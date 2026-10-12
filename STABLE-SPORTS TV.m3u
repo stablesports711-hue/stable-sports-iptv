@@ -1,26 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HKFRWMBH" tvg-name="Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637/9/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=abceab2f1340be6c70c54b7176d30608:9c281b70e5626752d2481f498677b3df
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd
 #EXTINF:-1 tvg-id="B0HLSZ4843" tvg-name="World Championship of Legends 2026 - 17th Match - Pakistan Champions vs South Africa Champions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fa2e2ab4-efd7-42ef-b5e8-f4c1d8e89c70/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",World Championship of Legends 2026 - 17th Match - Pakistan Champions vs South Africa Champions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=241f2a47c5d18b2963e965742843dbea:b342a3dc0f9048244ff2883bedbbb730
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dsf0pim6dm/out/v1/1f453df9e4b94dd5bbfc18300ae057e6/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18628" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912767411020x576.jpg" group-title="Football", Tractor FC (IRN) vs Al Shamal SC (QAT) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18633" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17912774171020x576.jpg" group-title="Football", Al Wasl FC (UAE) vs Al Ahli Saudi FC (KSA) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090547710" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg" group-title="Football", NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 | MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791862411~acl=/*~id=48300336300259977694570769605704~hmac=b0a71f69f3b58451b3d8f8df1c207e7af5af64614e1fabcdb330e886fa14ecc3
-#EXTINF:-1 tvg-id="sonyliv-1090547705" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137610904052_VCL_Tamil-Titans-vs-Hoogly-Hitters_live_landscape_thumb.jpg" group-title="Volleyball", Tamil Titans vs Hooghly Hitters - 12 Oct 2026 | Volleyball Championship League 2026
-https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791862418~acl=/*~id=02058361447784844981936217861436~hmac=510b9fba960fdc530d78d5e562521c545510d91c568c6a0f75afce453c10ba71
-#EXTINF:-1 tvg-id="sonyliv-1090547706" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026133/1791660631760741_APL26_Prithviraj_Yodhas_vs_Kakatiya_Knights_live_landscape_thumb.jpg" group-title="Archery", Prithviraj Yodhas vs Kakatiya Knights - 12 Oct 2026 | Archery Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791862411~acl=/*~id=48300336300259977694570769605704~hmac=b0a71f69f3b58451b3d8f8df1c207e7af5af64614e1fabcdb330e886fa14ecc3
+
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
