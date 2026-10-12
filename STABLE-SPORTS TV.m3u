@@ -4,7 +4,15 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc795082715e39585bb8b9913a2072db:b6a161d647a3e1319649cbae2ee256bf
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/61zrupwmyb/out/v1/6cc49c58f415453894718c5813bbcd89/cenc.mpd
+#EXTINF:-1 tvg-id="B0HKFRWMBH" tvg-name="Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d0f64737-d567-4434-8e64-4a43048ea637/9/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia tour of South Africa 2026 - 1st Test - South Africa vs Australia
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=abceab2f1340be6c70c54b7176d30608:9c281b70e5626752d2481f498677b3df
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/nud9c5syvx/out/v1/f5d58491aba84f35985919762ad77d6a/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-17700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915260821020x576.jpg" group-title="Cricket", South Africa vs Australia - 1st Test - 1st Test - Australia Tour of South Africa 2026
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18091" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17917820261020x576.jpg" group-title="Cricket", Pakistan U19 vs Sri Lanka U19 - Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18900" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914675091020x576.jpg" group-title="Cricket", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
