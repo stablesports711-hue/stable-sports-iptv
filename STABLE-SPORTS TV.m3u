@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07d2bdb28f769642674f06186e07dc80:b6f46ea24ca3841dde63374caa5ecef6
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0o0sfxif50/out/v1/96ec63a0253f4f4dbca19d1977080209/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0o0sfxif50/out/v1/96ec63a0253f4f4dbca19d1977080209/cenc.mpd
 #EXTINF:-1 tvg-id="B0HMNKW3WQ" tvg-name="Atlanta Open T20 2026 - 4th Match - Atlanta Fire vs Seattle Thunderbolts" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.79595a23-68e4-4b57-afed-d758f30cb2a6/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 4th Match - Atlanta Fire vs Seattle Thunderbolts
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -22,7 +22,7 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kgalftfl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42ee24e61938f5395a320a18f927c9f1:6c9418d9d37358cde3f1337e8378862d
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/3wsqxqs72a/out/v1/8bf8ebc09f2c43119fbb907c9216857d/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3wsqxqs72a/out/v1/8bf8ebc09f2c43119fbb907c9216857d/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18343" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914407791020x576.jpg" group-title="Football", Galatasaray vs Barcelona - MATCHDAY 2 - UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18344" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919037161020.jpg" group-title="Football", RB Leipzig vs PSV Eindhoven - MATCHDAY 2 - UEFA Champions League 2026/27
