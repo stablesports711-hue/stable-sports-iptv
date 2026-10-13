@@ -13,6 +13,10 @@ https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/6lgvgweh
 https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/bqgyjksfjy/out/v1/7c68c890bd454021b45b3e0eb90cdf03/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-17700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915260821020x576.jpg" group-title="Cricket", South Africa vs Australia - 1st Test - Australia Tour of South Africa 2026
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18260" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909365271020x576.jpg" group-title="Football", Brothers Union Ltd vs Fakirerpool Young Mens Club - MATCHDAY 3 - Federation Cup 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18261" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909366421020x576.jpg" group-title="Football", Rahamatgonj MFS vs Chattogram City FC - MATCHDAY 3 - Federation Cup 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18653" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913609831020x576.jpg" group-title="Football", Newcastle Jets FC (AUS) vs Gamba Osaka (JPN) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18900" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914675091020x576.jpg" group-title="Cricket", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
