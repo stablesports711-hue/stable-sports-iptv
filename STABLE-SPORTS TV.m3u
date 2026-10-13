@@ -4,7 +4,9 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2214fdc084b8b63e81e8538f619028b:38623ddd2f6879754eb796e7e83778c2
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/6lgvgwehji/out/v1/373741b1095a4c939594240b57e9269a/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-17700" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915260821020x576.jpg" group-title="Cricket", South Africa vs Australia - 1st Test - Australia Tour of South Africa 2026
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18900" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914675091020x576.jpg" group-title="Cricket", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 
