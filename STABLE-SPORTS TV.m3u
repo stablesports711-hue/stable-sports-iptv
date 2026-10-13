@@ -10,13 +10,13 @@ https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jygfejg9fp/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=374047b955187df29f4e4a80e0c6fa74:6f52b8541eb0d29141f5ee531128930a
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/kgalftflgg/out/v1/97adfa9f5dc7413cb7953353402687b8/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kgalftflgg/out/v1/97adfa9f5dc7413cb7953353402687b8/cenc.mpd
 #EXTINF:-1 tvg-id="B0HK43WKWQ" tvg-name="Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.414ddf7a-cff0-4ffc-a6f6-25d3b6afa61e/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 6th Match - Space City Cowboys vs Michigan Cricket Stars
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42ee24e61938f5395a320a18f927c9f1:6c9418d9d37358cde3f1337e8378862d
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3wsqxqs72a/out/v1/8bf8ebc09f2c43119fbb907c9216857d/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/3wsqxqs72a/out/v1/8bf8ebc09f2c43119fbb907c9216857d/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18343" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914407791020x576.jpg" group-title="Football", Galatasaray vs Barcelona - MATCHDAY 2 - UEFA Champions League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18344" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919037161020.jpg" group-title="Football", RB Leipzig vs PSV Eindhoven - MATCHDAY 2 - UEFA Champions League 2026/27
@@ -31,8 +31,6 @@ https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18349" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914406391020x576.jpg" group-title="Football", Inter vs Club Brugge - MATCHDAY 2 - UEFA Champions League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18688" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913668141020x576.jpg" group-title="Football", Al Ittihad Club (KSA) vs Shabab Al Ahli (UAE) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090547846" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170963178329_UCL2627_MD2_Atletico_vs_Man_United_landscape_thumb.jpg" group-title="Football", Atletico Madrid vs Man United - 14 Oct 2026 | UEFA Champions League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791960641~acl=/*~id=28450448947460609437521951931255~hmac=54510b137aea504a41b2de3f42b7a0d81709d1d3c50d603353c1ed043d718895
 #EXTINF:-1 tvg-id="sonyliv-1090547896" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791172070951329_UCL2627_MD2_Galatasaray_vs_Barcelona_landscape_thumb.jpg" group-title="Football", Galatasaray vs Barcelona - 14 Oct 2026 | UEFA Champions League 2026-27
