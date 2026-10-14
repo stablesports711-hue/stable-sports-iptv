@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de134773b445a7d9c41e41aa5c345bbf:b0f546e2413a82fdad302ceac53c0493
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gn7vodveso/out/v1/f63636d3d10f4b0b9d06b55333f30f14/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/gn7vodveso/out/v1/f63636d3d10f4b0b9d06b55333f30f14/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18352" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914441301020x576.jpg" group-title="Football", Shakhtar Donetsk vs AEK Athens - MATCHDAY 2 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18353" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914447441020x576.jpg" group-title="Football", Real Betis vs Porto - MATCHDAY 2 - UEFA Champions League 2026/27
