@@ -4,8 +4,9 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b642c93aae95d414b5cf3b7486da7cd:f349ed601c76da554355e0fcc32f7b9f
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ggndcqlkr1/out/v1/dd887eb17ab74b409d1c8493b0f252c3/cenc.mpd
-
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ggndcqlkr1/out/v1/dd887eb17ab74b409d1c8493b0f252c3/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-18092" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919568522.jpg" group-title="Cricket", Sri Lanka U19 vs Bangladesh U19 - Group Stage - Pakistan Women's Under-19s T20 Tri-Series 2026
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
