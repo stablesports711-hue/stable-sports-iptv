@@ -4,12 +4,17 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b642c93aae95d414b5cf3b7486da7cd:f349ed601c76da554355e0fcc32f7b9f
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ggndcqlkr1/out/v1/dd887eb17ab74b409d1c8493b0f252c3/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-18693" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914518421020x576.jpg" group-title="Football", Kashiwa Reysol (JPN) vs Port FC (THA) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18698" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914523121020x576.jpg" group-title="Football", Vissel Kobe (JPN) vs Jeonbuk Hyundai Motors FC (KOR) Live - MATCHDAY 2 - AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
-
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ggndcqlkr1/out/v1/dd887eb17ab74b409d1c8493b0f252c3/cenc.mpd
+#EXTINF:-1 tvg-id="B0HK18F8NM" tvg-name="World Championship of Legends 2026 - 16th Match - Australia Champions vs England Champions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.626b2305-90e3-41ea-a88a-a3280dc97638/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",World Championship of Legends 2026 - 16th Match - Australia Champions vs England Champions
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3641653d92b89e446fa098a00d4735dd:f8e294f57b60561ee4a6e53996813e85
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fx9eabcx49/out/v1/de28c6748478496398ba4b53d1d62085/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-18503" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914542551020x576.jpg" group-title="Football", Persib Bandung (IDN) vs The Cong - Viettel FC (VIE) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090547981" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025828/1791091406768672_UYL26_Roma_vs_Real_Madrid_live_landscape_thumb.jpg" group-title="Football", Roma vs Real Madrid - MD 2 - 14 Oct 2026 | UEFA Youth League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792021840~acl=/*~id=56487956887525358312160359686766~hmac=dafd741da711854fe7b8eaacd1246a3fa782e9593f12e0a3a94149232091a704
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
