@@ -4,19 +4,31 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3641653d92b89e446fa098a00d4735dd:f8e294f57b60561ee4a6e53996813e85
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/fx9eabcx49/out/v1/de28c6748478496398ba4b53d1d62085/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fx9eabcx49/out/v1/de28c6748478496398ba4b53d1d62085/cenc.mpd
 #EXTINF:-1 tvg-id="B0HKCPFL9G" tvg-name="West Indies tour of India 2026 - 4th T20I - India vs West Indies" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.eb485c36-d154-4681-b87b-81f985a775b5/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",West Indies tour of India 2026 - 4th T20I - India vs West Indies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a71918fcc2f12066f70b7c39b0e0dcf3:a5e35121d4f6f16694bea15334f14814
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd
 #EXTINF:-1 tvg-id="B0HLGZXT5D" tvg-name="Atlanta Open T20 2026 - 7th Match - Bay Blazers vs St. Louis Americans" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fd48ca76-f071-4a35-92da-afe3baad9571/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 7th Match - Bay Blazers vs St. Louis Americans
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=596a4aab07fd2cb169508db4a2420f7e:56f74ca762666c16bc4a00734e97f061
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/q2le5ib0wo/out/v1/0b75f2440fc143fb8afc202e5df5d191/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/q2le5ib0wo/out/v1/0b75f2440fc143fb8afc202e5df5d191/cenc.mpd
+#EXTINF:-1 tvg-id="B0HL1V8HT9" tvg-name="Atlanta Open T20 2026 - 8th Match - Michigan Cricket Stars vs Atlanta Force" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9dddbc86-1666-4db3-94be-8d6e38e73d79/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 8th Match - Michigan Cricket Stars vs Atlanta Force
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b878ee6fc2b131b203b319c3b9003e13:e7b5cfbbbe1e28c75156271c08c32b55
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/faiccv4ljc/out/v1/7cd3f5259bf648688780967d78153b46/cenc.mpd
+#EXTINF:-1 tvg-id="B0HLW9WBXF" tvg-name="Atlanta Open T20 2026 - 9th Match - Seattle Thunderbolts vs All Stars Cardinals" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.10b013e0-e33a-40fa-be69-9e3e7654210f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Atlanta Open T20 2026 - 9th Match - Seattle Thunderbolts vs All Stars Cardinals
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff8dd2dac0dbb1929b3c9655cc594f8e:bce6a3219c3063981c3c034b88e4f883
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nwajpntln8/out/v1/daef1abdc25841c2bff84edd57973d6c/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-17717" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913545741020x576.jpg" group-title="Cricket", India vs West Indies - 4th T20I - West Indies Tour of India 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18473" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919674321020x576.jpg" group-title="Football", PFC Nasaf (UZB) vs Al Wahda FC (UAE) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
@@ -27,8 +39,8 @@ https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800
 https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792025440~acl=/*~id=72904856064578713871307045840459~hmac=cd2a3e0f19f9709db5d40cd063f28e236f2ec6f20b633d55e8fcb57ca8296a56
 #EXTINF:-1 tvg-id="sonyliv-1090547997" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026135/1791662919535929_APL26_Chero_Archers_vs_Prithviraj_Yodhas_live_landscape_thumb.jpg" group-title="Archery", Chero Archers vs Prithviraj Yodhas - 14 Oct 2026 | Archery Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2022316/Archery_1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792029034~acl=/*~id=80797106669150376393090532978879~hmac=2f4c22512279b0fc352df9378904865bc382ad364a1d8f17cec59b5dc929b6f3
-#EXTINF:-1 tvg-id="sonyliv-1090547981" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025828/1791091406768672_UYL26_Roma_vs_Real_Madrid_live_landscape_thumb.jpg" group-title="Football", Roma vs Real Madrid - MD 2 - 14 Oct 2026 | UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792021840~acl=/*~id=56487956887525358312160359686766~hmac=dafd741da711854fe7b8eaacd1246a3fa782e9593f12e0a3a94149232091a704
+#EXTINF:-1 tvg-id="sonyliv-1090547983" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025830/179109334636999_UYL26_Manchester_City_vs_PSG_live_landscape_thumb.jpg" group-title="Football", Manchester City vs PSG - MD 2 - 14 Oct 2026 | UEFA Youth League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792030842~acl=/*~id=89373671144174086242000849075955~hmac=173cf5ea6565b93a4b63d7e3302f9a240e624a77d88533524411b68dd37236e0
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
