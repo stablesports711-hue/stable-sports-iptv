@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0H67BR4HM" tvg-name="Bangladesh Women tour of Australia 2026 - 3rd ODI - Australia Women vs Bangladesh Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2deaa170-a5ef-4927-b11b-ecec3c38094e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Bangladesh Women tour of Australia 2026 - 3rd ODI - Australia Women vs Bangladesh Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9b642c93aae95d414b5cf3b7486da7cd:f349ed601c76da554355e0fcc32f7b9f
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ggndcqlkr1/out/v1/dd887eb17ab74b409d1c8493b0f252c3/cenc.mpd
 #EXTINF:-1 tvg-id="B0HK18F8NM" tvg-name="World Championship of Legends 2026 - 16th Match - Australia Champions vs England Champions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.626b2305-90e3-41ea-a88a-a3280dc97638/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",World Championship of Legends 2026 - 16th Match - Australia Champions vs England Champions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3641653d92b89e446fa098a00d4735dd:f8e294f57b60561ee4a6e53996813e85
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/fx9eabcx49/out/v1/de28c6748478496398ba4b53d1d62085/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fx9eabcx49/out/v1/de28c6748478496398ba4b53d1d62085/cenc.mpd
 #EXTINF:-1 tvg-id="B0HKCPFL9G" tvg-name="West Indies tour of India 2026 - 4th T20I - India vs West Indies" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.eb485c36-d154-4681-b87b-81f985a775b5/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",West Indies tour of India 2026 - 4th T20I - India vs West Indies
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a71918fcc2f12066f70b7c39b0e0dcf3:a5e35121d4f6f16694bea15334f14814
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/repj13zdmh/out/v1/65b0c672947c48488934234f7a1173a0/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-17717" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913545741020x576.jpg" group-title="Cricket", India vs West Indies - 4th T20I - West Indies Tour of India 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18473" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919674321020x576.jpg" group-title="Football", PFC Nasaf (UZB) vs Al Wahda FC (UAE) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18503" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914542551020x576.jpg" group-title="Football", Persib Bandung (IDN) vs The Cong - Viettel FC (VIE) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090547989" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026292/179196198898858_ISL_Punjab_FC_vs_Odisha_FC_live_landscape_thumb.jpg" group-title="Football", Punjab FC vs Odisha FC - 14 Oct 2026 | MG Indian Super League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792027242~acl=/*~id=47832958779743490850823996883334~hmac=59906442bef5413eb2ddb4ccac00ccc5910099ba629b5ea6ba9fba207b895c2f
 #EXTINF:-1 tvg-id="sonyliv-1090547987" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026138/179166619555518_VCL_Ayodhya_Garjan_vs_Emperia_Marathas_live_landscape_thumb.jpg" group-title="Volleyball", Ayodhya Garjan vs Emperia Marathas - 14 Oct 2026 | Volleyball Championship League 2026
 https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792025440~acl=/*~id=72904856064578713871307045840459~hmac=cd2a3e0f19f9709db5d40cd063f28e236f2ec6f20b633d55e8fcb57ca8296a56
+#EXTINF:-1 tvg-id="sonyliv-1090547997" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026135/1791662919535929_APL26_Chero_Archers_vs_Prithviraj_Yodhas_live_landscape_thumb.jpg" group-title="Archery", Chero Archers vs Prithviraj Yodhas - 14 Oct 2026 | Archery Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/Archery_1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792029034~acl=/*~id=80797106669150376393090532978879~hmac=2f4c22512279b0fc352df9378904865bc382ad364a1d8f17cec59b5dc929b6f3
 #EXTINF:-1 tvg-id="sonyliv-1090547981" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025828/1791091406768672_UYL26_Roma_vs_Real_Madrid_live_landscape_thumb.jpg" group-title="Football", Roma vs Real Madrid - MD 2 - 14 Oct 2026 | UEFA Youth League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792021840~acl=/*~id=56487956887525358312160359686766~hmac=dafd741da711854fe7b8eaacd1246a3fa782e9593f12e0a3a94149232091a704
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
