@@ -1,10 +1,27 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="tapmad-18941" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916600391020x576.jpg" group-title="Football", RB Salzburg vs Milan - MATCHDAY 2 - UEFA Europa League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18942" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916604401020x576.jpg" group-title="Football", Torreense vs Sunderland - MATCHDAY 2 - UEFA Europa League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18943" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916606221020x576.jpg" group-title="Football", Celje vs Omonoia - MATCHDAY 2 - UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18944" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916607921020x576.jpg" group-title="Football", AZ Alkmaar vs H. Beer-Sheva - MATCHDAY 2 - UEFA Europa League 2026/27
+https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18945" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916610891020x576.jpg" group-title="Football", Sparta Praha vs Lillestrom - MATCHDAY 2 - UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18946" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916612541020x576.jpg" group-title="Football", OL vs Palace - MATCHDAY 2 - UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18947" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916615481020x576.jpg" group-title="Football", Union vs Real Sociedad - MATCHDAY 2 - UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18948" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916617251020x576.jpg" group-title="Football", Lech Poznan vs Leverkusen - MATCHDAY 2 - UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090548084" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791199742069285_UEL_MD2_Lyon-vs-Crystal-Palace_live_landscape_thumb.jpg" group-title="Football", Lyon vs Crystal Palace - MD2 - 15 Oct 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792124445~acl=/*~id=83441655827982775503219465165216~hmac=cdfa9b328a535b7282bfc72ce107f5d3bea1b964d042e8b30d8c35d63ead91c0
+#EXTINF:-1 tvg-id="sonyliv-1090548113" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026438/1792074113208911_UEL_MD2_Salzburg-vs-Milan_live_landscape_thumb.jpg" group-title="Football", Salzburg vs Milan - 15 Oct 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792126242~acl=/*~id=49179381037487218826308601660441~hmac=6d46da2a3cc9b98a8f81910a249b93334cbdf955963db45e55cc730779fce5f3
 #EXTINF:-1 tvg-id="sonyliv-1090548068" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg" group-title="Volleyball", Delhi Dynamites vs Tamil Titans - 15 Oct 2026 | Volleyball Championship League 2026
 https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792111840~acl=/*~id=13431168511448795353573347450341~hmac=8f6774785abf0d11aa8abc9a65576beb9b2bda79209ed21b696c3e403acebb29
-#EXTINF:-1 tvg-id="sonyliv-1090548076" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791663921276476_APL26_Rajputana_Royals_vs_Mighty_Marathas_live_landscape_thumb.jpg" group-title="Archery", Rajputana Royals vs Mighty Marathas - 15 Oct 2026 | Archery Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792115436~acl=/*~id=86098971117906592845686181128552~hmac=875acf6f3d8098bd7484de556d0d11970ca00537a4b84e7d5946f909c44013dc
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
