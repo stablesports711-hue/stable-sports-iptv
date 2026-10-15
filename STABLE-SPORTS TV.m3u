@@ -2,12 +2,6 @@
 
 #EXTINF:-1 tvg-id="tapmad-18518" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915489241020x576.jpg" group-title="Football", Kuching City FC (MAS) vs Kitchee SC (HKG) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapeuropa27/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18523" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915492261020x576.jpg" group-title="Football", Preah Khan Reach Svay Rieng FC (CAM) vs Shanghai Shenhua FC (CHN) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18528" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915496221020x576.jpg" group-title="Football", Tampines Rovers FC (SGP) vs FC Machida Zelvia (JPN) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18533" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915499601020x576.jpg" group-title="Football", BG Pathum United (THA) vs Adelaide United FC (AUS) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090548068" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg" group-title="Volleyball", Rajasthan Spikers vs Punjab Aerostrikers - 15 Oct 2026 | Volleyball Championship League 2026
 https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792111840~acl=/*~id=13431168511448795353573347450341~hmac=8f6774785abf0d11aa8abc9a65576beb9b2bda79209ed21b696c3e403acebb29
 #EXTINF:-1 tvg-id="sonyliv-1090548076" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791663767818476_APL26_Prithviraj_Yodhas_vs_Chola_Chiefs_live_landscape_thumb.jpg" group-title="Archery", Prithviraj Yodhas vs Chola Chiefs - 15 Oct 2026 | Archery Premier League 2026
