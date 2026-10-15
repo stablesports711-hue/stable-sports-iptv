@@ -1,23 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18941" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916600391020x576.jpg" group-title="Football", RB Salzburg vs Milan - MATCHDAY 2 - UEFA Europa League 2026/27
+#EXTINF:-1 tvg-id="tapmad-18949" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916620641020x576.jpg" group-title="Football", Ferencvaros vs Viktoria Plzen - MATCHDAY 2 - UEFA Europa League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18942" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916604401020x576.jpg" group-title="Football", Torreense vs Sunderland - MATCHDAY 2 - UEFA Europa League 2026/27
+#EXTINF:-1 tvg-id="tapmad-18950" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916623261020x576.jpg" group-title="Football", Rennes vs OFI - MATCHDAY 2 - UEFA Europa League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18943" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916606221020x576.jpg" group-title="Football", Celje vs Omonoia - MATCHDAY 2 - UEFA Europa League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18944" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916607921020x576.jpg" group-title="Football", AZ Alkmaar vs H. Beer-Sheva - MATCHDAY 2 - UEFA Europa League 2026/27
+#EXTINF:-1 tvg-id="tapmad-18951" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916626611020x576.jpg" group-title="Football", Dinamo Zagreb vs Anderlecht - MATCHDAY 2 - UEFA Europa League 2026/27
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18945" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916610891020x576.jpg" group-title="Football", Sparta Praha vs Lillestrom - MATCHDAY 2 - UEFA Europa League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18946" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916612541020x576.jpg" group-title="Football", OL vs Palace - MATCHDAY 2 - UEFA Europa League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18947" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916615481020x576.jpg" group-title="Football", Union vs Real Sociedad - MATCHDAY 2 - UEFA Europa League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18948" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916617251020x576.jpg" group-title="Football", Lech Poznan vs Leverkusen - MATCHDAY 2 - UEFA Europa League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18952" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916629141020x576.jpg" group-title="Football", NEC vs Levski Sofia - MATCHDAY 2 - UEFA Europa League 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18953" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916631991020x576.jpg" group-title="Football", Celta vs Juventus - MATCHDAY 2 - UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18954" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916634951020x576.jpg" group-title="Football", Hoffenheim vs Besiktas - MATCHDAY 2 - UEFA Europa League 2026/27
+https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18955" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916638121020x576.jpg" group-title="Football", Jagiellonia Bialystok vs Ararat-Armenia - MATCHDAY 2 - UEFA Europa League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18956" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916641721020x576.jpg" group-title="Football", Bournemouth vs Sturm Graz - MATCHDAY 2 - UEFA Europa League 2026/27
@@ -30,6 +24,8 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/
 https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792124445~acl=/*~id=83441655827982775503219465165216~hmac=cdfa9b328a535b7282bfc72ce107f5d3bea1b964d042e8b30d8c35d63ead91c0
 #EXTINF:-1 tvg-id="sonyliv-1090548113" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026438/1792074113208911_UEL_MD2_Salzburg-vs-Milan_live_landscape_thumb.jpg" group-title="Football", Salzburg vs Milan - 15 Oct 2026 | UEFA Europa League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792126242~acl=/*~id=49179381037487218826308601660441~hmac=6d46da2a3cc9b98a8f81910a249b93334cbdf955963db45e55cc730779fce5f3
+#EXTINF:-1 tvg-id="sonyliv-1090548315" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026166/179128435533336_UEL_MD2_Celta-vs-Juventus_live_landscape_thumb.jpg" group-title="Football", Celta vs Juventus- 16 Oct 2026 | UEFA Europa League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792133435~acl=/*~id=12786026835876431190512389195846~hmac=fdc843b4f8b17ad7886e3e73f818bbf674defefd6f182549d0bff855dfcb3309
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
