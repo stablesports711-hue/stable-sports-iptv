@@ -1,35 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18352" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914441301020x576.jpg" group-title="Football", Shakhtar Donetsk vs AEK Athens - MATCHDAY 2 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/019ea6d121dd15e8f4122afee4cf8f/019ea6d2f96e15e8f0602c5e1b7bc3/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18353" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914447441020x576.jpg" group-title="Football", Real Betis vs Porto - MATCHDAY 2 - UEFA Champions League 2026/27
-https://t-prod-pk.tapmad.com/v1/019eff56c91d15e8f412028003f9/019eff5a7a6f15e8f060057b6796/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18354" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914438101020x576.jpg" group-title="Football", Roma vs Real Madrid - MATCHDAY 2 - UEFA Champions League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18355" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914449041020x576.jpg" group-title="Football", Slovan Bratislava vs Stuttgart - MATCHDAY 2 - UEFA Champions League 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18356" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914439461020x576.jpg" group-title="Football", Aston Villa vs Fenerbahce - MATCHDAY 2 - UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18357" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914446001020x576.jpg" group-title="Football", Manchester City vs Paris Saint-Germain - MATCHDAY 2 - UEFA Champions League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18358" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914443151020x576.jpg" group-title="Football", Bodo/Glimt vs Borussia Dortmund - MATCHDAY 2 - UEFA Champions League 2026/27
-https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-fifa326478feb/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18493" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17915278421020x576.jpg" group-title="Football", Al Faisaly (JOR) vs Al Nahda Club (OMA) Live - MATCHDAY 2 - AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090548030" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791174791870329_UCL2627_MD2_Man_City_vs_PSG_landscape_thumb.jpg" group-title="Football", Man City vs PSG - 15 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047035~acl=/*~id=19957819045871406253677790351832~hmac=b3526ac29c9d7ca18622be7a7f4a547ba2bea905acc9891896881ec369e6a251
-#EXTINF:-1 tvg-id="sonyliv-1090548031" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175023698329_UCL2627_MD2_Roma_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", Roma vs Real Madrid - 15 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047044~acl=/*~id=92236486969063497840172052138138~hmac=557d1da9c76fc27f8ee02ddc6ab883cfc2c2aafe2e58383303d3b5cb28a16722
-#EXTINF:-1 tvg-id="sonyliv-1090548036" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175309408329_UCL2627_MD2_Aston_Villa_vs_Fenerbahce_landscape_thumb.jpg" group-title="Football", Aston Villa vs Fenerbahçe - 15 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047053~acl=/*~id=99231794015211555033160185734133~hmac=714369fec9da4c1a183f508e2e5f68fd49fa0668b57681f32b037185be31fb4c
-#EXTINF:-1 tvg-id="sonyliv-1090548038" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175843132329_UCL2627_MD2_Bodo_vs_Dortmund_landscape_thumb.jpg" group-title="Football", Bodo/Glimt vs Dortmund - 15 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047062~acl=/*~id=05090167965211744914574074031529~hmac=32e065c35584a6b5e8a8d6aca6fd572c03726570bd5ccc4835ff2bd9b947051d
-#EXTINF:-1 tvg-id="sonyliv-1090548037" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175659916329_UCL2627_MD2_Real_Betis_vs_Porto_landscape_thumb.jpg" group-title="Football", Real Betis vs Porto - 15 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047062~acl=/*~id=05090167965211744914574074031529~hmac=32e065c35584a6b5e8a8d6aca6fd572c03726570bd5ccc4835ff2bd9b947051d
-#EXTINF:-1 tvg-id="sonyliv-1090548040" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791176288267329_UCL2627_MD2_Bratislava_vs_Stuttgart_landscape_thumb.jpg" group-title="Football", S. Bratislava vs Stuttgart - 15 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047084~acl=/*~id=54817573247275177882406077304988~hmac=70d1a09b136c7e331f16b54ed93bef999cb70a4ef9f86fcd8e34aa4b8599e664
-#EXTINF:-1 tvg-id="sonyliv-1090548039" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791176078689329_UCL2627_MD2_Shakhtar_vs_AEK_Athens_landscape_thumb.jpg" group-title="Football", Shakhtar vs AEK Athens - 15 Oct 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792047035~acl=/*~id=19957819045871406253677790351832~hmac=b3526ac29c9d7ca18622be7a7f4a547ba2bea905acc9891896881ec369e6a251
+
+
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
