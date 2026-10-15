@@ -16,6 +16,16 @@ https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18948" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916617251020x576.jpg" group-title="Football", Lech Poznan vs Leverkusen - MATCHDAY 2 - UEFA Europa League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18952" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916629141020x576.jpg" group-title="Football", NEC vs Levski Sofia - MATCHDAY 2 - UEFA Europa League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18955" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916638121020x576.jpg" group-title="Football", Jagiellonia Bialystok vs Ararat-Armenia - MATCHDAY 2 - UEFA Europa League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18956" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916641721020x576.jpg" group-title="Football", Bournemouth vs Sturm Graz - MATCHDAY 2 - UEFA Europa League 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/019f067c253015e8f412028003fe/019f067d5e3615e8f060213b29a21b/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18957" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916646121020x576.jpg" group-title="Football", Benfica vs Celtic - MATCHDAY 2 - UEFA Europa League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18958" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916648631020x576.jpg" group-title="Football", Marseille vs Olympiacos - MATCHDAY 2 - UEFA Europa League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090548084" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791199742069285_UEL_MD2_Lyon-vs-Crystal-Palace_live_landscape_thumb.jpg" group-title="Football", Lyon vs Crystal Palace - MD2 - 15 Oct 2026 | UEFA Europa League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792124445~acl=/*~id=83441655827982775503219465165216~hmac=cdfa9b328a535b7282bfc72ce107f5d3bea1b964d042e8b30d8c35d63ead91c0
 #EXTINF:-1 tvg-id="sonyliv-1090548113" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026438/1792074113208911_UEL_MD2_Salzburg-vs-Milan_live_landscape_thumb.jpg" group-title="Football", Salzburg vs Milan - 15 Oct 2026 | UEFA Europa League 2026-27
