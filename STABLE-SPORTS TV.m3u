@@ -5,6 +5,8 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a0e73fa4a0c0573476bf83d0e677b37:dcddd039f451b85d8463a35624e42aaf
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/erfohta9mo/out/v1/37c9d4426c814b168257fc9b34551119/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-18275" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909326981020x576.jpg" group-title="Football", Deportivo vs Levante - MATCHDAY 9 - LaLiga 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18422" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921541901020x576.jpg" group-title="Football", Le Mans vs Toulouse - MATCHDAY 7 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 
