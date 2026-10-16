@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18093" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920583541020x576.jpg" group-title="Cricket", Bangladesh U19 vs Sri Lanka U19 - Final - Pakistan Women's Under-19s T20 Tri-Series 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18249" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921372141020x576.jpg" group-title="Football", City Club vs Bashundhara Kings - Round 4 - Bangladesh Football League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18250" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921372721020x576.jpg" group-title="Football", PWD Sports Club vs Mohammedan SC Ltd - Round 4 - Bangladesh Football League 2026/27
