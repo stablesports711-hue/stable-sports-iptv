@@ -1,17 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HMFMVSCQ" tvg-name="Zimbabwe Women tour of India 2026 - 1st T20I - India Women vs Zimbabwe Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.48d9ce0e-672f-4c19-9c08-34bb689c0d62/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Zimbabwe Women tour of India 2026 - 1st T20I - India Women vs Zimbabwe Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bfeaf0c7782327ca574f32b1629080b6:c03b21556a4cf97130228258de3fe45d
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ph2jgurxyx/out/v1/cb0ea547f0234050bd7e3df9293ac03c/cenc.mpd
 #EXTINF:-1 tvg-id="B0HMJGLWX8" tvg-name="World Championship of Legends 2026 - 2nd Semi-Final - Australia Champions vs West Indies Champions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b1c237f9-9368-4429-b2e7-6f8e767f4ae5/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",World Championship of Legends 2026 - 2nd Semi-Final - Australia Champions vs West Indies Champions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a0e73fa4a0c0573476bf83d0e677b37:dcddd039f451b85d8463a35624e42aaf
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/erfohta9mo/out/v1/37c9d4426c814b168257fc9b34551119/cenc.mpd
-
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/erfohta9mo/out/v1/37c9d4426c814b168257fc9b34551119/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-18422" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921541901020x576.jpg" group-title="Football", Le Mans vs Toulouse - MATCHDAY 7 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
