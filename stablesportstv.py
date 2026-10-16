@@ -54,8 +54,11 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10" group-title="LIVE SPORTS", WCL World Championship of Legends 2026
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
+https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkZ0c8Wb0slhQCjc_XsPzMuqyX52rG-yapyEgJpdSmSQ&s=10" group-title="LIVE SPORTS", WCL World Championship of Legends 2026
 http://198.195.239.50:8095/A.SPORTS.HD/index.m3u8
