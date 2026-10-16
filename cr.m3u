@@ -9,7 +9,7 @@
 https://tvratu.my.id/vid/index.mpd?id=207&type=dash
 
 http://66.102.126.10:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="-",&pictures HD
+#EXTINF:-1 tvq-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2cfugMhSv17woIjOb7Uzq-89wON0cAWOfmyfgTkeVsIC63MQOY1rS6YI&s=10" group-title="-",&pictures HD
 http://66.102.126.10:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="-",&tv HD - Rs 19.00
 http://66.102.126.10:8000/play/a01u/index.m3u8
