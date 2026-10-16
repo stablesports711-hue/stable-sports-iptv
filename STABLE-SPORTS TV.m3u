@@ -1,9 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="B0HG5QLZ17" tvg-name="World Championship of Legends 2026 - 1st Semi-Final - South Africa Champions vs England Champions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d6c1d2b1-8cf5-4b47-97e6-605cc92bd127/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",World Championship of Legends 2026 - 1st Semi-Final - South Africa Champions vs England Champions
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ee3db863dfcbd23965274de933cde8b:6fbcf3b3fafcf75a98dc10f0298ed71c
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cib1b0lzoo/out/v1/3058ac078b61415f8181bc0d868a2d91/cenc.mpd
 
-#EXTINF:-1 tvg-id="tapmad-18249" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921372141020x576.jpg" group-title="Football", City Club vs Bashundhara Kings - Round 4 - Bangladesh Football League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18250" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921372721020x576.jpg" group-title="Football", PWD Sports Club vs Mohammedan SC Ltd - Round 4 - Bangladesh Football League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090548552" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792045973804742_DP-World_India-Championship_Day2_landscape_thumb.jpg" group-title="Golf", DP World India Championship - Day 2 - 16 Oct 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792174838~acl=/*~id=75467477874607377832808187373024~hmac=be0435f04d78c6e10841aa18e72466f6d0a79e6dc00596c90f86aa52211ea0d5
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
