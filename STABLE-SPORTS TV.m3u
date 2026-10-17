@@ -6,6 +6,8 @@ https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18253" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921560181020x576.jpg" group-title="Football", Bangladesh Police FC vs Arambagh Krira Shangha - Round 4 - Bangladesh Football League 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18992" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919634761020x576.jpg" group-title="Racing", Moto 1 - Olbia, Italy - Race 1 - UIM - ABP Aquabike World Championship 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
