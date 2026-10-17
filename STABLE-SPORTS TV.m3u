@@ -10,9 +10,13 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iiqppqpksi/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c21cda3aab763439e2f05489f9a73827:582de22865b044837d559884992caf4f
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/n3icgre8mf/out/v1/af3ffb719dea4937aede63586796d513/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n3icgre8mf/out/v1/af3ffb719dea4937aede63586796d513/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18278" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909331651020x576.jpg" group-title="Football", Betis vs Barcelona - MATCHDAY 9 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18424" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918812581020x576.jpg" group-title="Football", LOSC vs Brest - MATCHDAY 7 - French Ligue 1 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18425" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918814321020x576.jpg" group-title="Football", Troyes vs Lens - MATCHDAY 7 - French Ligue 1 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18901" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921307571020x576.jpg" group-title="Cricket", Bangladesh vs Zimbabwe - 1st ODI - UAE ODI Tri-Series 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19096" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17922316751020x576.jpg" group-title="Mma", Nikoloz Abramishvili vs Aaron McKenzie - PFL vs RKENA - PFL 2026
