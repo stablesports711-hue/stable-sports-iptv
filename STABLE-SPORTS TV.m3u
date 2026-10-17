@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d67c0f3e8d176e693e9d452ec4aeca2f:3cae5de28b16ae8152999574ced3b4db
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iiqppqpksi/out/v1/5aedff78e45a44a08461ab32fa41310a/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18276" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909328641020x576.jpg" group-title="Football", Espanyol vs Atletico Madrid - MATCHDAY 9 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18901" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921307571020x576.jpg" group-title="Cricket", Bangladesh vs Zimbabwe - 1st ODI - UAE ODI Tri-Series 2026
