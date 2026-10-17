@@ -10,19 +10,19 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iiqppqpksi/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c21cda3aab763439e2f05489f9a73827:582de22865b044837d559884992caf4f
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n3icgre8mf/out/v1/af3ffb719dea4937aede63586796d513/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n3icgre8mf/out/v1/af3ffb719dea4937aede63586796d513/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-17718" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17913546781020x576.jpg" group-title="Cricket", India vs West Indies - 5th T20I - West Indies Tour of India 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18276" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909328641020x576.jpg" group-title="Football", Espanyol vs Atletico Madrid - MATCHDAY 9 - LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18901" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921307571020x576.jpg" group-title="Cricket", Bangladesh vs Zimbabwe - 1st ODI - UAE ODI Tri-Series 2026
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19096" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17922316751020x576.jpg" group-title="Mma", Nikoloz Abramishvili vs Aaron McKenzie - PFL vs RKENA - PFL 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090548893" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg" group-title="Football", Inter Kashi vs Odisha FC - 17 Oct 2026 | MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792277432~acl=/*~id=37742165424162627611465186393106~hmac=6ae9d5bec76766cbce235a7c3e6f88b42fd65d1f7949fd4b8adf617c90ea0efb
+#EXTINF:-1 tvg-id="sonyliv-1090548712" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg" group-title="Football", Bengaluru FC vs Chennaiyin FC - 17 Oct 2026 | MG Indian Super League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792288233~acl=/*~id=34805945059129283810304293944113~hmac=0e11eb260a9ab60d2d49d4e6a744d65130046dcfd6ace367641e7460793ff508
 #EXTINF:-1 tvg-id="sonyliv-1090548711" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg" group-title="Volleyball", Haryana Hurricanes vs Emperia Marathas - Super 6 - 17 Oct 2026 | Volleyball Championship League 2026
 https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792284640~acl=/*~id=89800877734711193845804167192544~hmac=a4c9a1fbb27344acd6cc37cef9aaa71016e842582b9cd24677cc65cce347b518
+#EXTINF:-1 tvg-id="sonyliv-1090548715" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959546572578_APL26_Mighty-Marathas-vs-Kakatiya-Knights_live_landscape_thumb.jpg" group-title="Archery", Mighty Marathas vs Kakatiya Knights - 17 Oct 2026 | Archery Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792288246~acl=/*~id=92308608481986517995579315179393~hmac=b518a7376218fae1b49d3b4a5b333dc4677d3bcafc700d86de25c935c0f7039f
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
