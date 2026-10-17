@@ -1,14 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18251" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921558781020x576.jpg" group-title="Football", Rahamatgonj MFS vs Brothers Union Ltd - Round 4 - Bangladesh Football League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18252" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921559451020x576.jpg" group-title="Football", Abahani Ltd. Dhaka vs Chattogram City FC - Round 4 - Bangladesh Football League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18253" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921560181020x576.jpg" group-title="Football", Bangladesh Police FC vs Arambagh Krira Shangha - Round 4 - Bangladesh Football League 2026/27
-https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18901" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921307571020x576.jpg" group-title="Cricket", Bangladesh vs Zimbabwe - 1st ODI - UAE ODI Tri-Series 2026
+https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18992" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919634761020x576.jpg" group-title="Racing", Moto 1 - Olbia, Italy - Race 1 - UIM - ABP Aquabike World Championship 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-
+#EXTINF:-1 tvg-id="sonyliv-1090548893" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792155325043755_ISL26_KSHI-vs-Odisha-FC_live_landscape_thumb.jpg" group-title="Football", Inter Kashi vs Odisha FC - 17 Oct 2026 | MG Indian Super League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792277432~acl=/*~id=37742165424162627611465186393106~hmac=6ae9d5bec76766cbce235a7c3e6f88b42fd65d1f7949fd4b8adf617c90ea0efb
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000007387/1756847339494543_acc25_Bangladesh_vs_Afghanistan_clean_3sep_landscape_thumb.jpg" group-title="LIVE SPORTS", Afghanistan vs Bangladesh - 1st Test - Afghanistan vs Bangladesh 2026
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
