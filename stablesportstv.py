@@ -277,7 +277,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="duronto.bd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwWX3mqbOFKb2kH1j8t-aLWjRJCTvuKH2Ie8NpbOFG3g&s=10.png" group-title="KIDS",160.Duronto Tv
-http://198.195.239.50:8095/duranta/index.m3u8
+http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-id="Stable-Sports" tvg-logo="https://yt3.googleusercontent.com/M32uDDSlMkH2-XRmZMvcM64uMzotjxbpzngMS-pnmoDoD-ei--PAHiA0EC9tyiW-5lcXfa6Aqg=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS",161.Nick Bangla
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
@@ -336,10 +336,10 @@ http://172.17.50.112:84/ant1009/video.m3u8
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",202.T Sports HD
-http://103.114.11.37:8081/T-Sports-HD/index.m3u8?token=dsgdfgsdfgasf
+https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",203.T Sports FHD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
+http://103.151.60.162:2122/play/a030/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C2gLZX9/SS-Fancode.png" group-title="SPORTS",Fancode 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
