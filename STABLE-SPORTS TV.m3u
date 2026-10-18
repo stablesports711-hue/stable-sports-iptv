@@ -7,6 +7,8 @@
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18282" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909337051020x576.jpg" group-title="Football", Malaga vs Real Sociedad - MATCHDAY 9 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18430" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918821151020x576.jpg" group-title="Football", OL vs Nice - MATCHDAY 7 - French Ligue 1 2026/27
+https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
