@@ -16,15 +16,13 @@ https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0053b9514409de27bf6221c814b538f4:1811438205be600833cc92aa28208d7f
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd
 #EXTINF:-1 tvg-id="B0HM5LHW5W" tvg-name="World Championship of Legends 2026 - Final - England Champions vs West Indies Champions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a07e9e92-e35b-448b-bf80-a27d56114757/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",World Championship of Legends 2026 - Final - England Champions vs West Indies Champions
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4e6bd30698f91c0d1e99e505d8859c7:cea8ba61e532c7143c630f0c9becd7a6
 https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/szep2s50dy/out/v1/0654483782a74c1e9e3e578377d28fc6/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-18281" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909335741020x576.jpg" group-title="Football", Celta vs Alaves - MATCHDAY 9 - LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18427" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918817101020x576.jpg" group-title="Football", Le Havre vs Auxerre - MATCHDAY 7 - French Ligue 1 2026/27
 https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18428" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918818331020x576.jpg" group-title="Football", Lorient vs Monaco - MATCHDAY 7 - French Ligue 1 2026/27
@@ -33,8 +31,6 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18880" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919823391020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - 1st ODI - Pakistan ODI Tri-Series 2026
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090548742" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026406/1792051271120214_ISL_18th_Oct_NorthEast_United_FC_vs_Kerala_Blasters_FC_live_landscape_thumb.jpg" group-title="Football", NorthEast United FC vs Kerala Blasters FC - 18 Oct 2026 | MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792374633~acl=/*~id=12259453420649222715806060036280~hmac=9f4b3710168483a7f62cbe1e26492d7b240a47c39925b6ad1e5774833ecbbd78
 #EXTINF:-1 tvg-id="sonyliv-1090548741" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130910420133_VCL26_Delhi-Dynamites-v-Punjab-Aerostrikers_live_landscape_thumb.jpg" group-title="Volleyball", Delhi Dynamites vs Punjab Aerostrikers - Super 6 - 18 Oct 2026  | Volleyball Championship League 2026
 https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792371036~acl=/*~id=59082873898045085632344253057951~hmac=b08bbbb9edc85d3508233d422cbdb1452c1dcecb548b1c4d025de512f5b06f5e
 #EXTINF:-1 tvg-id="sonyliv-1090548750" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026656/1792337143148231_APL26_final_Kakatiya_Knights_vs_Mighty_Marathas_landscape_thumb.jpg" group-title="Archery", Kakatiya Knights vs Mighty Marathas - Final - 18 Oct 2026 | Archery Premier League 2026
