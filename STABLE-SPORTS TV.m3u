@@ -1,12 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HMQL4NJS" tvg-name="Pakistan ODI Tri-Series 2026 - 1st Match - Pakistan vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ff2ab606-8760-414e-8ecf-129071962621/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan ODI Tri-Series 2026 - 1st Match - Pakistan vs Sri Lanka
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=012110afbe9bdf40e7da3cc766ad041e:b2b91f89d2b223b349208e44e5ff49da
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-18282" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909337051020x576.jpg" group-title="Football", Malaga vs Real Sociedad - MATCHDAY 9 - LaLiga 2026/27
-https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
+
 #EXTINF:-1 tvg-id="tapmad-18430" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918821151020x576.jpg" group-title="Football", OL vs Nice - MATCHDAY 7 - French Ligue 1 2026/27
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
 
