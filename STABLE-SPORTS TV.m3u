@@ -1,9 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18232" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17917963751020x576.jpg" group-title="Mma", Buckley vs Malott - Fight Night - UFC 2026
-https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090548916" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026508/1792166210323579_UFC_FN_Buckley_vs_Malott_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Buckley vs Malott - 18 Oct 2026 | UFC Fight Night - Buckley vs Malott
-https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792324233~acl=/*~id=61277077158219237076474832522530~hmac=806cb3c9326fe3bbb3270d6cf85bdce39076bc66b0a48a531035b7423f412be0
+
+#EXTINF:-1 tvg-id="sonyliv-1090548739" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg" group-title="Golf", SJM Macao Open - Day 4 - 18 Oct 2026 | Asian Tour 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338635~acl=/*~id=63763230067086209932026693515615~hmac=513bb411c76255973917904a9edbadeffc51e52d0ce009d40ae1b84c63f46ba9
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
