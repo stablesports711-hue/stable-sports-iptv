@@ -17,6 +17,8 @@ https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115f
 https://saseries.akamaized.net/hls/live/2110097/tapmad258645/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18880" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919823391020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - 1st ODI - Pakistan ODI Tri-Series 2026
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19004" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919643121020x576.jpg" group-title="Racing", Moto 3 - Olbia, Italy - Race 3 - UIM - ABP Aquabike World Championship 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090549112" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Football", Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 | MG Indian Super League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792363835~acl=/*~id=31030325418032356700331035016574~hmac=3d73c575041b5024ae7a9f946d621caf44fbe733d408fb5c5802ecb389c7c8bc
 #EXTINF:-1 tvg-id="sonyliv-1090549111" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026488/1792152626109905_DP-World-Locker-Room-D4_landscape_thumb.jpg" group-title="Golf", DP World Locker Room - Day 4 - 18 Oct 2026 | DP World Tour
