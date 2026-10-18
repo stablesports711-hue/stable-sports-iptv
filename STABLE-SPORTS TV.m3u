@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-id="tapmad-18232" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17917963751020x576.jpg" group-title="Mma", Buckley vs Malott - Fight Night - UFC 2026
 https://saseries.akamaized.net/hls/live/2110097/28593jkiL-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19023" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17919751411020x576.jpg" group-title="Racing", Round 14 Race - Chengdu, China - Race - Kumho FIA TCR World Tour Euro Series 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090548916" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026508/1792166210323579_UFC_FN_Buckley_vs_Malott_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Buckley vs Malott - 18 Oct 2026 | UFC Fight Night - Buckley vs Malott
 https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792324233~acl=/*~id=61277077158219237076474832522530~hmac=806cb3c9326fe3bbb3270d6cf85bdce39076bc66b0a48a531035b7423f412be0
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
@@ -93,10 +91,12 @@ https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rhf2
 #https://res.cloudinary.com/qleik3si/video/upload/v1785235285/VN20260728_161756_ev6pow.mp4
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1676193184888_2.png&w=1080&q=75",111.SANGSAD BANGLADESH
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/BANGLA/SBangladesh.m3u8
+https://btv.hridoytv-channel.workers.dev/sangsad.m3u8
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/BANGLA/SBangladesh.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE3J33gFY0MZ-B60vhItbVad_Ox1t645Ahi0hz_Yhjgg&s=10.png",112.BTV
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/BANGLA/BTV.m3u8
+http://103.135.253.32:8080/BTV/index.m3u8
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/BANGLA/BTV.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1735648543857_Poster.jpg&w=1080&q=75",113.BTV News
 http://198.195.239.50:8095/btv/index.m3u8
@@ -123,11 +123,11 @@ https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770189826301.png",119.Star News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/tracks-v1a1/mono.m3u8
+http://103.135.253.32:8080/Star-News/index.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png" group-title="BANGLA",120.Channel 1
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+http://103.135.253.32:8080/Channel-1/index.m3u8
 #https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/1t1P0VMt/images-(1).jpg",121.DBC News
