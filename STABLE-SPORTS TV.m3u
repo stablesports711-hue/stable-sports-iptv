@@ -4,13 +4,13 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=783624418a73874b1bacbd79dda56c44:9c3a8a06ed069e28aa86c5e22dfeae67
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/qs5pyspzlo/out/v1/3ef8ed04d65740bab473e63afb981a30/cenc.mpd
 #EXTINF:-1 tvg-id="B0HMQL4NJS" tvg-name="Pakistan ODI Tri-Series 2026 - 1st Match - Pakistan vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ff2ab606-8760-414e-8ecf-129071962621/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan ODI Tri-Series 2026 - 1st Match - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=012110afbe9bdf40e7da3cc766ad041e:b2b91f89d2b223b349208e44e5ff49da
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1/c3fafabc2248406a87537176ca13a389/cenc.mpd
 #EXTINF:-1 tvg-id="B0HLWVSMP1" tvg-name="Zimbabwe Women tour of India 2026 - 2nd T20I - India Women vs Zimbabwe Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ce490310-1690-4efb-8183-aed9c087d64c/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Zimbabwe Women tour of India 2026 - 2nd T20I - India Women vs Zimbabwe Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -19,14 +19,9 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/886jnqvhnx/out/v1
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/axd5oq6w8a/out/v1/38e4c16be26a4a668643e206c7eeec25/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18282" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909337051020x576.jpg" group-title="Football", Malaga vs Real Sociedad - MATCHDAY 9 - LaLiga 2026/27
 https://saseries.akamaized.net/hls/live/2110097/FiFa-3827e1/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18427" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918817101020x576.jpg" group-title="Football", Le Havre vs Auxerre - MATCHDAY 7 - French Ligue 1 2026/27
-https://saseries.akamaized.net/hls/live/2110097/306-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18428" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918818331020x576.jpg" group-title="Football", Lorient vs Monaco - MATCHDAY 7 - French Ligue 1 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18429" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918819751020x576.jpg" group-title="Football", Paris FC vs Rennes - MATCHDAY 7 - French Ligue 1 2026/27
 https://saseries.akamaized.net/hls/live/2110097/56408643-tapMad/master.m3u8
-#EXTINF:-1 tvg-id="sonyliv-1090548750" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026656/1792337143148231_APL26_final_Kakatiya_Knights_vs_Mighty_Marathas_landscape_thumb.jpg" group-title="Archery", Kakatiya Knights vs Mighty Marathas - Final - 18 Oct 2026 | Archery Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792374642~acl=/*~id=14995686125995684999920299278963~hmac=b7a28308e2c3417889e07cbe3bfb807ff648bc07ad7a70958f989cfdab73bf38
+
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
