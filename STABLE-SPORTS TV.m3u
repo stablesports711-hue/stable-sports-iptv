@@ -1,6 +1,7 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="tapmad-17701" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918899001020x576.jpg" group-title="Cricket", South Africa vs Australia - 2nd Test - Australia Tour of South Africa 2026
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
