@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b63bf9986e63e4f8cc0d3a3fd9fa3e21:5478464224b4593f065df98ad6e48d6b
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ntgkngsbhm/out/v1/1dd7bec97b924f498f6019abe8b5e46e/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ntgkngsbhm/out/v1/1dd7bec97b924f498f6019abe8b5e46e/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-17105" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17924116441020x576.jpg" group-title="Football", Al-Hilal vs Al-Hazem - MATCHDAY 10 - Saudi Pro League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18284" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17909364431020x576.jpg" group-title="Football", Getafe vs Rayo Vallecano - MATCHDAY 9 - LaLiga 2026/27 - Server 1
