@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d104ea685f4e34ca82b51758c4a1f1f:3817e044aa7cf3c012069fae8a1b17cb
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dpmwhamcg5/out/v1/75e085ecbcf54d8082aa137858f9260b/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dpmwhamcg5/out/v1/75e085ecbcf54d8082aa137858f9260b/cenc.mpd
 #EXTINF:-1 tvg-id="B0HN5C4CSG" tvg-name="ODI Tri-Nation Series in UAE 2026 - 2nd Match - Afghanistan vs Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5efef589-1f64-4d38-aa3b-301bc9215d8f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ODI Tri-Nation Series in UAE 2026 - 2nd Match - Afghanistan vs Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
