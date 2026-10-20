@@ -274,7 +274,7 @@ https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.moumachi.com.bd//images/listings/45416/business/202412-gtv-logo.jpg",149.Gazi TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+http://103.135.253.32:8080/Gazi-TV/index.m3u8
 
 #EXTINF:-1 tvg-id="duronto.bd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwWX3mqbOFKb2kH1j8t-aLWjRJCTvuKH2Ie8NpbOFG3g&s=10.png" group-title="KIDS",160.Duronto Tv
 http://103.114.11.37:8081/Duronto/index.m3u8?token=dsgdfgsdfgasf
