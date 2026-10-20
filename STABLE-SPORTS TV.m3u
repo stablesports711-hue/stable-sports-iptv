@@ -14,6 +14,14 @@ https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc0642156
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17103" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925030151020x576.jpg" group-title="Football", Al-Nassr vs Neom - MATCHDAY 10 - Saudi Pro League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18363" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920500581020x576.jpg" group-title="Football", Napoli vs Bodo/Glimt - MATCHDAY 3 - UEFA Champions League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18364" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920493961020x576.jpg" group-title="Football", Porto vs PSV Eindhoven - MATCHDAY 3 - UEFA Champions League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18365" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920485981020x576.jpg" group-title="Football", Roma vs Slovan Bratislava - MATCHDAY 3 - UEFA Champions League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18367" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920501931020x576.jpg" group-title="Football", Stuttgart vs Atletico Madrid - MATCHDAY 3 - UEFA Champions League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
 https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792515671~Starts=1792508471~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=TpUVdPPDn7PEWlFd9qgGiWIO9AHtrJWkfazOeculu1jvAR1-QBc7hx3TtktzF0eyy7aEvLMBddnoWazhWuAACA
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
