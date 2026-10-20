@@ -1,10 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HKMGSFBW" tvg-name="Zimbabwe Women tour of India 2026 - 3rd T20I - India Women vs Zimbabwe Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6b4fa639-76c1-4aff-bf00-aa2a560eb3a2/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Zimbabwe Women tour of India 2026 - 3rd T20I - India Women vs Zimbabwe Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=77d1b790dcdefadfdd7f53df877b08a4:dbc8074a1b65f4a12b58eea47f17c17f
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xxcki87hmi/out/v1/f215fd515a544d8586fe506b03d432a5/cenc.mpd
+
+#EXTINF:-1 tvg-id="tapmad-18361" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920499071020x576.jpg" group-title="Football", Paris Saint-Germain vs Barcelona - MATCHDAY 3 - UEFA Champions League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18362" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920496971020x576.jpg" group-title="Football", Manchester City vs AEK Athens - MATCHDAY 3 - UEFA Champions League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18366" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920495551020x576.jpg" group-title="Football", Liverpool vs Villarreal - MATCHDAY 3 - UEFA Champions League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18359" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920468451020x576.jpg" group-title="Football", Sabah vs Borussia Dortmund - MATCHDAY 3 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18360" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920467361020x576.jpg" group-title="Football", Fenerbahce vs Slavia Praha - MATCHDAY 3 - UEFA Champions League 2026/27
