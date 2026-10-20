@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=77d1b790dcdefadfdd7f53df877b08a4:dbc8074a1b65f4a12b58eea47f17c17f
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xxcki87hmi/out/v1/f215fd515a544d8586fe506b03d432a5/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xxcki87hmi/out/v1/f215fd515a544d8586fe506b03d432a5/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18359" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920468451020x576.jpg" group-title="Football", Sabah vs Borussia Dortmund - MATCHDAY 3 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18360" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920467361020x576.jpg" group-title="Football", Fenerbahce vs Slavia Praha - MATCHDAY 3 - UEFA Champions League 2026/27
