@@ -1,25 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18361" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920499071020x576.jpg" group-title="Football", Paris Saint-Germain vs Barcelona - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18362" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920496971020x576.jpg" group-title="Football", Manchester City vs AEK Athens - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18366" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920495551020x576.jpg" group-title="Football", Liverpool vs Villarreal - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17102" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925029061020x576.jpg" group-title="Football", Al-Ettifaq vs Al-Ittihad - MATCHDAY 10 - Saudi Pro League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17103" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925030151020x576.jpg" group-title="Football", Al-Nassr vs Neom - MATCHDAY 10 - Saudi Pro League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18363" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920500581020x576.jpg" group-title="Football", Napoli vs Bodo/Glimt - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18364" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920493961020x576.jpg" group-title="Football", Porto vs PSV Eindhoven - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18365" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920485981020x576.jpg" group-title="Football", Roma vs Slovan Bratislava - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18367" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920501931020x576.jpg" group-title="Football", Stuttgart vs Atletico Madrid - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792515671~Starts=1792508471~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=TpUVdPPDn7PEWlFd9qgGiWIO9AHtrJWkfazOeculu1jvAR1-QBc7hx3TtktzF0eyy7aEvLMBddnoWazhWuAACA
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792533678~Starts=1792526478~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=M7a0lTbQ5NDjvbOQ1XrVIGQXmyZfvgTlWwZSuRAWlFV8ivyqCf-eSFNtfT6KriForou2bJ1qO47kU5Pp1wSiAw
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
