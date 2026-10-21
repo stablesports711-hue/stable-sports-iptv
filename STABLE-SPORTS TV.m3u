@@ -2,7 +2,7 @@
 
 
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792533678~Starts=1792526478~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=M7a0lTbQ5NDjvbOQ1XrVIGQXmyZfvgTlWwZSuRAWlFV8ivyqCf-eSFNtfT6KriForou2bJ1qO47kU5Pp1wSiAw
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792555267~Starts=1792548067~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=lXtJ1_zKRycd-uQ1HrSaAauSXspbf0vb9Z-k4vB3twTDfCa-GpbiksbsDqftWZKmKuFI-RKeEmZRh4ZAsW5zAw
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
