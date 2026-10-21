@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a016bbf898c1522758c13ec19c280d2a:f7a70af49c51630e54a3ec6dfe2de582
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/diuuiw6d8r/out/v1/2fef8423273a48a6856a08453717c337/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18368" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920503331020x576.jpg" group-title="Football", Como vs Manchester United - MATCHDAY 3 - UEFA Champions League 2026/27 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18368" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920503331020x576.jpg" group-title="Football", Como vs Manchester United - MATCHDAY 3 - UEFA Champions League 2026/27 - Server 2
