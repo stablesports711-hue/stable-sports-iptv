@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6138da1047932e4c4328448493554901:4e8e19728da2159ac564bd5b01843621
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mvxw3ht3lx/out/v1/bfafd4b9e47b48a099b72253ed169032/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18882" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17924108661020x576.jpg" group-title="Cricket", England vs Sri Lanka - 3rd ODI - Pakistan ODI Tri-Series 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18882" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17924108661020x576.jpg" group-title="Cricket", England vs Sri Lanka - 3rd ODI - Pakistan ODI Tri-Series 2026 - Server 2
