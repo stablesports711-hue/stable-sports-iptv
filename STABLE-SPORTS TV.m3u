@@ -1,23 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18376" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920512241020x576.jpg" group-title="Football", Real Madrid vs RB Leipzig - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18375" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920508111020x576.jpg" group-title="Football", Club Brugge vs Lens - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18374" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920506611020x576.jpg" group-title="Football", Aston Villa vs Viking - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18373" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920509401020x576.jpg" group-title="Football", Bayern Munchen vs Arsenal - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18372" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920510731020x576.jpg" group-title="Football", Inter vs Shakhtar Donetsk - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18285" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925838401020x576.jpg" group-title="Football", Levante vs Athletic - MATCHDAY 6 - LaLiga 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18371" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920513731020x576.jpg" group-title="Football", Real Betis vs Feyenoord - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18370" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17920515311020x576.jpg" group-title="Football", Sporting CP vs LASK - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792605659~Starts=1792598459~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=6fVFJH12kE5KDzQvFsXNU1rC6udvHJtRFdUdOJvV6-MWzPE4AehK3x0BTZXmnRmnyNlyzJxBEgwONFEEhsRdAg
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792616453~Starts=1792609253~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=zcl0pOmpJ6b2vQnjqIOn6HnBC8Phk01uxfjQKgxzDKgCztE1YY5RBqyHfxm_NYMDsTv__Jhloebov9m8RZGoAg
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
