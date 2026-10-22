@@ -14,8 +14,14 @@ https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15f
 https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18970" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916679621020x576.jpg" group-title="Football", Celje vs RB Salzburg - MATCHDAY 3 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18969" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916677991020x576.jpg" group-title="Football", Bournemouth vs Milan - MATCHDAY 3 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18968" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916676001020x576.jpg" group-title="Football", Olympiacos vs Sparta Praha - MATCHDAY 3 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18967" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17916674541020x576.jpg" group-title="Football", Viktoria Plzen vs Levski Sofia - MATCHDAY 3 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792702841~Starts=1792695641~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=Dqb6MOg06UkQk-UX2Ml5LYE8LB9yxYOqdRbey77-KX7oywT2tnGqM7sEvGitcnU1XDAu1RJRnJ_lX3hC_D_NCg
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792706453~Starts=1792699253~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=GhcyJPAaxhU9XTfxiafmJlRMC-4sK4gGW_2qeuhPHqT1WjLRgp26PO3XMQ1tpW_p5ZBo5wurqwWHIieCQJZTBQ
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
