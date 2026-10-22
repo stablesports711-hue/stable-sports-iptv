@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d52e23fe7eade15ac5b852ac0a5a23a:5fce44b4d3887f03d32339b27a13637b
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xbks3vyjpt/out/v1/a17d73cc568e4fa4909bf69fb2970a19/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xbks3vyjpt/out/v1/a17d73cc568e4fa4909bf69fb2970a19/cenc.mpd
 #EXTINF:-1 tvg-id="B0HMLGQPBV" tvg-name="Pakistan ODI Tri-Series 2026 - 3rd Match - Sri Lanka vs England" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.343f357f-7382-4a16-88df-1c4941942e53/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan ODI Tri-Series 2026 - 3rd Match - Sri Lanka vs England
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
