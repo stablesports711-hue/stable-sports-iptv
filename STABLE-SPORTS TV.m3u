@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4f7619ad148729aeb3fa269c66ac69:39f15c262064e93e317aefeb4d458cf0
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/umccpiuysl/out/v1/e3ede4759e57470d8969017f847f9426/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/umccpiuysl/out/v1/e3ede4759e57470d8969017f847f9426/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18255" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926722541020x576.jpg" group-title="Football", Fakirerpool Young Mens Club vs Rahamatgonj MFS - Round 5 - Bangladesh Football League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18254" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926721891020x576.jpg" group-title="Football", Brothers Union Ltd vs Abahani Ltd. Dhaka - Round 5 - Bangladesh Football League 2026/27
