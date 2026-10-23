@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbad433264aa645af31c76701ae83e38:f8fb07f5bc0a587bf4faa5ca640b1c00
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jr2yukryn7/out/v1/2310db8f31c047c4b01ebd3ab96d815d/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jr2yukryn7/out/v1/2310db8f31c047c4b01ebd3ab96d815d/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18904" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927532651020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - Final - UAE ODI Tri-Series 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18904" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927532651020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - Final - UAE ODI Tri-Series 2026 - Server 2
