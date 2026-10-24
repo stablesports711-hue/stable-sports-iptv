@@ -331,13 +331,14 @@ https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 http://172.17.50.112:84/ant1009/video.m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",201.T Sports
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
+http://172.17.50.112:84/ant1001/video.m3u8
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",202.T Sports HD
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",203.T Sports FHD
-http://103.151.60.162:2122/play/a030/index.m3u8?hls
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C2gLZX9/SS-Fancode.png" group-title="SPORTS",Fancode 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
