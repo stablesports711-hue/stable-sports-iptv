@@ -1,13 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-17110" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926507261020x576.jpg" group-title="Football", Al Qadsiah vs Al-Hilal - MATCHDAY 11 - Saudi Pro League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18431" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923907731020x576.jpg" group-title="Football", Brest vs Nice - MATCHDAY 8 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18286" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926492771020x576.jpg" group-title="Football", Alaves vs Malaga - MATCHDAY 10 - LaLiga 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792792841~Starts=1792785641~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=swP47H6xmGLEcw0o0s_i523BPjHWvi-fheyzweMTUjWiR8QWzP7kF_1sDKFtReBYKOqExJkqi1yjK07S3y-aCA
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792810841~Starts=1792803641~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=c2MoZ2ghlZm15tG0KyGZUEbgfwsKyrDpFstg7BgBojtM3b0CaHlqRVTpiYqibBfZgGBAIjd2OiRYyKK2KDRwAg
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -304,13 +299,14 @@ https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 http://172.17.50.112:84/ant1009/video.m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",201.T Sports
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
+http://172.17.50.112:84/ant1001/video.m3u8
+#https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",202.T Sports HD
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",203.T Sports FHD
-http://103.151.60.162:2122/play/a030/index.m3u8?hls
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=dsgdfgsdfgasf
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C2gLZX9/SS-Fancode.png" group-title="SPORTS",Fancode 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
