@@ -1,16 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HL646MJT" tvg-name="New Zealand vs. India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4bdb387d-8b40-409f-b76a-f9b7349d5ea2/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",New Zealand vs. India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c80205dcd2490ef9386a322c46aef12:0dba6b2d52b76e5dff92fac577e7ac8d
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyqm3/out/v1/cd61ecc8b6694006a1173974fcfa4e9e/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-19056" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923947621020x576.jpg" group-title="Cricket", New Zealand vs India - 2nd T20I - India Tour of New Zealand 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19056" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923947621020x576.jpg" group-title="Cricket", New Zealand vs India - 2nd T20I - India Tour of New Zealand 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+
 #EXTINF:-1 tvg-id="tapmad-18258" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926725611020x576.jpg" group-title="Football", Bashundhara Kings vs Chattogram City FC - Round 5 - Bangladesh Football League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18287" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926493471020x576.jpg" group-title="Football", Rayo Vallecano vs Elche - MATCHDAY 10 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
 https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792847760~Starts=1792840560~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=zODhrUKxbEyGRUYpOwkp420PDH-_XKZHWDX3ex91fh0x2ROe0vJWLUXxONso96FwCjLBjTgMqLsrrVB4hmOBDg
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
