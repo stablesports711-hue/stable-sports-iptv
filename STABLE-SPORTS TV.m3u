@@ -1,9 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-19072" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17921414021020x576.jpg" group-title="Racing", Qualiyfing Race - Zheijang, China - Qualifying Race - Kumho FIA TCR World Tour Euro Series 2026
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792810841~Starts=1792803641~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=c2MoZ2ghlZm15tG0KyGZUEbgfwsKyrDpFstg7BgBojtM3b0CaHlqRVTpiYqibBfZgGBAIjd2OiRYyKK2KDRwAg
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792818041~Starts=1792810841~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=VPebTUSFucjToeOoYu4lR2fXu-WGRenlEX0EYNNsT4uPhGb0EWk6D98jXwCPWyZCT37aZ30iF5JKrBjfz86tCg
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
