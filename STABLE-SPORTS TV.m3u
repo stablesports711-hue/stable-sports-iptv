@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="tapmad-18288" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926494311020x576.jpg" group-title="Football", Racing Santander vs Espanyol - MATCHDAY 10 - LaLiga 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792857648~Starts=1792850448~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=tUfC96VYQ1mR0iO38oc9Bq_vvuYyLSCJ1sBgIOJhHZnPxUB1KPF8__Gxt3xgsfGgcvM6OMw2cBbw1Ue4WiRvCw
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792861241~Starts=1792854041~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=5rYFmYiT3m1NuITDpoeq1jlJ9r6k2NWQ2hjcTj7BjAzuOEE8szCD5Y7FqPuN4eKqXFy1HWVPzfO2ibz_rhlPCg
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
