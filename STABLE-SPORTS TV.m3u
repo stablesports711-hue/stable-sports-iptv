@@ -9,6 +9,10 @@ https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ntomodyq
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19056" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923947621020x576.jpg" group-title="Cricket", New Zealand vs India - 2nd T20I - India Tour of New Zealand 2026 - Server 2
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18259" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926726261020x576.jpg" group-title="Football", Mohammedan SC Ltd vs Dhaka Wanderers Club - Round 5 - Bangladesh Football League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18257" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926724941020x576.jpg" group-title="Football", PWD Sports Club vs Bangladesh Police FC - Round 5 - Bangladesh Football League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18256" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926724271020x576.jpg" group-title="Football", Arambagh Krira Shangha vs City Club - Round 5 - Bangladesh Football League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
