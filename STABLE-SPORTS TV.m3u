@@ -1,15 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18438" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923916861020x576.jpg" group-title="Football", Rennes vs Strasbourg - MATCHDAY 8 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18437" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923915221020x576.jpg" group-title="Football", Angers vs Lorient - MATCHDAY 8 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18436" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923914081020x576.jpg" group-title="Football", Marseille vs Le Havre - MATCHDAY 8 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18435" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923912881020x576.jpg" group-title="Football", Auxerre vs Le Mans - MATCHDAY 8 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18432" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923909011020x576.jpg" group-title="Football", Toulouse vs Troyes - MATCHDAY 8 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926499641020x576.jpg" group-title="Football", Real Sociedad vs Levante - MATCHDAY 10 - LaLiga 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
