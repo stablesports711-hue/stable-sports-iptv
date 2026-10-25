@@ -17,8 +17,10 @@ https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15f
 https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18432" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17923909011020x576.jpg" group-title="Football", Toulouse vs Troyes - MATCHDAY 8 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-18293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926499641020x576.jpg" group-title="Football", Real Sociedad vs Levante - MATCHDAY 10 - LaLiga 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792951257~Starts=1792944057~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=FzQId_AgNXciTssXKf-VWNOWEarbS0CxBYB-_9Bnhwq9x0tuHS6RlYMw5xEB4-2L0itt4NTJgP_2LpW5MUD6Dg
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792955188~Starts=1792947988~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=d8Q9FCsJJsAFK_d3ZjLE9YEGtZvj9d4PfNfBuCByaq5bwTwX6Xvjbk1MrCL7WJKpJZ7CWUWSlHc7MkgyWJx4BQ
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
