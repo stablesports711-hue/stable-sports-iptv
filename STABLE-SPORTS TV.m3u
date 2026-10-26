@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18743" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17924938701020x576.jpg" group-title="Football", Air Force SC (IRQ) vs Pakhtakor (UZB) - MATCHDAY 3 - AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18733" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17924853151020x576.jpg" group-title="Football", Al Qadsiah Club (KSA) vs Al Sadd SC (QAT) - MATCHDAY 3 - AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/Laliga-2026/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19321" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930014391020x576.jpg" group-title="Football", PSG vs OL - MATCHDAY 8 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18295" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926502101020x576.jpg" group-title="Football", Sevilla vs Osasuna - MATCHDAY 10 - LaLiga 2026/27
