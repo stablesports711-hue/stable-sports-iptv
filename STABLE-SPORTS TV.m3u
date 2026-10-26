@@ -1,9 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18293" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926499641020x576.jpg" group-title="Football", Real Sociedad vs Levante - MATCHDAY 10 - LaLiga 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792962043~Starts=1792954843~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=56Bv3OpJ9mhbAfukH5R8Y6cnmv9nPwZb63wByOiS8NBMfwYKTXxjYIrzaBr2JL0AaUKqTMJWUhjUsQrrUAb9Cw
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1792980082~Starts=1792972882~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=EavSFmEarUT6u7WW1lk1LsOzmAW-u-VyWHQ4NQYq5dd-_XcTG9LOPQkaDkq-nL5QiaJULFgrtSr2uhTZQai7Bg
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Tour_Tri-Series.png" group-title="LIVE SPORTS",ODI Tri-Series 2026
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
