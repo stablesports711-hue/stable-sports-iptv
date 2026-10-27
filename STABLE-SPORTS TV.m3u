@@ -5,9 +5,16 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=85e95a4fae22e02459252a03faaf3166:29334fa5e1d5708ed994f8bf74687933
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/eieh0ekrzy/out/v1/2587259ec56e439086e501951f31ccf7/cenc.mpd
-
+#EXTINF:-1 tvg-id="tapmad-19111" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927539991020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 1st T20I - Afghanistan vs Zimbabwe 2026 - Server 1
+https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19111" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927539991020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 1st T20I - Afghanistan vs Zimbabwe 2026 - Server 2
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18793" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925685401020x576.jpg" group-title="Football", Al Shamal SC (QAT) vs Al-Hilal SFC (KSA) - MATCHDAY 3 - AFC Champions League Elite 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-18543" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926549401020x576.jpg" group-title="Football", Al Shorta (IRQ) vs Al Hussein (JOR) - MATCHDAY 3 - AFC Champions League Two 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793127645~Starts=1793120445~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=tudTHYb-uAhuiUsD_AigOqcKf38RTEFYT8XlvtcvBHF7_hixI6ibuN2v-aCB7YKk7S7Mq_MnpKTXsovsL-t4Bg
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793131243~Starts=1793124043~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=Xgj-F9fhMF-TuVFTfam9bsBpJFttOq63IW9Ntcv2O8_o0BSWrmSWuHsRHu2zSLfPQfdZs0zrvHE3zNk74c3WDQ
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League (FANCODE - A
 
 
