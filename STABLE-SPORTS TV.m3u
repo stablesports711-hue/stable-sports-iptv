@@ -4,15 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d8a8cf63f2cb151902100b0d9e668dd:e75124a72568aee19b04558263d1d050
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-17702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg" group-title="Cricket", South Africa vs Australia - 3rd Test - Australia Tour of South Africa 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg" group-title="Cricket", South Africa vs Australia - 3rd Test - Australia Tour of South Africa 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18558" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926582761020x576.jpg" group-title="Football", Golgohar Sirjan SC (IRN) vs FC Arkadag (TKM) - MATCHDAY 3 - AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18553" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926579491020x576.jpg" group-title="Football", PFC Nasaf (UZB) vs Kuwait SC (KUW) - MATCHDAY 3 - AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18568" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926592861020x576.jpg" group-title="Football", Al Nahda Club (OMA) vs Al Rayyan SC (QAT) - MATCHDAY 3 - AFC Champions League Two 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18563" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926589731020x576.jpg" group-title="Football", Al Jazira Club (UAE) vs Al Muharraq SC (BHR) - MATCHDAY 3 - AFC Champions League Two 2026/27
