@@ -1,13 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18793" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925685401020x576.jpg" group-title="Football", Al Shamal SC (QAT) vs Al-Hilal SFC (KSA) - MATCHDAY 3 - AFC Champions League Elite 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18543" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926549401020x576.jpg" group-title="Football", Al Shorta (IRQ) vs Al Hussein (JOR) - MATCHDAY 3 - AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793142041~Starts=1793134841~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=VOduqgBUma84Gm6x2JL1KgXU7nr0jxYEWCVIr7jerFUFjeqQVVYiXfCmzdP5nW1-PfVtvZG73eGMBSUKBUBKDg
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League (FANCODE - A
 
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793160044~Starts=1793152844~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=o8-LQPiHRXLpG9X4p7WQ4xAkGbTIrMHtsyTSG4Oavlcx1CciZ7_zWnrIeRu0jBNbsLNryrJsTLZPo384AqAhAQ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League (FANCODE - A
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"Ig2JePP9RbaWE3xblPeiZA","k":"e/4TUA7e5Pg37AOpB4ljBg"}],"type":"temporary"}
+#EXTHTTP:{"cookie":"defaultLanguage=eng; defaultDirection=ltr"}
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; SM-A546E Build/9624a8d.0)
+#EXTVLCOPT:http-origin=https://dishhomego.com.np
+#EXTVLCOPT:http-referrer=https://dishhomego.com.np/
+https://ottlive.dishhome.com.np/protected/GgTOzZkB0RDJ74Ryniuo/dash/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League (FANCODE - A
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/2026_FIFA_ASEAN_Cup.webp?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="LIVE SPORTS",FIFA ASEAN CUP 2026
 https://stream1.liveland.af/hls/tv/ariana/playlist.m3u8
