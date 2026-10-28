@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-18578" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17927364781020x576.jpg" group-title="Football", Al Khaldiya SC (BHR) vs Al Wahda FC (UAE) - MATCHDAY 3 - AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18573" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926595861020x576.jpg" group-title="Football", Al Faisaly (JOR) vs Al Taawoun FC (KSA) - MATCHDAY 3 - AFC Champions League Two 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
 https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793224845~Starts=1793217645~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=w8HIcC00HP5vtFUMH5iojJ6iTB1plVBb2Kua0pbHx-7ngc7Xhi01SKdHlTPZr2FkhKoaU4ZE1DSvRdEpRAkLDg
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League (FANCODE - A
