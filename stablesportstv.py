@@ -294,7 +294,7 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://pl
 https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",200.T Sports ISP
-http://172.17.50.112:84/ant1009/video.m3u8
+http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",201.T Sports
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
