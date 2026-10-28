@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d8a8cf63f2cb151902100b0d9e668dd:e75124a72568aee19b04558263d1d050
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18568" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926592861020x576.jpg" group-title="Football", Al Nahda Club (OMA) vs Al Rayyan SC (QAT) - MATCHDAY 3 - AFC Champions League Two 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18563" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926589731020x576.jpg" group-title="Football", Al Jazira Club (UAE) vs Al Muharraq SC (BHR) - MATCHDAY 3 - AFC Champions League Two 2026/27
