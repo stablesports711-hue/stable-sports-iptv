@@ -4,21 +4,17 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d8a8cf63f2cb151902100b0d9e668dd:e75124a72568aee19b04558263d1d050
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/aqmldkpmqa/out/v1/5759ba0348c34e839eb7d42e39731bb9/cenc.mpd
 #EXTINF:-1 tvg-id="B0HM8BVJ9X" tvg-name="WPL 2027 Auction - WPL 2026 Player Auction" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1d267c7-de98-497b-b10a-16946f5e2238/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",WPL 2027 Auction - WPL 2026 Player Auction
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c426546fa9890b75bd446f2cc988c7f6:9b5ea5567d5f4d5aad8123df11dfb24e
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vfq7vktpaj/out/v1/e5454d69a91c478db2e1b3e56cf9bf47/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/vfq7vktpaj/out/v1/e5454d69a91c478db2e1b3e56cf9bf47/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-17702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg" group-title="Cricket", South Africa vs Australia - 3rd Test - Australia Tour of South Africa 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-17702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg" group-title="Cricket", South Africa vs Australia - 3rd Test - Australia Tour of South Africa 2026 - Server 2
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18583" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926553481020x576.jpg" group-title="Football", Persib Bandung (IDN) vs Melbourne Victory FC (AUS) - MATCHDAY 3 - AFC Champions League Two 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18548" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926564471020x576.jpg" group-title="Football", The Cong - Viettel FC (VIE) vs FC Seoul (KOR) - MATCHDAY 3 - AFC Champions League Two 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18558" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926582761020x576.jpg" group-title="Football", Golgohar Sirjan SC (IRN) vs FC Arkadag (TKM) - MATCHDAY 3 - AFC Champions League Two 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-18553" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17926579491020x576.jpg" group-title="Football", PFC Nasaf (UZB) vs Kuwait SC (KUW) - MATCHDAY 3 - AFC Champions League Two 2026/27
