@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-19112" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930916861020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 2nd T20I - Afghanistan vs Zimbabwe 2026 - Server 1
-https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19112" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930916861020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 2nd T20I - Afghanistan vs Zimbabwe 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932613891020x576.jpg" group-title="Football", Al-Riyadh vs Al Qadsiah - MATCHDAY 12 - Saudi Pro League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-17112" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932613331020x576.jpg" group-title="Football", Al-Nassr vs Al Kholood - MATCHDAY 12 - Saudi Pro League 2026/27
