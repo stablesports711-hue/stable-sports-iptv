@@ -304,7 +304,7 @@ https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 
 #EXTINF:-1 tvg-id="tsportshd" tvg-name="T Sports" tvg-logo="https://ashtv.com.bd/assets/img/tsports.jpeg" group-title="SPORTS",203.T Sports FHD
-http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=dsgdfgsdfgasf
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8C2gLZX9/SS-Fancode.png" group-title="SPORTS",Fancode 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
