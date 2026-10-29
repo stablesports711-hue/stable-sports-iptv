@@ -4,27 +4,23 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cad7365855ea0ac0653144882a46e9a6:0ee40359b01264cce5aac3140096c927
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mv8bhgey8i/out/v1/46e42bfd066b481c8bb856dfe5c2dc85/cenc.mpd
 #EXTINF:-1 tvg-id="B0HG6HPFD3" tvg-name="Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.84dc9ca5-fdc8-46c9-bc90-b6008efe1e58/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan ODI Tri-Series 2026 - 6th Match - Sri Lanka vs England
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tw6qgpez4i/out/v1/fedd5ae90ed64a94a5a6b442a4c86e75/cenc.mpd
 #EXTINF:-1 tvg-id="B0HKRD61F3" tvg-name="Afghanistan vs. Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a3561d0-2c21-402e-abe7-e92f42ace0c4/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs. Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2efbc1c5f8ff101397ecf138e8741ba:7f4d45f386a7640749e0f07417471f01
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rrqignujxl/out/v1/a14c2c9ea3af4fb9ab37ebda5dbc696b/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rrqignujxl/out/v1/a14c2c9ea3af4fb9ab37ebda5dbc696b/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18885" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925780221020x576.jpg" group-title="Cricket", England vs Sri Lanka - 6th ODI - Pakistan ODI Tri-Series 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18885" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925780221020x576.jpg" group-title="Cricket", England vs Sri Lanka - 6th ODI - Pakistan ODI Tri-Series 2026 - Server 2
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg" group-title="Cricket", South Africa vs Australia - 3rd Test - Australia Tour of South Africa 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg" group-title="Cricket", South Africa vs Australia - 3rd Test - Australia Tour of South Africa 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19112" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930916861020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 2nd T20I - Afghanistan vs Zimbabwe 2026 - Server 1
 https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19112" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930916861020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 2nd T20I - Afghanistan vs Zimbabwe 2026 - Server 2
