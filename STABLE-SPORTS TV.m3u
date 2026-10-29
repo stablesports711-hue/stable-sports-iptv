@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HKRD61F3" tvg-name="Afghanistan vs. Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a3561d0-2c21-402e-abe7-e92f42ace0c4/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs. Zimbabwe
+#EXTINF:-1 tvg-id="B0HKRD61F3" tvg-name="Afghanistan vs. Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3a3561d0-2c21-402e-abe7-e92f42ace0c4/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs. Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d2efbc1c5f8ff101397ecf138e8741ba:7f4d45f386a7640749e0f07417471f01
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rrqignujxl/out/v1/a14c2c9ea3af4fb9ab37ebda5dbc696b/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-18885" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925780221020x576.jpg" group-title="Cricket", England vs Sri Lanka - 6th ODI - Pakistan ODI Tri-Series 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18885" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925780221020x576.jpg" group-title="Cricket", England vs Sri Lanka - 6th ODI - Pakistan ODI Tri-Series 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rrqignujxl/out/v1/a14c2c9ea3af4fb9ab37ebda5dbc696b/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19112" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930916861020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 2nd T20I - Afghanistan vs Zimbabwe 2026 - Server 1
 https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19112" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930916861020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 2nd T20I - Afghanistan vs Zimbabwe 2026 - Server 2
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932613891020x576.jpg" group-title="Football", Al-Riyadh vs Al Qadsiah - MATCHDAY 12 - Saudi Pro League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-17112" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932613331020x576.jpg" group-title="Football", Al-Nassr vs Al Kholood - MATCHDAY 12 - Saudi Pro League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793300448~Starts=1793293248~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=PKjTa30Yw8HoQovpVko0pKWmIP-hlr5klGKMQEGnqxDvH_R2fFaJkLaNLaQWkgJY_pTge6l51gpNzz6PzrVRBA
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793304046~Starts=1793296846~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=qFbwY58qRdCbVAPm49F915zKbIisoBfv25FqfOtYdSS5gLrw2zhzH9FzvZgABCu7IeftTgUTCDx2u-BeFWMrAw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League (FANCODE - A
 https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8
 
