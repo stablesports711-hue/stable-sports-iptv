@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HN79CPDC" tvg-name="Hong Kong Sixes 2026 - 6th Match - Bangladesh vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1b9c3f5d-2a8b-4d67-8f21-1c001f2cbdce/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 6th Match - Bangladesh vs Sri Lanka
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=962005439eb7ead2261fc486359be61a:8759346088db941cb0ae9a144bbf3c9d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/isvdqcmqxp/out/v1/a14f4afa4e01449fb0ec63c19ce91b5e/cenc.mpd
 #EXTINF:-1 tvg-id="B0HN533LCJ" tvg-name="Hong Kong Sixes 2026 - 7th Match - India vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c03a0802-98f5-43c3-9582-913a8b0204a6/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 7th Match - India vs Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=267d2c2755198020311d5ba35801afe4:f37507ea51e3f9e71b95ef2aa3772141
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ty4uvtk3uz/out/v1/e49d57fa606f46f79bea2c5d5f5bdfc4/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ty4uvtk3uz/out/v1/e49d57fa606f46f79bea2c5d5f5bdfc4/cenc.mpd
 #EXTINF:-1 tvg-id="B0HLW6FTC5" tvg-name="New Zealand vs. India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.20a0bd24-a93b-43a0-9791-04a8a302f509/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",New Zealand vs. India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a3f90a5769802036c18de821735b594:1412cd88540af73b27e45c9982bc9c78
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjnwj2lbr8/out/v1/7fa779f874dd410195eda641faadc623/cenc.mpd
+#EXTINF:-1 tvg-id="B0HN635GQK" tvg-name="Hong Kong Sixes 2026 - 8th Match - South Africa vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.d8b25453-ed77-4ee0-8cb7-a46278b8085b/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 8th Match - South Africa vs Afghanistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c884ad869859b1e8125c41a0e32e5276:f9c4f313219f7ee59f900efa739a4acc
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/a0qrspjhqu/out/v1/304e32beaabf4a6f9f6b57eb17b6bab9/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19120" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17929999181020x576.jpg" group-title="Cricket", Bangladesh vs West Indies - 1st Test - West indies Tour of Bangladesh 2026
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19058" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925698981020x576.jpg" group-title="Cricket", New Zealand vs India - 4th T20I - India Tour of New Zealand 2026 - Server 1
