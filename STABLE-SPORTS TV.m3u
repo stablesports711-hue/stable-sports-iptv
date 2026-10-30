@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HP893CZP" tvg-name="Hong Kong Sixes 2026 - 3rd Match - Pakistan vs United Arab Emirates" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.644dcd0a-3a91-4c9e-b8f7-7f837dd78d4d/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 3rd Match - Pakistan vs United Arab Emirates
+#EXTINF:-1 tvg-id="B0HN79CPDC" tvg-name="Hong Kong Sixes 2026 - 6th Match - Bangladesh vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1b9c3f5d-2a8b-4d67-8f21-1c001f2cbdce/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 6th Match - Bangladesh vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fbfab2ae4f4e8a1705b4cdc7802e9304:29db7aa2585fdbc1d5892db6d04fe351
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/sdvqfcqoza/out/v1/1519bb4c746348ceb10f042aa84b70f0/cenc.mpd
-#EXTINF:-1 tvg-id="B0HNNB38Z3" tvg-name="Hong Kong Sixes 2026 - 4th Match - South Africa vs Oman" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.10b6a999-0413-4e30-ad5f-dd3cbff6b727/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 4th Match - South Africa vs Oman
+#KODIPROP:inputstream.adaptive.license_key=962005439eb7ead2261fc486359be61a:8759346088db941cb0ae9a144bbf3c9d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/isvdqcmqxp/out/v1/a14f4afa4e01449fb0ec63c19ce91b5e/cenc.mpd
+#EXTINF:-1 tvg-id="B0HN533LCJ" tvg-name="Hong Kong Sixes 2026 - 7th Match - India vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.c03a0802-98f5-43c3-9582-913a8b0204a6/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 7th Match - India vs Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5ad2836094f0f19bbdc4f9bf00405ce9:be7824f1197c39ec98d9b852c7b124af
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/f0prkjuymq/out/v1/2e724fedaa1548a2a962b48de161b358/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=267d2c2755198020311d5ba35801afe4:f37507ea51e3f9e71b95ef2aa3772141
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ty4uvtk3uz/out/v1/e49d57fa606f46f79bea2c5d5f5bdfc4/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19120" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17929999181020x576.jpg" group-title="Cricket", Bangladesh vs West Indies - 1st Test - West indies Tour of Bangladesh 2026
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19336" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932644141020x576.jpg" group-title="Cricket", Hong Kong Sixes - Day 1 - Group Stage - Hong Kong International Sixes 2026
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793332846~Starts=1793325646~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=U8Jfr4bXm3WWo4CDeAgA3ESM3SKpUMcoIYjea_wf0JKBqPFgvSFjgBPUWA9muIe0sk0wcyb9fyaxMO8Bp_FRDA
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793340047~Starts=1793332847~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=ZEkp_zQ6Ot68utFv1Wg3o8VAYBhuVLlKjQ_JPcfZV4CtsFC0c_OfTGi5k2A848F2g2wuLBle2KJxlCw_WxPEAw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League (FANCODE - A
 https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8
 
