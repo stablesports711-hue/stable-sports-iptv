@@ -4,19 +4,17 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=055e7d596817187feb6148156f166cd4:d2f924558033464139e9367ffe346149
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/iq4ucnnylo/out/v1/589f94d67d424d2fa5792f43af15a45f/cenc.mpd
 #EXTINF:-1 tvg-id="B0HP445XSZ" tvg-name="Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.585cf604-276f-4a0d-8d72-73b6136cd9fb/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Pakistan ODI Tri-Series 2026 - Final - Pakistan vs Sri Lanka
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/kauhtkxesb/out/v1/b7ddf44fd9d847f892422ff925f1c04c/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18886" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933465791020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - Final - Pakistan ODI Tri-Series 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18886" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933465791020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - Final - Pakistan ODI Tri-Series 2026 - Server 2
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-17702" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17918900981020x576.jpg" group-title="Cricket", South Africa vs Australia - 3rd Test - Australia Tour of South Africa 2026
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19448" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933447601020x576.jpg" group-title="Football", Levante vs Atletico Madrid - MATCHDAY 11 - LaLiga 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
