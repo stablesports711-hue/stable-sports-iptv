@@ -1,9 +1,22 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="tapmad-19447" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933446691020x576.jpg" group-title="Football", Villarreal vs Espanyol - MATCHDAY 11 - LaLiga 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18441" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931023001020x576.jpg" group-title="Football", LOSC vs Lens - MATCHDAY 9 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+#EXTINF:-1 tvg-id="B0HPB4WCJX" tvg-name="Hong Kong Sixes 2026 - 10th Match - Oman vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.088f3019-a61f-4ee6-b949-e3404fa06ca4/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 10th Match - Oman vs Afghanistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aea52971d0ad3d1e6ccd822c4659d5e1:fedb2e0e47bf973b5833b8339f8aa949
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/hkj62jerda/out/v1/ec4275b678ec49428139e26b40fa84e5/cenc.mpd
+#EXTINF:-1 tvg-id="B0HLPHVTPB" tvg-name="Hong Kong Sixes 2026 - 11th Match - Scotland vs Sri Lanka" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6d4fd29c-1738-463c-8252-d92ad764de01/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - 11th Match - Scotland vs Sri Lanka
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a247eb23d3520f5492bdb8ff1d7ad7ef:49e80b833b1aefbad21536e2390ec9b6
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bhvsklfjf2/out/v1/cecb823f77a845a0a5d61ac33bcc627e/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-19337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932644661020x576.jpg" group-title="Cricket", Hong Kong Sixes - Day 2 - Group Stage / Knockout Stage - Hong Kong International Sixes 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19337" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932644661020x576.jpg" group-title="Cricket", Hong Kong Sixes - Day 2 - Group Stage / Knockout Stage - Hong Kong International Sixes 2026 - Server 2
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-19471" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933636321020x576.jpg" group-title="Racing", GTWC Asia - Qualifiers - Shanghai, China - Qualifying Race - GT World Challenge EU & Asia 2026
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
 https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793390445~Starts=1793383245~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=rMg3oeiTx6svqYibJh7ejEZ15NPeIhceR8BPP2tgB396N8JLpLDiBiU8HEVh34bKloHhaJbqFNtQBRewxCb8CQ
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League (FANCODE - A
