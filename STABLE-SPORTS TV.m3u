@@ -4,19 +4,29 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b22b486d9a7cdab18642ad31a3ac164a:554e2e626bde78f8babcb7faaf11f872
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/gog1xdwuxy/out/v1/cce434bb1b314fce9867a98d8c323a56/cenc.mpd
-#EXTINF:-1 tvg-id="B0HM7PCY3B" tvg-name="Hong Kong Sixes 2026 - Bowl Final - South Africa vs England" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.be6510ba-4d01-4cc6-b9ae-3ce2cf432774/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Bowl Final - South Africa vs England
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a4514f31e848acef7fd26d27fe8e77b2:e9c848142716a1ef70be1e38b1cc2cc6
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/f75yhdq23v/out/v1/598eae358be84a6190477baeee289e93/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gog1xdwuxy/out/v1/cce434bb1b314fce9867a98d8c323a56/cenc.mpd
 #EXTINF:-1 tvg-id="B0H6W3NWKD" tvg-name="Hong Kong Sixes 2026 - Plate Final - Oman vs Pakistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.51c0bf91-b33c-483f-9979-81cd852e7387/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Plate Final - Oman vs Pakistan
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82616a7d2971c54cf6fe4d98c47b1302:8f4eee25604fa1c62120971843239d72
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/rsn8la3i1v/out/v1/6127bc09ddeb4cc6ac735873fa204916/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rsn8la3i1v/out/v1/6127bc09ddeb4cc6ac735873fa204916/cenc.mpd
+#EXTINF:-1 tvg-id="B0HNWRBDCQ" tvg-name="New Zealand vs. India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d613298-262a-42ed-a769-e267442a7aa6/3/BOXART-16X9/en-US._UR1920,1080_.jpg" group-title="Cricket",New Zealand vs. India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2765adbf6880195515fed136e5a989fa:f1356a68a923c31d7184dfa1b91c161f
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pog3pkfhga/out/v1/20164001c7d9489f898d05761ad05077/cenc.mpd
+#EXTINF:-1 tvg-id="B0HNH1D37N" tvg-name="Hong Kong Sixes 2026 - Cup Final - Australia vs Afghanistan" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ae9a1731-d689-40a7-9a89-b48fd28622e1/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Cup Final - Australia vs Afghanistan
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47882cfe843d91ab3032dfff9fa1b468:e249d2d8555ba8cc75431a25749e8822
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/nl173vux14/out/v1/d788485d04df4c53961e84d1901390db/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-19059" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925741151020x576.jpg" group-title="Cricket", New Zealand vs India - 5th T20I - India Tour of New Zealand 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19059" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925741151020x576.jpg" group-title="Cricket", New Zealand vs India - 5th T20I - India Tour of New Zealand 2026 - Server 2
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19338" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932645421020x576.jpg" group-title="Cricket", Hong Kong Sixes - Day 3 - Knockout Stage / Finals - Hong Kong International Sixes 2026
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19483" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933645521020x576.jpg" group-title="Racing", GTWC Asia - Race 2 - Shanghai, China - Race 2 - GT World Challenge EU & Asia 2026
@@ -24,7 +34,7 @@ https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/
 #EXTINF:-1 tvg-id="tapmad-19183" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17934891501020x576.jpg" group-title="Cricket", Sydney Thunder vs Brisbane Heat - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793516442~Starts=1793509242~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=7CSFLPJxCbUZ-NFKWR_NCaxImwM9g2P-HjFCJTIXTjs5IPBuv86tv7re7pDFFtJS8sidFyuW0gcHeWgP04yfDQ
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793520044~Starts=1793512844~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=y9IKUVzTbevaXlWUx4a4M0kZTb12-LB97iPnHlUDMkHYZLkY8VRANj1Na91oxOqygBHWNq96K0y9JWhtrNOtCw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League
 https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8
 
