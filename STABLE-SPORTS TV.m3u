@@ -1,5 +1,16 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="B0HP8K8BCP" tvg-name="Hong Kong Sixes 2026 - Plate Play-off - Sri Lanka vs Hong Kong, China" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.ecb96c5f-51e3-4ffc-91c4-707c3aa698e5/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Plate Play-off - Sri Lanka vs Hong Kong, China
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b610b101e8a987cbf194e6d968585cc2:2ecaec94db1a7fbf40fb9d4ac74f3b47
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ltxdcoti1m/out/v1/4da40c8b0d194fb4a9de00e68a84c0d1/cenc.mpd
+#EXTINF:-1 tvg-id="B0HK3VBJC3" tvg-name="Hong Kong Sixes 2026 - Cup Play-off - United Arab Emirates vs Scotland" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b31bbf10-d78e-4244-a344-95a338e78552/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Cup Play-off - United Arab Emirates vs Scotland
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=232530a82e67bbbfb57e91e47acad246:f79fa1efbdf64975a6e1263c5c00750b
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7yddiomgbx/out/v1/1b021c8ef5424cdf9474d931e90a32e8/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19312" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930165771020x576.jpg" group-title="Mma", Moicano vs Nolan - Fight Night - UFC 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19312" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930165771020x576.jpg" group-title="Mma", Moicano vs Nolan - Fight Night - UFC 2026 - Server 2
@@ -7,7 +18,7 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19338" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932645421020x576.jpg" group-title="Cricket", Hong Kong Sixes - Day 3 - Knockout Stage / Finals - Hong Kong International Sixes 2026
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793502046~Starts=1793494846~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=dBkjGYG4nJIc_QTFeFfroj5lQ6VI0V9NBSitVmgKte2AXTngUbKPuVPNU-jp08pq6ksRhaEECh1tYNdn5y_sDw
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793505643~Starts=1793498443~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=zbEVEvfi6D-RVzrPjwVVqbYKbuLKjY9eCg45UVay9X_5DJfgZO8hdkTd3xakeucD3QHK9-A4Yq1fD6JRpo-YBg
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League
 https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8
 
