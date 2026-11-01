@@ -1,19 +1,18 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="tapmad-19450" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933449331020x576.jpg" group-title="Football", Betis vs Malaga - MATCHDAY 11 - LaLiga 2026/27
+#EXTINF:-1 tvg-id="B0HPBMQSPR" tvg-name="Hong Kong Sixes 2026 - Bowl Play-off - Bangladesh vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8d3092af-d45c-4071-ba1e-6d686fe74ff5/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Hong Kong Sixes 2026 - Bowl Play-off - Bangladesh vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a45aa9f5fac4b13e949ad10b6ec32cb:ed2a38ea996575580a003664f4c995ce
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/yhjpgwaw67/out/v1/6fc4a3ad7755466696d8f58232a80c13/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-19312" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930165771020x576.jpg" group-title="Mma", Moicano vs Nolan - Fight Night - UFC 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-17111" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932612401020x576.jpg" group-title="Football", Al Hilal vs Al Fateh - MATCHDAY 12 - Saudi Pro League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18445" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931685911020x576.jpg" group-title="Football", Troyes vs Le Mans - MATCHDAY 9 - French Ligue 1 2026/27 - Server 1
+#EXTINF:-1 tvg-id="tapmad-19312" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930165771020x576.jpg" group-title="Mma", Moicano vs Nolan - Fight Night - UFC 2026 - Server 2
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-19338" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932645421020x576.jpg" group-title="Cricket", Hong Kong Sixes - Day 3 - Knockout Stage / Finals - Hong Kong International Sixes 2026
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18445" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931685911020x576.jpg" group-title="Football", Troyes vs Le Mans - MATCHDAY 9 - French Ligue 1 2026/27 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19451" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933457451020x576.jpg" group-title="Football", Barcelona vs Alaves - MATCHDAY 11 - LaLiga 2026/27 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19451" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933457451020x576.jpg" group-title="Football", Barcelona vs Alaves - MATCHDAY 11 - LaLiga 2026/27 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793484045~Starts=1793476845~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=ev7IUyVJ_fdWbyKolPSUZXA0SmuFQCmfa9cy116lniMAVWN8RzLjfF_e8MX1Jj3UqRuHJYy0YeBJeguz2OQgCA
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793502046~Starts=1793494846~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=dBkjGYG4nJIc_QTFeFfroj5lQ6VI0V9NBSitVmgKte2AXTngUbKPuVPNU-jp08pq6ksRhaEECh1tYNdn5y_sDw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League
 https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8
 
