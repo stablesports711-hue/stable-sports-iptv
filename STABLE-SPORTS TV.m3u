@@ -5,10 +5,6 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d
 https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/47bghsff2d/out/v1/2fdbd848acd447b9bdc11de12fa7428b/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-18446" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931687531020x576.jpg" group-title="Football", Strasbourg vs Auxerre - MATCHDAY 9 - French Ligue 1 2026/27 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18446" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931687531020x576.jpg" group-title="Football", Strasbourg vs Auxerre - MATCHDAY 9 - French Ligue 1 2026/27 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19332" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930987881020x576.jpg" group-title="Horse Riding", Leg 2 - Lyon (FRA) - Race - Longines FEI Jumping World Cup 2026
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19249" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930956371020x576.jpg" group-title="Football", Melbourne City FC (AUS) vs PFC Nasaf (UZB) - MATCHDAY 1 - AFC Women's Champions League 2026/27
