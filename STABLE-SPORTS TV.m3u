@@ -4,9 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/47bghsff2d/out/v1/2fdbd848acd447b9bdc11de12fa7428b/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-19239" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930947221020x576.jpg" group-title="Football", Naegohyang Women's FC (PRK) vs Ayeyawady FC - Women (MYA) - MATCHDAY 1 - AFC Women's Champions League 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/47bghsff2d/out/v1/2fdbd848acd447b9bdc11de12fa7428b/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19452" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933458451020x576.jpg" group-title="Football", Getafe vs Sevilla - MATCHDAY 11 - LaLiga 2026/27 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19452" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933458451020x576.jpg" group-title="Football", Getafe vs Sevilla - MATCHDAY 11 - LaLiga 2026/27 - Server 2
@@ -15,6 +13,20 @@ https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18446" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931687531020x576.jpg" group-title="Football", Strasbourg vs Auxerre - MATCHDAY 9 - French Ligue 1 2026/27 - Server 2
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-19332" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930987881020x576.jpg" group-title="Horse Riding", Leg 2 - Lyon (FRA) - Race - Longines FEI Jumping World Cup 2026
+https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-19249" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930956371020x576.jpg" group-title="Football", Melbourne City FC (AUS) vs PFC Nasaf (UZB) - MATCHDAY 1 - AFC Women's Champions League 2026/27
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
+#EXTINF:-1 tvg-id="tapmad-19244" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930953311020x576.jpg" group-title="Football", Ho Chi Minh City Women's FC (VIE) vs East Bengal FC (IND) - MATCHDAY 1 - AFC Women's Champions League 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-19113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930918031020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 3rd T20I - Afghanistan vs Zimbabwe 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930918031020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 3rd T20I - Afghanistan vs Zimbabwe 2026 - Server 2
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-19453" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933459221020x576.jpg" group-title="Football", Racing Santander vs Real Madrid - MATCHDAY 11 - LaLiga 2026/27 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19453" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933459221020x576.jpg" group-title="Football", Racing Santander vs Real Madrid - MATCHDAY 11 - LaLiga 2026/27 - Server 2
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
 https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793548847~Starts=1793541647~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=eXY55NNxz89jqT_9q_R9XiWbl6EYpnTis-CZiu2aWwfGNqqadziglA9AcGVNlwDDXD5EH_qoUINoJT7n4jl-DQ
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League
