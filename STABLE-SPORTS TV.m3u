@@ -5,16 +5,6 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a59f28b25431a5ab1091707c14e6e5b5:0e2b44300a38bd47fbb02e9c687aa2c8
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vqu1w8f6e7/out/v1/f7d7ec07c208491681c1b6f68d0e823f/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-19059" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925741151020x576.jpg" group-title="Cricket", New Zealand vs India - 5th T20I - India Tour of New Zealand 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19059" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17925741151020x576.jpg" group-title="Cricket", New Zealand vs India - 5th T20I - India Tour of New Zealand 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19184" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17934894001020x576.jpg" group-title="Cricket", Sydney Sixers vs Hobart Hurricanes - Group Stage - Women's Big Bash League 2026
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19229" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930939841020x576.jpg" group-title="Football", Hwacheon KSPO WFC (KOR) vs 4.25 Sports Club (PRK) - MATCHDAY 1 - AFC Women's Champions League 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19224" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930936501020x576.jpg" group-title="Football", INAC Kobe Leonessa (JPN) vs Bam Khatoon FC (IRN) - MATCHDAY 1 - AFC Women's Champions League 2026/27
-https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19234" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930943591020x576.jpg" group-title="Football", Beijing Jingtan Football Club (CHN) vs Kaya FC-Iloilo (PHI) - MATCHDAY 1 - AFC Women's Champions League 2026/27
 https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
