@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=468c69668fb1f8433921d80485af81dc:fdc96b10b6e9cdcc3c5904afb6bff82d
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/47bghsff2d/out/v1/2fdbd848acd447b9bdc11de12fa7428b/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/47bghsff2d/out/v1/2fdbd848acd447b9bdc11de12fa7428b/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-18446" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931687531020x576.jpg" group-title="Football", Strasbourg vs Auxerre - MATCHDAY 9 - French Ligue 1 2026/27 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-18446" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931687531020x576.jpg" group-title="Football", Strasbourg vs Auxerre - MATCHDAY 9 - French Ligue 1 2026/27 - Server 2
