@@ -1,13 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-19113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930918031020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 3rd T20I - Afghanistan vs Zimbabwe 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19113" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17930918031020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 3rd T20I - Afghanistan vs Zimbabwe 2026 - Server 2
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-18447" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931688951020x576.jpg" group-title="Football", Paris FC vs Monaco - MATCHDAY 9 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-18443" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17931684561020x576.jpg" group-title="Football", OL vs Angers - MATCHDAY 9 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19454" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933459951020x576.jpg" group-title="Football", Elche vs Valencia - MATCHDAY 11 - LaLiga 2026/27 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19454" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17933459951020x576.jpg" group-title="Football", Elche vs Valencia - MATCHDAY 11 - LaLiga 2026/27 - Server 2
