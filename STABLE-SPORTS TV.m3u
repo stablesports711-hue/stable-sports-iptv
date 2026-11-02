@@ -1,9 +1,14 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="B0HJ6P7GP3" tvg-name="Womens Big Bash League 2026 - 8th Match - Melbourne Stars Women vs Perth Scorchers Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f80b9c85-59e3-4b53-8c1a-9570e8995e13/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 8th Match - Melbourne Stars Women vs Perth Scorchers Women
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bdb10e080e6cbd5a3a030e64405d20c4:a0b78fd84befce65581d79f9da904a61
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/swik2pdf1r/out/v1/9d9e497a0a38428c98ff916ba955c6af/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19185" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17935566811020x576.jpg" group-title="Cricket", Melbourne Stars vs Perth Scorchers - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
-#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793610044~Starts=1793602844~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=v487d-MMbfuSmD8563Jo8FrEPz_wZlGDHRMwymnCesPDUT2opYNSjfTJ6o3UaO6QMBj4SaVrdyIq0v2C0Z-wDQ
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/7f266367-077c-4acb-b29a-73437a80419b.png",SAFF Live 1
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793617247~Starts=1793610047~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmYyNmEyZmYtODRkYS00NzRiLWJiN2EtMjFlY2VhZTIyNDBmIn0~Signature=adrodjpObH-vSeSGU90Q6eo0gKH2abnw9AaDjHRoX0H9GWBziZtKHeEPrA0xhqnE_NpyZgg7Q4iafCVTpmSEBQ
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League
 https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8
 
