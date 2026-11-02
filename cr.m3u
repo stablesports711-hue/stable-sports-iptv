@@ -1,415 +1,261 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPBHV72iLi9B2sUko88H_DiLih-wVrkg7oWQlcJC4JVw&s=10" group-title="-",&Xplor HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://m.vidio.com/ 
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha  
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
-https://tvratu.my.id/vid/index.mpd?id=207&type=dash
-
-http://66.102.126.10:8000/play/a028/index.m3u8
-#EXTINF:-1 tvq-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPBHV72iLi9B2sUko88H_DiLih-wVrkg7oWQlcJC4JVw&s=10" group-title="-",&pictures HD
-http://66.102.126.10:8000/play/a01t/index.m3u8
-#EXTINF:-1 group-title="-",&tv HD - Rs 19.00
-http://66.102.126.10:8000/play/a01u/index.m3u8
-#EXTINF:-1 group-title="-",24 News HD
-http://66.102.126.10:8000/play/a04v/index.m3u8
-#EXTINF:-1 group-title="-",24B HD
-http://66.102.126.10:8000/play/a044/index.m3u8
-#EXTINF:-1 group-title="-",92 Entertainment
-http://66.102.126.10:8000/play/a06m/index.m3u8
-#EXTINF:-1 group-title="-",92 News HD
-http://66.102.126.10:8000/play/a04y/index.m3u8
-#EXTINF:-1 group-title="-",A SportsHD
-http://66.102.126.10:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="-",A1 TV
-http://66.102.126.10:8000/play/a04q/index.m3u8
-#EXTINF:-1 group-title="-",AAJ ENTERTANMENT
-http://66.102.126.10:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="-",AAJ NEWS
-http://66.102.126.10:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="-",AAN TV - HD
-http://66.102.126.10:8000/play/a05j/index.m3u8
-#EXTINF:-1 group-title="-",APlus Pakistan
-http://66.102.126.10:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="-",ARYDigitalAsia HD
-http://66.102.126.10:8000/play/a030/index.m3u8
-#EXTINF:-1 group-title="-",ARYMusik
-http://66.102.126.10:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="-",ARYNewsAsia
-http://66.102.126.10:8000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="-",ARYQTV
-http://66.102.126.10:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="-",ARYZindagi
-http://66.102.126.10:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="-",Animal Planet HD
-http://66.102.126.10:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="-",B4U MUSIC
-http://66.102.126.10:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="-",B4U Movies - Free
-http://66.102.126.10:8000/play/a01n/index.m3u8
-#EXTINF:-1 group-title="-",BBC News
-http://66.102.126.10:8000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="-",BOL News Urdu
-http://66.102.126.10:8000/play/a038/index.m3u8
-#EXTINF:-1 group-title="-",CITY-21
-http://66.102.126.10:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="-",CITY-42 HD
-http://66.102.126.10:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="-",CNN International
-http://66.102.126.10:8000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="-",COLORS CINIPLEX HD
-http://66.102.126.10:8000/play/a06z/index.m3u8
-#EXTINF:-1 group-title="-",Capital TV
-http://66.102.126.10:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="-",Cartoon Network
-http://66.102.126.10:8000/play/a02n/index.m3u8
-#EXTINF:-1 group-title="-",Colors Cineplex Bollywood
-http://66.102.126.10:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="-",Colors HD - Rs 19.00
-http://66.102.126.10:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="-",Colors Infinity HD
-http://66.102.126.10:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="-",Discover Pakistan
-http://66.102.126.10:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="-",Discovery HD
-http://66.102.126.10:8000/play/a01k/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Science
-http://66.102.126.10:8000/play/a01l/index.m3u8
-#EXTINF:-1 group-title="-",Discovery Turbo
-http://66.102.126.10:8000/play/a016/index.m3u8
-#EXTINF:-1 group-title="-",DiscoveryKids TV
-http://66.102.126.10:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="-",Disney Channel HD
-http://66.102.126.10:8000/play/a013/index.m3u8
-#EXTINF:-1 group-title="-",Disney International HD
-http://66.102.126.10:8000/play/a078/index.m3u8
-#EXTINF:-1 group-title="-",Dunya News HD
-http://66.102.126.10:8000/play/a04u/index.m3u8
-#EXTINF:-1 group-title="-",EXP ENTERTAINMENT
-http://66.102.126.10:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="-",EXPRESS NEWS
-http://66.102.126.10:8000/play/a053/index.m3u8
-#EXTINF:-1 group-title="-",Eurosport HD - Rs 6.00
-http://66.102.126.10:8000/play/a01g/index.m3u8
-#EXTINF:-1 group-title="-",FASHIONTV
-http://66.102.126.10:8000/play/a02i/index.m3u8
-#EXTINF:-1 group-title="-",FASHIONTV HD B/FTV.COM
-http://66.102.126.10:8000/play/a02h/index.m3u8
-#EXTINF:-1 group-title="-",FAST SPORTS HD
-http://66.102.126.10:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="-",FILMAX
-http://66.102.126.10:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="-",FILMAZIA
-http://66.102.126.10:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="-",FILMAZIA PUNJABI
-http://66.102.126.10:8000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="-",GEM COMEDY
-http://66.102.126.10:8000/play/a049/index.m3u8
-#EXTINF:-1 group-title="-",GEM TV HD
-http://66.102.126.10:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="-",GEO HD
-http://66.102.126.10:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="-",GEO KAHANI HD
-http://66.102.126.10:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="-",GEO NEWS
-http://66.102.126.10:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="-",GEO SUPER HD
-http://66.102.126.10:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="-",GNNHD
-http://66.102.126.10:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="-",GTV NEWS HD
-http://66.102.126.10:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="-",Geo Tez
-http://66.102.126.10:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="-",GreenEnt - HD
-http://66.102.126.10:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="-",HUM HD
-http://66.102.126.10:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title="-",HUM NEWS HD
-http://66.102.126.10:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="-",HUM Pashto 1
-http://66.102.126.10:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="-",HUM SITARAY
-http://66.102.126.10:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="-",Hidayat TV
-http://66.102.126.10:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="-",History TV18 HD
-http://66.102.126.10:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="-",Hoora TV
-http://66.102.126.10:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="-",Hungama - Rs 2.00
-http://66.102.126.10:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="-",INPLUS Pakistan
-http://66.102.126.10:8000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="-",Investigation Discovery
-http://66.102.126.10:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="-",Isaac TV
-http://66.102.126.10:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="-",KSA SPORT1 HD
-http://66.102.126.10:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="-",KSA SPORT2 HD
-http://66.102.126.10:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="-",Khyber News HD
-http://66.102.126.10:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="-",Kidzone Pakistan
-http://66.102.126.10:8000/play/a02l/index.m3u8
-#EXTINF:-1 group-title="-",LTN FAMILY
-http://66.102.126.10:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="-",Lahore News HD
-http://66.102.126.10:8000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="-",Lahore Rang HD
-http://66.102.126.10:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="-",LotusTV
-http://66.102.126.10:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="-",MASALA TV
-http://66.102.126.10:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="-",MIFA + HD
-http://66.102.126.10:8000/play/a048/index.m3u8
-#EXTINF:-1 group-title="-",MIFA + HD
-http://66.102.126.10:8000/play/a047/index.m3u8
-#EXTINF:-1 group-title="-",MIFA MUSIC HD
-http://66.102.126.10:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="-",MINIMAX 2
-http://66.102.126.10:8000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="-",MN+ HD - Rs 12.00
-http://66.102.126.10:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="-",MTCL 1HD
-http://66.102.126.10:8000/play/a07m/index.m3u8
-#EXTINF:-1 group-title="-",MTCL 2HD
-http://66.102.126.10:8000/play/a07j/index.m3u8
-#EXTINF:-1 group-title="-",MTCL 3HD
-http://66.102.126.10:8000/play/a07k/index.m3u8
-#EXTINF:-1 group-title="-",MTCL 4HD
-http://66.102.126.10:8000/play/a07l/index.m3u8
-#EXTINF:-1 group-title="-",MTCL 5HD
-http://66.102.126.10:8000/play/a07i/index.m3u8
-#EXTINF:-1 group-title="-",MTCL 6HD
-http://66.102.126.10:8000/play/a07h/index.m3u8
-#EXTINF:-1 group-title="-",MTCL 8HD
-http://66.102.126.10:8000/play/a07g/index.m3u8
-#EXTINF:-1 group-title="-",MTCL7HD
-http://66.102.126.10:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="-",MUN TV
-http://66.102.126.10:8000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="-",Metro 1
-#EXTINF:-1 group-title="-",FILMAX
-http://66.102.126.10:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="-",FILMAZIA
-http://66.102.126.10:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="-",FILMAZIA PUNJABI
-http://66.102.126.10:8000/play/a04n/index.m3u8
-#EXTINF:-1 group-title="-",GEM COMEDY
-http://66.102.126.10:8000/play/a049/index.m3u8
-#EXTINF:-1 group-title="-",GEM TV HD
-http://66.102.126.10:8000/play/a045/index.m3u8
-#EXTINF:-1 group-title="-",GEO HD
-http://66.102.126.10:8000/play/a062/index.m3u8
-#EXTINF:-1 group-title="-",GEO KAHANI HD
-http://66.102.126.10:8000/play/a064/index.m3u8
-#EXTINF:-1 group-title="-",GEO NEWS
-http://66.102.126.10:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="-",GEO SUPER HD
-http://66.102.126.10:8000/play/a063/index.m3u8
-#EXTINF:-1 group-title="-",GNNHD
-http://66.102.126.10:8000/play/a06p/index.m3u8
-#EXTINF:-1 group-title="-",GTV NEWS HD
-http://66.102.126.10:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="-",Geo Tez
-http://66.102.126.10:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="-",GreenEnt - HD
-http://66.102.126.10:8000/play/a02e/index.m3u8
-#EXTINF:-1 group-title="-",HUM HD
-http://66.102.126.10:8000/play/a06c/index.m3u8
-#EXTINF:-1 group-title="-",HUM NEWS HD
-http://66.102.126.10:8000/play/a05e/index.m3u8
-#EXTINF:-1 group-title="-",HUM Pashto 1
-http://66.102.126.10:8000/play/a02b/index.m3u8
-#EXTINF:-1 group-title="-",HUM SITARAY
-http://66.102.126.10:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="-",Hidayat TV
-http://66.102.126.10:8000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="-",History TV18 HD
-http://66.102.126.10:8000/play/a01q/index.m3u8
-#EXTINF:-1 group-title="-",Hoora TV
-http://66.102.126.10:8000/play/a02c/index.m3u8
-#EXTINF:-1 group-title="-",Hungama - Rs 2.00
-http://66.102.126.10:8000/play/a023/index.m3u8
-#EXTINF:-1 group-title="-",INPLUS Pakistan
-http://66.102.126.10:8000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="-",Investigation Discovery
-http://66.102.126.10:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="-",Isaac TV
-http://66.102.126.10:8000/play/a04j/index.m3u8
-#EXTINF:-1 group-title="-",KSA SPORT1 HD
-http://66.102.126.10:8000/play/a03o/index.m3u8
-#EXTINF:-1 group-title="-",KSA SPORT2 HD
-http://66.102.126.10:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="-",Khyber News HD
-http://66.102.126.10:8000/play/a058/index.m3u8
-#EXTINF:-1 group-title="-",Kidzone Pakistan
-http://66.102.126.10:8000/play/a02l/index.m3u8
-#EXTINF:-1 group-title="-",LTN FAMILY
-http://66.102.126.10:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="-",Lahore News HD
-http://66.102.126.10:8000/play/a04x/index.m3u8
-#EXTINF:-1 group-title="-",Lahore Rang HD
-http://66.102.126.10:8000/play/a05h/index.m3u8
-#EXTINF:-1 group-title="-",LotusTV
-http://66.102.126.10:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="-",MASALA TV
-http://66.102.126.10:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="-",MIFA + HD
-http://66.102.126.10:8000/play/a048/index.m3u8
-#EXTINF:-1 group-title="-",MIFA + HD
-http://66.102.126.10:8000/play/a047/index.m3u8
-#EXTINF:-1 group-title="-",MIFA MUSIC HD
-http://66.102.126.10:8000/play/a046/index.m3u8
-#EXTINF:-1 group-title="-",MINIMAX 2
-http://66.102.126.10:8000/play/a04o/index.m3u8
-#EXTINF:-1 group-title="-",MN+ HD - Rs 12.00
-http://66.102.126.10:8000/play/a02f/index.m3u8
-#EXTINF:-1 group-title="-",MTCL 1HD
-http://66.102.126.10:8000/play/a07m/index.m3u8
-#EXTINF:-1 group-title="-",MTCL 2HD
-http://66.102.126.10:8000/play/a07j/index.m3u8
-#EXTINF:-1 group-title="-",MTCL 3HD
-http://66.102.126.10:8000/play/a07k/index.m3u8
-#EXTINF:-1 group-title="-",MTCL 4HD
-http://66.102.126.10:8000/play/a07l/index.m3u8
-#EXTINF:-1 group-title="-",MTCL 5HD
-http://66.102.126.10:8000/play/a07i/index.m3u8
-#EXTINF:-1 group-title="-",MTCL 6HD
-http://66.102.126.10:8000/play/a07h/index.m3u8
-#EXTINF:-1 group-title="-",MTCL 8HD
-http://66.102.126.10:8000/play/a07g/index.m3u8
-#EXTINF:-1 group-title="-",MTCL7HD
-http://66.102.126.10:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="-",MUN TV
-http://66.102.126.10:8000/play/a02j/index.m3u8
-#EXTINF:-1 group-title="-",Metro 1
-
-#EXTINF:-1 group-title="-",SONY SPORTS TEN 5 Hindi HD
-http://66.102.126.10:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="-",STAR GOLD HD - Rs 19.00
-http://66.102.126.10:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="-",STAR Movies HD 
-http://66.102.126.10:8000/play/a021/index.m3u8
-#EXTINF:-1 group-title="-",STAR Movies Select HD
-http://66.102.126.10:8000/play/a020/index.m3u8
-#EXTINF:-1 group-title="-",STAR Plus HD 
-http://66.102.126.10:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="-",STAR SPORTS S1 HD
-http://66.102.126.10:8000/play/a06x/index.m3u8
-#EXTINF:-1 group-title="-",STAR SPORTS S2 HD
-http://66.102.126.10:8000/play/a06y/index.m3u8
-#EXTINF:-1 group-title="-",SUNO NEWS HD
-http://66.102.126.10:8000/play/a05n/index.m3u8
-#EXTINF:-1 group-title="-",See TV
-http://66.102.126.10:8000/play/a03y/index.m3u8
-#EXTINF:-1 group-title="-",Showbox
-http://66.102.126.10:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="-",Sindh News
-http://66.102.126.10:8000/play/a03x/index.m3u8
-#EXTINF:-1 group-title="-",Sindh TV
-http://66.102.126.10:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="-",Sonic - Rs 1.00
-http://66.102.126.10:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="-",Star Gold 2 - Rs 3.00
-http://66.102.126.10:8000/play/a00g/index.m3u8
-#EXTINF:-1 group-title="-",Star Gold 2 HD
-http://66.102.126.10:8000/play/a077/index.m3u8
-#EXTINF:-1 group-title="-",Star Gold Romance
-http://66.102.126.10:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="-",Star Gold Select HD
-http://66.102.126.10:8000/play/a01s/index.m3u8
-#EXTINF:-1 group-title="-",Star Gold Thrills
-http://66.102.126.10:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports 1 HD
-http://66.102.126.10:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports 1 Hindi 
-http://66.102.126.10:8000/play/a00i/index.m3u8
-#EXTINF:-1 group-title="-",Star Sports3 SD
-http://66.102.126.10:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="-",TLC HD
-http://66.102.126.10:8000/play/a01c/index.m3u8
-#EXTINF:-1 group-title="-",TV ONE
-http://66.102.126.10:8000/play/a055/index.m3u8
-#EXTINF:-1 group-title="-",TenSports
-http://66.102.126.10:8000/play/a018/index.m3u8
-#EXTINF:-1 group-title="-",Travelxp HD
-http://66.102.126.10:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="-",Unite8 Sports 2 HD
-http://66.102.126.10:8000/play/a01v/index.m3u8
-#EXTINF:-1 group-title="-",WASEB TV
-http://66.102.126.10:8000/play/a056/index.m3u8
-#EXTINF:-1 group-title="-",Zee Cafe HD
-http://66.102.126.10:8000/play/a076/index.m3u8
-#EXTINF:-1 group-title="-",Zee Cinema HD
-http://66.102.126.10:8000/play/a01x/index.m3u8
-#EXTINF:-1 group-title="-",Zee TV HD
-http://66.102.126.10:8000/play/a02q/index.m3u8
-#EXTINF:-1 group-title="-",iFilm English
-http://66.102.126.10:8000/play/a06n/index.m3u8
-http://66.102.126.10:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="-",NATIONAL GEOGRAPHIC HD
-http://66.102.126.10:8000/play/a01f/index.m3u8
-#EXTINF:-1 group-title="-",NEO NEWS HD
-http://66.102.126.10:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="-",NEWS ONE
-http://66.102.126.10:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="-",NOOR TV PK
-http://66.102.126.10:8000/play/a04m/index.m3u8
-#EXTINF:-1 group-title="-",Nat Geo Wild HD
-http://66.102.126.10:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="-",Nick - Rs 19.00
-http://66.102.126.10:8000/play/a01w/index.m3u8
-#EXTINF:-1 group-title="-",Nick HD+
-http://66.102.126.10:8000/play/a027/index.m3u8
-#EXTINF:-1 group-title="-",Nick Jr.
-http://66.102.126.10:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="-",ONYX HD
-http://66.102.126.10:8000/play/a041/index.m3u8
-#EXTINF:-1 group-title="-",PTV HOME HD
-http://66.102.126.10:8000/play/a04r/index.m3u8
-#EXTINF:-1 group-title="-",PTV NEWS HD
-http://66.102.126.10:8000/play/a04s/index.m3u8
-#EXTINF:-1 group-title="-",PTV WORLD HD
-http://66.102.126.10:8000/play/a04t/index.m3u8
-#EXTINF:-1 group-title="-",PTV-SPORTS-HD
-http://66.102.126.10:8000/play/a04w/index.m3u8
-#EXTINF:-1 group-title="-",Paigham Pashto
-http://66.102.126.10:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="-",Paigham Urdu
-http://66.102.126.10:8000/play/a04k/index.m3u8
-#EXTINF:-1 group-title="-",Planet Fun HD
-http://66.102.126.10:8000/play/a02k/index.m3u8
-#EXTINF:-1 group-title="-",Pogo - Rs 4.75
-http://66.102.126.10:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="-",RIVER HD
-http://66.102.126.10:8000/play/a043/index.m3u8
-#EXTINF:-1 group-title="-",ROHI TV
-http://66.102.126.10:8000/play/a05y/index.m3u8
-#EXTINF:-1 group-title="-",RUBIX HD
-http://66.102.126.10:8000/play/a042/index.m3u8
-#EXTINF:-1 group-title="-",Romedy Now - Rs 5.00
-http://66.102.126.10:8000/play/a01j/index.m3u8
-#EXTINF:-1 group-title="-",SAB TV
-http://66.102.126.10:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="-",SAMAA
-http://66.102.126.10:8000/play/a06o/index.m3u8
-#EXTINF:-1 group-title="-",SAUDI CH For Quran HD
-http://66.102.126.10:8000/play/a03m/index.m3u8
-#EXTINF:-1 group-title="-",SAUDI CH For Sunnah HD
-http://66.102.126.10:8000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="-",SET HD - Rs 19.00
-http://66.102.126.10:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="-",SONY BBC EARTH HD
-http://66.102.126.10:8000/play/a01r/index.m3u8
-#EXTINF:-1 group-title="-",SONY PIX HD - Rs 19.00
-http://66.102.126.10:8000/play/a01z/index.m3u8
-#EXTINF:-1 group-title="-",SONY SP ORTS TEN 1 HD-
-http://66.102.126.10:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="-",SONY SPORTS TEN 2 HD
-http://66.102.126.10:8000/play/a01y/index.m3u8
+#EXTINF:-1 tvg-id="null" tvg-name="Unite8 Sports 1 HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="SPORTS |  CRICKET 4k",Unite8 Sports 1 HD
+http://bosstv.click:8080/live/18012689/77561563/159168.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Unite8 Sports 2 HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/list/1920x1080list88f79d7c74df4d998da1bbd448f465ff.jpg" group-title="SPORTS |  CRICKET 4k",Unite8 Sports 2 HD
+http://bosstv.click:8080/live/18012689/77561563/172220.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket | Willow Cricket HD" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO493yyXaPrPLD7oWSmThr41ljWSNYpH7Zr4_dXjxhcEk-_.png" group-title="SPORTS |  CRICKET 4k",Cricket | Willow Cricket HD
+http://bosstv.click:8080/live/18012689/77561563/92700.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket | Willow Cricket Xtra HD" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO493yyXaPrPLD7oWSmThr41lgdbLDFRzeEgyrBJp-qz-ba.png" group-title="SPORTS |  CRICKET 4k",Cricket | Willow Cricket Xtra HD
+http://bosstv.click:8080/live/18012689/77561563/92701.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket | Astro Cricket HD" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO4946FHQ7Cebjx_LYKZ6qZKbZnpSe7PSXBC7zX1jfjclwo.png" group-title="SPORTS |  CRICKET 4k",Cricket | Astro Cricket HD
+http://bosstv.click:8080/live/18012689/77561563/92704.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket | TNT sports" tvg-logo="https://www.skycards.eu/wp-content/uploads/2023/02/Untitled-design-2023-07-27T093417.786.png" group-title="SPORTS |  CRICKET 4k",Cricket | TNT sports
+http://bosstv.click:8080/live/18012689/77561563/94404.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket | Ten Cricket HD" tvg-logo="https://jacreation.com/sports/tencricket.png" group-title="SPORTS |  CRICKET 4k",Cricket | Ten Cricket HD
+http://bosstv.click:8080/live/18012689/77561563/94407.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket | NZ: SKY Sport Cricket 3" tvg-logo="s:1:/images/kmi2y2exrDvfcDlXannyFzFlWUZwStzD_fMdsoDQ2RgjhtWDf6NkNa84sJOdr32y-aRqVtfE09R5mN_pN-Uwhd7NsZNSOd4Nlq5nyzTEQ8m1zfNc6BIZtDgXJu_u7LMTFDIlqoqXZx1yBQGcUrtXuQ.png" group-title="SPORTS |  CRICKET 4k",Cricket | NZ: SKY Sport Cricket 3
+http://bosstv.click:8080/live/18012689/77561563/94405.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket | Fox Sports 501 HD" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO499I2JA3aJqlk0LCMuP7ej3JNowCQnT4QN2qvQsllKTpx.png" group-title="SPORTS |  CRICKET 4k",Cricket | Fox Sports 501 HD
+http://bosstv.click:8080/live/18012689/77561563/92702.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket | Super Sports Cricket HD" tvg-logo="https://jacreation.com/sports/scricket.png" group-title="SPORTS |  CRICKET 4k",Cricket | Super Sports Cricket HD
+http://bosstv.click:8080/live/18012689/77561563/92703.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket | Sky Sports Cricket HD" tvg-logo="http://b1g.fun/logos2/sky_sports_cricket.jpg" group-title="SPORTS |  CRICKET 4k",Cricket | Sky Sports Cricket HD
+http://bosstv.click:8080/live/18012689/77561563/92705.ts
+#EXTINF:-1 tvg-id="Star.Sports.2.Hindi.HD.in" tvg-name="Cricket | Star Sports 1 HD HINDI" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="SPORTS |  CRICKET 4k",Cricket | Star Sports 1 HD HINDI
+http://bosstv.click:8080/live/18012689/77561563/93301.ts
+#EXTINF:-1 tvg-id="Star.Sports.2.Hindi.HD.in" tvg-name="Cricket | STAR SPORTS 2 HINDI" tvg-logo="https://tv.stream4k.cc/stalker_portal/misc/logos/320/781.png" group-title="SPORTS |  CRICKET 4k",Cricket | STAR SPORTS 2 HINDI
+http://bosstv.click:8080/live/18012689/77561563/95408.ts
+#EXTINF:-1 tvg-id="Star.Sports.1.in" tvg-name="Cricket | Star Sports 1 HD" tvg-logo="http://vplay.site:2052/images/1e33hFaez5JOt1vmQ78I_xSsPvBvrMBeBXR2Jf_U--mEz8RtUMvECh5g_O1t1nqw.png" group-title="SPORTS |  CRICKET 4k",Cricket | Star Sports 1 HD
+http://bosstv.click:8080/live/18012689/77561563/93302.ts
+#EXTINF:-1 tvg-id="Star.Sports.2.HD.in" tvg-name="Cricket | Star Sports 2 HD" tvg-logo="http://vplay.site:2052/images/I1cw7IUoJnubkLMEpVufUW7CcdMk0KLDnCfRRouvleE1_gwvrOg-pTUjQQn9bVkw.png" group-title="SPORTS |  CRICKET 4k",Cricket | Star Sports 2 HD
+http://bosstv.click:8080/live/18012689/77561563/93303.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket | Geo Super HD" tvg-logo="http://b1g.fun/logos2/geo_super.jpg" group-title="SPORTS |  CRICKET 4k",Cricket | Geo Super HD
+http://bosstv.click:8080/live/18012689/77561563/93298.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket | PTV Sports HD" tvg-logo="https://jacreation.com/sports/ptv.png" group-title="SPORTS |  CRICKET 4k",Cricket | PTV Sports HD
+http://bosstv.click:8080/live/18012689/77561563/93299.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket | TEN SPORTS HD" tvg-logo="https://jacreation.com/sports/tensports.png" group-title="SPORTS |  CRICKET 4k",Cricket | TEN SPORTS HD
+http://bosstv.click:8080/live/18012689/77561563/93300.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket | A Sports HD" tvg-logo="https://img.jacreation.com/ib/mWDVE2d8BP.png" group-title="SPORTS |  CRICKET 4k",Cricket | A Sports HD
+http://bosstv.click:8080/live/18012689/77561563/93297.ts
+#EXTINF:-1 tvg-id="Sony.Ten.1.HD.in" tvg-name="Cricket  |  SONY TEN 1 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="SPORTS |  CRICKET 4k",Cricket  |  SONY TEN 1 HD
+http://bosstv.click:8080/live/18012689/77561563/93306.ts
+#EXTINF:-1 tvg-id="Sony.Ten.2.HD.in" tvg-name="Cricket |  SONY TEN 2 HD" tvg-logo="http://vplay.site:2052/images/1e33hFaez5JOt1vmQ78I_0c_nvgKOQBsQJQmD1TKII-G2boqbweDaBgAc8LoCVmK.png" group-title="SPORTS |  CRICKET 4k",Cricket |  SONY TEN 2 HD
+http://bosstv.click:8080/live/18012689/77561563/93307.ts
+#EXTINF:-1 tvg-id="Sony.Ten.3.HD.Hindi.in" tvg-name="Cricket |  SONY TEN 3 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="SPORTS |  CRICKET 4k",Cricket |  SONY TEN 3 HD
+http://bosstv.click:8080/live/18012689/77561563/93308.ts
+#EXTINF:-1 tvg-id="Sony.Sports.Ten.4.HD.in" tvg-name="Cricket | SONY TEN 5 FHD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-108-j5fl5wwg-v3/imageContent-108-j5fl5wwg-m3.png" group-title="SPORTS |  CRICKET 4k",Cricket | SONY TEN 5 FHD
+http://bosstv.click:8080/live/18012689/77561563/93309.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket |  T-SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="SPORTS |  CRICKET 4k",Cricket |  T-SPORTS HD
+6ttp://bosstv.click:8080/live/18012689/77561563/94406.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket |  STAR SPORTS TELUGU HD" tvg-logo="https://img.jacreation.com/ib/kYyhgUq9yw.png" group-title="SPORTS |  CRICKET 4k",Cricket |  STAR SPORTS TELUGU HD
+http://bosstv.click:8080/live/18012689/77561563/96003.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket | Star Sports 1 Kannada HD" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO49xU783zU_TJqVt8Y9bYGavSioVBG4V1obhivGSlmMWDa.png" group-title="SPORTS |  CRICKET 4k",Cricket | Star Sports 1 Kannada HD
+http://bosstv.click:8080/live/18012689/77561563/96002.ts
+#EXTINF:-1 tvg-id="Star.Sports.Select.1.in" tvg-name="Cricket | Star Sports Select 1 HD" tvg-logo="http://vplay.site:2052/images/1e33hFaez5JOt1vmQ78I_xSsPvBvrMBeBXR2Jf_U--mBGm3sgrbpnZ1Gwb4kKzzpWpLzta9vEoxaOQVNjeCh5A.png" group-title="SPORTS |  CRICKET 4k",Cricket | Star Sports Select 1 HD
+http://bosstv.click:8080/live/18012689/77561563/93304.ts
+#EXTINF:-1 tvg-id="Star.Sports.Select.2.in" tvg-name="Cricket | Star Sports Select 2 HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="SPORTS |  CRICKET 4k",Cricket | Star Sports Select 2 HD
+http://bosstv.click:8080/live/18012689/77561563/93305.ts
+#EXTINF:-1 tvg-id="Star.Sports.1.Tamil.in" tvg-name="Cricket | Star Sports 1 Tamil HD" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO49xU783zU_TJqVt8Y9bYGavQn5peqZnP0w7_urBE_YGHhfeXK_hrpwQtRn1_s9jouAg.png" group-title="SPORTS |  CRICKET 4k",Cricket | Star Sports 1 Tamil HD
+http://bosstv.click:8080/live/18012689/77561563/97390.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SPORTS FANCODE" tvg-logo="https://png.pngtree.com/png-clipart/20240718/original/pngtree-cricket-logo-player-bat-boll-and-stump-png-image_15581859.png" group-title="SPORTS |  CRICKET 4k",SPORTS FANCODE
+http://bosstv.click:8080/live/18012689/77561563/150212.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SPORTS FANCODE 1" tvg-logo="https://png.pngtree.com/png-clipart/20240718/original/pngtree-cricket-logo-player-bat-boll-and-stump-png-image_15581859.png" group-title="SPORTS |  CRICKET 4k",SPORTS FANCODE 1
+http://bosstv.click:8080/live/18012689/77561563/150213.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SPORTS FANCODE 2" tvg-logo="https://png.pngtree.com/png-clipart/20240718/original/pngtree-cricket-logo-player-bat-boll-and-stump-png-image_15581859.png" group-title="SPORTS |  CRICKET 4k",SPORTS FANCODE 2
+http://bosstv.click:8080/live/18012689/77561563/150214.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SPORTS FANCODE 3" tvg-logo="https://png.pngtree.com/png-clipart/20240718/original/pngtree-cricket-logo-player-bat-boll-and-stump-png-image_15581859.png" group-title="SPORTS |  CRICKET 4k",SPORTS FANCODE 3
+http://bosstv.click:8080/live/18012689/77561563/150215.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SPORTS FANCODE 4" tvg-logo="https://png.pngtree.com/png-clipart/20240718/original/pngtree-cricket-logo-player-bat-boll-and-stump-png-image_15581859.png" group-title="SPORTS |  CRICKET 4k",SPORTS FANCODE 4
+http://bosstv.click:8080/live/18012689/77561563/150216.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SPORTS FANCODE 5" tvg-logo="https://png.pngtree.com/png-clipart/20240718/original/pngtree-cricket-logo-player-bat-boll-and-stump-png-image_15581859.png" group-title="SPORTS |  CRICKET 4k",SPORTS FANCODE 5
+http://bosstv.click:8080/live/18012689/77561563/150217.ts
+#EXTINF:-1 tvg-id="null" tvg-name="STARZPLAY 1 HD" tvg-logo="https://logo.m3uassets.com/starz.png" group-title="SPORTS |  CRICKET 4k",STARZPLAY 1 HD
+http://bosstv.click:8080/live/18012689/77561563/151932.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket |  STARZPLAY CricLife 2" tvg-logo="https://logo.m3uassets.com/starz.png" group-title="SPORTS |  CRICKET 4k",Cricket |  STARZPLAY CricLife 2
+http://bosstv.click:8080/live/18012689/77561563/95407.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Cricket |  STARZPLAY CricLife 3" tvg-logo="https://logo.m3uassets.com/starz.png" group-title="SPORTS |  CRICKET 4k",Cricket |  STARZPLAY CricLife 3
+http://bosstv.click:8080/live/18012689/77561563/95406.ts
+#EXTINF:-1 tvg-id="null" tvg-name="BeIN Sports 1" tvg-logo="http://vplay.site:2052/images/I1cw7IUoJnubkLMEpVufUQi2AlEs0R71w6YWmOpr4731VV-WcOMq2BuAEAfw-44t.png" group-title="SPORTS |  CRICKET 4k",BeIN Sports 1
+http://bosstv.click:8080/live/18012689/77561563/156125.ts
+#EXTINF:-1 tvg-id="null" tvg-name="BeIN Sports 2" tvg-logo="http://vplay.site:2052/images/I1cw7IUoJnubkLMEpVufUYj5nQK6-k-lcC5LUZ8Nt2iR4HArumzcu0KrXUakJsnl.png" group-title="SPORTS |  CRICKET 4k",BeIN Sports 2
+http://bosstv.click:8080/live/18012689/77561563/156126.ts
+#EXTINF:-1 tvg-id="null" tvg-name="BeIN Sports 3" tvg-logo="http://vplay.site:2052/images/I1cw7IUoJnubkLMEpVufUd4WDyLcjyQY-zHFfLTmDyM8RUMDSbcWtwCjNp1LMlXs.png" group-title="SPORTS |  CRICKET 4k",BeIN Sports 3
+http://bosstv.click:8080/live/18012689/77561563/156127.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Star Sports 2 Tamil" tvg-logo="http://vplay.site:2052/images/GD0DlYEWdxuSDJvaq2JMW_aIwFEED3aCuhEk7U-L01T1MXrXqWxOsCq8Kmtddz5M.png" group-title="SPORTS |  CRICKET 4k",Star Sports 2 Tamil
+http://bosstv.click:8080/live/18012689/77561563/156128.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Star Sports 2 Telugu" tvg-logo="http://vplay.site:2052/images/GD0DlYEWdxuSDJvaq2JMWy0tqRaCyzxOyu2ta_wiQ4qekytcZ3ZBIub40-2HBVqX.png" group-title="SPORTS |  CRICKET 4k",Star Sports 2 Telugu
+http://bosstv.click:8080/live/18012689/77561563/156129.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Star Sports 2  Kannada" tvg-logo="http://vplay.site:2052/images/I1cw7IUoJnubkLMEpVufUXSlEU3SAvw8yOyeSnht_fGQrZzCdJzlzDEEBGWxromk.png" group-title="SPORTS |  CRICKET 4k",Star Sports 2  Kannada
+http://bosstv.click:8080/live/18012689/77561563/156130.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SONY TEN 4  Tamil" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO49yG5PjW0_o5N2wAwXADAnhJv1Hj_IP6Xj3xF7aC1NZXp.png" group-title="SPORTS |  CRICKET 4k",SONY TEN 4  Tamil
+http://bosstv.click:8080/live/18012689/77561563/156131.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SONY TEN 4 Telugu" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO49yG5PjW0_o5N2wAwXADAnhJv1Hj_IP6Xj3xF7aC1NZXp.png" group-title="SPORTS |  CRICKET 4k",SONY TEN 4 Telugu
+http://bosstv.click:8080/live/18012689/77561563/156132.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SONY TEN 4 English" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO49yG5PjW0_o5N2wAwXADAnhJv1Hj_IP6Xj3xF7aC1NZXp.png" group-title="SPORTS |  CRICKET 4k",SONY TEN 4 English
+http://bosstv.click:8080/live/18012689/77561563/156133.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SONY TEN 4 Hindi" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO49yG5PjW0_o5N2wAwXADAnhJv1Hj_IP6Xj3xF7aC1NZXp.png" group-title="SPORTS |  CRICKET 4k",SONY TEN 4 Hindi
+http://bosstv.click:8080/live/18012689/77561563/156134.ts
+#EXTINF:-1 tvg-id="null" tvg-name="FOX CRICKET 501" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO499I2JA3aJqlk0LCMuP7ej3JNowCQnT4QN2qvQsllKTpx.png" group-title="SPORTS |  CRICKET 4k",FOX CRICKET 501
+http://bosstv.click:8080/live/18012689/77561563/158830.ts
+#EXTINF:-1 tvg-id="null" tvg-name="FOX SPORTS 502 HD" tvg-logo="http://vplay.site:2052/images/uqlXlmh9DDX12vCB2Itc9_pGM40gMMabSNSo-yeUXbEFqxlzzjMRYIKke3RK3Cps.png" group-title="SPORTS |  CRICKET 4k",FOX SPORTS 502 HD
+http://bosstv.click:8080/live/18012689/77561563/158831.ts
+#EXTINF:-1 tvg-id="null" tvg-name="FOX SPORTS 503 HD" tvg-logo="http://vplay.site:2052/images/LfUrL5eCSQZ7CeJJ-GdgjGYK--ja0k-Zxdr2TGQEAL2dSqdYpeG9ZhNoEWTK_NR4.png" group-title="SPORTS |  CRICKET 4k",FOX SPORTS 503 HD
+http://bosstv.click:8080/live/18012689/77561563/158832.ts
+#EXTINF:-1 tvg-id="null" tvg-name="FOX SPORTS 504 HD" tvg-logo="http://vplay.site:2052/images/LfUrL5eCSQZ7CeJJ-GdgjGYK--ja0k-Zxdr2TGQEAL2dSqdYpeG9ZhNoEWTK_NR4.png" group-title="SPORTS |  CRICKET 4k",FOX SPORTS 504 HD
+http://bosstv.click:8080/live/18012689/77561563/158833.ts
+#EXTINF:-1 tvg-id="null" tvg-name="FOX SPORTS 505 HD" tvg-logo="http://vplay.site:2052/images/uqlXlmh9DDX12vCB2Itc9_pGM40gMMabSNSo-yeUXbEFqxlzzjMRYIKke3RK3Cps.png" group-title="SPORTS |  CRICKET 4k",FOX SPORTS 505 HD
+http://bosstv.click:8080/live/18012689/77561563/158834.ts
+#EXTINF:-1 tvg-id="null" tvg-name="FOX SPORTS 506 HD" tvg-logo="http://vplay.site:2052/images/uqlXlmh9DDX12vCB2Itc9_pGM40gMMabSNSo-yeUXbEFqxlzzjMRYIKke3RK3Cps.png" group-title="SPORTS |  CRICKET 4k",FOX SPORTS 506 HD
+http://bosstv.click:8080/live/18012689/77561563/158835.ts
+#EXTINF:-1 tvg-id="null" tvg-name="FOX SPORTS 507 HD" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO499I2JA3aJqlk0LCMuP7ej3JNowCQnT4QN2qvQsllKTpx.png" group-title="SPORTS |  CRICKET 4k",FOX SPORTS 507 HD
+http://bosstv.click:8080/live/18012689/77561563/158836.ts
+#EXTINF:-1 tvg-id="null" tvg-name="WWE" tvg-logo="http://vplay.site:2052/images/GD0DlYEWdxuSDJvaq2JMW6SjCYbRqxiqFdvLNP93Gpm8qwk1c2ehLG4Gu2_tbZxy.png" group-title="SPORTS |  CRICKET 4k",WWE
+http://bosstv.click:8080/live/18012689/77561563/158837.ts
+#EXTINF:-1 tvg-id="null" tvg-name="IPL Match 2026 ( Match Time Only )" tvg-logo="http://vplay.site:2052/images/jLvPNItmVx0weYM3RmwdPIfxOE4pVZg_mwf5D5Lk5kj6uIzQfclYyDuyX3ftWxQW.png" group-title="SPORTS |  CRICKET 4k",IPL Match 2026 ( Match Time Only )
+http://bosstv.click:8080/live/18012689/77561563/158838.ts
+#EXTINF:-1 tvg-id="null" tvg-name="STAR 4K" tvg-logo="https://pbs.twimg.com/media/FsX9QIyXoAE44Qw.jpg" group-title="BOSTV | 24x7 | CRICKET |",STAR 4K
+http://bosstv.click:8080/live/18012689/77561563/157479.ts
+#EXTINF:-1 tvg-id="null" tvg-name="STAR SPORTS 1 HINDI |SERVER 2|" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="BOSTV | 24x7 | CRICKET |",STAR SPORTS 1 HINDI |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157480.ts
+#EXTINF:-1 tvg-id="null" tvg-name="STAR SPORTS 2 HINDI |SERVER 1|" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/27239498611.png" group-title="BOSTV | 24x7 | CRICKET |",STAR SPORTS 2 HINDI |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157481.ts
+#EXTINF:-1 tvg-id="null" tvg-name="STAR SPORTS 2 HINDI |SERVER 2|" tvg-logo="http://img-cdn.curl.pk:8880/channels_icon/27239498611.png" group-title="BOSTV | 24x7 | CRICKET |",STAR SPORTS 2 HINDI |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157482.ts
+#EXTINF:-1 tvg-id="null" tvg-name="STAR SPORTS 1 ENG |SERVER 1|" tvg-logo="http://vplay.site:2052/images/1e33hFaez5JOt1vmQ78I_xSsPvBvrMBeBXR2Jf_U--mEz8RtUMvECh5g_O1t1nqw.png" group-title="BOSTV | 24x7 | CRICKET |",STAR SPORTS 1 ENG |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157483.ts
+#EXTINF:-1 tvg-id="null" tvg-name="STAR SPORTS 1 ENG |SERVER 2|" tvg-logo="http://vplay.site:2052/images/1e33hFaez5JOt1vmQ78I_xSsPvBvrMBeBXR2Jf_U--mEz8RtUMvECh5g_O1t1nqw.png" group-title="BOSTV | 24x7 | CRICKET |",STAR SPORTS 1 ENG |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157484.ts
+#EXTINF:-1 tvg-id="null" tvg-name="STAR SPORTS 2 ENG |SERVER 1|" tvg-logo="http://vplay.site:2052/images/I1cw7IUoJnubkLMEpVufUW7CcdMk0KLDnCfRRouvleE1_gwvrOg-pTUjQQn9bVkw.png" group-title="BOSTV | 24x7 | CRICKET |",STAR SPORTS 2 ENG |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157485.ts
+#EXTINF:-1 tvg-id="null" tvg-name="STAR SPORTS 2 ENG |SERVER 2|" tvg-logo="http://vplay.site:2052/images/I1cw7IUoJnubkLMEpVufUW7CcdMk0KLDnCfRRouvleE1_gwvrOg-pTUjQQn9bVkw.png" group-title="BOSTV | 24x7 | CRICKET |",STAR SPORTS 2 ENG |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157486.ts
+#EXTINF:-1 tvg-id="null" tvg-name="TEN SPORTS |SERVER 1|" tvg-logo="https://jacreation.com/sports/tensports.png" group-title="BOSTV | 24x7 | CRICKET |",TEN SPORTS |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157348.ts
+#EXTINF:-1 tvg-id="null" tvg-name="TEN SPORTS |SERVER 2|" tvg-logo="https://jacreation.com/sports/tensports.png" group-title="BOSTV | 24x7 | CRICKET |",TEN SPORTS |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157349.ts
+#EXTINF:-1 tvg-id="null" tvg-name="PTV SPORTS |SERVER 1|" tvg-logo="https://jacreation.com/sports/ptv.png" group-title="BOSTV | 24x7 | CRICKET |",PTV SPORTS |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157350.ts
+#EXTINF:-1 tvg-id="null" tvg-name="PTV SPORTS |SERVER 2|" tvg-logo="https://jacreation.com/sports/ptv.png" group-title="BOSTV | 24x7 | CRICKET |",PTV SPORTS |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157351.ts
+#EXTINF:-1 tvg-id="null" tvg-name="A SPORTS |SERVER 1|" tvg-logo="https://img.jacreation.com/ib/mWDVE2d8BP.png" group-title="BOSTV | 24x7 | CRICKET |",A SPORTS |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157352.ts
+#EXTINF:-1 tvg-id="null" tvg-name="A SPORTS |SERVER 2|" tvg-logo="https://img.jacreation.com/ib/mWDVE2d8BP.png" group-title="BOSTV | 24x7 | CRICKET |",A SPORTS |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157353.ts
+#EXTINF:-1 tvg-id="null" tvg-name="GEO SUPER |SERVER 1|" tvg-logo="https://logo.m3uassets.com/geosuper.png" group-title="BOSTV | 24x7 | CRICKET |",GEO SUPER |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157354.ts
+#EXTINF:-1 tvg-id="null" tvg-name="GEO SUPER |SERVER 2|" tvg-logo="https://logo.m3uassets.com/geosuper.png" group-title="BOSTV | 24x7 | CRICKET |",GEO SUPER |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157355.ts
+#EXTINF:-1 tvg-id="null" tvg-name="ASTRO CRICKET |SERVER 1|" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO4946FHQ7Cebjx_LYKZ6qZKbZnpSe7PSXBC7zX1jfjclwo.png" group-title="BOSTV | 24x7 | CRICKET |",ASTRO CRICKET |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157356.ts
+#EXTINF:-1 tvg-id="null" tvg-name="ASTRO CRICKET |SERVER 2|" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO4946FHQ7Cebjx_LYKZ6qZKbZnpSe7PSXBC7zX1jfjclwo.png" group-title="BOSTV | 24x7 | CRICKET |",ASTRO CRICKET |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157357.ts
+#EXTINF:-1 tvg-id="null" tvg-name="WILLOW CRICKET |SERVER 1|" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO493yyXaPrPLD7oWSmThr41ljWSNYpH7Zr4_dXjxhcEk-_.png" group-title="BOSTV | 24x7 | CRICKET |",WILLOW CRICKET |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157358.ts
+#EXTINF:-1 tvg-id="null" tvg-name="WILLOW CRICKET |SERVER 2|" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO493yyXaPrPLD7oWSmThr41ljWSNYpH7Zr4_dXjxhcEk-_.png" group-title="BOSTV | 24x7 | CRICKET |",WILLOW CRICKET |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157359.ts
+#EXTINF:-1 tvg-id="null" tvg-name="WILLOW EXTRA |SERVER 1|" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO493yyXaPrPLD7oWSmThr41lgdbLDFRzeEgyrBJp-qz-ba.png" group-title="BOSTV | 24x7 | CRICKET |",WILLOW EXTRA |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157360.ts
+#EXTINF:-1 tvg-id="null" tvg-name="WILLOW EXTRA |SERVER 2|" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO493yyXaPrPLD7oWSmThr41lgdbLDFRzeEgyrBJp-qz-ba.png" group-title="BOSTV | 24x7 | CRICKET |",WILLOW EXTRA |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157361.ts
+#EXTINF:-1 tvg-id="null" tvg-name="FOX CRICKET |SERVER 1|" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO499I2JA3aJqlk0LCMuP7ej3JNowCQnT4QN2qvQsllKTpx.png" group-title="BOSTV | 24x7 | CRICKET |",FOX CRICKET |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157362.ts
+#EXTINF:-1 tvg-id="null" tvg-name="FOX CRICKET |SERVER 2|" tvg-logo="http://vplay.site:2052/images/Ge08vpI2Z44hU23OXCO499I2JA3aJqlk0LCMuP7ej3JNowCQnT4QN2qvQsllKTpx.png" group-title="BOSTV | 24x7 | CRICKET |",FOX CRICKET |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157363.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SUPER CRICKET |SERVER 1|" tvg-logo="https://jacreation.com/sports/scricket.png" group-title="BOSTV | 24x7 | CRICKET |",SUPER CRICKET |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157364.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SUPER CRICKET |SERVER 2|" tvg-logo="https://jacreation.com/sports/scricket.png" group-title="BOSTV | 24x7 | CRICKET |",SUPER CRICKET |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157365.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SKY SPORT CRICKET |SERVER 1|" tvg-logo="http://vpncloud.uk/stalker_portal/misc/logos/320/346.jpg" group-title="BOSTV | 24x7 | CRICKET |",SKY SPORT CRICKET |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157366.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SKY SPORT CRICKET |SERVER 2|" tvg-logo="http://vpncloud.uk/stalker_portal/misc/logos/320/346.jpg" group-title="BOSTV | 24x7 | CRICKET |",SKY SPORT CRICKET |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157367.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SKY SPORT 3 |SERVER 1|" tvg-logo="http://vpncloud.uk/stalker_portal/misc/logos/320/4053.jpg" group-title="BOSTV | 24x7 | CRICKET |",SKY SPORT 3 |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157368.ts
+#EXTINF:-1 tvg-id="null" tvg-name="SKY SPORT 3 |SERVER 2|" tvg-logo="http://vpncloud.uk/stalker_portal/misc/logos/320/4053.jpg" group-title="BOSTV | 24x7 | CRICKET |",SKY SPORT 3 |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157369.ts
+#EXTINF:-1 tvg-id="null" tvg-name="BD T SPORT |SERVER 1|" group-title="BOSTV | 24x7 | CRICKET |",BD T SPORT |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157370.ts
+#EXTINF:-1 tvg-id="null" tvg-name="BD T SPORT |SERVER 2|" group-title="BOSTV | 24x7 | CRICKET |",BD T SPORT |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157371.ts
+#EXTINF:-1 tvg-id="null" tvg-name="TNT SPORT 1 |SERVER 1|" tvg-logo="https://frontend-assets.clipsource.com/612dda2e469cb/dis-613765c33c1ce/2025/01/28/6798b02c49b1d_thumbnail.jpeg" group-title="BOSTV | 24x7 | CRICKET |",TNT SPORT 1 |SERVER 1|
+http://bosstv.click:8080/live/18012689/77561563/157477.ts
+#EXTINF:-1 tvg-id="null" tvg-name="TNT SPORT 1 |SERVER 2|" tvg-logo="https://frontend-assets.clipsource.com/612dda2e469cb/dis-613765c33c1ce/2025/01/28/6798b02c49b1d_thumbnail.jpeg" group-title="BOSTV | 24x7 | CRICKET |",TNT SPORT 1 |SERVER 2|
+http://bosstv.click:8080/live/18012689/77561563/157478.ts
+#EXTINF:-1 tvg-id="Star.Sports.1.Hindi.HD.in" tvg-name="Star Sports 1 Hindi 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Star Sports 1 Hindi 4K Ultra HD
+http://bosstv.click:8080/live/18012689/77561563/74228.ts
+#EXTINF:-1 tvg-id="Star.Sports.1.HD.in" tvg-name="Star Sports 1 Eng 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Star Sports 1 Eng 4K Ultra HD
+http://bosstv.click:8080/live/18012689/77561563/74227.ts
+#EXTINF:-1 tvg-id="Star.Sports.2.HD.in" tvg-name="Star Sports 2 Eng 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1021-j5nj3c68-v1/imageContent-1021-j5nj3c68-m1.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Star Sports 2 Eng 4K Ultra HD
+http://bosstv.click:8080/live/18012689/77561563/74229.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Star Sports 3 4K Ultra HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e-WPbwXmOPuPk3hUUS6GhnET5NpcpAtaig&usqp=CAU" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Star Sports 3 4K Ultra HD
+http://bosstv.click:8080/live/18012689/77561563/74230.ts
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.1.HD.in" tvg-name="Sony Ten 1 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-261-j5fz9bvk-v4/imageContent-261-j5fz9bvk-m4.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Sony Ten 1 4K Ultra HD
+http://bosstv.click:8080/live/18012689/77561563/74233.ts
+#EXTINF:-1 tvg-id="CNBC.TV18.Prime.in" tvg-name="Sony Ten 2 4K Ultra HD" tvg-logo="s:1:/images/5AijAPPfr-Q8aTw0nAfL5ZTIgKnhrolxRCNrqNO547dA_pZxHtWI_aXX1qLb2lKmyQMgVobUTm0pC2o6Y5Y7brR6q2cKwd0bpA_7KMIx68LPbayaGDyatBoy1q8JZ12WCradWwUyDpahwa0LR-tXg3SrAZTWb5Snb1nkRnUJaXXFlAvt7396IGdtjx9IJ-EG_8THMBtA0YEjfuMkULcFbg.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Sony Ten 2 4K Ultra HD
+http://bosstv.click:8080/live/18012689/77561563/74234.ts
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.3.HD.in" tvg-name="Sony Ten 3 4K Ultra HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Sony Ten 3 4K Ultra HD
+http://bosstv.click:8080/live/18012689/77561563/74235.ts
+#EXTINF:-1 tvg-id="SONY.SPORTS.TEN.5.HD.in" tvg-name="Sony Six 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Sony Six 4K Ultra HD
+http://bosstv.click:8080/live/18012689/77561563/74236.ts
+#EXTINF:-1 tvg-id="Star.Sports.Select.1.HD.in" tvg-name="Star Sports Select 1 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Star Sports Select 1 4K Ultra HD
+http://bosstv.click:8080/live/18012689/77561563/74231.ts
+#EXTINF:-1 tvg-id="Star.Sports.Select.2.HD.in" tvg-name="Star Sports Select 2 4K Ultra HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Star Sports Select 2 4K Ultra HD
+http://bosstv.click:8080/live/18012689/77561563/74232.ts
+#EXTINF:-1 tvg-id="null" tvg-name="IN: Willow Cricket ᴴᴰ" tvg-logo="s:1:/images/B2msPZE1YfHPd8D2yRsfeMWrEteWG8CvCeD_eX4yswT4I513OkcRwFHUQ6KGZ2siP7F_D85pGM4tANldOekRvw.jpg" group-title="SPORTS |  INDIAN - PAKISTAN 4k",IN: Willow Cricket ᴴᴰ
+http://bosstv.click:8080/live/18012689/77561563/74237.ts
+#EXTINF:-1 tvg-id="CNBC.TV18.Prime.in" tvg-name="Euro Sports HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/f34372189603517.65ae4cb21dd03.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Euro Sports HD
+http://bosstv.click:8080/live/18012689/77561563/119743.ts
+#EXTINF:-1 tvg-id="DD.Sports.in" tvg-name="IN: DD SPORTS" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",IN: DD SPORTS
+http://bosstv.click:8080/live/18012689/77561563/74240.ts
+#EXTINF:-1 tvg-id="null" tvg-name="ARY SPORTS 4K Ultra HD" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2021/10/asportshd001.jpg" group-title="SPORTS |  INDIAN - PAKISTAN 4k",ARY SPORTS 4K Ultra HD
+http://bosstv.click:8080/live/18012689/77561563/75439.ts
+#EXTINF:-1 tvg-id="null" tvg-name="PTV Sports 4K Ultra HD" tvg-logo="https://lh3.googleusercontent.com/rrlbBpemNMC7TQGb9AoL8jXXQ1dXXwYb-nCRrtNdZp1twkqQE9flw2ka6MI70a5pPA" group-title="SPORTS |  INDIAN - PAKISTAN 4k",PTV Sports 4K Ultra HD
+http://bosstv.click:8080/live/18012689/77561563/75438.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Geo Super 4K Ultra HD" tvg-logo="http://bostv.one:8080/images/fa5fda8475d2bccee7c6f39854bf057b.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Geo Super 4K Ultra HD
+http://bosstv.click:8080/live/18012689/77561563/81552.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Ten Sports 4K Ultra HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNaicott6RUuaQXsm0YUZ9Ora2ErkD6MDgbg&usqp=CAU" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Ten Sports 4K Ultra HD
+http://bosstv.click:8080/live/18012689/77561563/74238.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Pak: Fast sports HD" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Pak: Fast sports HD
+http://bosstv.click:8080/live/18012689/77561563/131316.ts
+#EXTINF:-1 tvg-id="null" tvg-name="WWE" tvg-logo="s:1:/images/MIO1EAJi-RPG5YDCaFL_ZaKqtkS41blDliVMsO71rEI7rkLE6MDYOELYK6E4Rmc7v37yMX9MzWt0YpcGPTWWdh3QNG-Hx5Ha6DIGa_bZDIA.jpg" group-title="SPORTS |  INDIAN - PAKISTAN 4k",WWE
+http://bosstv.click:8080/live/18012689/77561563/127038.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Star Sports 2 Hindi" tvg-logo="http://103.180.212.168:8885/jtvimage/Sports18_1_SD.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Star Sports 2 Hindi
+http://bosstv.click:8080/live/18012689/77561563/131317.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Star Sports 2 Telugu" tvg-logo="http://103.180.212.168:8885/jtvimage/Sports18_2.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Star Sports 2 Telugu
+http://bosstv.click:8080/live/18012689/77561563/131319.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Jio Sports HD" tvg-logo="http://103.180.212.168:8885/jtvimage/Jio_Sports.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Jio Sports HD
+http://bosstv.click:8080/live/18012689/77561563/131320.ts
+#EXTINF:-1 tvg-id="null" tvg-name="Star Sports Khel" tvg-logo="http://103.180.212.168:8885/jtvimage/Sports18_Khel.png" group-title="SPORTS |  INDIAN - PAKISTAN 4k",Star Sports Khel
+http://bosstv.click:8080/live/18012689/77561563/131318.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 1" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SPORTS | NZ",NZ | SKY SPORTS 1
+http://bosstv.click:8080/live/18012689/77561563/172839.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 2" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="SPORTS | NZ",NZ | SKY SPORTS 2
+http://bosstv.click:8080/live/18012689/77561563/172840.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 3" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="SPORTS | NZ",NZ | SKY SPORTS 3
+http://bosstv.click:8080/live/18012689/77561563/172841.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 4" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="SPORTS | NZ",NZ | SKY SPORTS 4
+http://bosstv.click:8080/live/18012689/77561563/172842.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 5" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="SPORTS | NZ",NZ | SKY SPORTS 5
+http://bosstv.click:8080/live/18012689/77561563/172843.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 6" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="SPORTS | NZ",NZ | SKY SPORTS 6
+http://bosstv.click:8080/live/18012689/77561563/172844.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 7" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="SPORTS | NZ",NZ | SKY SPORTS 7
+http://bosstv.click:8080/live/18012689/77561563/172845.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 8" tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="SPORTS | NZ",NZ | SKY SPORTS 8
+http://bosstv.click:8080/live/18012689/77561563/172846.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 9" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="SPORTS | NZ",NZ | SKY SPORTS 9
+http://bosstv.click:8080/live/18012689/77561563/172847.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 10" group-title="SPORTS | NZ",NZ | SKY SPORTS 10
+http://bosstv.click:8080/live/18012689/77561563/172848.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 11" group-title="SPORTS | NZ",NZ | SKY SPORTS 11
+http://bosstv.click:8080/live/18012689/77561563/172849.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 12" group-title="SPORTS | NZ",NZ | SKY SPORTS 12
+http://bosstv.click:8080/live/18012689/77561563/172850.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 13" group-title="SPORTS | NZ",NZ | SKY SPORTS 13
+http://bosstv.click:8080/live/18012689/77561563/172851.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 14" group-title="SPORTS | NZ",NZ | SKY SPORTS 14
+http://bosstv.click:8080/live/18012689/77561563/172852.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS 15" group-title="SPORTS | NZ",NZ | SKY SPORTS 15
+http://bosstv.click:8080/live/18012689/77561563/172853.ts
+#EXTINF:-1 tvg-id="null" tvg-name="NZ | SKY SPORTS SELECT" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_news.png" group-title="SPORTS | NZ",NZ | SKY SPORTS SELECT
+http://bosstv.click:8080/live/18012689/77561563/172854.ts
