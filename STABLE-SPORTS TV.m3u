@@ -1,7 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-19488" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936106751020x576.jpg" group-title="Football", East Bengal FC (IND) vs Al Seeb Club (OMA) - MATCHDAY 4 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19708" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936480811020x576.jpg" group-title="Football", Esteghlal FC (IRN) vs Al Shamal SC (QAT) - MATCHDAY 4 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19493" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936110601020x576.jpg" group-title="Football", Al Hussein (JOR) vs Al Shorta (IRQ) - MATCHDAY 4 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/7f266367-077c-4acb-b29a-73437a80419b.png",SAFF Live 1
 https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793718350~Starts=1793718050~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=AcAbCFfrNxTUuqcQbc_rCvKvMZaCSgOBYV4bZguNEaH6C7qbq2EBPgPNqAuSy8kHOD3b5rswEDrcBQ0LTuqfBA
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League
