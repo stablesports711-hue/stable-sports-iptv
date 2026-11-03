@@ -1,9 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-19678" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936460531020x576.jpg" group-title="Football", Newcastle Jets FC (AUS) vs Shanghai Port FC (CHN) - MATCHDAY 4 - AFC Champions League Elite 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-19693" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936465401020x576.jpg" group-title="Football", Kashiwa Reysol (JPN) vs Daejeon Hana Citizen FC(KOR) - MATCHDAY 4 - AFC Champions League Elite 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad5/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-19688" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936470291020x576.jpg" group-title="Football", Vissel Kobe (JPN) vs Ratchaburi FC (THA) - MATCHDAY 4 - AFC Champions League Elite 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad4/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-19683" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936465551020x576.jpg" group-title="Football", Jeonbuk Hyundai Motors FC (KOR) vs Johor Darul Ta'zim FC (MAS) - MATCHDAY 4 - AFC Champions League Elite 2026/27
+https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/7f266367-077c-4acb-b29a-73437a80419b.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793696744~Starts=1793696444~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=_unOsqfBYr6xiKbfj6UZBsTyXThh8txtI9burbOFhsfny6q7tLnXvUVlz90m8Slix9TfZl9jStjYajFwtmk2Dw
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793700348~Starts=1793700048~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=bAqPytIDXTNPwZqB0DEmkbkPlO2KzYf6NhTeyOpKM2_B5RlvXgajhiZdmLfZIMAnRrfeLUZ3lNO2ugF0AseBBw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League
 https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8
 
