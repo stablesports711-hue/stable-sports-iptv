@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-19703" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936471311020x576.jpg" group-title="Football", Cong An Ha Noi FC (VIE) vs Kyoto Sanga F.C.(JPN) - MATCHDAY 4 - AFC Champions League Elite 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad2/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19698" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936475671020x576.jpg" group-title="Football", Port FC (THA) vs Beijing FC (CHN) - MATCHDAY 4 - AFC Champions League Elite 2026/27
-https://d8j84o343a5m2.cloudfront.net/live/testtapmad3/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19488" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936106751020x576.jpg" group-title="Football", East Bengal FC (IND) vs Al Seeb Club (OMA) - MATCHDAY 4 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/7f266367-077c-4acb-b29a-73437a80419b.png",SAFF Live 1
