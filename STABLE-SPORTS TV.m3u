@@ -4,23 +4,10 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e47ceb54765083a28c09a2b62bf8447f:543f661537bb92a2767158513d3a6705
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/uwfep5hlhr/out/v1/38785086c34c4936b868d81fac5abd52/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-19392" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932574001020x576.jpg" group-title="Football", Viking vs Sabah - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19391" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932572701020x576.jpg" group-title="Football", Slavia Praha vs Arsenal - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19390" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932571491020x576.jpg" group-title="Football", Lens vs Como - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19389" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932570281020x576.jpg" group-title="Football", RB Leipzig vs Manchester City - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19388" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932569031020x576.jpg" group-title="Football", PSV Eindhoven vs Club Brugge - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19387" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932565051020x576.jpg" group-title="Football", Porto vs Napoli - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19386" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932563341020x576.jpg" group-title="Football", Borussia Dortmund vs Real Betis - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uwfep5hlhr/out/v1/38785086c34c4936b868d81fac5abd52/cenc.mpd
+
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/7f266367-077c-4acb-b29a-73437a80419b.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793826344~Starts=1793826044~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=DhRxqzAHy8DRyOoPOM0-nhdyFkYQPiX62FJQuWUDdStEG2JzaQBRqsQPM5qITQXOUwMtpinGiEgvIs3S0Y36DQ
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793829947~Starts=1793829647~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=8Y91mFD2MrLEVqULr5GTzdory1ZXl7kmXTjL4sgUq26zhHuQbtUCDIhy7SQ3pKcoW7-BOBRYYc5URGJ7pk10Cw
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League
 https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8
 
