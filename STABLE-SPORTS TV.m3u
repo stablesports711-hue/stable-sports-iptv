@@ -5,10 +5,6 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7bebaee3bacc37f18cbc0224b595c02:32e48253d959a5202a384f50198367a9
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-19385" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932561221020x576.jpg" group-title="Football", Fenerbahce vs Liverpool - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19384" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932560071020x576.jpg" group-title="Football", AEK Athens vs Real Madrid - MATCHDAY 3 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19533" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936519101020x576.jpg" group-title="Football", Al Muharraq SC (BHR) vs Al Jazira Club (UAE) - MATCHDAY 4 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19528" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936514251020x576.jpg" group-title="Football", Al Taawoun FC (KSA) vs Al Faisaly (JOR) - MATCHDAY 4 - AFC Champions League Two 2026/27
@@ -28,7 +24,7 @@ https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea
 #EXTINF:-1 tvg-id="tapmad-19386" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17932563341020x576.jpg" group-title="Football", Borussia Dortmund vs Real Betis - MATCHDAY 3 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/7f266367-077c-4acb-b29a-73437a80419b.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793819144~Starts=1793818844~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=rGuAywJUgmsXogSTXo86luIsNdXOY74VtfNjx_WXqb3jin0zHwyzQPU11TYzY5smcsPIeDDuOFa8I3_nMvLXDw
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793822746~Starts=1793822446~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=uvEyTb473Qj3t8G2LsFhZEkNiCY618UGMfcvcWnZy_BiZwJwqG7kaLOWtsA6l-1U8T_y0f6-J455fBs7RvUwCg
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League
 https://ottnlive-fstream.nettvstreamz.com/live_hls/npl_match_3/index.m3u8
 
