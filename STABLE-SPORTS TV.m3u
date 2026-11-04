@@ -4,15 +4,13 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3bbeb16c18d825f04b51b17b67baf5a:f744722c08e3d13fecfa59de5436cce7
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-19186" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937742821020x576.jpg" group-title="Cricket", Hobart Hurricanes vs Melbourne Renegades - Group Stage - Women's Big Bash League 2026
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19718" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937767231020x576.jpg" group-title="Football", FC Pohang Steelers (KOR) vs Gamba Osaka (JPN) - MATCHDAY 4 - AFC Champions League Elite 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19503" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936492951020x576.jpg" group-title="Football", FC Seoul (KOR) vs The Cong - Viettel FC (VIE) - MATCHDAY 4 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fp3yc5p9tv/out/v1/6b56556dd5304f8897403a55a27298e3/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19264" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937797651020x576.jpg" group-title="Football", Kaya FC-Iliolo (PHI) vs Melbourne City FC (AUS) - MATCHDAY 2 - AFC Women's Champions League 2026/27
 https://bpl24middleeast.akamaized.net/hls/live/2109311/tapmad-PAKvsWI-BKd2-TesT/master.m3u8
+#EXTINF:-1 tvg-id="tapmad-19723" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937770031020x576.jpg" group-title="Football", Buriram United (THA) vs Kashima Antlers (JPN) - MATCHDAY 4 - AFC Champions League Elite 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19269" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937816751020x576.jpg" group-title="Football", Ayeyawady FC - Women (MYA) vs INAC Kobe Leonessa (JPN) - MATCHDAY 2 - AFC Women's Champions League 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/7f266367-077c-4acb-b29a-73437a80419b.png",SAFF Live 1
 https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793783144~Starts=1793782844~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=fvbeAjSwSJPzrWu_ZNtr4460ouW0rAm693HzGsuRDH7CAxugFXAdkQUpexiws-KlsaPw27h7jb-c7Qo6cuh7Cg
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League
