@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7bebaee3bacc37f18cbc0224b595c02:32e48253d959a5202a384f50198367a9
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/flrfyrqbio/out/v1/b8f020a0dce34bcfa58227c2c4033a95/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19279" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937822261020x576.jpg" group-title="Football", PFC Nasaf (UZB) vs Beijing Jingtan Football Club (CHN) - MATCHDAY 2 - AFC Women's Champions League 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19274" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937819971020x576.jpg" group-title="Football", East Bengal FC (IND) vs Hwacheon KSPO WFC (KOR) - MATCHDAY 2 - AFC Women's Champions League 2026/27
