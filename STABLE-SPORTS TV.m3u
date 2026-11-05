@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HMNN211T" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
+#EXTINF:-1 tvg-id="B0HP3SQFKP" tvg-name="USA Seniors Cricket NPL 2026 - 4th Match - Mighty Dallas vs Seattle Moose" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3f98b51a-087f-4074-bcb6-e12176c2bbc4/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",USA Seniors Cricket NPL 2026 - 4th Match - Mighty Dallas vs Seattle Moose
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=502b22d3cada61e1dd3c24e4dc37b128:edbeec19a62d033903fe6436abfb9fd6
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f4aaa86c309f1c09cfddb3089a7c0a2b:2e8c6603f159d7a5ec0aa7017e8bd75e
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/djmxsq7adn/out/v1/659ccf21235e451f8a3baae36096c7db/cenc.mpd
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[Myco]
 https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/
