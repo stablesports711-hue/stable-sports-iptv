@@ -1,10 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HP3SQFKP" tvg-name="USA Seniors Cricket NPL 2026 - 4th Match - Mighty Dallas vs Seattle Moose" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3f98b51a-087f-4074-bcb6-e12176c2bbc4/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",USA Seniors Cricket NPL 2026 - 4th Match - Mighty Dallas vs Seattle Moose
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4aaa86c309f1c09cfddb3089a7c0a2b:2e8c6603f159d7a5ec0aa7017e8bd75e
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/djmxsq7adn/out/v1/659ccf21235e451f8a3baae36096c7db/cenc.mpd
+
 #EXTINF:-1 tvg-id="tapmad-19849" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937366941020x576.jpg" group-title="Football", Levski Sofia vs Jagiellonia Bialystok - MATCHDAY 4 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19848" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937363731020x576.jpg" group-title="Football", Real Sociedad vs OL - MATCHDAY 4 - UEFA Europa League 2026/27
@@ -21,6 +16,20 @@ https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19842" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937349951020x576.jpg" group-title="Football", Lillestrom vs Viktoria Plzen - MATCHDAY 4 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19858" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937387081020x576.jpg" group-title="Football", Benfica vs Lech Poznan - MATCHDAY 4 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19857" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937385471020x576.jpg" group-title="Football", Leverkusen vs Marseille - MATCHDAY 4 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19856" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937382181020x576.jpg" group-title="Football", AZ Alkmaar vs Juventus - MATCHDAY 4 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19855" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937380011020x576.jpg" group-title="Football", H. Beer-Sheva vs OFI - MATCHDAY 4 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19854" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937376421020x576.jpg" group-title="Football", Sturm Graz vs Celje - MATCHDAY 4 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19853" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937374371020x576.jpg" group-title="Football", Celtic vs Besiktas - MATCHDAY 4 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19852" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937372611020x576.jpg" group-title="Football", Sunderland vs Dinamo Zagreb - MATCHDAY 4 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[Myco]
 https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[T Sports-1]
