@@ -35,15 +35,15 @@ SOURCES_AFTER_CUSTOM = [
 # =========================================================
 
 custom_channels = r"""
-#EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[COMMING SOON]
-
-#EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[COMMING SOON]
+#EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[Myco]
+https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/
+#EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[T Sports-1]
 http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[COMMING SOON]
+#EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[T Sports-2]
 http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
-#EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[COMMING SOON]
+#EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[T Sports-3]
 https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[COMMING SOON]
+#EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[BTV HD]
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpDBJdsKc1kORhSKfJH8x7ZKKN-5KlBzq8_n0ZKoR5qGn4FzifTPljX6bJ&s=10" group-title="LIVE SPORTS", NPL Nepal Premier League
