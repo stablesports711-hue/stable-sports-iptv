@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=502b22d3cada61e1dd3c24e4dc37b128:edbeec19a62d033903fe6436abfb9fd6
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/vlzobzvvkt/out/v1/eec6a5c8a4af4ef098fd2e64a3c00c84/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19114" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937879731020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 1st Test - Afghanistan vs Zimbabwe 2026
 https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19538" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937346131020x576.jpg" group-title="Football", Lion City Sailors FC (SGP) vs Adelaide United FC (AUS) - MATCHDAY 4 - AFC Champions League Two 2026/27
@@ -16,7 +16,7 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154
 #EXTINF:-1 tvg-id="tapmad-19553" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937358261020x576.jpg" group-title="Football", Kuching City FC (MAS) vs Gangwon FC (KOR) - MATCHDAY 4 - AFC Champions League Two 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
 #EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/7f266367-077c-4acb-b29a-73437a80419b.png",SAFF Live 1
-https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793880348~Starts=1793880048~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=6_BjNaTDCgpXsYdh1FC238yt_dSwoMa9kNM5bmLJa7RY-KUhZPV1xRVwkzpRPxBFTFdF13rU3RYuICX5LRvACQ
+https://prod-cdn01-live.toffeelive.com/live/SAFF-2026/index.m3u8?edge-cache-token=Expires=1793883945~Starts=1793883645~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNTg0NmVmMTAtMzgzYS00YjlhLThhZTAtNGZiMTEzNWIxNTVkIn0~Signature=a9Lj-ScALgzu2vUKunj3xy_Y2cZQ3tlu-lSwhUYREeTzl_YuatCSa4ytWbMPFxf8yvjp4MAEmY57zEWvoLxzDw
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[COMMING SOON]
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[COMMING SOON]
