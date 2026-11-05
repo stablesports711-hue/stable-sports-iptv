@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa1594d6a8ffbc9587fff917249c7d1e:3252ef56c0e599888aa0164abeb48f07
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kjxmjx6k1n/out/v1/e6f339b9073e41da84c611aa711bf63d/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/kjxmjx6k1n/out/v1/e6f339b9073e41da84c611aa711bf63d/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19858" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937387081020x576.jpg" group-title="Football", Benfica vs Lech Poznan - MATCHDAY 4 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19857" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937385471020x576.jpg" group-title="Football", Leverkusen vs Marseille - MATCHDAY 4 - UEFA Europa League 2026/27
