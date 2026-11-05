@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f4aaa86c309f1c09cfddb3089a7c0a2b:2e8c6603f159d7a5ec0aa7017e8bd75e
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/djmxsq7adn/out/v1/659ccf21235e451f8a3baae36096c7db/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/djmxsq7adn/out/v1/659ccf21235e451f8a3baae36096c7db/cenc.mpd
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[Myco]
 https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/
