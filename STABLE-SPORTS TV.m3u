@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HQ7LCC1V" tvg-name="ACC Mens U19 Asia Cup 2026 - 3rd Match - Pakistan U19 vs United Arab Emirates U19" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9bf08245-f2fa-4124-918a-e78c07173414/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens U19 Asia Cup 2026 - 3rd Match - Pakistan U19 vs United Arab Emirates U19
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1dcfabc6b441908d78cc7106e30e906f:8e086929f79491b9a2076d0d04eb7317
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wozpxl0hif/out/v1/3e10012a4900435e8ceee9af3ededd33/cenc.mpd
 #EXTINF:-1 tvg-id="B0HMNN211T" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/6/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf6092dc6444b182d9ef6fde4152ff7d:2a868d1944e597930dde32f183a0c6bf
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/1vinczlx3q/out/v1/a69e7ace1a7649418dbd689bf6eba8d7/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19114" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938656861020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 1st Test - Afghanistan vs Zimbabwe 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19114" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938656861020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 1st Test - Afghanistan vs Zimbabwe 2026 - Server 2
