@@ -1,16 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HJNHCVTZ" tvg-name="USA Seniors Cricket NPL 2026 - 7th Match - Dallas Lions vs Austin Hunters" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.85bff6c4-27c1-4da1-91ec-749fff3faf42/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",USA Seniors Cricket NPL 2026 - 7th Match - Dallas Lions vs Austin Hunters
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecd93646972644952e232bd0b5f9a0e7:4cf7783909baf9e3925052fd060187ee
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/i90z8gmbxh/out/v1/d9a0e95ca9ff4f3e86d4585bf1d8affd/cenc.mpd
 #EXTINF:-1 tvg-id="B0HP9V1R4V" tvg-name="USA Seniors Cricket NPL 2026 - 8th Match - Washington Eagles vs NY X-Factor" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0baf8e5c-6894-4383-9d74-c60c2ef7a535/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",USA Seniors Cricket NPL 2026 - 8th Match - Washington Eagles vs NY X-Factor
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a6ef0d83683308a1e0273dcd091a36e9:b6110ea48b98af73e187c186a3123394
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tlrwnbn6fm/out/v1/c4da76dbf9de4a589bd149133217523b/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/tlrwnbn6fm/out/v1/c4da76dbf9de4a589bd149133217523b/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-20115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939607391020x576.jpg" group-title="Football", Oxford City vs Leicester City - 1st Round - FA Cup 2026/27 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939607391020x576.jpg" group-title="Football", Oxford City vs Leicester City - 1st Round - FA Cup 2026/27 - Server 2
