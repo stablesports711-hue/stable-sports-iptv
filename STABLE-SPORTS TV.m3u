@@ -4,19 +4,21 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4ea268507a0122a022aec88c67deaa0:780d4b59a68bf3a6ad7e488ac13c0c9c
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/oodskycgpe/out/v1/a11dc32439b64b9fb7827a7bec0c3856/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oodskycgpe/out/v1/a11dc32439b64b9fb7827a7bec0c3856/cenc.mpd
 #EXTINF:-1 tvg-id="B0HQHV53SF" tvg-name="Abu Dhabi T10 League 2026 - 3rd Match - United Tigers vs Arabian Aces" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bac0726f-d268-496e-8016-c1804de5c083/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Abu Dhabi T10 League 2026 - 3rd Match - United Tigers vs Arabian Aces
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c36580b91d6530ceba196d7254d67b94:af9da5c72e1aa9472a3b8ef852c0f330
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-19309" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938651221020x576.jpg" group-title="Football", Kaya FC-Iliolo (PHI) vs PFC Nasaf (UZB) - MATCHDAY 3 - AFC Women's Champions League 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19304" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938648121020x576.jpg" group-title="Football", East Bengal FC (IND) vs 4.25 Sports Club (PRK) - MATCHDAY 3 - AFC Women's Champions League 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/fpxq5zifhp/out/v1/d3e12f49f0684a82942fa08b484acc10/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19459" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939665661020x576.jpg" group-title="Football", Espanyol vs Deportivo - MATCHDAY 12 - LaLiga 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20116" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939609761020x576.jpg" group-title="Football", Altrincham vs Notts County - 1st Round - FA Cup 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19460" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939667881020x576.jpg" group-title="Football", Osasuna vs Athletic - MATCHDAY 12 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19960" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937917321020x576.jpg" group-title="Football", Auxerre vs Paris FC - MATCHDAY 10 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[Myco]
 https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[T Sports-1]
