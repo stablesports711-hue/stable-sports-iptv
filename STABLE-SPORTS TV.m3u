@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HPFJ3JMZ" tvg-name="Abu Dhabi T10 League 2026 - 2nd Match - Royal Desert Champions vs Emirates Eagles" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.38e81458-77af-4d0a-a979-a53aeb36308c/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Abu Dhabi T10 League 2026 - 2nd Match - Royal Desert Champions vs Emirates Eagles
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e83ab9dc8f48a1c573c35fb8eca23423:4b67016b2e7b226d62d8e4d73694a598
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/coy53ws6dj/out/v1/9ba1d975d80f4df2ac113ce80fa47f22/cenc.mpd
 #EXTINF:-1 tvg-id="B0HLZW9JHH" tvg-name="USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6fb485ce-1efe-4bda-b3c6-9fed335ffe6e/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",USA Seniors Cricket NPL 2026 - 10th Match - Austin Hunters vs NY X-Factor
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
