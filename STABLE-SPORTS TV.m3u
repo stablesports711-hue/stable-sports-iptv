@@ -4,25 +4,25 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5718f40a4901526a597012cc242b4c4a:6d47e18a26287fa2a4e641901f07e50f
-https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/iukkxk78gp/out/v1/4f9f877fe4ff45e3b19e08b4eeee2f42/cenc.mpd
 #EXTINF:-1 tvg-id="B0HMJFFMFG" tvg-name="ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9ba1fbec-5219-427a-b408-5f6c67c0030a/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens U19 Asia Cup 2026 - 6th Match - Sri Lanka U19 vs Bangladesh U19
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c70292ec5aeeabfafcbb4443924d0a4:cc6f131f2ddb87f645d045586ce0ecb7
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0fwqahjstr/out/v1/2047669080944848be586e9a051a881e/cenc.mpd
 #EXTINF:-1 tvg-id="B0HMNN211T" tvg-name="Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7cdc79e9-37f7-4576-abb3-baad628b810c/9/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Afghanistan vs Zimbabwe in UAE 2026 - 1st Test - Afghanistan vs Zimbabwe
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e9af61f4a7f6d5a8f27cd3b85cc9a1d:bafb7bbc65820a0d0a5f77a990db7b76
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/uhx9dzy4rs/out/v1/5db830b25a6e428cbb15793518046968/cenc.mpd
 #EXTINF:-1 tvg-id="B0HLRWXZY4" tvg-name="Womens Big Bash League 2026 - 14th Match - Brisbane Heat Women vs Hobart Hurricanes Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8540dc19-4fd6-482f-9bad-855bed41f903/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 14th Match - Brisbane Heat Women vs Hobart Hurricanes Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c79965c6e98d75014af324695469beb1:1e13d1bd23ca2b97cf02d59013dd0d08
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ccyildnmm0/out/v1/bae85fd9be274c13a7e0c658cef09664/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ccyildnmm0/out/v1/bae85fd9be274c13a7e0c658cef09664/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19121" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936115231020x576.jpg" group-title="Cricket", Bangladesh vs West Indies - 2nd Test - West indies Tour of Bangladesh 2026
 https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19114" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938656861020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 1st Test - Afghanistan vs Zimbabwe 2026 - Server 1
