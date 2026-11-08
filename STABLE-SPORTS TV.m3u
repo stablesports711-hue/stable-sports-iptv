@@ -5,11 +5,13 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dfb8473e5025e0b19003899c6c025ef:97267cc823cf5305a784cbe042003ed4
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/dsnhwsppdo/out/v1/8f811ab5be3f4500a756c27eba7fa360/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-20121" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939717701020x576.jpg" group-title="Football", Oldham Athletic vs Sheffield Wednesday - 1st Round - FA Cup 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19465" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939691601020x576.jpg" group-title="Football", Celta vs Levante - MATCHDAY 12 - LaLiga 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19464" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939690671020x576.jpg" group-title="Football", Villarreal vs Getafe - MATCHDAY 12 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19967" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937928281020x576.jpg" group-title="Football", Lens vs Marseille - MATCHDAY 10 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19466" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939692981020x576.jpg" group-title="Football", Atletico Madrid vs Barcelona - MATCHDAY 12 - LaLiga 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[Myco]
 https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/
