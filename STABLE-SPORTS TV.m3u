@@ -5,12 +5,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=461e45c6a17fbe5e91fa6a6c544e6ae5:ff0bce40ca704b9a4e2e3f28c6599efd
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qbmnk3fjox/out/v1/38c64b8fa2584a55b7539470bac07746/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-19121" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17936115231020x576.jpg" group-title="Cricket", Bangladesh vs West Indies - 2nd Test - West indies Tour of Bangladesh 2026
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19114" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938656861020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 1st Test - Afghanistan vs Zimbabwe 2026
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19996" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938582641020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - 1st Test - Sri Lanka Tour of Pakistan 2026
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[Myco]
 https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[T Sports-1]
