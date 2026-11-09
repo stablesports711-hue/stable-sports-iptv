@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-20122" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939719121020x576.jpg" group-title="Football", Plymouth Parkway vs Berkhamsted - 1st Round - FA Cup 2026/27 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20122" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17939719121020x576.jpg" group-title="Football", Plymouth Parkway vs Berkhamsted - 1st Round - FA Cup 2026/27 - Server 2
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
+
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[Myco]
 https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[T Sports-1]
