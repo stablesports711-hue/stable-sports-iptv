@@ -1,5 +1,10 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="B0HMKZKJRB" tvg-name="Abu Dhabi T10 League 2026 - 11th Match - Royal Desert Champions vs UAE Bulls" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.9f427b08-4bc4-4879-8330-9c2af53d7b8f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Abu Dhabi T10 League 2026 - 11th Match - Royal Desert Champions vs UAE Bulls
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1e9def1e0c216818e8edc06ce10d25c9:4743d779da68303948a6e7e18fc77056
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/siet7wbiya/out/v1/a5482739bd194c0ca1cd0e7af78d402a/cenc.mpd
 
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[Myco]
 https://ml-pull-rtmp-pk1.myco.io/SAFF2026/hls/26113.m3u8|referer=https://myco.io/stablesportstv/
