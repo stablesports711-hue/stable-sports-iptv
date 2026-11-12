@@ -336,14 +336,16 @@ https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/h
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/3N8gLCsG/images-(2).jpg",206.GEO SUPER HD
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-GeoSuper.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=49859&deviceMac=00:1A:79:F2:0F:96
 http://premiumtvs.space/live/YqXTywueEV/damp2purchase/101.ts
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/T14Y66P2/20260710-111541.png",WILLOW CRICKET HD
+http://tv.cloudcdn.me:80/live.ts?channelId=126194&deviceMac=00:1A:79:F2:0F:96
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow1.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/dV8vWdGq/20260710-112953.png",WILLOW CRICKET 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=126195&deviceMac=00:1A:79:F2:0F:96
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Willow2.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/8kH3VHXZ/20260802-185517.png",WILLOW SPORTS HD
