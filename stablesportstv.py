@@ -253,12 +253,12 @@ http://103.114.11.37:8081/Duronto/index.m3u8?token=sboxcast
 
 #EXTINF:-1 tvg-id="Stable-Sports" tvg-logo="https://yt3.googleusercontent.com/M32uDDSlMkH2-XRmZMvcM64uMzotjxbpzngMS-pnmoDoD-ei--PAHiA0EC9tyiW-5lcXfa6Aqg=s900-c-k-c0x00ffffff-no-rj" group-title="KIDS",161.Nick Bangla
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-http://198.195.239.50:8095/nick/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=90242&deviceMac=00:1A:79:F2:0F:96
 logohttps://jiotvimages.cdn.jio.com/dare_images/images/Nick_Bangla.png
 
 #EXTINF:-1 tvg-id="1345" tvg-name="Sonic Bangla" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sonic_Bangla.png" tvg-language="Bengali" tvg-type="Kids" group-title="KIDS",162.Sonic Bangla
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-http://198.195.239.50:8095/sonic/index.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=90243&deviceMac=00:1A:79:F2:0F:96
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",163.SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
