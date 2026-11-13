@@ -1,19 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-20072" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942948271020x576.jpg" group-title="Football", Bulgaria vs Iceland - MATCHDAY 5 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20071" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942946881020x576.jpg" group-title="Football", Liechtenstein vs Azerbaijan - MATCHDAY 5 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20070" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942945761020x576.jpg" group-title="Football", Slovakia vs Faroe Islands - MATCHDAY 5 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20069" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942944611020x576.jpg" group-title="Football", Scotland vs North Macedonia - MATCHDAY 5 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20068" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942943281020x576.jpg" group-title="Football", Serbia vs Germany - MATCHDAY 5 - UEFA Nations League 2026/27 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20068" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942943281020x576.jpg" group-title="Football", Serbia vs Germany - MATCHDAY 5 - UEFA Nations League 2026/27 - Server 2
-https://serieAleague.akamaized.net/hls/live/2107107/Tapmad-KjL52/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-20067" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942942181020x576.jpg" group-title="Football", Luxembourg vs Estonia - MATCHDAY 5 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20066" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942940791020x576.jpg" group-title="Football", Andorra vs Gibraltar - MATCHDAY 5 - UEFA Nations League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20065" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942917411020x576.jpg" group-title="Football", Netherlands vs Greece - MATCHDAY 5 - UEFA Nations League 2026/27
