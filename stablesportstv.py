@@ -35,6 +35,8 @@ SOURCES_AFTER_CUSTOM = [
 # =========================================================
 
 custom_channels = r"""
+#EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[TOFFEE]
+https://tv10.workerbot-tv10.workers.dev/play/JdjLpqEBalKyvLQIrDPD.m3u8?token=exp=1794669697~hmac=VJXXliLmz9BgRL14ES1fEuT3E77rCuc_nYeYn088Qb4
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[BTV HD]
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[T Sports-AHASH]
