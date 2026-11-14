@@ -4,13 +4,17 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9416419990931400d04e62d657c0cc8:7aa33c302380249e86295685656c2a97
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd
+#EXTINF:-1 tvg-id="B0HPTP8XSC" tvg-name="Abu Dhabi T10 League 2026 - 18th Match - Yas Lions vs UAE Bulls" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2815926-0840-49ba-b2e5-7b08229525a0/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Abu Dhabi T10 League 2026 - 18th Match - Yas Lions vs UAE Bulls
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab5b5cecc72d2468a6bb0cb095549adf:498bea5d3276c0fdbb38e8b10703c44c
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0py89u35kf/out/v1/f438820f38824212b6107dfd880773e6/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-20203" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945729661020x576.jpg" group-title="Mma", Nemkov vs Bilostenniy - Semi Finals - PFL 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20176" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945510841020x576.jpg" group-title="Boat Racing", Round 7 - Group Stages - Session 3 - E1 Series 2026
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20073" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17942949441020x576.jpg" group-title="Football", Kosovo vs Israel - MATCHDAY 5 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[T Sports-AHASH]
 http://103.238.115.159:8080/T-SPORRTS-HD/index.m3u8?token=AKASH
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[T Sports-FHD]
