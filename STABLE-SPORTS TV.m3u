@@ -4,13 +4,13 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1f8a6b81514e5243cc85d00effcf384:697893a5e9dbc7916aedd1ac857737b2
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/mysvg9964s/out/v1/b7761cc505e84787832b2b55e90bbbf0/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/mysvg9964s/out/v1/b7761cc505e84787832b2b55e90bbbf0/cenc.mpd
 #EXTINF:-1 tvg-id="B0HMLW19GT" tvg-name="India tour of New Zealand 2026 - 5th ODI - New Zealand vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d150b96-e992-43cb-96a8-e4e4b5c08847/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of New Zealand 2026 - 5th ODI - New Zealand vs India
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19064" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937869581020x576.jpg" group-title="Cricket", New Zealand vs India - 5th ODI - India Tour of New Zealand 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19064" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937869581020x576.jpg" group-title="Cricket", New Zealand vs India - 5th ODI - India Tour of New Zealand 2026 - Server 2
