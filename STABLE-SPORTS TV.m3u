@@ -1,14 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HPKZ4KBF" tvg-name="Abu Dhabi T10 League 2026 - 21st Match - United Tigers vs Yas Lions" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.6ada6f7f-9923-405e-974d-23a253e82ab9/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Abu Dhabi T10 League 2026 - 21st Match - United Tigers vs Yas Lions
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=160ab6fd511b22c2d9cae43f7e2d44d6:e68f37a955c76b640f9f158cb35fcce6
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/r1ic5dmtdq/out/v1/0f83fcd8375647beb2cb53661e99f35f/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-20084" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945533501020x576.jpg" group-title="Football", Belarus vs Albania - MATCHDAY 6 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20083" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945528941020x576.jpg" group-title="Football", Finland vs San Marino - MATCHDAY 6 - UEFA Nations League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+
+#EXTINF:-1 tvg-id="tapmad-20088" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945555711020x576.jpg" group-title="Football", Spain vs England - MATCHDAY 6 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20086" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945552511020x576.jpg" group-title="Football", Belgium vs Italy - MATCHDAY 6 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20085" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945551261020x576.jpg" group-title="Football", France vs Turkiye - MATCHDAY 6 - UEFA Nations League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[T Sports-AHASH]
 http://103.238.115.159:8080/T-SPORRTS-HD/index.m3u8?token=AKASH
 #EXTINF:-1 group-title="PROMO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhBdK9UlnKlH97BTRb08BItz6h67i6vJ05O2MEJj-zxhSVqZLquvfvdEc&s=10.png",TECNO | SAFF CHAMPIONSHIP BANGLADESH 2026[T Sports-FHD]
