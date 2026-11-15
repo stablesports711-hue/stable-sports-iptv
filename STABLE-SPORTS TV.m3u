@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HMLW19GT" tvg-name="India tour of New Zealand 2026 - 5th ODI - New Zealand vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.2d150b96-e992-43cb-96a8-e4e4b5c08847/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of New Zealand 2026 - 5th ODI - New Zealand vs India
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3a4e1c0452e8620aa47a64c82b81f90d:f11223850b04db47d8815871e6b77d05
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/azerlw3rnq/out/v1/d8655060ec4447548120f9322101963b/cenc.mpd
 #EXTINF:-1 tvg-id="B0HQ6TRM38" tvg-name="Australia vs. England" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.654da556-d9a1-48e3-8199-a9b381ad6019/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Australia vs. England
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -16,21 +10,23 @@ https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dyjtuwdyxi
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5c58e89e55b6ca6b7155cc78c8e2300d:949c2c45b7bbfab1d09f7c9bb96e2e4c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/uhxc7ciui9/out/v1/3ecf1adf2ffc4f60a298027158f0d283/cenc.mpd
 #EXTINF:-1 tvg-id="B0HRNBGJB1" tvg-name="Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3d3a187e-ae33-416b-bc6b-02cd63444282/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d872367d3ff927c4abf0198dfeb01d2:47945393588cf479b728df327f3bef53
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmsojksiyc/out/v1/5d915e7f388946c09ed9d07fd40f9f96/cenc.mpd
+#EXTINF:-1 tvg-id="B0HR6MYBFS" tvg-name="Abu Dhabi T10 League 2026 - 19th Match - Royal Desert Champions vs Arabian Aces" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a2fa8532-ed32-4459-8849-5ec16d4c6371/1/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Abu Dhabi T10 League 2026 - 19th Match - Royal Desert Champions vs Arabian Aces
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0746588cbf8ac03b65207fb487d8a65d:01db21ef36ef2c010efc6c32b9ccf412
+https://a96aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/clgxn8uxdu/out/v1/58af05d280a542b99de566f57c8de009/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938657031020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 2nd Test - Afghanistan vs Zimbabwe 2026 - Server 1
 https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19115" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17938657031020x576.jpg" group-title="Cricket", Afghanistan vs Zimbabwe - 2nd Test - Afghanistan vs Zimbabwe 2026 - Server 2
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19064" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937869581020x576.jpg" group-title="Cricket", New Zealand vs India - 5th ODI - India Tour of New Zealand 2026 - Server 1
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19064" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17937869581020x576.jpg" group-title="Cricket", New Zealand vs India - 5th ODI - India Tour of New Zealand 2026 - Server 2
-https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-20132" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17944713191020x576.jpg" group-title="Cricket", Australia vs England - 2nd ODI - England Tour of Australia 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20132" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17944713191020x576.jpg" group-title="Cricket", Australia vs England - 2nd ODI - England Tour of Australia 2026 - Server 2
