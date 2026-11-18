@@ -1,6 +1,9 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-id="tapmad-19065" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945538171020x576.jpg" group-title="Cricket", New Zealand vs India - 1st Test - India Tour of New Zealand 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19065" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17945538171020x576.jpg" group-title="Cricket", New Zealand vs India - 1st Test - India Tour of New Zealand 2026 - Server 2
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="LIVE SPORTS", Abu Dhabi T10 League
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
