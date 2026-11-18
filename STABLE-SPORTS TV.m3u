@@ -4,9 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6de0d161884e8b45e47f4edc5e9db94d:bfaccd3662dfb1d046887ecc050a576e
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-19997" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17944756861020x576.jpg" group-title="Cricket", Pakistan vs Sri Lanka - 2nd Test - Sri Lanka Tour of Pakistan 2026
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/o4wthc9din/out/v1/dc45941651d84183a56e699e697fd33c/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-20342" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949987161020x576.jpg" group-title="E Sports", GTA VI - Watch Party - Day 1 - Show - GTA VI
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 #EXTINF:-1 tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/18292/image/dark" group-title="LIVE SPORTS", Abu Dhabi T10 League
