@@ -4,13 +4,13 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6012ce4af4cad526b730a7dc830bb35d:80280163cc6aad3985a22ebf2f082e76
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2grfc/out/v1/0c7ba1d749ea465c8caac7e84fc34891/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xzhvi2grfc/out/v1/0c7ba1d749ea465c8caac7e84fc34891/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-20134" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948128511020x576.jpg" group-title="Cricket", Australia vs England - 1st T20I - England Tour of Australia 2026 - Server 1
+https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20134" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948128511020x576.jpg" group-title="Cricket", Australia vs England - 1st T20I - England Tour of Australia 2026 - Server 2
+https://serieAleague.akamaized.net/hls/live/2107107/tap-BK-PSL-D1-E/master.m3u8
 #EXTINF:-1 tvg-id="tapmad-19207" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948298651020x576.jpg" group-title="Cricket", Sydney Sixers vs Perth Scorchers - Group Stage - Women's Big Bash League 2026
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-20226" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948198251020x576.jpg" group-title="Racing", Round 19 - Race 1 - Race 1 - Kumho FIA TCR World Tour Euro Series 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-20308" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949915781020x576.jpg" group-title="Racing", FIA GT World Cup - Day 1 - Race - Macau Grand Prix 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="NPL Nepal Premier League", NPL Nepal Premier League
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="NPL Nepal Premier League", NPL Nepal Premier League
