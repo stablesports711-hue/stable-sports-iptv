@@ -1,5 +1,10 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="B0HM4ZHT1F" tvg-name="India tour of New Zealand 2026 - 1st Test - New Zealand vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04f62072-bc1e-42be-b0f9-2370ad69f513/11/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of New Zealand 2026 - 1st Test - New Zealand vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a79865ad099bcc92fc555a1014310a6:0f79fed08b0fa0db9c08989d40f7ba73
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fkipghexfw/out/v1/b9c7bdeeb3324a67829355fbadde5f64/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19318" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948117991020x576.jpg" group-title="Mma", Prochazka vs Stirling - Fight Night - UFC 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19318" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948117991020x576.jpg" group-title="Mma", Prochazka vs Stirling - Fight Night - UFC 2026 - Server 2
