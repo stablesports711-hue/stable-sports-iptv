@@ -1,11 +1,19 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-20243" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951723171020x576.jpg" group-title="Football", Sevilla vs Betis - MATCHDAY 13 - LaLiga 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19318" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948117991020x576.jpg" group-title="Mma", Prochazka vs Stirling - Fight Night - UFC 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19318" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948117991020x576.jpg" group-title="Mma", Prochazka vs Stirling - Fight Night - UFC 2026 - Server 2
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19973" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949025601020x576.jpg" group-title="Football", Monaco vs Auxerre - MATCHDAY 11 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19972" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949020841020x576.jpg" group-title="Football", Lens vs Toulouse - MATCHDAY 11 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19971" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949019561020x576.jpg" group-title="Football", LOSC vs OL - MATCHDAY 11 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19970" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949016951020x576.jpg" group-title="Football", Strasbourg vs Brest - MATCHDAY 11 - French Ligue 1 2026/27
+https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20244" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951724751020x576.jpg" group-title="Football", Real Madrid vs Celta - MATCHDAY 13 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="NPL Nepal Premier League", NPL Nepal Premier League
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="NPL Nepal Premier League", NPL Nepal Premier League
