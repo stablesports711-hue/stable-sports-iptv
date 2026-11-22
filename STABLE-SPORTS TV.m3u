@@ -10,19 +10,19 @@ https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fcf78c73ab89e0e6ef4ad2f5430d6bf8:a2aa49b85e6f40263207b06f18242ec9
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd
 #EXTINF:-1 tvg-id="B0HKQ8LF47" tvg-name="Womens Big Bash League 2026 - 32nd Match - Melbourne Stars Women vs Melbourne Renegades Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3493bcea-41c6-4747-942a-136b142a246b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 32nd Match - Melbourne Stars Women vs Melbourne Renegades Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e929ffbf0190098c52fa2c689dd2311e:b499ea7a1c854eaddbf3021a7b3d40bc
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd
 #EXTINF:-1 tvg-id="B0HRQV5HSL" tvg-name="International League T20 2026 - 2nd Match - Sharjah Warriorz vs Gulf Giants" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e000e3d7-eeac-4eb4-9cb7-f6f673e4c3ab/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",International League T20 2026 - 2nd Match - Sharjah Warriorz vs Gulf Giants
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=65ef349cc87e9e34d7a62e81f3282e45:a7713cabae6575cff4ce209a9e10cf2a
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/n2daajoal8/out/v1/aebfb066f1a7454685b9885381a362d1/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n2daajoal8/out/v1/aebfb066f1a7454685b9885381a362d1/cenc.mpd
 #EXTINF:-1 tvg-id="B0HQV79TCV" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad597a8-c567-4e8e-9aa6-5e4611763590/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
