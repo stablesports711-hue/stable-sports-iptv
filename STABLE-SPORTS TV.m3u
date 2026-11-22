@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-20247" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951726881020x576.jpg" group-title="Football", Osasuna vs Malaga - MATCHDAY 13 - LaLiga 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19976" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949029471020x576.jpg" group-title="Football", Marseille vs Le Mans - MATCHDAY 11 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20249" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951728291020x576.jpg" group-title="Football", Getafe vs Atletico Madrid - MATCHDAY 13 - LaLiga 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="NPL Nepal Premier League", NPL Nepal Premier League
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="NPL Nepal Premier League", NPL Nepal Premier League
