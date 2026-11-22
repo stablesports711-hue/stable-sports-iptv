@@ -1,30 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HNPCVCZ2" tvg-name="Womens Big Bash League 2026 - 31st Match - Brisbane Heat Women vs Adelaide Strikers Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.aa0e3ce2-509d-47cc-ae5e-ba9f2e8b7278/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 31st Match - Brisbane Heat Women vs Adelaide Strikers Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f91b8bf06f3e791e41238b4190311c9e:eff5b8fafef1f8b3d988be38ff7e539e
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ilhybzuiyi/out/v1/04f4624f561f4dd69467e1e219f03568/cenc.mpd
 #EXTINF:-1 tvg-id="B0HR8QKWKL" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 7th Match - United Arab Emirates vs Nepal" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.87c723c7-0535-4196-8c99-d5472eca5403/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens Asia Cup Rising Stars 2026 - 7th Match - United Arab Emirates vs Nepal
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7341f16081ecb92ed172ef9df6f443ce:566b8cf0a31255d55785b24ade0a999c
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/dav1vsvipu/out/v1/7811f403d7ea475d9b5b86b60ef4b677/cenc.mpd
 #EXTINF:-1 tvg-id="B0HQMYSWV3" tvg-name="T20 Gold Clash 2026 - Team Footy vs Team Cricket" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.feb06812-bd54-4726-9fcd-334588d5645a/3/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",T20 Gold Clash 2026 - Team Footy vs Team Cricket
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fcf78c73ab89e0e6ef4ad2f5430d6bf8:a2aa49b85e6f40263207b06f18242ec9
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/xgfd9i7tfz/out/v1/1eaf54b1b8e94b54b0da8a41aeeee490/cenc.mpd
 #EXTINF:-1 tvg-id="B0HKQ8LF47" tvg-name="Womens Big Bash League 2026 - 32nd Match - Melbourne Stars Women vs Melbourne Renegades Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.3493bcea-41c6-4747-942a-136b142a246b/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 32nd Match - Melbourne Stars Women vs Melbourne Renegades Women
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e929ffbf0190098c52fa2c689dd2311e:b499ea7a1c854eaddbf3021a7b3d40bc
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-20332" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17950709571020x576.jpg" group-title="Racing", FIA FR World Cup - Day 2 - Race - Macau Grand Prix 2026
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/onfb54mf87/out/v1/b762565df6804407b8238a706b9106de/cenc.mpd
+#EXTINF:-1 tvg-id="B0HRQV5HSL" tvg-name="International League T20 2026 - 2nd Match - Sharjah Warriorz vs Gulf Giants" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e000e3d7-eeac-4eb4-9cb7-f6f673e4c3ab/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",International League T20 2026 - 2nd Match - Sharjah Warriorz vs Gulf Giants
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=65ef349cc87e9e34d7a62e81f3282e45:a7713cabae6575cff4ce209a9e10cf2a
+https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/n2daajoal8/out/v1/aebfb066f1a7454685b9885381a362d1/cenc.mpd
+#EXTINF:-1 tvg-id="B0HQV79TCV" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.1ad597a8-c567-4e8e-9aa6-5e4611763590/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens Asia Cup Rising Stars 2026 - 8th Match - India A vs Pakistan A
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19209" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948302991020x576.jpg" group-title="Cricket", Melbourne Stars vs Melbourne Renegades - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="NPL Nepal Premier League", NPL Nepal Premier League
