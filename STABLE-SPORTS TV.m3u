@@ -29,7 +29,10 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n2daajoal8/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=437b26c171c8c2b7d3da296992ec0498:76e472aecda315ee5649fabf54b6a905
 https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/wnogcwzjio/out/v1/0b50a750ac204322913af280029aa602/cenc.mpd
-
+#EXTINF:-1 tvg-id="tapmad-20245" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951725451020x576.jpg" group-title="Football", Barcelona vs Villarreal - MATCHDAY 13 - LaLiga 2026/27 - Server 1
+https://t-prod-bd.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20245" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951725451020x576.jpg" group-title="Football", Barcelona vs Villarreal - MATCHDAY 13 - LaLiga 2026/27 - Server 2
+https://t-prod-bd.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="NPL Nepal Premier League", NPL Nepal Premier League
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTo0kwOfn0swttbdChYr5KGVFVY-XuUO6nrYQ&s" group-title="NPL Nepal Premier League", NPL Nepal Premier League
