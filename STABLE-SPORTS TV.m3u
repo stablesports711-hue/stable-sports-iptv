@@ -1,5 +1,10 @@
 #EXTM3U
-
+#EXTINF:-1 tvg-id="B0HM4ZHT1F" tvg-name="India tour of New Zealand 2026 - 1st Test - New Zealand vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04f62072-bc1e-42be-b0f9-2370ad69f513/13/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of New Zealand 2026 - 1st Test - New Zealand vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a993ba0f7bf4b83d0ccb44a591e2a51c:2bd5e352dd929f561daa14de1fc1a7a1
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/3yznekgktt/out/v1/858249b12acb46b99a95fbfab5887011/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19976" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17949029471020x576.jpg" group-title="Football", Marseille vs Le Mans - MATCHDAY 11 - French Ligue 1 2026/27
 https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20249" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951728291020x576.jpg" group-title="Football", Getafe vs Atletico Madrid - MATCHDAY 13 - LaLiga 2026/27
