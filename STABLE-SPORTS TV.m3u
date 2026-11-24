@@ -1,11 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-19394" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17954255041020x576.jpg" group-title="Football", Galatasaray vs Aston Villa - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19393" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17954253561020x576.jpg" group-title="Football", Bodo/Glimt vs LASK - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19793" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951672201020x576.jpg" group-title="Football", Al Nassr Club (KSA) vs Al Sadd SC (QAT) - MATCHDAY 5 - AFC Champions League Elite 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19401" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955043021020x576.jpg" group-title="Football", Slovan Bratislava vs Real Betis - MATCHDAY 5 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19400" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955040911020x576.jpg" group-title="Football", Real Madrid vs PSV Eindhoven - MATCHDAY 5 - UEFA Champions League 2026/27
