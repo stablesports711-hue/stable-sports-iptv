@@ -1,19 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-19401" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955043021020x576.jpg" group-title="Football", Slovan Bratislava vs Real Betis - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19400" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955040911020x576.jpg" group-title="Football", Real Madrid vs PSV Eindhoven - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19399" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955039431020x576.jpg" group-title="Football", RB Leipzig vs Lens - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19398" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955037091020x576.jpg" group-title="Football", Manchester City vs Napoli - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19397" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955035741020x576.jpg" group-title="Football", Feyenoord vs Porto - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19396" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955034421020x576.jpg" group-title="Football", Como vs AEK Athens - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19395" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955031441020x576.jpg" group-title="Football", Arsenal vs Borussia Dortmund - MATCHDAY 5 - UEFA Champions League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
 http://103.209.196.22:84/feed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
