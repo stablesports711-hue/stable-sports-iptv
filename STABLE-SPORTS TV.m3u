@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dcfc23b4712a8031fa154bfb07917e7:fd7078d53cb394fed87690a2d408385e
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gfshrnrosi/out/v1/38ade1f0001545678654acfccb674b40/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gfshrnrosi/out/v1/38ade1f0001545678654acfccb674b40/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19788" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951666271020x576.jpg" group-title="Football", Shabab Al Ahli (UAE) vs Al Qadsiah Club (KSA) - MATCHDAY 5 - AFC Champions League Elite 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19573" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17951601401020x576.jpg" group-title="Football", Al Seeb Club (OMA) vs Al Shorta (IRQ) - MATCHDAY 5 - AFC Champions League Two 2026/27
