@@ -4,13 +4,13 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df
-https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-19210" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17950715051020x576.jpg" group-title="Cricket", Melbourne Renegades vs Brisbane Heat - Group Stage - Women's Big Bash League 2026
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19803" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953641901020x576.jpg" group-title="Football", Gamba Osaka (JPN) vs Port FC (THA) - MATCHDAY 5 - AFC Champions League Elite 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19798" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953645351020x576.jpg" group-title="Football", Kashima Antlers (JPN) vs Jeonbuk Hyundai Motors FC (KOR) - MATCHDAY 5 - AFC Champions League Elite 2026/27
 https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19613" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955103871020x576.jpg" group-title="Football", Persib Bandung (IDN) vs FC Seoul (KOR) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
 http://103.209.196.22:84/feed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
