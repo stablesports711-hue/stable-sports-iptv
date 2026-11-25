@@ -4,15 +4,21 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1b2d04c3583cb8cd35fdf091453a9927:9584b37353992c00415eac1ae42cb3df
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/fhmmqyl8ck/out/v1/34dd0d9326ac481e816ff0573f59be3b/cenc.mpd
 #EXTINF:-1 tvg-id="B0HS3T4G9K" tvg-name="International League T20 2026 - 6th Match - Dubai Capitals vs Desert Vipers" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b852ad1b-829e-4346-8fe4-67afa7b2b0a7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",International League T20 2026 - 6th Match - Dubai Capitals vs Desert Vipers
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d7070587c4a7d8db325db4540da4777c:c474bc272c73fdce1298511ac95bfdce
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zfivwvynvc/out/v1/3f9cead02b3a4945bb6b6654938b7ba3/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-19583" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955106821020x576.jpg" group-title="Football", PFC Nasaf (UZB) vs Al Khaldiya SC (BHR) - MATCHDAY 5 - AFC Champions League Two 2026/27
-https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19603" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955121951020x576.jpg" group-title="Football", Kuwait SC (KUW) vs Al Wahda FC (UAE) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19598" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955117691020x576.jpg" group-title="Football", Al Muharraq SC (BHR) vs FC Arkadag (TKM) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19593" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955113571020x576.jpg" group-title="Football", Al Jazira Club (UAE) vs Golgohar Sirjan SC (IRN) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19588" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955110281020x576.jpg" group-title="Football", Al Faisaly (JOR) vs Al Rayyan SC (QAT) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154e3809215fc60e91e1786b098/main.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
