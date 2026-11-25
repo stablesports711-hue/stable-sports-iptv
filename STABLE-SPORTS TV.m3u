@@ -17,6 +17,8 @@ https://multiregion-asia-cdn.tapmad.com/v1/01a154e351d61ea557841e1612cf79/01a154
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19402" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955044351020x576.jpg" group-title="Football", Sabah vs Barcelona - MATCHDAY 5 - UEFA Champions League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19608" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955125441020x576.jpg" group-title="Football", Al Taawoun FC (KSA) vs Al Nahda Club (OMA) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
