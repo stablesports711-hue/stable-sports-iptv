@@ -4,9 +4,21 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41901192b980eddd911c8cd7e5c516df:fabf22ee583ee08d1638dc18578d5174
-https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/teiohs2xmz/out/v1/3369f17367944191984b7d95012548e8/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/teiohs2xmz/out/v1/3369f17367944191984b7d95012548e8/cenc.mpd
+#EXTINF:-1 tvg-id="B0HQTF8G33" tvg-name="ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7e40d3e7-4438-4ed4-bd7a-fa6405891d29/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",ACC Mens Asia Cup Rising Stars 2026 - 1st Semi-Final - Sri Lanka A vs India A
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b84dc7acdbb36852e3c2f308621ef492:749e3c330bfd249d934532075081f432
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/lhoxwxtsh6/out/v1/45d03b6c3a334a1b90f2d4d37b9bb201/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19212" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17954150991020x576.jpg" group-title="Cricket", Sydney Sixers vs Melbourne Stars - Group Stage - Women's Big Bash League 2026
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19628" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955964391020x576.jpg" group-title="Football", Tampines Rovers FC (SGP) vs Shanghai Shenhua FC (CHN) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154de56151ea540a81c2b41b77a/01a154de85c41567ee931e109fa5a5/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19623" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955961061020x576.jpg" group-title="Football", Kuching City FC (MAS) vs Phnom Penh Crown FC (CAM) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a154a641d51567ee931e109fa59f/01a154a676281ea557841e1612cf77/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19618" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955956851020x576.jpg" group-title="Football", Gangwon FC (KOR) vs Kitchee SC (HKG) - MATCHDAY 5 - AFC Champions League Two 2026/27
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
