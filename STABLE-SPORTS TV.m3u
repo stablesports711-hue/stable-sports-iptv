@@ -1,21 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="tapmad-19866" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953681111020x576.jpg" group-title="Football", Celta vs Bournemouth - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19865" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953678191020x576.jpg" group-title="Football", Olympiacos vs Milan - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19864" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953673911020x576.jpg" group-title="Football", RB Salzburg vs Ararat-Armenia - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19863" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953671451020x576.jpg" group-title="Football", Dinamo Zagreb vs Leverkusen - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19862" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953669121020x576.jpg" group-title="Football", Union vs Lech Poznan - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19861" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953666651020x576.jpg" group-title="Football", Viktoria Plzen vs Benfica - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19860" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953663881020x576.jpg" group-title="Football", Besiktas vs H. Beer-Sheva - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19859" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953661291020x576.jpg" group-title="Football", Marseille vs Levski Sofia - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19876" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953706231020x576.jpg" group-title="Football", Ferencvaros vs Celje - MATCHDAY 5 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19875" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953703811020x576.jpg" group-title="Football", OFI vs Anderlecht - MATCHDAY 5 - UEFA Europa League 2026/27
@@ -30,6 +14,12 @@ https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15f
 https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19870" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953692071020x576.jpg" group-title="Football", Juventus vs Omonoia - MATCHDAY 5 - UEFA Europa League 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19869" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953689331020x576.jpg" group-title="Football", Palace vs Real Sociedad - MATCHDAY 5 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19868" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953687121020x576.jpg" group-title="Football", Sunderland vs Jagiellonia Bialystok - MATCHDAY 5 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-19867" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953684511020x576.jpg" group-title="Football", Torreense vs Celtic - MATCHDAY 5 - UEFA Europa League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
