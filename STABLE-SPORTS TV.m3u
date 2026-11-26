@@ -4,31 +4,13 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd35d5c78d37fe5adcfd88e314d1dd3c:673c68197d7960c4b1db2bb83f195171
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd
+https://ss-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vqt4ppweqx/out/v1/79d9629326f74edb996f3b3d75d3fc49/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-19066" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948150491020x576.jpg" group-title="Cricket", New Zealand vs India - 2nd Test - India Tour of New Zealand 2026 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a145abfb3a1ea540a81c2b41b751/01a145ae0ac115fc600b1e3e9683da/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-19066" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948150491020x576.jpg" group-title="Cricket", New Zealand vs India - 2nd Test - India Tour of New Zealand 2026 - Server 2
 https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-#EXTINF:-1 tvg-id="tapmad-19876" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953706231020x576.jpg" group-title="Football", Ferencvaros vs Celje - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19875" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953703811020x576.jpg" group-title="Football", OFI vs Anderlecht - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19874" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953700051020x576.jpg" group-title="Football", OL vs Lillestrom - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19873" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953697951020x576.jpg" group-title="Football", Hoffenheim vs Sturm Graz - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a80166b1ea557841e1612cf55/01a14a8047211ea557841e1612cf58/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19872" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953695021020x576.jpg" group-title="Football", NEC vs Rennes - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a5b5bd11ea540a81c2b41b75b/01a14a5b94ea15fc600b1e3e9683eb/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19871" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953693891020x576.jpg" group-title="Football", Sparta Praha vs AZ Alkmaar - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14a4cd93615fc600b1e3e9683e8/01a14a5761541567ee931e109fa576/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19870" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953692071020x576.jpg" group-title="Football", Juventus vs Omonoia - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19869" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953689331020x576.jpg" group-title="Football", Palace vs Real Sociedad - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19868" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953687121020x576.jpg" group-title="Football", Sunderland vs Jagiellonia Bialystok - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
-#EXTINF:-1 tvg-id="tapmad-19867" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17953684511020x576.jpg" group-title="Football", Torreense vs Celtic - MATCHDAY 5 - UEFA Europa League 2026/27
-https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8
+#EXTINF:-1 tvg-id="tapmad-20518" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17957201741020-23andlast.jpg" group-title="Racing", GT1 Race Club - Qualifying Round - Adelaide, Australia - Qualifying Race - GT World Challenge EU & Asia 2026
+https://multiregion-asia-cdn.tapmad.com/v1/01a1548c4faf15fc600b1e3e968408/01a1548c7fde1ea557841e1612cf76/main.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
