@@ -45,12 +45,12 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd|user-agen
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/373119.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20(Hindi)
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-Unite8S1.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/ASIA-TV/373101.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
-https://rangdhonulive.samiulislamabhi.workers.dev/TSportsSD/tracks-v1a1/mono.ts.m3u8
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-GeoSuper.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
 http://107.167.16.138/zeezesthd/tracks-v1a1/mono.ts.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
