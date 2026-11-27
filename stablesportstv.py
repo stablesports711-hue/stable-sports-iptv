@@ -467,21 +467,12 @@ http://live.balajibroadband.com:3500/live/587.m3u8
 http://live.balajibroadband.com:3500/live/250.m3u8
 #http://103.180.212.191:3500/live/250.m3u8 
 
-#EXTINF:-1 tvg-id="3428" tvg-name="Discovery HD Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDBen.png" tvg-language="Bengali" group-title="Infotainment", Discovery HD Bengali
-http://tv.cloudcdn.me:80/live.ts?channelId=90254&deviceMac=00:1A:79:F2:0F:96
+#EXTINF:-1 tvg-id="3428" tvg-name="Discovery HD Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDBen.png" tvg-language="Bengali" group-title="Infotainment", Discovery HD Bengal
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/BANGLA/DiscoveryBD.m3u8
 
 #EXTINF:-1 tvg-id="573" tvg-name="Discovery Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" tvg-language="Bengali" group-title="Infotainment", Discovery Bangla
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
 http://tv.cloudcdn.me:80/live.ts?channelId=90254&deviceMac=00:1A:79:F2:0F:96
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League (Fast)
-https://live05.meung.app/live/33982309.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
-http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9334/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_1.m3u8
