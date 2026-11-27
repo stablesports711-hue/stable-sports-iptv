@@ -225,6 +225,9 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.moumachi.com.bd//images/listings/45416/business/202412-gtv-logo.jpg",149.Gazi TV
 http://103.135.253.32:8080/Gazi-TV/index.m3u8
 
+#EXTINF:-1 group-title="BANGLA" tvg-id="NAGORIK HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/nago.png",199.NAGORIK HD
+https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="duronto.bd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwWX3mqbOFKb2kH1j8t-aLWjRJCTvuKH2Ie8NpbOFG3g&s=10.png" group-title="KIDS",160.Duronto Tv
 https://rangdhonulive.samiulislamabhi.workers.dev/duRANTo/tracks-v1a1/mono.ts.m3u8
 
@@ -244,21 +247,6 @@ https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 https://w03eiag4q5yh.rockstreamer.com/rockstv/rongeen_tv/chunks.m3u8|Referer=https://iscreen.com.bd/
 
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/8553wC1r/20260811-172504.png",170.Saudi Quran TV
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
-
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/rwkP3jVm/20260811-171415.png",171Saudi Sunnah TV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
-
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://saudiradio.faulio.com/storage/mediagallery/eb/42/fullhd_ef572438fffe8669b91c090d495bee55e7a4808c.png",172.Holy Quran Radio
-https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
-
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/SsJHZNLp/20260811-125845.png",173.Al- Quran Live
-https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
-
-
-#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUe2QR6r4xB5LE3fSbB6jSPb9O0bhN9YzzM29ROOBhMP8-wwfBLK-3NE8&s=10.png",174.Madani TV Bangla
-https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Q5sUvkWqFPoTRZl6pQoednylG3Pz92Tjaw&s.png",180.Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
@@ -275,8 +263,29 @@ https://sony.dongobd247.workers.dev/stream.m3u8?id=1000009247|referer=https://pl
 #EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 16) ExoPlayerLib/2.14.1
 https://sony.dongobd247.workers.dev/stream.m3u8?id=1000044878|referer=https://playyonogames.in/sliv/stream.m3u8?id=100044878
 
-#EXTINF:-1 group-title="BANGLA" tvg-id="NAGORIK HD" tvg-logo="https://fcnchbd.xyz/iptv/logo/nago.png",199.NAGORIK HD
-https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="3428" tvg-name="Discovery HD Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDBen.png" tvg-language="Bengali" group-title="Infotainment", Discovery HD Bengal
+https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/BANGLA/DiscoveryBD.m3u8
+
+#EXTINF:-1 tvg-id="573" tvg-name="Discovery Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" tvg-language="Bengali" group-title="Infotainment", Discovery Bangla
+#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
+http://tv.cloudcdn.me:80/live.ts?channelId=90254&deviceMac=00:1A:79:F2:0F:96
+
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/8553wC1r/20260811-172504.png",170.Saudi Quran TV
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/rwkP3jVm/20260811-171415.png",171Saudi Sunnah TV
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://saudiradio.faulio.com/storage/mediagallery/eb/42/fullhd_ef572438fffe8669b91c090d495bee55e7a4808c.png",172.Holy Quran Radio
+https://live.kwikmotion.com/sbrksaquranradiolive/srpksaquranradio/playlist.m3u8
+
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/SsJHZNLp/20260811-125845.png",173.Al- Quran Live
+https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUe2QR6r4xB5LE3fSbB6jSPb9O0bhN9YzzM29ROOBhMP8-wwfBLK-3NE8&s=10.png",174.Madani TV Bangla
+https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4",200.T Sports ISP
 http://172.17.50.112:84/ant1009/video.m3u8
@@ -467,18 +476,6 @@ http://live.balajibroadband.com:3500/live/587.m3u8
 http://live.balajibroadband.com:3500/live/250.m3u8
 #http://103.180.212.191:3500/live/250.m3u8 
 
-#EXTINF:-1 tvg-id="3428" tvg-name="Discovery HD Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/DiscoveryHDBen.png" tvg-language="Bengali" group-title="Infotainment", Discovery HD Bengal
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/BANGLA/DiscoveryBD.m3u8
-
-#EXTINF:-1 tvg-id="573" tvg-name="Discovery Bengali" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" tvg-language="Bengali" group-title="Infotainment", Discovery Bangla
-#EXTVLCOPT:http-user-agent=oxoo/1.3.9.d (Linux;Android 7.1.2) ExoPlayerLib/2.14.1
-http://tv.cloudcdn.me:80/live.ts?channelId=90254&deviceMac=00:1A:79:F2:0F:96
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2022/08/logo-liga-inggris.jpg?quality=60" group-title="LIVE SPORTS",English Premier League
-https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-StarSS_2.m3u8
 
 #EXTINF:-1 tvg-id="STABLE-SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_OahSFGXf5G7iN2KaGuhe3j_8GerDS1MqEjCwiMi8bA&s=10.png" group-title="FM",বাংলাদেশ বেতার (100.0FM)
 https://as1.digitalsynapsebd.com/proxy/bbdkka/stream
