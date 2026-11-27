@@ -1,7 +1,12 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="tapmad-19977" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17955983151020x576.jpg" group-title="Football", Brest vs Paris FC - MATCHDAY 12 - French Ligue 1 2026/27
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+#EXTINF:-1 tvg-id="B0HMC669H2" tvg-name="India tour of New Zealand 2026 - 2nd Test - New Zealand vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.19313f89-c5fa-4a9c-9365-3678c06bba58/9/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",India tour of New Zealand 2026 - 2nd Test - New Zealand vs India
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3a03ae3c3066640296a041f319d528b8:b757a6777c811bd3744a7cb4a722116b
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/utkibvcc9z/out/v1/31b17c839ec64da6a802d79ec5dd4f77/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-19066" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17948150491020x576.jpg" group-title="Cricket", New Zealand vs India - 2nd Test - India Tour of New Zealand 2026
+https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20250" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956803811020x576.jpg" group-title="Football", Levante vs Racing Santander - MATCHDAY 14 - LaLiga 2026/27
 https://tencent-cdn.tapmad.com/v1/01a145d823d515fc600b1e3e9683de/01a145dc15751ea540a81c2b41b754/main.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
