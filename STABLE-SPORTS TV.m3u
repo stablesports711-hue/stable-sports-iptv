@@ -10,7 +10,7 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bkbqed1bj/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76c58ac4712177bfd921342e3ff02a5e:343e96a54fc9a8649ab4448993ebad54
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/x0hng8nfkx/out/v1/de020c70a9fe4bf89b3151f962dd087e/cenc.mpd
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0hng8nfkx/out/v1/de020c70a9fe4bf89b3151f962dd087e/cenc.mpd
 #EXTINF:-1 tvg-id="tapmad-20264" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956776051020x576.jpg" group-title="Football", Al-Ittihad vs Neom - MATCHDAY 13 - Saudi Pro League 2026/27 - Server 1
 https://tencent-cdn.tapmad.com/v1/01a14ab8af8915fc600b1e3e9683f0/01a14ab953dd1ea540a81c2b41b75f/main.m3u8
 #EXTINF:-1 tvg-id="tapmad-20264" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956776051020x576.jpg" group-title="Football", Al-Ittihad vs Neom - MATCHDAY 13 - Saudi Pro League 2026/27 - Server 2
