@@ -1,18 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="B0HLWGFBXD" tvg-name="Womens Big Bash League 2026 - 38th Match - Sydney Thunder Women vs Sydney Sixers Women" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7b6a596e-9394-466d-a5c3-4593b3c77600/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",Womens Big Bash League 2026 - 38th Match - Sydney Thunder Women vs Sydney Sixers Women
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9184bb9fed0727a24a8954562d7eb6:54182ee50af7097cf46a8fa7c3cb7626
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vmx0zl2u76/out/v1/36c58b0cecc44790ac48987a20387786/cenc.mpd
 #EXTINF:-1 tvg-id="B0HNTGNHPD" tvg-name="International League T20 2026 - 9th Match - Desert Vipers vs Mi Emirates" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5e704ed4-69c3-4acc-9099-df9d999ae4c7/2/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Cricket",International League T20 2026 - 9th Match - Desert Vipers vs Mi Emirates
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=93eeb44d1f28ed952f0122a4c9e213af:ad2fd224bbd23bb898ec346ebf1bd59f
-https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd
-#EXTINF:-1 tvg-id="tapmad-19215" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17954155681020x576.jpg" group-title="Cricket", Sydney Thunder vs Sydney Sixers - Group Stage - Women's Big Bash League 2026
-https://tencent-cdn.tapmad.com/v1/01a14abbcff31ea540a81c2b41b760/01a14abc06421567ee931e109fa577/main.m3u8
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/72h1hddob2/out/v1/2f42cd5273e24fe2951db3b1d0dc6679/cenc.mpd
+#EXTINF:-1 tvg-id="tapmad-20265" tvg-logo="https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17956776771020x576.jpg" group-title="Football", Al-Hazem vs Al-Nassr - MATCHDAY 13 - Saudi Pro League 2026/27
+https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/mfqumnIR7dHSMQ27pOm2TWxqhTucesiOuBMbkZK4a_jA7YoYLowauOIvqi0tgn4Xlh9UpW5Bew=s900-c-k-c0x00ffffff-no-rj" group-title="LIVE SPORTS",INTERNATIONAL LEAGUE T20
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
